@@ -1,4 +1,6 @@
-# hitechcrime
+![](assets/hitechcrime.png)
+
+# HITECH CRIME
 Project Overview
 
 
