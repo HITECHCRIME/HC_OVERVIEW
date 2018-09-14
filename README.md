@@ -2,9 +2,9 @@
 
 # HITECH CRIME / AUDIOVISUALS OF THE FUTURA
 
-Hitech Crime is a microlabel acting as a unified hub for audiovisual projects. 
+Hitech Crime is a sound and visual design microlabel acting as a unified hub for creative projects. 
 
-It explores and expresses topics ranging from transhumanism, human edge, niche cyberpunk to predictive societal changes of the future in relation to the advancement of technology. Its creative aim is to research, develop and execute ideas in form of new wave interactive performances and creation of futuristic visual communication.
+It explores and expresses topics ranging from *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. Its creative aim is to research, develop and execute ideas in form of new wave interactive performances and creation of futuristic visual communication.
 
 **Releases:**
 
