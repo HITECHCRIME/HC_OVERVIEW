@@ -1,6 +1,6 @@
 ![](assets/hitechcrime.png)
 
-# HITECH CRIME / AUDIOVISUAL MICROLABEL OF THE FUTURA
+# HITECH CRIME / AUDIOVISUALS OF THE FUTURA
 
 Hitech Crime is a microlabel acting as a unified hub for audiovisual projects. 
 
