@@ -9,8 +9,50 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 **STRAINS**
 
 MOTHNODE_ Heavy trap music.
+
+- SINGLES
+
++ HC_SG01_digital_life_heist
++ HC_SG02_neon_proxy
++ HC_SG03_sekta_skrilla
++ HC_SG04_flota_dronow
+
 - HC01_ MOTHNODE_ Digital Brutalism
+
++ Digital Life Heist
++ Neon Proxy
++ Sekta Skrilla
++ Flota Dronow
++ Las
++ Versus
++ Ryzom
++ Paradygmat
++ Ja Nie Mogę Tak Zyc
++ Głebia
++ Uprising
+
 - HC02_ MOTHNODE_ Lost Net
+
++ Ignorant
++ No Help
++ Raj
++ Hybrid
++ Shutdown
++ Crave
++ Rage
++ Lord of Flies
++ Profiles of Negation
++ Mindchip
++ World of Blight
+
++ Zerwikaptur
++ Prety
++ Klatka
++ Wszystko w Pyl
++ Autumn
++ Spojrzenie
++ Jungsta
+
 
 BLACKLANE_ Electronic soundscapes.
 
