@@ -6,8 +6,7 @@
 
 Hitech Crime is a design microlabel acting as a unified hub for creative and experimental audio projects. It explores and expresses topics ranging from *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. Its creative aim is to research, develop and execute ideas in form of new wave interactive performances and creation of futuristic audio and related visual communication.
 
-**STRAINS**
-
+# STRAINS
 MOTHNODE_ Heavy trap music.
 
 - SINGLES
@@ -17,7 +16,7 @@ MOTHNODE_ Heavy trap music.
 + HC_SG03_sekta_skrilla
 + HC_SG04_flota_dronow
 
-- HC01_ MOTHNODE_ Digital Brutalism
+## HC01_ MOTHNODE_ Digital Brutalism
 
 + Digital Life Heist
 + Neon Proxy
@@ -31,7 +30,7 @@ MOTHNODE_ Heavy trap music.
 + Głebia
 + Uprising
 
-- HC02_ MOTHNODE_ Lost Net
+## HC02_ MOTHNODE_ Lost Net
 
 + Ignorant
 + No Help
