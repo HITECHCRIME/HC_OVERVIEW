@@ -52,7 +52,7 @@ MOTHNODE_ Heavy trap music.
 + Spojrzenie
 + Jungsta
 
-## Not Assigned
+## Not Assigned (English)
 
 + Upgraded
 + Crave
