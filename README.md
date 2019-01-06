@@ -55,11 +55,11 @@ MOTHNODE_ Heavy trap music.
 ## Not Assigned
 
 + Upgraded
-+ Stalker
-+ Upclick
-+ Raj
-+ Ignorant
 + Crave
++ Ignorant
++ Upclick
++ Stalker
++ Raj
 
 
 
