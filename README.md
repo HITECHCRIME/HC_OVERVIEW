@@ -10,6 +10,14 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 
 ## INJECTIONS
 
+### HC01_ MOTHNODE_ Digital Brutalism (Polish)
+
+Aggrotrap.
+
+### HC02_ MOTHNODE_ Lost Net (English)
+
+Darker, micro darkness type.
+
 ### MOTHNODE_ Heavy trap music.
 
 All songs:
@@ -58,16 +66,6 @@ All songs:
 + HC_SG36_Wreech
 + HC_SG37_Closer_Than_Distant_To_Myself
 + HC_SG39_Triple_X
-
-### HC01_ MOTHNODE_ Digital Brutalism (Polish)
-
-Aggrotrap.
-
-### HC02_ MOTHNODE_ Lost Net (English)
-
-Darker, micro darkness type.
-
-### Not Assigned (English)
 
 ## BLACKLANE_ Electronic soundscapes.
 
