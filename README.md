@@ -8,30 +8,60 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 
 # STRAINS
 
-## MOTHNODE_ Heavy trap music.
+## INJECTIONS
 
-- SINGLES
+### MOTHNODE_ Heavy trap music.
 
-+ HC_SG01_digital_life_heist
-+ HC_SG02_neon_proxy
-+ HC_SG03_sekta_skrilla
-+ HC_SG04_flota_dronow
+All songs:
+
+**Polish** (20 songs)
+
+HC_SG01_Digital_Life_Heist
+HC_SG02_Neon_Proxy
+HC_SG03_Sekta_Skrilla
+HC_SG04_Flota_Dronow
+HC_SG05_Las
+HC_SG08_Uprising (change to Powstanie)
+HC_SG10_Glebia
+HC_SG11_Ja_Nie_Moge_Tak_Zyc
+HC_SG12_Jungsta
+HC_SG14_Dla_Mnie_I_Dla_Wszystkich
+HC_SG15_Zgliszcza_Nici
+HC_SG17_Paradygmat
+HC_SG18_Spojrzenie
+HC_SG21_Klatka
+HC_SG22_Wszystko_W_Pyl
+HC_SG23_Prety
+HC_SG24_Zerwikaptur
+HC_SG25_Versus
+HC_SG27_Ryzom
+HC_SG29_mlodszy_joe_x_mothnode (?)
+
+**English** (19 songs)
+
+HC_SG06_World_Of_Blight
+HC_SG07_Mindchip
+HC_SG13_Profiles_Of_Negation
+HC_SG16_Rage
+HC_SG19_Lord_Of_Flies
+HC_SG20_Autumn
+HC_SG26_Crave
+HC_SG28_Shutdown
+HC_SG09_Ignorant
+HC_SG30_Raj (rename)
+HC_SG34_Upgraded
+HC_SG32_Going_Wrong
+HC_SG35_Upclick
+HC_SG33_Stalker
+HC_SG38_Odds_Stacker
+HC_SG31_No_Help
+HC_SG36_Wreech
+HC_S37_Closer_Than_Distant_To_Myself
+HC_S39_Triple_X
 
 ### HC01_ MOTHNODE_ Digital Brutalism (Polish)
 
-+ Digital Life Heist
-+ Neon Proxy
-+ Sekta Skrilla
-+ Flota Dronow
-+ Las
-+ Versus
-+ Ryzom
-+ Paradygmat
-+ Ja Nie Mogę Tak Zyc
-+ Głebia
-+ Uprising
-
-### HC02_ MOTHNODE_ Lost Net
+### HC02_ MOTHNODE_ Lost Net (English)
 
 + Ignorant
 + No Help
