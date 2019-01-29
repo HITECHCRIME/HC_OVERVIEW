@@ -37,7 +37,7 @@ All songs:
 + HC_SG27_Ryzom
 + HC_SG29_mlodszy_joe_x_mothnode (?)
 
-**English** (19 songs)
+**English** (20 songs)
 
 + HC_SG06_World_Of_Blight
 + HC_SG07_Mindchip
