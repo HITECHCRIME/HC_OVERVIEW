@@ -30,18 +30,19 @@ All songs:
 + HC_SG04_Flota_Dronow (Digital Brutalism)
 + HC_SG05_Las (Digital Brutalism)
 + HC_SG08_Uprising (change to Powstanie) (Digital Brutalism)
++ HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
++ HC_SG15_Zgliszcza_Nici (Digital Brutalism)
++ HC_SG25_Versus (Digital Brutalism)
+
 + HC_SG10_Glebia
 + HC_SG11_Ja_Nie_Moge_Tak_Zyc
 + HC_SG12_Jungsta
-+ HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
-+ HC_SG15_Zgliszcza_Nici (Digital Brutalism)
 + HC_SG17_Paradygmat
 + HC_SG18_Spojrzenie
 + HC_SG21_Klatka
 + HC_SG22_Wszystko_W_Pyl
 + HC_SG23_Prety
 + HC_SG24_Zerwikaptur
-+ HC_SG25_Versus (Digital Brutalism)
 + HC_SG27_Ryzom
 + HC_SG29_mlodszy_joe_x_mothnode (?)
 
