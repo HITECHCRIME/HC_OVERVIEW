@@ -17,7 +17,7 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 + HC_SG03_sekta_skrilla
 + HC_SG04_flota_dronow
 
-### HC01_ MOTHNODE_ Digital Brutalism
+### HC01_ MOTHNODE_ Digital Brutalism (Polish)
 
 + Digital Life Heist
 + Neon Proxy
@@ -60,7 +60,8 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 + Ignorant
 + Upclick
 + Stalker
-+ Raj
++ Odds Stacker
++ Closer Than Distant to Myself
 
 ## BLACKLANE_ Electronic soundscapes.
 
