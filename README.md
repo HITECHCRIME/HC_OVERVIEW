@@ -56,42 +56,14 @@ All songs:
 + HC_SG38_Odds_Stacker
 + HC_SG31_No_Help
 + HC_SG36_Wreech
-+ HC_S37_Closer_Than_Distant_To_Myself
-+ HC_S39_Triple_X
++ HC_SG37_Closer_Than_Distant_To_Myself
++ HC_SG39_Triple_X
 
 ### HC01_ MOTHNODE_ Digital Brutalism (Polish)
 
 ### HC02_ MOTHNODE_ Lost Net (English)
 
-+ Ignorant
-+ No Help
-+ Raj
-+ Hybrid
-+ Shutdown
-+ Crave
-+ Rage
-+ Lord of Flies
-+ Profiles of Negation
-+ Mindchip
-+ World of Blight
-
-+ Zerwikaptur
-+ Prety
-+ Klatka
-+ Wszystko w Pyl
-+ Autumn
-+ Spojrzenie
-+ Jungsta
-
 ### Not Assigned (English)
-
-+ Upgraded
-+ Crave
-+ Ignorant
-+ Upclick
-+ Stalker
-+ Odds Stacker
-+ Closer Than Distant to Myself
 
 ## BLACKLANE_ Electronic soundscapes.
 
