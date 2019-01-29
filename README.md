@@ -61,7 +61,11 @@ All songs:
 
 ### HC01_ MOTHNODE_ Digital Brutalism (Polish)
 
+Aggrotrap.
+
 ### HC02_ MOTHNODE_ Lost Net (English)
+
+Darker, micro darkness type.
 
 ### Not Assigned (English)
 
