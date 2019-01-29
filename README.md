@@ -12,7 +12,7 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 
 ### HC01_ MOTHNODE_ Digital Brutalism (Polish)
 
-Aggrotrap.
+Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
 ### HC02_ MOTHNODE_ Lost Net (English)
 
