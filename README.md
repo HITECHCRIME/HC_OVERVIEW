@@ -20,6 +20,10 @@ Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
 Darker, micro darkness type.
 
+### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
+
+### HC04_ MOTHNODE_ In It Together (Dual Album)
+
 ### MOTHNODE_ Heavy trap music.
 
 All songs:
