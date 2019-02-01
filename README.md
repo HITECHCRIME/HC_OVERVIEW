@@ -14,11 +14,40 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 
 ![](assets/dlh_single_cover.png)
 
+**Tracklisting**
+
++ HC_SG01_Digital_Life_Heist (Digital Brutalism)
++ HC_SG02_Neon_Proxy (Digital Brutalism)
++ HC_SG03_Sekta_Skrilla (Digital Brutalism)
++ HC_SG04_Flota_Dronow (Digital Brutalism)
++ HC_SG05_Las (Digital Brutalism)
++ HC_SG08_Uprising (change to Powstanie) (Digital Brutalism)
++ HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
++ HC_SG15_Zgliszcza_Nici (Digital Brutalism)
++ HC_SG25_Versus (Digital Brutalism)
+
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
 ### HC02_ MOTHNODE_ Lost Net (English)
 
 Darker, micro darkness type.
+
+**Tracklisting**
+
++ HC_SG06_World_Of_Blight (Lost Net)
++ HC_SG09_Ignorant (Lost Net)
++ HC_SG30_Raj (rename) (Lost Net)
++ HC_SG34_Upgraded (Lost Net)
++ HC_SG32_Going_Wrong (Lost Net)
++ HC_SG35_Upclick (Lost Net)
++ HC_SG33_Stalker (Lost Net)
++ HC_SG38_Odds_Stacker (Lost Net)
++ HC_SG31_No_Help (Lost Net)
++ HC_SG36_Wreech (Lost Net)
++ HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
++ HC_SG39_Triple_X (Lost Net)
++ HC_SG26_Crave (Lost Net)
++ HC_SG28_Shutdown (Lost Net)
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
 
@@ -39,7 +68,6 @@ All songs:
 + HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
 + HC_SG15_Zgliszcza_Nici (Digital Brutalism)
 + HC_SG25_Versus (Digital Brutalism)
-
 + HC_SG10_Glebia
 + HC_SG11_Ja_Nie_Moge_Tak_Zyc
 + HC_SG12_Jungsta
@@ -54,33 +82,31 @@ All songs:
 
 **English** (20 songs)
 
-+ HC_SG06_World_Of_Blight
++ HC_SG06_World_Of_Blight (Lost Net)
++ HC_SG09_Ignorant (Lost Net)
++ HC_SG30_Raj (rename) (Lost Net)
++ HC_SG34_Upgraded (Lost Net)
++ HC_SG32_Going_Wrong (Lost Net)
++ HC_SG35_Upclick (Lost Net)
++ HC_SG33_Stalker (Lost Net)
++ HC_SG38_Odds_Stacker (Lost Net)
++ HC_SG31_No_Help (Lost Net)
++ HC_SG36_Wreech (Lost Net)
++ HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
++ HC_SG39_Triple_X (Lost Net)
++ HC_SG26_Crave (Lost Net)
++ HC_SG28_Shutdown (Lost Net)
 + HC_SG07_Mindchip
 + HC_SG13_Profiles_Of_Negation
 + HC_SG16_Rage
 + HC_SG19_Lord_Of_Flies
 + HC_SG20_Autumn
-+ HC_SG26_Crave
-+ HC_SG28_Shutdown
-+ HC_SG09_Ignorant
-+ HC_SG30_Raj (rename)
-+ HC_SG34_Upgraded
-+ HC_SG32_Going_Wrong
-+ HC_SG35_Upclick
-+ HC_SG33_Stalker
-+ HC_SG38_Odds_Stacker
-+ HC_SG31_No_Help
-+ HC_SG36_Wreech
-+ HC_SG37_Closer_Than_Distant_To_Myself
-+ HC_SG39_Triple_X
 
 ## BLACKLANE_ Electronic soundscapes.
 
 ## Lekki Okultyzm - more lyrical Polish rap.
 
 **Releases:**
-
-
 
 # **TAGS**
 brutalist, digitalarcana, real vs surreal, trap music, cyberpunk, humanedge, techwear, glitch, red, technoir, cyber, trapcore, trap, deathcore, rap, aggro, real, unreal, reality, digital, brutalism, ominous, futuristic, glitchy, noisy, screamrap
