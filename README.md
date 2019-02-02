@@ -68,6 +68,7 @@ All songs:
 + HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
 + HC_SG15_Zgliszcza_Nici (Digital Brutalism)
 + HC_SG25_Versus (Digital Brutalism)
+
 + HC_SG10_Glebia
 + HC_SG11_Ja_Nie_Moge_Tak_Zyc
 + HC_SG12_Jungsta
@@ -96,6 +97,7 @@ All songs:
 + HC_SG39_Triple_X (Lost Net)
 + HC_SG26_Crave (Lost Net)
 + HC_SG28_Shutdown (Lost Net)
+
 + HC_SG07_Mindchip
 + HC_SG13_Profiles_Of_Negation
 + HC_SG16_Rage
