@@ -117,8 +117,11 @@ All songs:
 + HC_SG58_Unnamed
 + HC_SG59_Unnamed (prod. Monki) - Monki will make a beat. Chant, ritual.
 + HC_SG60_Keflar
-+
-
++ HC_SG61_Icelandic_Beat (friend from Iceland will make a beat)
++ HC_SG62_BATTOU_MOTH_Rakanichu
++ HC_SG63_BATTOU_MOTH_Bombero_Gang
++ HC_SG64_BATTOU_MOTH_Maniacos_3_La_Sena
++ HC_SG65_DOPEYO_MOTH_X
 
 ## BLACKLANE_ Electronic soundscapes.
 
