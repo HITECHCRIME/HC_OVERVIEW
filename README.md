@@ -10,7 +10,7 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 
 ## INJECTIONS
 
-### HC01_ MOTHNODE_ Digital Brutalism (Polish)
+### HC01_ MOTHNODE_ Digital Brutalism (Polish) - Brutalizm Elektroniczny
 
 ![](assets/dlh_single_cover.png)
 
@@ -57,21 +57,21 @@ Darker, micro darkness type.
 
 All songs:
 
-+ HC_SG01_Digital_Life_Heist (Digital Brutalism) [PL]
-+ HC_SG02_Neon_Proxy (Digital Brutalism) [PL]
-+ HC_SG03_Sekta_Skrilla (Digital Brutalism) [PL]
++ HC_SG01_Digital_Life_Heist (Digital Brutalism) [PL]  [DIGITAL BRUTALISM]
++ HC_SG02_Neon_Proxy (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
++ HC_SG03_Sekta_Skrilla (Digital Brutalism) [PL] 
 + HC_SG04_Flota_Dronow (Digital Brutalism) [PL]
 + HC_SG05_Las (Digital Brutalism) [PL]
 + HC_SG06_World_Of_Blight (Lost Net)
 + HC_SG07_Mindchip
-+ HC_SG08_Uprising (change to Powstanie) (Digital Brutalism) [PL]
++ HC_SG08_Uprising (change to Powstanie) (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG09_Ignorant (Lost Net)
-+ HC_SG10_Glebia [PL]
-+ HC_SG11_Ja_Nie_Moge_Tak_Zyc [PL]
-+ HC_SG12_Jungsta [PL]
++ HC_SG10_Glebia [PL] [DIGITAL BRUTALISM]
++ HC_SG11_Ja_Nie_Moge_Tak_Zyc [PL] [DIGITAL BRUTALISM]
++ HC_SG12_Jungsta [PL] [DIGITAL BRUTALISM]
 + HC_SG13_Profiles_Of_Negation
 + HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism) [PL]
-+ HC_SG15_Zgliszcza_Nici (Digital Brutalism) [PL]
++ HC_SG15_Zgliszcza_Nici (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG16_Rage
 + HC_SG17_Paradygmat [PL]
 + HC_SG18_Spojrzenie [PL]
