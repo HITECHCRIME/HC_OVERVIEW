@@ -24,6 +24,7 @@ Hitech Crime is a design microlabel acting as a unified hub for creative and exp
 + HC_SG08_Uprising (change to Powstanie) (Digital Brutalism)
 + HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
 + HC_SG15_Zgliszcza_Nici (Digital Brutalism)
+
 + HC_SG25_Versus (Digital Brutalism)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
