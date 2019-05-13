@@ -68,6 +68,8 @@ All songs:
 + MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Facebook Post
 + MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Facebook Music Highlight Video
 
+---
+
 + HC_SG02_Neon_Proxy (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + MOTHNODE_ Neon Proxy (Prod. X) Soundcloud
 + MOTHNODE_ Neon Proxy (Prod. X) Spotify
@@ -78,7 +80,11 @@ All songs:
 + MOTHNODE_ Neon Proxy (Prod. X) Facebook Post
 + MOTHNODE_ Neon Proxy (Prod. X) Facebook Music Highlight Video
 
+---
+
 + HC_SG03_Sekta_Skrilla (Digital Brutalism) [PL] 
+
+---
 
 + HC_SG04_Flota_Dronow (Digital Brutalism) [PL]
 + MOTHNODE_ Flota Dronów (Prod. X) Soundcloud
@@ -89,6 +95,8 @@ All songs:
 + MOTHNODE_ Flota Dronów (Prod. X) Instagram Music Video Highlight
 + MOTHNODE_ Flota Dronów (Prod. X) Facebook Post
 + MOTHNODE_ Flota Dronów (Prod. X) Facebook Music Highlight Video
+
+---
 
 + HC_SG05_Las (Digital Brutalism) [PL]
 + HC_SG06_World_Of_Blight (Lost Net)
