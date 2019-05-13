@@ -59,9 +59,37 @@ Darker, micro darkness type.
 All songs:
 
 + HC_SG01_Digital_Life_Heist (Digital Brutalism) [PL]  [DIGITAL BRUTALISM]
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Soundcloud
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Spotify
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Music Video - YouTube
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Instagram Video Highlight Multipost (Row)
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Instagram Music Video Link
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Instagram Music Video Highlight
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Facebook Post
++ MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Facebook Music Highlight Video
+
 + HC_SG02_Neon_Proxy (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
++ MOTHNODE_ Neon Proxy (Prod. X) Soundcloud
++ MOTHNODE_ Neon Proxy (Prod. X) Spotify
++ MOTHNODE_ Neon Proxy (Prod. X) Music Video - YouTube
++ MOTHNODE_ Neon Proxy (Prod. X) Instagram Video Highlight Multipost (Row)
++ MOTHNODE_ Neon Proxy (Prod. X) Instagram Music Video Link
++ MOTHNODE_ Neon Proxy (Prod. X) Instagram Music Video Highlight
++ MOTHNODE_ Neon Proxy (Prod. X) Facebook Post
++ MOTHNODE_ Neon Proxy (Prod. X) Facebook Music Highlight Video
+
 + HC_SG03_Sekta_Skrilla (Digital Brutalism) [PL] 
+
 + HC_SG04_Flota_Dronow (Digital Brutalism) [PL]
++ MOTHNODE_ Flota Dronów (Prod. X) Soundcloud
++ MOTHNODE_ Flota Dronów (Prod. X) Spotify
++ MOTHNODE_ Flota Dronów (Prod. X) Music Video - YouTube
++ MOTHNODE_ Flota Dronów (Prod. X) Instagram Video Highlight Multipost (Row)
++ MOTHNODE_ Flota Dronów (Prod. X) Instagram Music Video Link
++ MOTHNODE_ Flota Dronów (Prod. X) Instagram Music Video Highlight
++ MOTHNODE_ Flota Dronów (Prod. X) Facebook Post
++ MOTHNODE_ Flota Dronów (Prod. X) Facebook Music Highlight Video
+
 + HC_SG05_Las (Digital Brutalism) [PL]
 + HC_SG06_World_Of_Blight (Lost Net)
 + HC_SG07_Mindchip
