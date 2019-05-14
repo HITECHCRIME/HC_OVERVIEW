@@ -10,22 +10,22 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ## INJECTIONS
 
-### HC01_ MOTHNODE_ Digital Brutalism (Polish) - Brutalizm Elektroniczny
+### HC01_ MOTHNODE_ Brutalizm Elektroniczny
 
 ![](assets/dlh_single_cover.png)
 
 **Tracklisting**
 
-+ HC_SG01_Digital_Life_Heist (Digital Brutalism)
-+ HC_SG02_Neon_Proxy (Digital Brutalism)
-+ HC_SG03_Sekta_Skrilla (Digital Brutalism)
-+ HC_SG04_Flota_Dronow (Digital Brutalism)
-+ HC_SG05_Las (Digital Brutalism)
-+ HC_SG08_Uprising (change to Powstanie) (Digital Brutalism)
-+ HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism)
-+ HC_SG15_Zgliszcza_Nici (Digital Brutalism)
-
-+ HC_SG25_Versus (Digital Brutalism)
++ MOTHNODE_ Digital Life Heist (prod. HRTLZ)
++ MOTHNODE_ Neonowe Proxy
++ MOTHNODE_ Keflar
++ MOTHNODE_ Zgliszcza Nici
++ MOTHNODE_ Flota Dronów
++ MOTHNODE_ Las
++ MOTHNODE_ Sekta Skrilla
++ MOTHNODE_ Powstanie
++ MOTHNODE_ Dla Mnie I Wszystkich
++ MOTHNODE_ Versus
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
