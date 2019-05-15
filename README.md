@@ -41,14 +41,13 @@ Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
 Darker, micro darkness type.
 + HC_SG35_Upclick (Lost Net)
++ HC_SG33_Stalker (Lost Net)
 + HC_SG67_Why
 + HC_SG06_World_Of_Blight (Lost Net)
-+ HC_SG33_Stalker (Lost Net)
-+ HC_SG
-
 + HC_SG53_The_Fourth_Industrial_Revolution
 
-+ 
+
+
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
@@ -65,16 +64,16 @@ Darker, micro darkness type.
 + HC_SG32_Going_Wrong
 + HC_SG51_Colorized_World
 
-### HC05_ MOTHNODE_ Breach Injection Program
+### HC05_ MOTHNODE_ breachInjectProgram EP
 
 **Tracklisting**
 
 Scream rap album.
-+ HC_SG30_Ray
-+ HC_SG09_Ignorant
-+ HC_SG48_Trust_In_Anima
-+ HC_SG37_Closer_Than_Distant_To_Myself
-
++ MOTHNODE_ ELECTR1C VE1NS
++ MOTHNODE_ rvy
++ MOTHNODE_ 1gn0rvnt
++ MOTHNODE_ trust 1n vn1mv
++ MOTHNODE_ cl0ser thvn d1stvnt t0 myself
 
 ### MOTHNODE_ Heavy trap music.
 
