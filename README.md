@@ -27,10 +27,10 @@ Contains an arc narrative.
 
 **Tracklisting**
 
-+ MOTHNODE_ Zgliszcza Nici (nope)                                  // lonely hacker
-+ MOTHNODE_ Versus (nope)                                          // relationship anger, unjust treatment
-+ MOTHNODE_ Flota Dronów (nope)                                    // drone workes, family mode of operation
-+ MOTHNODE_ Keflar (nope)                                          // e bo jest taka dziewczyna...
++ MOTHNODE_ Zgliszcza Nici                                 // lonely hacker
++ MOTHNODE_ Versus                                         // relationship anger, unjust treatment
++ MOTHNODE_ Flota Dronów                                   // drone workes, family mode of operation
++ MOTHNODE_ Keflar                                         // e bo jest taka dziewczyna...
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
@@ -40,10 +40,11 @@ Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 **Tracklisting**
 
 Darker, micro darkness type.
-+ HC_SG35_Upclick (Lost Net)
-+ HC_SG33_Stalker (Lost Net)
++ HC_SG35_Upclick
++ HC_SG33_Stalker
 + HC_SG67_Why
-+ HC_SG06_World_Of_Blight (Lost Net)
++ HC_SG06_World_Of_Blight
++ HC_SG19_Lord_Of_Flies
 + HC_SG53_The_Fourth_Industrial_Revolution
 
 
