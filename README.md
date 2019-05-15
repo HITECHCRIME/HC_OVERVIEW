@@ -10,44 +10,51 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ## INJECTIONS
 
-### HC01_ MOTHNODE_ Brutalizm Elektroniczny
+### HC01_ MOTHNODE_ Brutalizm Elektroniczny VOL01 EP
 
 ![](assets/dlh_single_cover.png)
 
 **Tracklisting**
 
-+ MOTHNODE_ Digital Life Heist (prod. HRTLZ)
-+ MOTHNODE_ Neonowe Proxy
-+ MOTHNODE_ Keflar
-+ MOTHNODE_ Zgliszcza Nici
-+ MOTHNODE_ Flota Dronów
-+ MOTHNODE_ Las
-+ MOTHNODE_ Sekta Skrilla
-+ MOTHNODE_ Powstanie
-+ MOTHNODE_ Dla Mnie I Wszystkich
-+ MOTHNODE_ Versus
+Contains an arc narrative.
++ MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up
++ MOTHNODE_ Sekta Skrilla - low
++ MOTHNODE_ Neonowe Proxy (prod. X) - medium
++ MOTHNODE_ Powstanie (prod. Monki) - peak
++ MOTHNODE_ Las (prod. Monki) - last release
+
+### HC02_ MOTHNODE_ Brutalizm Elektroniczny VOL02 EP
+
+**Tracklisting**
+
++ MOTHNODE_ Zgliszcza Nici (nope)
++ MOTHNODE_ Versus (nope)
++ MOTHNODE_ Flota Dronów (nope)
++ MOTHNODE_ Keflar (nope)
++ MOTHNODE_ Dla Mnie I Wszystkich (nope)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 
-### HC02_ MOTHNODE_ Lost Net (English)
+### HC03_ MOTHNODE_ Lost Net (English)
 
 Darker, micro darkness type.
 
 **Tracklisting**
 
-+ HC_SG06_World_Of_Blight (Lost Net)
++ HC_SG35_Upclick (Lost Net)
 + HC_SG09_Ignorant (Lost Net)
++ HC_SG32_Going_Wrong (Lost Net)
++ HC_SG33_Stalker (Lost Net)
++ HC_SG26_Crave (Lost Net)
++ HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
+
++ HC_SG06_World_Of_Blight (Lost Net)
 + HC_SG30_Raj (rename) (Lost Net)
 + HC_SG34_Upgraded (Lost Net)
-+ HC_SG32_Going_Wrong (Lost Net)
-+ HC_SG35_Upclick (Lost Net)
-+ HC_SG33_Stalker (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
 + HC_SG36_Wreech (Lost Net)
-+ HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
 + HC_SG39_Triple_X (Lost Net)
-+ HC_SG26_Crave (Lost Net)
 + HC_SG28_Shutdown (Lost Net)
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
