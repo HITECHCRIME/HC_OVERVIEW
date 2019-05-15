@@ -58,15 +58,18 @@ Darker, micro darkness type.
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
 
++ + HC_SG51_Colorized_World
+
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 
-### HC05_ MOTHNODE_ Program Breach Injection
+### HC05_ MOTHNODE_ Breach Injection Program
 
 **Tracklisting**
 
 Scream rap album.
 + HC_SG30_Ray
 + HC_SG09_Ignorant
++ HC_SG48_Trust_In_Anima
 + HC_SG37_Closer_Than_Distant_To_Myself
 
 ### MOTHNODE_ Heavy trap music.
