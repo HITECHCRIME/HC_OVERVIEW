@@ -42,14 +42,13 @@ Darker, micro darkness type.
 **Tracklisting**
 
 + HC_SG35_Upclick (Lost Net)
-+ HC_SG09_Ignorant (Lost Net)
 + HC_SG32_Going_Wrong (Lost Net)
 + HC_SG33_Stalker (Lost Net)
 + HC_SG26_Crave (Lost Net)
 + HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
 
 + HC_SG06_World_Of_Blight (Lost Net)
-+ HC_SG30_Raj (rename) (Lost Net)
+
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
@@ -60,6 +59,15 @@ Darker, micro darkness type.
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
+
+### HC05_ MOTHNODE_ Program Breach Injection
+
+**Tracklisting**
+
+Scream rap album.
++ HC_SG30_Ray
++ HC_SG09_Ignorant
++ HC_SG37_Closer_Than_Distant_To_Myself
 
 ### MOTHNODE_ Heavy trap music.
 
