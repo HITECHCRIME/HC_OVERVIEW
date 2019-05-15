@@ -17,20 +17,20 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 **Tracklisting**
 
 Contains an arc narrative.
-+ MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up
-+ MOTHNODE_ Sekta Skrilla - low
-+ MOTHNODE_ Neonowe Proxy (prod. X) - medium
-+ MOTHNODE_ Powstanie (prod. Monki) - peak
-+ MOTHNODE_ Las (prod. Monki) - last release
++ MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up // digital life bank heist
++ MOTHNODE_ Sekta Skrilla - low                                    // hauling the loot
++ MOTHNODE_ Neonowe Proxy (prod. X) - medium                       // rival ambush
++ MOTHNODE_ Powstanie (prod. Monki) - peak                         // successful fight
++ MOTHNODE_ Las (prod. Monki) - last release                       // reflection, existential scream
 
 ### HC02_ MOTHNODE_ Brutalizm Elektroniczny VOL02 EP
 
 **Tracklisting**
 
-+ MOTHNODE_ Zgliszcza Nici (nope)
-+ MOTHNODE_ Versus (nope)
-+ MOTHNODE_ Flota Dronów (nope)
-+ MOTHNODE_ Keflar (nope)
++ MOTHNODE_ Zgliszcza Nici (nope)                                  // lonely hacker
++ MOTHNODE_ Versus (nope)                                          // relationship anger, unjust treatment
++ MOTHNODE_ Flota Dronów (nope)                                    // drone workes, family mode of operation
++ MOTHNODE_ Keflar (nope)                                          // e bo jest taka dziewczyna...
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
