@@ -14,16 +14,17 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ![](assets/dlh_single_cover.png)
 
-Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. Mercenaries.
+Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. Mercenaries. Contains an arc narrative.
 
 **Tracklisting**
 
-Contains an arc narrative.
++ MOTHNODE_ Przenieśmy Się W Czasie/Parę Rewolucji Później (Intro Skit) Social media,  phone sounds turn into drone bass as  we travel into the future.
 + MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up // digital life bank heist
 + MOTHNODE_ Sekta Skrilla - low                                    // hauling the loot
 + MOTHNODE_ Neonowe Proxy (prod. X) - medium                       // rival ambush
 + MOTHNODE_ Powstanie (prod. Monki) - peak                         // successful fight
 + MOTHNODE_ Las (prod. Monki) - last release                       // reflection, existential scream
++ MOTHNODE_ Outro
 
 ### HC02_ MOTHNODE_ Lekki Okultyzm EP
 
