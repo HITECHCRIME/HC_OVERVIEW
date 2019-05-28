@@ -6,9 +6,9 @@
 
 Hitech Crime is a microlabel acting as a unified hub for creative and experimental audio projects. It explores and expresses topics ranging from *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. Its creative aim is to research, develop and execute ideas in form of new wave interactive performances and creation of futuristic audio and related visual communication.
 
-# STRAINS
+# STRAINS [ARTISTS]
 
-## INJECTIONS
+## INJECTIONS [ALBUMS]
 
 ### HC01_ MOTHNODE_ Brutalizm Elektroniczny EP
 
