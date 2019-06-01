@@ -14,7 +14,8 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ![](assets/dlh_single_cover.png)
 
-Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. Mercenaries. Contains an arc narrative.
+Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
+Mercenaries. Contains an arc narrative.
 
 **Tracklisting**
 
