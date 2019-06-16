@@ -10,7 +10,7 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ## INJECTIONS [ALBUMS]
 
-### HC01_ MOTHNODE_ Brutalizm Elektroniczny EP
+### HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /  Elektrobrutalizm
 
 ![](assets/dlh_single_cover.png)
 
@@ -27,6 +27,10 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ Powstanie (prod. Monki) - peak                         // successful fight
 + MOTHNODE_ Las (prod. Monki) - last release                       // reflection, existential scream
 + MOTHNODE_ Outro
+
+### HC02_ MOTHNODE_ Ryzomat
+
+
 
 ### HC02_ MOTHNODE_ Lekki Okultyzm EP
 
