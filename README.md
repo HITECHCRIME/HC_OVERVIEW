@@ -22,15 +22,18 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ Przenieśmy Się W Czasie/Parę Rewolucji Później (Intro Skit) Social media,  phone sounds turn into drone bass as  we travel into the future.
 + MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up // digital life bank heist
 + MOTHNODE_ Sekta Skrilla - low                                    // hauling the loot
-
 + MOTHNODE_ Neonowe Proxy (prod. X) - medium                       // rival ambush
 + MOTHNODE_ Powstanie (prod. Monki) - peak                         // successful fight
 + MOTHNODE_ Las (prod. Monki) - last release                       // reflection, existential scream
 + MOTHNODE_ Outro
 
 ### HC02_ MOTHNODE_ Ryzomat
+Nature, civilization, transhumanism.
 
-
++ MOTHNODE_ Moja Siatka
++ MOTHNODE_ Ryzomat
++ MOTHNODE_ Siła Kultu
++ MOTHNODE_ Trwałość
 
 ### HC02_ MOTHNODE_ Lekki Okultyzm EP
 
