@@ -22,7 +22,7 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
 + MOTHNODE_ DIGITAL LIFE HEIST (prod. HRTLZxMonki)        // digital life bank heist - peak build up
 + MOTHNODE_ SEKTA SKRILLA                                 // hauling the loot - low
-+ MOTHNODE_ NEONONWE PROXY (prod. X)                      // rival ambush - medium
++ MOTHNODE_ NEONOWE PROXY (prod. X)                      // rival ambush - medium
 + MOTHNODE_ POWSTANIE (prod. Monki)                       // successful fight ??? - peak 
 + MOTHNODE_ LAS (prod. Monki)                             // reflection, existential scream  - last release  
 + MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO 
