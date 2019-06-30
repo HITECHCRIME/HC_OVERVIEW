@@ -19,30 +19,30 @@ Mercenaries. Contains an arc narrative.
 
 **Tracklisting**
 
-+ MOTHNODE_ Przenieśmy Się W Czasie/Parę Rewolucji Później (Intro Skit) Social media,  phone sounds turn into drone bass as  we travel into the future.
-+ MOTHNODE_ Digital Life Heist (prod. HRTLZxMonki) - peak build up // digital life bank heist
-+ MOTHNODE_ Sekta Skrilla - low                                    // hauling the loot
-+ MOTHNODE_ Neonowe Proxy (prod. X) - medium                       // rival ambush
-+ MOTHNODE_ Powstanie (prod. Monki) - peak                         // successful fight
-+ MOTHNODE_ Las (prod. Monki) - last release                       // reflection, existential scream
-+ MOTHNODE_ Outro
++ MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
++ MOTHNODE_ DIGITAL LIFE HEIST (prod. HRTLZxMonki)        // digital life bank heist - peak build up
++ MOTHNODE_ SEKTA SKRILLA                                 // hauling the loot - low
++ MOTHNODE_ NEONONWE PROXY (prod. X)                      // rival ambush - medium
++ MOTHNODE_ POWSTANIE (prod. Monki)                       // successful fight ??? - peak 
++ MOTHNODE_ LAS (prod. Monki)                             // reflection, existential scream  - last release  
++ MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO 
 
-### HC02_ MOTHNODE_ Ryzomat
+### HC02_ MOTHNODE_ Ryzomat EP
 Nature, civilization, transhumanism.
 
-+ MOTHNODE_ Moja Siatka
-+ MOTHNODE_ Ryzomat
-+ MOTHNODE_ Siła Kultu
-+ MOTHNODE_ Trwałość
++ MOTHNODE_ SIŁA KULTU
++ MOTHNODE_ MOJA SIATKA
++ MOTHNODE_ RYZOMAT
++ MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
 ### HC02_ MOTHNODE_ Lekki Okultyzm EP
 
 **Tracklisting**
 
-+ MOTHNODE_ Zgliszcza Nici                                 // lonely hacker
++ MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
-+ MOTHNODE_ Flota Dronów                                   // drone workes, family mode of operation
-+ MOTHNODE_ Keflar                                         // e bo jest taka dziewczyna...
++ MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
++ MOTHNODE_ KEFLAR                                         // e bo jest taka dziewczyna...
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
@@ -69,6 +69,10 @@ Darker, micro darkness type.
 + HC_SG28_Shutdown (Lost Net)
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
+
+### HC0x_ MOTHNODE_ Technomancer
+
+### HC0x_ MOTHNODE_ Plains of Trisight
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 
