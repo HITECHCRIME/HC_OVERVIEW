@@ -76,6 +76,8 @@ Darker, micro darkness type.
 
 ### HC0x_ MOTHNODE_ Tourist Through Life EP
 
+### HC0x_ MOTHNODE_ Tactical EP
+
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 
 + HC_SG49_Slowclap
@@ -85,7 +87,7 @@ Darker, micro darkness type.
 
 ### HC05_ MOTHNODE_ breachInjectProgram EP
 
-### HC0x_ MOTHNODE_ Iceland Invasion
+### HC0x_ MOTHNODE_ Northern Invasion
 
 Keflar
 Sherpa
