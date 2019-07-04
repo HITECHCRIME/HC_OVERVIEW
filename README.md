@@ -98,6 +98,9 @@ Scream rap album.
 + MOTHNODE_ trust 1n vn1mv
 + MOTHNODE_ cl0ser thvn d1stvnt t0 myself
 
+
+### HC0x_ MOTHNODE_ Ksiega Szeptow
+
 ### MOTHNODE_ Heavy trap music.
 
 All songs:
