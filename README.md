@@ -78,6 +78,9 @@ Darker, micro darkness type.
 
 ### HC0x_ MOTHNODE_ Tactical EP
 
+### HC0x_ MOTHNODE_ Wakanda EP
+- Tribal african rhytm and chants that transform into deep bass and trap
+
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 
 + HC_SG49_Slowclap
