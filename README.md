@@ -70,9 +70,11 @@ Darker, micro darkness type.
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
 
-### HC0x_ MOTHNODE_ Technomancer
+### HC0x_ MOTHNODE_ Technomancer EP
 
-### HC0x_ MOTHNODE_ Plains of Trisight
+### HC0x_ MOTHNODE_ Plains of Trisight EP
+
+### HC0x_ MOTHNODE_ Tourist Through Life EP
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 
