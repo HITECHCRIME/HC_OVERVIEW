@@ -28,7 +28,7 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO 
 
 ### HC02_ MOTHNODE_ Ryzomat EP
-Nature, civilization, transhumanism.
+Nature, civilization, transhumanism, every day life.
 
 + MOTHNODE_ SIŁA KULTU
 + MOTHNODE_ MOJA SIATKA
@@ -58,8 +58,6 @@ Darker, micro darkness type.
 + HC_SG06_World_Of_Blight
 + HC_SG19_Lord_Of_Flies
 + HC_SG53_The_Fourth_Industrial_Revolution
-
-
 
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
