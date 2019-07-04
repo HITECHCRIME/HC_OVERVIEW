@@ -69,19 +69,26 @@ Darker, micro darkness type.
 + HC_SG28_Shutdown (Lost Net)
 
 ### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
+- Collaboration Album - each song is a split with someone
+- Conquer the world together theme
 
 ### HC0x_ MOTHNODE_ Technomancer EP
+- Cyberpunk Swag album
 
 ### HC0x_ MOTHNODE_ Plains of Trisight EP
+- Slow, deep, esoteric, productivity themes.
 
 ### HC0x_ MOTHNODE_ Tourist Through Life EP
+- Fleeting observer from a distance. Unseen presence.
 
 ### HC0x_ MOTHNODE_ Tactical EP
+- Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 
 ### HC0x_ MOTHNODE_ Wakanda EP
 - Tribal african rhytm and chants that transform into deep bass and trap
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
+- Album made exclusively with one other person.
 
 + HC_SG49_Slowclap
 + HC_SG26_Crave
@@ -89,8 +96,11 @@ Darker, micro darkness type.
 + HC_SG51_Colorized_World
 
 ### HC05_ MOTHNODE_ breachInjectProgram EP
+- Dark Aggro Cyberpunk Trap Metal.
 
 ### HC0x_ MOTHNODE_ Northern Invasion
+- More of a reality album. Event album. 
+- Going to Sara Mora and making a whole album with her including visuals and concepts.
 
 Keflar
 Sherpa
