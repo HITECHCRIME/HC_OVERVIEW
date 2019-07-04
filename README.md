@@ -116,6 +116,9 @@ Scream rap album.
 
 ### HC0x_ MOTHNODE_ Ksiega Szeptow
 
+### HC0x_ MOTHNODE_ Hybrids
+- album mixtape containing all of my collaborations with others
+
 ### MOTHNODE_ Heavy trap music.
 
 All songs:
