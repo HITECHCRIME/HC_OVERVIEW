@@ -85,6 +85,9 @@ Darker, micro darkness type.
 ### HC0x_ MOTHNODE_ Wakanda EP
 - Tribal african rhytm and chants that transform into deep bass and trap
 
+### HC0x_ MOTHNODE_ Wartrap EP
+- Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
+
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 - Album made exclusively with one other person.
 
