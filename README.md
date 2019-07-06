@@ -90,6 +90,7 @@ Darker, micro darkness type.
 
 ### HC0x_ MOTHNODE_ Shadow Work EP
 - Dealing with your inner demons.
+- https://scottjeffrey.com/shadow-work/
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 - Album made exclusively with one other person.
