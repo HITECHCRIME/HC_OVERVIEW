@@ -92,6 +92,9 @@ Darker, micro darkness type.
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
 
+### HC0x_ MOTHODE_ Ritual of the Morning Sun EP
+- based on my day schedule and productivity evangelism
+
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 - Album made exclusively with one other person.
 
