@@ -146,6 +146,10 @@ Scream rap album.
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
+### MOTHNODE_ Urban Mythology EP
+- MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
+
+
 ---
 
 All songs:
