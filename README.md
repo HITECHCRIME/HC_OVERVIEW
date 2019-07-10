@@ -146,6 +146,9 @@ Scream rap album.
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
+https://www.youtube.com/watch?v=JRVkxtjKvCE
+ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
+
 ### MOTHNODE_ Urban Mythology EP
 - MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
