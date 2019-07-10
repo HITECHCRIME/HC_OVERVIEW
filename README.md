@@ -81,6 +81,7 @@ Darker, micro darkness type.
 
 ### HC0x_ MOTHNODE_ Tactical EP
 - Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
+- MOTHNODE_ Agent
 
 ### HC0x_ MOTHNODE_ Wakanda EP
 - Tribal african rhytm and chants that transform into deep bass and trap
@@ -130,6 +131,21 @@ Scream rap album.
 - album mixtape containing all of my collaborations with others
 
 ### MOTHNODE_ Heavy trap music.
+
+### MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
+- Twin Peaks vibe concept album. 60s music and vibe mixed with trap.
+- MOTHNODE_ Into The Peaks ("Diane, it's 5:47pm and I'm about to enter the lovely town of...")
+- MOTHNODE_ Wrapped in Plastic
+- MOTHNODE_ Laura's Dream
+- MOTHNODE_ The Black Lodge
+- MOTHNODE_ Of Owls And Electricity
+- MOTHNODE_ One-eyed Jack's
+- MOTHNODE_ No Arm To Spare
+- MOTHNODE_ Ocean of Memory
+- MOTHNODE_ WWACD
+- MOTHNODE_ The Giant Says
+
+
 
 All songs:
 
