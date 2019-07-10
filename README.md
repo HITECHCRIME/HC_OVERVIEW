@@ -144,8 +144,9 @@ Scream rap album.
 - MOTHNODE_ Ocean of Memory
 - MOTHNODE_ WWACD
 - MOTHNODE_ The Giant Says
+- MOTHNODE_ Bob in the Mirror
 
-
+---
 
 All songs:
 
