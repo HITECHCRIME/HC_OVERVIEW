@@ -146,6 +146,13 @@ Scream rap album.
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
+### MOTHNODE_ Rzad Mistykow EP
+- Ayn Rand in Polish reality
+- MOTHNODE_ Mistycy Ducha
+- MOTHNODE_ Mistycy Mięśni
+- MOTHNODE_ Emulgat Produkcyjny
+- MOTHNODE_ John Galt
+
 https://www.youtube.com/watch?v=JRVkxtjKvCE
 ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
 
