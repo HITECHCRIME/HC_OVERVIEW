@@ -133,6 +133,7 @@ Scream rap album.
 ### MOTHNODE_ Heavy trap music.
 
 ### MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
+“Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
 - Twin Peaks vibe concept album. 60s music and vibe mixed with trap.
 - MOTHNODE_ Into The Peaks ("Diane, it's 5:47pm and I'm about to enter the lovely town of...")
 - MOTHNODE_ Wrapped in Plastic
