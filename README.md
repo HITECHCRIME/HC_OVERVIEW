@@ -31,7 +31,7 @@ Mercenaries. Contains an arc narrative.
 Nature, civilization, transhumanism, every day life.
 
 + MOTHNODE_ SIŁA KULTU
-+ MOTHNODE_ MOJA SIATKA
++ MOTHNODE_ (MOJA) SIATKA
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
