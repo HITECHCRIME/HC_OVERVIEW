@@ -82,6 +82,7 @@ Darker, micro darkness type.
 ### HC0x_ MOTHNODE_ Tactical EP
 - Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 - MOTHNODE_ Agent
+- MOTHNODE_ Runners
 
 ### HC0x_ MOTHNODE_ Wakanda EP
 - Tribal african rhytm and chants that transform into deep bass and trap
@@ -110,10 +111,9 @@ Darker, micro darkness type.
 ### HC0x_ MOTHNODE_ Northern Invasion
 - More of a reality album. Event album. 
 - Going to Sara Mora and making a whole album with her including visuals and concepts.
-
-Keflar
-Sherpa
-Skadyssa
+- MOTHNODE_ Keflar
+- MOTHNODE_ Sherpa
+- MOTHNODE_ Skadyssa
 
 **Tracklisting**
 
@@ -123,7 +123,6 @@ Scream rap album.
 + MOTHNODE_ 1gn0rvnt
 + MOTHNODE_ trust 1n vn1mv
 + MOTHNODE_ cl0ser thvn d1stvnt t0 myself
-
 
 ### HC0x_ MOTHNODE_ Ksiega Szeptow
 
