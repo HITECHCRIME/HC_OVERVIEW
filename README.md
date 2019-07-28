@@ -79,6 +79,11 @@ Darker, micro darkness type.
 ### HC0x_ MOTHNODE_ Tourist Through Life EP
 - Fleeting observer from a distance. Unseen presence.
 
+### HC0x_ MOTHNODE_ Mantra EP
+- MOTHNODE_ Cleanse
+- MOTHNODE_ Eighth Chakra
+- MOTHNODE_ Koan
+
 ### HC0x_ MOTHNODE_ Tactical EP
 - Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 - MOTHNODE_ Agent
