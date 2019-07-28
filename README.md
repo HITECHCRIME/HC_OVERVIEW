@@ -81,6 +81,7 @@ Darker, micro darkness type.
 
 ### HC0x_ MOTHNODE_ Mantra EP
 - MOTHNODE_ Cleanse
+- MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
 - MOTHNODE_ Koan
 
