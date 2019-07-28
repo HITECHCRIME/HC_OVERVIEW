@@ -83,7 +83,7 @@ Darker, micro darkness type.
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
-- MOTHNODE_ Koan
+- MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 
 ### HC0x_ MOTHNODE_ Tactical EP
 - Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
