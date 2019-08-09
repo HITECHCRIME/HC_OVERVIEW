@@ -155,6 +155,11 @@ Ayn Rand in Polish reality.
 ### /// HC22_ MOTHNODE_ Urban Mythology EP
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
+### /// HC23_ MOTHNODE_ Triangle of Fire EP [Zodiacal Series]
+Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold ornaments, ritual imagery. True self. Awakening.
+- MOTHNODE_ Aries
+- MOTHNODE_ "here i was born but watered down"
+
 https://www.youtube.com/watch?v=JRVkxtjKvCE
 ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
 
