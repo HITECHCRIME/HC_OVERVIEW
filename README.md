@@ -47,14 +47,12 @@ Nature, civilization, transhumanism, every day life.
 
 ### /// HC04_ MOTHNODE_ Lost Net (English)
 Darker, micro darkness type.
-
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
 + HC_SG36_Wreech (Lost Net)
 + HC_SG39_Triple_X (Lost Net)
 + HC_SG28_Shutdown (Lost Net)
-
 + HC_SG35_Upclick
 + HC_SG33_Stalker
 + HC_SG67_Why
