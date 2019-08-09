@@ -17,9 +17,6 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /  Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
-
-**Tracklisting**
-
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
 + MOTHNODE_ DIGITAL LIFE HEIST (prod. HRTLZxMonki)        // digital life bank heist - peak build up
 + MOTHNODE_ SEKTA SKRILLA                                 // hauling the loot - low
@@ -30,14 +27,12 @@ Mercenaries. Contains an arc narrative.
 
 ### /// HC02_ MOTHNODE_ Ryzomat EP
 Nature, civilization, transhumanism, every day life.
-
 + MOTHNODE_ SIŁA KULTU
 + MOTHNODE_ (MOJA) SIATKA
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
 ### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
-
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
 + MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
