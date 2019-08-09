@@ -82,6 +82,7 @@ Darker, micro darkness type.
 - Fleeting observer from a distance. Unseen presence.
 
 ### HC0x_ MOTHNODE_ Mantra EP
+Album using bass as a meditative technique.
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
