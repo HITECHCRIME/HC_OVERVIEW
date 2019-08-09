@@ -60,7 +60,7 @@ Darker, micro darkness type.
 + HC_SG06_World_Of_Blight
 + HC_SG19_Lord_Of_Flies
 + HC_SG53_The_Fourth_Industrial_Revolution
-
+?
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
@@ -72,7 +72,7 @@ Darker, micro darkness type.
 - Collaboration Album - each song is a split with someone
 - Conquer the world together theme
 
-### HC0x_ MOTHNODE_ Technomancer EP
+### HC0x_ MOTHNODE_ Technomancer/Techsoteric EP
 - Cyberpunk Swag album
 
 ### HC0x_ MOTHNODE_ Plains of Trisight EP
