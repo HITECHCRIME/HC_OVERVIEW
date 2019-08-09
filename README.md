@@ -105,6 +105,9 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
 - MOTHNODE_ cl0ser thvn d1stvnt t0 myself
+- MOTHNODE_ Sparrows
+- MOTHNODE_ The Little Grey Man
+- MOTHNODE_ Exfiltration Container
 
 ### /// HC15_ MOTHNODE_ Wakanda EP
 Tribal african rhytm and chants that transform into deep bass and trap
