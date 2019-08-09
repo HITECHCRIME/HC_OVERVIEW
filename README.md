@@ -106,6 +106,7 @@ Album using bass as a meditative technique.
 
 ### HC0x_ MOTHODE_ Ritual of the Morning Sun EP
 - based on my day schedule and productivity evangelism
+- album starts with the actual morning ritual initiation by Helve OS
 
 ### HC04_ MOTHNODE_ In It Together (Dual Album)
 - Album made exclusively with one other person.
