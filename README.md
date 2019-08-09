@@ -160,15 +160,12 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ Aries
 - MOTHNODE_ "here i was born but watered down"
 
-https://www.youtube.com/watch?v=JRVkxtjKvCE
-ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
-
-
-
 
 ---
+---
+---
 
-All songs:
+All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 + HC_SG01_Digital_Life_Heist (Digital Brutalism) [PL]  [DIGITAL BRUTALISM]
 + MOTHNODE_ Digital Life Heist (Prod. HRTLZ) Soundcloud
@@ -283,3 +280,6 @@ All songs:
 
 # **TAGS**
 brutalist, digitalarcana, real vs surreal, trap music, cyberpunk, humanedge, techwear, glitch, red, technoir, cyber, trapcore, trap, deathcore, rap, aggro, real, unreal, reality, digital, brutalism, ominous, futuristic, glitchy, noisy, screamrap, digital vibe, 
+
+https://www.youtube.com/watch?v=JRVkxtjKvCE
+ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
