@@ -79,7 +79,7 @@ Darker, micro darkness type.
 - Slow, deep, esoteric, productivity themes.
 
 ### HC0x_ MOTHNODE_ Tourist Through Life EP
-- Fleeting observer from a distance. Unseen presence.
+- Fleeting observer from a distance. Unseen presence. Story of life.
 
 ### HC0x_ MOTHNODE_ Mantra EP
 Album using bass as a meditative technique.
@@ -92,6 +92,7 @@ Album using bass as a meditative technique.
 - Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
+- MOTHNODE_ Closer Than Distant
 
 ### HC0x_ MOTHNODE_ Wakanda EP
 - Tribal african rhytm and chants that transform into deep bass and trap
