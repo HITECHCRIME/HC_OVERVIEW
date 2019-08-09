@@ -44,7 +44,7 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
 + MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
-+ MOTHNODE_ KEFLAR                                         // e bo jest taka dziewczyna...
++ MOTHNODE_ KEFLAR                                         
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 
 Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
