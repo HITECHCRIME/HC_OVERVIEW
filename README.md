@@ -10,12 +10,11 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 # /// STRAINS [ARTISTS]
 
+![](assets/dlh_single_cover.png)
+
 ## /// INJECTIONS [ALBUMS]
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /  Elektrobrutalizm
-
-![](assets/dlh_single_cover.png)
-
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
 
@@ -29,7 +28,7 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ LAS (prod. Monki)                             // reflection, existential scream  - last release  
 + MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO 
 
-### HC02_ MOTHNODE_ Ryzomat EP
+### /// HC02_ MOTHNODE_ Ryzomat EP
 Nature, civilization, transhumanism, every day life.
 
 + MOTHNODE_ SIŁA KULTU
@@ -37,30 +36,18 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
-### HC02_ MOTHNODE_ Lekki Okultyzm EP
-
-**Tracklisting**
+### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
 
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
 + MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
 + MOTHNODE_ KEFLAR                                         
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
++ MOTHNODE_ Król Maskarada
 
-Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
-
-### HC03_ MOTHNODE_ Lost Net (English)
-
-**Tracklisting**
-
+### /// HC04_ MOTHNODE_ Lost Net (English)
 Darker, micro darkness type.
-+ HC_SG35_Upclick
-+ HC_SG33_Stalker
-+ HC_SG67_Why
-+ HC_SG06_World_Of_Blight
-+ HC_SG19_Lord_Of_Flies
-+ HC_SG53_The_Fourth_Industrial_Revolution
-?
+
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
@@ -68,81 +55,80 @@ Darker, micro darkness type.
 + HC_SG39_Triple_X (Lost Net)
 + HC_SG28_Shutdown (Lost Net)
 
-### HC03_ MOTHNODE_ Conspiracy (English Collab Album)
-- Collaboration Album - each song is a split with someone
-- Conquer the world together theme
++ HC_SG35_Upclick
++ HC_SG33_Stalker
++ HC_SG67_Why
++ HC_SG06_World_Of_Blight
++ HC_SG19_Lord_Of_Flies
++ HC_SG53_The_Fourth_Industrial_Revolution
 
-### HC0x_ MOTHNODE_ Technomancer/Techsoteric EP
-- Cyberpunk Swag album
+### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album)
+Collaboration album - each song is a split with someone. Conquer the world together theme.
 
-### HC0x_ MOTHNODE_ Plains of Trisight EP
-- Slow, deep, esoteric, productivity themes.
+### /// HC06_ MOTHNODE_ Plains of Trisight EP
+Slow, deep, esoteric, productivity themes.
 
-### HC0x_ MOTHNODE_ Tourist Through Life EP
-- Fleeting observer from a distance. Unseen presence. Story of life.
+### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
+Cyberpunk Swag album.
 
-### HC0x_ MOTHNODE_ Mantra EP
+### /// HC08_ MOTHNODE_ In It Together (Dual Album)
+Album made exclusively with one other person.
+
+### /// HC09_ MOTHNODE_ breachInjectProgram EP
+- Dark Aggro Cyberpunk Trap Metal. Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
+Scream rap album.
++ MOTHNODE_ ELECTR1C VE1NS
++ MOTHNODE_ rvy
++ MOTHNODE_ 1gn0rvnt
++ MOTHNODE_ trust 1n vn1mv
+
+### /// HC10_ MOTHNODE_ Northern Invasion
+More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
+Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
+
+- MOTHNODE_ Keflar
+- MOTHNODE_ Sherpa
+- MOTHNODE_ Skadyssa
+
+### /// HC11_ MOTHNODE_ Mantra EP
 Album using bass as a meditative technique.
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 
-### HC0x_ MOTHNODE_ Tactical EP
-- Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
+### /// HC12_ MOTHNODE_ Ksiega Szeptow
+
+### /// HC13_ MOTHNODE_ Tourist Through Life EP
+Fleeting observer from a distance. Unseen presence. Story of life.
+
+### /// HC14_ MOTHNODE_ Tactical EP
+Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
-- MOTHNODE_ Closer Than Distant
+- MOTHNODE_ cl0ser thvn d1stvnt t0 myself
 
-### HC0x_ MOTHNODE_ Wakanda EP
-- Tribal african rhytm and chants that transform into deep bass and trap
+### /// HC15_ MOTHNODE_ Wakanda EP
+Tribal african rhytm and chants that transform into deep bass and trap
 
-### HC0x_ MOTHNODE_ Wartrap EP
-- Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
+### /// HC16_ MOTHNODE_ Hybrids
+Album mixtape containing all of my collaborations with others.
 
-### HC0x_ MOTHNODE_ Shadow Work EP
+### /// HC17_ MOTHNODE_ Shadow Work EP
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
 
-### HC0x_ MOTHODE_ Ritual of the Morning Sun EP
-- based on my day schedule and productivity evangelism
-- album starts with the actual morning ritual initiation by Helve OS
-
-### HC04_ MOTHNODE_ In It Together (Dual Album)
-- Album made exclusively with one other person.
-
+### /// HC18_ MOTHODE_ Ritual of the Morning Sun EP
+Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
 + HC_SG49_Slowclap
 + HC_SG26_Crave
 + HC_SG32_Going_Wrong
 + HC_SG51_Colorized_World
 
-### HC05_ MOTHNODE_ breachInjectProgram EP
-- Dark Aggro Cyberpunk Trap Metal.
+### /// HC19_ MOTHNODE_ Wartrap EP
+Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 
-### HC0x_ MOTHNODE_ Northern Invasion
-- More of a reality album. Event album. 
-- Going to Sara Mora and making a whole album with her including visuals and concepts.
-- MOTHNODE_ Keflar
-- MOTHNODE_ Sherpa
-- MOTHNODE_ Skadyssa
-
-**Tracklisting**
-
-Scream rap album.
-+ MOTHNODE_ ELECTR1C VE1NS
-+ MOTHNODE_ rvy
-+ MOTHNODE_ 1gn0rvnt
-+ MOTHNODE_ trust 1n vn1mv
-+ MOTHNODE_ cl0ser thvn d1stvnt t0 myself
-
-### HC0x_ MOTHNODE_ Ksiega Szeptow
-
-### HC0x_ MOTHNODE_ Hybrids
-- album mixtape containing all of my collaborations with others
-
-### MOTHNODE_ Heavy trap music.
-
-### MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
+### /// HC20_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
 “Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
 - Twin Peaks vibe concept album. 60s music and vibe mixed with trap.
@@ -159,18 +145,20 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
-### MOTHNODE_ Rzad Mistykow EP
-- Ayn Rand in Polish reality
+### /// HC21_ MOTHNODE_ Rzad Mistykow EP
+Ayn Rand in Polish reality.
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
 - MOTHNODE_ Emulgat Produkcyjny
 - MOTHNODE_ John Galt
 
+### /// HC22_ MOTHNODE_ Urban Mythology EP
+MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
+
 https://www.youtube.com/watch?v=JRVkxtjKvCE
 ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
 
-### MOTHNODE_ Urban Mythology EP
-- MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
+
 
 
 ---
