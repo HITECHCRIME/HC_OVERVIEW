@@ -15,7 +15,7 @@ Hitech Crime is a microlabel acting as a unified hub for creative and experiment
 
 ## /// INJECTIONS [ALBUMS]
 
-### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /  Elektrobrutalizm
+### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
