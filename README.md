@@ -32,6 +32,7 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ (MOJA) SIATKA
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
+?
 
 ### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
