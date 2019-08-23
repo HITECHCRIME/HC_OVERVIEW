@@ -165,6 +165,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 ### /// HC25_ MOTHNODE_ Dopamine Trails
 MOTHNODE_ Animal and the Human
 MOTHNODE_ Ghost in the Machines
+MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
 
 ---
