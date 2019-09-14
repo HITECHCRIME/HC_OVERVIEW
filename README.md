@@ -78,6 +78,7 @@ Scream rap album.
 + MOTHNODE_ trust 1n vn1mv
 
 ### /// MOTHNODE_ Skuld EP
+https://en.wikipedia.org/wiki/Skuld
 Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
 Tribal, drums, tantric bass, electronic elements, minimal tho.
 
