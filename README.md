@@ -77,6 +77,18 @@ Scream rap album.
 + MOTHNODE_ 1gn0rvnt
 + MOTHNODE_ trust 1n vn1mv
 
+### /// MOTHNODE_ Skuld EP
+Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
+Tribal, drums, tantric bass, electronic elements, minimal tho.
+
+- Ivald ›  The father of the dwarfs that made Sif's hair, the ship Skidbladner, and Odin's spear Gungner.
+- Muspelheim ›  The world of blazing light before the creation.
+- Nidhug ›  A serpent in the nether world.
+- Niflheim ›  The world of mist before the creation.
+- Skuld ›  The norn of the future.
+- Ymer ›  The huge giant out of whose body the world was created.
+
+
 ### /// HC10_ MOTHNODE_ Northern Invasion
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
