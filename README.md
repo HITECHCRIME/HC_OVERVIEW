@@ -300,9 +300,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
-## BLACKLANE_ Electronic soundscapes.
+# BLACKLANE_ Electronic soundscapes.
 
-## Lekki Okultyzm - more lyrical Polish rap.
+# Lekki Okultyzm - more lyrical Polish rap.
 
 **Releases:**
 
