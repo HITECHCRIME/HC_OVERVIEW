@@ -92,7 +92,6 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 - Skuld ›  The norn of the future.
 - Ymer ›  The huge giant out of whose body the world was created.
 
-
 ### /// HC10_ MOTHNODE_ Northern Invasion
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
@@ -185,7 +184,7 @@ MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
 
 ### /// HC26_ MOTHNODE_ Edge Butterfly EP
-what Saramora said
+what Saramora said - i think edge butterfly is a moth
 
 ---
 ---
