@@ -185,6 +185,9 @@ MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 
 ### /// HC26_ MOTHNODE_ Edge Butterfly EP
 what Saramora said - i think edge butterfly is a moth
+- MOTHNODE_ Flight's Edge
+- MOTHNODE_ Night Butterfly
+- MOTHNODE_ Cocoon
 
 ---
 ---
