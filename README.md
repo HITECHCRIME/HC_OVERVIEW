@@ -178,11 +178,14 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 "These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form."
 
 
-### /// HC25_ MOTHNODE_ Dopamine Trails
+### /// HC25_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
 MOTHNODE_ Ghost in the Machines
 MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
+
+### /// HC26_ MOTHNODE_ Edge Butterfly EP
+what Saramora said
 
 ---
 ---
