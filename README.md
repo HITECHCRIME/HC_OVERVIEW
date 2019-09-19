@@ -167,7 +167,9 @@ Ayn Rand in Polish reality.
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
 - MOTHNODE_ Emulgat Produkcyjny
+- MOTHNODE_ Eksodus
 - MOTHNODE_ John Galt
+
 
 ### /// HC22_ MOTHNODE_ Urban Mythology EP
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
