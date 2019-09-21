@@ -201,7 +201,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
-- For heavy futura: miners >  ICE7 - rare type of ice
+- For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
 ---
 ---
