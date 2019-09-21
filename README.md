@@ -112,6 +112,7 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 
 ### /// HC12_ MOTHNODE_ Ksiega Szeptow
+Exorcising my life's demons.
 
 ### /// HC13_ MOTHNODE_ Tourist Through Life EP
 Fleeting observer from a distance. Unseen presence. Story of life.
@@ -149,7 +150,7 @@ Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 ### /// HC20_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
 “Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
-- Twin Peaks vibe concept album. 60s music and vibe mixed with trap.
+- Twin Peaks vibe concept album. 60s music and vibe mixed with trap. Kind of like an audio narrative series.
 Our dreams create our reality. Some are capable of creating powerful dreams that have great influence over all of us.
 - MOTHNODE_ Into The Peaks ("Diane, it's 5:47pm and I'm about to enter the lovely town of...")
 - MOTHNODE_ Wrapped in Plastic
