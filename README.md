@@ -126,7 +126,8 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 - MOTHNODE_ Exfiltration Container
 
 ### /// HC15_ MOTHNODE_ Wakanda EP
-Tribal african rhytm and chants that transform into deep bass and trap
+Tribal african rhytms and chants that transform into deep bass and trap.
+- Children of Vibration / Vibra?
 
 ### /// HC16_ MOTHNODE_ Hybrids
 Album mixtape containing all of my collaborations with others.
