@@ -112,7 +112,7 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 
 ### /// HC12_ MOTHNODE_ Ksiega Szeptow
-Exorcising my life's demons.
+Pagan futurism.
 
 ### /// HC13_ MOTHNODE_ Tourist Through Life EP
 Fleeting observer from a distance. Unseen presence. Story of life.
