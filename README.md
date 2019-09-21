@@ -170,7 +170,6 @@ Ayn Rand in Polish reality.
 - MOTHNODE_ Eksodus
 - MOTHNODE_ John Galt
 
-
 ### /// HC22_ MOTHNODE_ Urban Mythology EP
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
@@ -181,7 +180,6 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 ### /// HC24_ MOTHNODE_ Huna EP
 "These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form."
-
 
 ### /// HC25_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
@@ -194,6 +192,10 @@ what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
 - MOTHNODE_ Night Butterfly
 - MOTHNODE_ Cocoon
+
+### /// HC27_ MOTHNODE_ HIQ / haiku
+High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals.
+- MOTHNODE_ Branching Trails of Thought
 
 
 # SONG IDEAS
