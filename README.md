@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 27 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 29 EPs
 
 - idea make a synthetic language to sing/rap in
 
@@ -199,10 +199,16 @@ what Saramora said - i think edge butterfly is a moth
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals.
 - MOTHNODE_ Branching Trails of Thought
 
+> Observation that the very act of becoming a player changes the game being played. It is reflected in interviewing process where the interviewees tend to give answers they think interviewer wants to hear. Named after German Noble-laureate physicist Werner Karl Heisenberg (1901-76) whose uncertainty principle states that (in particle physics experiments) the very act of observing alters the position of the particle being observed, and makes it impossible (even in theory) to accurately predict its behavior. See also observer inseparability.
+
+> Read more: http://www.businessdictionary.com/definition/Heisenberg-effect.html
+
 ### /// HC28_ MOTHNODE_ Heisenberg Effect
 - MOTHNODE_ Uncertain Principle
 - MOTHNODE_ Play & Change
 - MOTHNODE_ The Outcome Myriads
+
+
 
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
