@@ -195,6 +195,11 @@ what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Night Butterfly
 - MOTHNODE_ Cocoon
 
+
+# SONG IDEAS
+- song based on INFJ character - intuition, feeling, judgement
+
+
 ---
 ---
 ---
