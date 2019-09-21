@@ -198,6 +198,10 @@ what Saramora said - i think edge butterfly is a moth
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals.
 - MOTHNODE_ Branching Trails of Thought
 
+### /// HC28_ MOTHNODE_ Heisenberg Effect
+- MOTHNODE_ Uncertain Principle
+- MOTHNODE_ Play & Change
+- MOTHNODE_ The Outcome Myriads
 
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
