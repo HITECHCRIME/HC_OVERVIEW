@@ -84,7 +84,7 @@ Scream rap album.
 + MOTHNODE_ 1gn0rvnt
 + MOTHNODE_ trust 1n vn1mv
 
-### /// MOTHNODE_ Skuld EP
+### /// HC10_ MOTHNODE_ Skuld EP
 https://en.wikipedia.org/wiki/Skuld
 Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
 Tribal, drums, tantric bass, electronic elements, minimal tho.
@@ -96,7 +96,7 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 - Skuld ›  The norn of the future.
 - Ymer ›  The huge giant out of whose body the world was created.
 
-### /// HC10_ MOTHNODE_ Northern Invasion
+### /// HC11_ MOTHNODE_ Northern Invasion
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
 
@@ -104,20 +104,20 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 - MOTHNODE_ Sherpa
 - MOTHNODE_ Skadyssa
 
-### /// HC11_ MOTHNODE_ Mantra EP
+### /// HC12_ MOTHNODE_ Mantra EP
 Album using bass as a meditative technique.
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 
-### /// HC12_ MOTHNODE_ Ksiega Szeptow
+### /// HC13_ MOTHNODE_ Ksiega Szeptow
 Pagan futurism.
 
-### /// HC13_ MOTHNODE_ Tourist Through Life EP
+### /// HC14_ MOTHNODE_ Tourist Through Life EP
 Fleeting observer from a distance. Unseen presence. Story of life.
 
-### /// HC14_ MOTHNODE_ Tactical EP
+### /// HC15_ MOTHNODE_ Tactical EP
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
@@ -126,28 +126,28 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 - MOTHNODE_ The Little Grey Man
 - MOTHNODE_ Exfiltration Container
 
-### /// HC15_ MOTHNODE_ Wakanda EP
+### /// HC16_ MOTHNODE_ Wakanda EP
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
-### /// HC16_ MOTHNODE_ Hybrids
+### /// HC17_ MOTHNODE_ Hybrids
 Album mixtape containing all of my collaborations with others.
 
-### /// HC17_ MOTHNODE_ Shadow Work EP
+### /// HC18_ MOTHNODE_ Shadow Work EP
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
 
-### /// HC18_ MOTHODE_ Ritual of the Morning Sun EP
+### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
 + HC_SG49_Slowclap
 + HC_SG26_Crave
 + HC_SG32_Going_Wrong
 + HC_SG51_Colorized_World
 
-### /// HC19_ MOTHNODE_ Wartrap EP
+### /// HC20_ MOTHNODE_ Wartrap EP
 Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 
-### /// HC20_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
+### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
 “Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
 - Twin Peaks vibe concept album. 60s music and vibe mixed with trap. Kind of like an audio narrative series.
@@ -164,7 +164,7 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
-### /// HC21_ MOTHNODE_ Rzad Mistykow EP
+### /// HC22_ MOTHNODE_ Rzad Mistykow EP
 Ayn Rand in Polish reality.
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
@@ -172,34 +172,34 @@ Ayn Rand in Polish reality.
 - MOTHNODE_ Eksodus
 - MOTHNODE_ John Galt
 
-### /// HC22_ MOTHNODE_ Urban Mythology EP
+### /// HC23_ MOTHNODE_ Urban Mythology EP
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
-### /// HC23_ MOTHNODE_ Triangle of Fire EP [Zodiacal Series]
+### /// HC24_ MOTHNODE_ Triangle of Fire EP [Zodiacal Series]
 Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold ornaments, ritual imagery. True self. Awakening.
 - MOTHNODE_ Aries
 - MOTHNODE_ "here i was born but watered down"
 
-### /// HC24_ MOTHNODE_ Huna EP
+### /// HC25_ MOTHNODE_ Huna EP
 "These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form."
 
-### /// HC25_ MOTHNODE_ Dopamine Trails EP
+### /// HC26_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
 MOTHNODE_ Ghost in the Machines
 MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
 
-### /// HC26_ MOTHNODE_ Edge Butterfly EP
+### /// HC27_ MOTHNODE_ Edge Butterfly EP
 what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
 - MOTHNODE_ Night Butterfly
 - MOTHNODE_ Cocoon
 
-### /// HC27_ MOTHNODE_ HIQ / haiku
+### /// HC28_ MOTHNODE_ HIQ / haiku
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals.
 - MOTHNODE_ Branching Trails of Thought
 
-### /// HC28_ MOTHNODE_ Heisenberg Effect
+### /// HC29_ MOTHNODE_ Heisenberg Effect
 - MOTHNODE_ Uncertain Principle
 - MOTHNODE_ Play & Change
 - MOTHNODE_ The Outcome Myriads
@@ -208,7 +208,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 > Read more: http://www.businessdictionary.com/definition/Heisenberg-effect.html
 
-### /// HC29_ MOTHNODE_ Format Duszy EP
+### /// HC30_ MOTHNODE_ Format Duszy EP
 - MOTHNODE_ Zmierzch (Prod. Clover)
 
 # SONG IDEAS
