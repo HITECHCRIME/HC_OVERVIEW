@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 29 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 30 EPs
 
 - idea make a synthetic language to sing/rap in
 
