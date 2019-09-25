@@ -68,7 +68,8 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 Slow, deep, esoteric, productivity themes.
 
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
-Cyberpunk Swag album.
+Cyberpunk Swag album. (purple album/royal)
+- MOTHNODE_ The Hibernation 
 
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album)
 Album made exclusively with one other person.
