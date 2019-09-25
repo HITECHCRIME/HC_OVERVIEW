@@ -20,7 +20,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ## /// INJECTIONS [ALBUMS] | Current count: 40 EPs
 
-Motifs: dead of blight, oracle, triangles, moth's flight, the life's search
+Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality.
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
@@ -246,6 +246,13 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
 - MOTHNODE_ SLC6A3 (Gene codename - dopamine transporter deficiency syndrome - good for productivity esoterism albums)
+
+https://ghr.nlm.nih.gov/gene/SLC6A3
+
+> The SLC6A3 gene provides instructions for making a protein called the dopamine transporter or DAT. This protein is embedded in the membrane of certain nerve cells (neurons) in the brain, where it transports a molecule called dopamine into the cell. Dopamine is a chemical messenger (neurotransmitter) that relays signals from one neuron to another. Dopamine has many important functions, including playing complex roles in thought (cognition), motivation, behavior, and control of movement.
+
+> To transmit signals, dopamine is released into the space between neurons (the synaptic cleft), where it attaches (binds) to receptors on the surface of neighboring neurons. The dopamine transporter brings dopamine from the synaptic cleft back into neurons for reuse. The activity of the transporter determines how much dopamine is present in the synaptic cleft and for how long. This activity makes the transporter a major controller of dopamine signaling in the brain.
+
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
