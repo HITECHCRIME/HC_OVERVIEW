@@ -235,6 +235,7 @@ Purging bad progs with bass.
 
 ### /// HC39_ MOTHNODE_ I0N0F0J
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
+- songs based on INFJ character - intuition, feeling, judgement
 
 ### /// HC40_ ICE7 EP
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
@@ -242,7 +243,6 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
 # SONG IDEAS
-- song based on INFJ character - intuition, feeling, judgement
 - idea make a synthetic language to sing/rap in
 
 ---
