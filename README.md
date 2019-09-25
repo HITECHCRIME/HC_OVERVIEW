@@ -257,7 +257,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ SLC6A3 (Gene codename - dopamine transporter deficiency syndrome - good for productivity esoterism albums)
 - MOTHNODE_ Black Flood (wave of movement, production, industrial)
 - MOTHNODE_ Oxytocin [Attachment Chemical]
-- MOTHNODE_ Interna/ (not belonging to anything, being one with the internal will)
+- MOTHNODE_ Interna/ (not belonging to anything, being one with the internal will - world moves, you flow)
 - MOTHNODE_ Circle Round (layers of external)
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
