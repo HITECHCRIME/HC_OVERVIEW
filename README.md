@@ -242,8 +242,9 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
-# SONG IDEAS
+# SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
+- EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
 
 ---
 
