@@ -236,6 +236,11 @@ Purging bad progs with bass.
 ### /// HC39_ MOTHNODE_ I0N0F0J
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 
+### /// HC40_ ICE7 EP
+Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
+- Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
+- 
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
