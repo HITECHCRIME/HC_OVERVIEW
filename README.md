@@ -14,7 +14,7 @@ Its technical aim is to research, develop and execute ideas in form of new wave 
 
 As an expressive entity it explores and expresses topics ranging from *psychology*, *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. 
 
-# /// STRAINS [ARTISTS]
+# /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
 
