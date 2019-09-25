@@ -20,8 +20,6 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ## /// INJECTIONS [ALBUMS] | Current count: 30 EPs
 
-- idea make a synthetic language to sing/rap in
-
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
@@ -214,6 +212,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
+- idea make a synthetic language to sing/rap in
 
 ---
 ---
