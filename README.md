@@ -244,14 +244,18 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
 ### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP
-Dendritic arbour. cell body axon = soma
+Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Dendryte
 - MOTHNODE_ Body Cell
+- MOTHNODE_ Soma
+- MOTHNODE_ Ax(i)on
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
 - MOTHNODE_ SLC6A3 (Gene codename - dopamine transporter deficiency syndrome - good for productivity esoterism albums)
+- MOTHNODE_ Black Flood (wave of movement, production, industrial)
+- MOTHNODE_ Oxytocin [Attachment Chemical]
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
