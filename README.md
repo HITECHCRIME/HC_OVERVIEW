@@ -224,6 +224,9 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 ### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]
 
+### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]
+- Gore vibe, hell, darkness, nature.
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
