@@ -189,7 +189,8 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ Makia
 - MOTHNODE_ Manawa
 - MOTHNODE_ Aloha
-- MOTHNODE_ 
+- MOTHNODE_ Mana
+- MOTHNODE_ Pono
 
 ### /// HC26_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
