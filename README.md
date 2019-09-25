@@ -197,11 +197,11 @@ what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Night Butterfly
 - MOTHNODE_ Cocoon
 
-### /// HC28_ MOTHNODE_ HIQ / haiku
+### /// HC28_ MOTHNODE_ HIQ / haiku EP
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals.
 - MOTHNODE_ Branching Trails of Thought
 
-### /// HC29_ MOTHNODE_ Heisenberg Effect
+### /// HC29_ MOTHNODE_ Heisenberg Effect EP
 - MOTHNODE_ Uncertain Principle
 - MOTHNODE_ Play & Change
 - MOTHNODE_ The Outcome Myriads
