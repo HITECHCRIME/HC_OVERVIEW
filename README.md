@@ -347,6 +347,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 # Audiovisual IRL Experiences (Musical Narrative Universe)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
+- aggro popup concert from a mobile backpack audio unit
+- secret location concerts
+- "now we will cleanse the perimeter with bass to get rid of the (audible) bad programs" / "audio weapon" - purging tool
 
 # BLACKLANE_ Electronic soundscapes.
 
