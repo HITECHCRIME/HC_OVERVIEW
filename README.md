@@ -230,6 +230,9 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 ### /// HC37_ MOTHNODE_ Sacrificial EP
 Deep slow. "Sa-cri-fiiiice"
 
+### /// HC38_ MOTHNODE_ The Purge EP
+Purging bad progs with bass.
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
