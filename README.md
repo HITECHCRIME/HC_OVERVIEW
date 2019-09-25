@@ -233,6 +233,9 @@ Deep slow. "Sa-cri-fiiiice"
 ### /// HC38_ MOTHNODE_ The Purge EP
 Purging bad progs with bass.
 
+### /// HC39_ MOTHNODE_ I0N0F0J
+INFJ album. "aye aye, go an extra mile with me and you reach the core"
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
