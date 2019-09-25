@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 36 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 37 EPs
 
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search
 
