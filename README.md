@@ -215,6 +215,14 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 - originally Ryzom was supposed to be the name of the album containing Polish 'Ryzomat' song but I'd like to dive deeper into the topic
 - album based on the abstract strata of the philosophy of rhizome. Soundscape almost. Natural soundscape + bass and delicate beat. Along with the album comes a designed visualization showcasing a visual and structural interpretation of the philosophy.
 
+### /// HC32_ MOTHNODE_ DNA Prelude (these could also be songs but I like the idea of overarching changing theme)
+
+### /// HC33_ MOTHNODE_ Transhuman (these could also be songs but I like the idea of overarching changing theme)
+
+### /// HC34_ MOTHNODE_ Posthuman (these could also be songs but I like the idea of overarching changing theme)
+
+### /// HC35_ MOTHNODE_ Singularity (these could also be songs but I like the idea of overarching changing theme)
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
