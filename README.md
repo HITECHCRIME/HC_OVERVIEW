@@ -132,7 +132,7 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
-### /// HC17_ MOTHNODE_ Hybrids
+### /// HC17_ MOTHNODE_ Hybrids On-going Album
 Album mixtape containing all of my collaborations with others.
 
 ### /// HC18_ MOTHNODE_ Shadow Work EP
@@ -183,7 +183,9 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ "here i was born but watered down"
 
 ### /// HC25_ MOTHNODE_ Huna EP
-"These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form."
+"These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form
+- MOTHNODE_ Ike
+- MOTHNODE_ Kala
 
 ### /// HC26_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
