@@ -22,7 +22,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search
 
-### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /Elektrobrutalizm
+### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
