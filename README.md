@@ -67,7 +67,7 @@ Darker, micro darkness type.
 Collaboration album - each song is a split with someone. Conquer the world together theme.
 
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP
-Slow, deep, esoteric, productivity themes.
+Slow, deep, esoteric, productivity themes. 
 
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
 Cyberpunk Swag album. (purple album/royal)
@@ -245,7 +245,7 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
-
+- MOTHNODE_ SLC6A3 (Gene codename - dopamine transporter deficiency syndrome - good for productivity esoterism albums)
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
