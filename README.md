@@ -219,8 +219,6 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 - idea make a synthetic language to sing/rap in
 
 ---
----
----
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
