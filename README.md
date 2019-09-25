@@ -118,13 +118,14 @@ Pagan futurism.
 Fleeting observer from a distance. Unseen presence. Story of life.
 
 ### /// HC15_ MOTHNODE_ Tactical EP
-Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future.
+Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
 - MOTHNODE_ cl0ser thvn d1stvnt t0 myself
 - MOTHNODE_ Sparrows
 - MOTHNODE_ The Little Grey Man
 - MOTHNODE_ Exfiltration Container
+- MOTHNODE_ Putpocket (person specializing in planting things in pockets)
 
 ### /// HC16_ MOTHNODE_ Wakanda EP
 Tribal african rhytms and chants that transform into deep bass and trap.
