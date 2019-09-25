@@ -361,6 +361,8 @@ Ideas for the visuals and setups for concerts. Could also be applied to live onl
 - aggro popup concert from a mobile backpack audio unit
 - secret location concerts
 - "now we will cleanse the perimeter with bass to get rid of the (audible) bad programs" / "audio weapon" - purging tool
+- laser-gating
+- laser ceiling scissors (lasers shifting horizontally above user's head)
 
 # BLACKLANE_ Electronic soundscapes.
 
