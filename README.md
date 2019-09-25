@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 30 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 31 EPs
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
