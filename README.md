@@ -20,6 +20,8 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ## /// INJECTIONS [ALBUMS] | Current count: 31 EPs
 
+Motifs: dead of blight, oracle, triangles, moth's flight, the life's search
+
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP  /Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
