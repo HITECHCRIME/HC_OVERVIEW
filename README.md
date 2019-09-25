@@ -208,6 +208,9 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 ### /// HC30_ MOTHNODE_ Format Duszy EP
 - MOTHNODE_ Zmierzch (Prod. Clover)
 
+### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming)
+- album based on the abstract strata of the philosophy of rhizome. Soundscape almost. Natural soundscape + bass and delicate beat. Along with the album comes a designed visualization showcasing a visual and structural interpretation of the philosophy.
+
 # SONG IDEAS
 - song based on INFJ character - intuition, feeling, judgement
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
