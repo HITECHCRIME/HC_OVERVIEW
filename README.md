@@ -277,6 +277,7 @@ Dendritic arbour. /// cell body axon = soma
 - "Jail of your happiness so full of regrets, you think it protects xxx (deflect)"
 - "All I've got is Hitech Crime" / "All I have left is Hitech Crime"
 - MOTHNODE_ Attunement to Scripted Identities
+- MOTHNODE_ Trappist-G (trappist planets - check out the term haha)
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
