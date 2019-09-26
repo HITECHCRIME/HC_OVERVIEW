@@ -266,6 +266,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Circle Round (layers of external)
 - MOTHNODE_ All-seeing Eye (.) -- Geometric All-seeing eye theme.
 - MOTHNODE_ Task At Hand -- hypesong, "gunna get it done"
+- MOTHNODE_ Gibson In The Dark (related to Neuromancer, meta, song from a third perspective, observing the creator)
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
