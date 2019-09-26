@@ -276,6 +276,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ ? (Riddim Visu, riddim type songs, "riddim" in the universe of Hitech Crime is an audiovisual interactive script, the audience is going to be coded with riddims they can interact with).
 - "Jail of your happiness so full of regrets, you think it protects xxx (deflect)"
 - "All I've got is Hitech Crime" / "All I have left is Hitech Crime"
+- MOTHNODE_ Attunement to Scripted Identities
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
