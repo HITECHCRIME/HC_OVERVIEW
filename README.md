@@ -273,6 +273,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ All-seeing Eye (.) -- Geometric All-seeing eye theme.
 - MOTHNODE_ Task At Hand -- hypesong, "gunna get it done" "they drop their act again, (no) core down, we gon- fucking get it done"
 - MOTHNODE_ Gibson In The Dark (related to Neuromancer, meta, song from a third perspective, observing the creator)
+- MOTHNODE_ ? (Riddim Visu, riddim type songs, "riddim" in the universe of Hitech Crime is an audiovisual interactive script, the audience is going to be coded with riddims they can interact with).
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
