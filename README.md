@@ -264,7 +264,7 @@ Dendritic arbour. /// cell body axon = soma
 
 ### /// HC42_ MOTHNODE_ Error_default EP
 Social scripts focus album.
-- MOTHNODE_ Are You (HC_SG136)
+- MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
