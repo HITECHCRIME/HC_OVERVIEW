@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ## /// INJECTIONS [ALBUMS] | Current count: 41 EPs
 
-Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality. 
+Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 
 Content Font Regime is `_` as `:` or `-`. Use `///` to designate line in code/text/content/header. Use hard brackets `[]` for additional info `[Rough Prototype] / [Zodiacal Series]`. 
 
@@ -275,6 +275,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Gibson In The Dark (related to Neuromancer, meta, song from a third perspective, observing the creator)
 - MOTHNODE_ ? (Riddim Visu, riddim type songs, "riddim" in the universe of Hitech Crime is an audiovisual interactive script, the audience is going to be coded with riddims they can interact with).
 - "Jail of your happiness so full of regrets, you think it protects xxx (deflect)"
+- "All I've got is Hitech Crime" / "All I have left is Hitech Crime"
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
