@@ -6,9 +6,9 @@
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP
 ```
-**Hitech Crime** is a microlabel acting as a unified hub for creative and experimental audio projects. Its creative intention is to build a musical universe with its own lore and narratives. 
+**Hitech Crime** is a microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build a musical universe with unique lore and narratives.
 
-Its technical aim is to research, develop and execute ideas in form of new wave interactive performances and creation of futuristic audio and related visual communication.
+Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances and create futuristic audio and related visual communication using creative technology.
 
 As an expressive entity it explores and expresses topics ranging from *psychology*, *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. 
 
