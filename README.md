@@ -280,6 +280,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Trappist-G (trappist planets - check out the term haha)
 - wtf? "mio od na na/mid od ha na sztorc, mój squad, mój vibe, mój świat" ?
 - Self-made trap beat made from own natural audio samples (sticks, stones, leaves, water, ooh the field recording session would be glorious)
+- "wersy w bletkach na rewersie pełen rękaw"
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
