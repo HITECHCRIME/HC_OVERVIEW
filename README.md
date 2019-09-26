@@ -262,6 +262,8 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Soma
 - MOTHNODE_ Ax(i)on
 
+### /// HC42_ MOTHNODE_ Error_default EP
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
