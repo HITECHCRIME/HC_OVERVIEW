@@ -171,7 +171,7 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 - MOTHNODE_ Bob in the Mirror
 
 ### /// HC22_ MOTHNODE_ Rzad Mistykow EP
-Ayn Rand in Polish reality.
+Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja pomoc to kanibale."
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
 - MOTHNODE_ Emulgat Produkcyjny
