@@ -18,7 +18,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ## /// INJECTIONS [ALBUMS] | Current count: 41 EPs
 
-Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality. Font regime is `_` as `:` or `-`. Use `///` to designate line in code/text/content/header. Use hard brackets `[]` for additional info `[Rough Prototype] / [Zodiacal Series]`. Brutalist architecture and movement, monumental futura, dirty cyberpunk, self-improvement themes, high technology, minimalism, squad with a goal (hack the world).
+Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality. Content Font Regime is `_` as `:` or `-`. Use `///` to designate line in code/text/content/header. Use hard brackets `[]` for additional info `[Rough Prototype] / [Zodiacal Series]`. Brutalist architecture and movement, monumental futura, dirty cyberpunk, self-improvement themes, high technology, minimalism, squad with a goal (hack the world).
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
