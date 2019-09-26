@@ -266,7 +266,8 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Oxytocin [Attachment Chemical]
 - MOTHNODE_ Interna/ (not belonging to anything, being one with the internal will - world moves, you flow)
 - MOTHNODE_ Circle Round (layers of external)
-- MOTHNODE_ All-seeing Eye (.)
+- MOTHNODE_ All-seeing Eye (.) -- Geometric All-seeing eye theme.
+- MOTHNODE_ Task At Hand -- hypesong, "gunna get it done"
 
 https://ghr.nlm.nih.gov/gene/SLC6A3
 
