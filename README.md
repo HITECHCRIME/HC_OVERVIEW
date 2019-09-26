@@ -24,7 +24,7 @@ Content Font Regime is `_` as `:` or `-`. Use `///` to designate line in code/te
 
 Brutalist architecture and movement, monumental futura, dirty cyberpunk, self-improvement themes, high technology, minimalism, squad with a goal (hack the world). 
 
-Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel like a narrative. Moodboard audio series style? Moodboard transitions between songs both in audio and visual. Sequential montages but could be played in a different order or random (hard cut).
+Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel like a narrative. Moodboard audio series style? Moodboard transitions between songs both in audio and visual. Sequential montages but could be played in a different order or random (hard cut). Web series vibe from the 2010s.
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
