@@ -296,7 +296,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Follow the Trail
 - MOTHNODE_ Mulder Mulder Moo (X-Files hahahahahaha)
 - MOTHNODE_ Inspectah
-- MOTHNODE_ Gapper (cyberpunk term, filler/fixer/climber)
+- MOTHNODE_ Gapper (cyberpunk term, filler/fixer/climber) - scaling heights, gap between the bottom and the top of the city.
 
 ---
 
