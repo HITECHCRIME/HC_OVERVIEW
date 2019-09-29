@@ -411,6 +411,7 @@ Ideas for the visuals and setups for concerts. Could also be applied to live onl
 - laser-gating
 - laser ceiling scissors (lasers shifting horizontally above user's head)
 - concerts are literally audiovisual sets - theatrical almost, with placing importance on pacing, pressurizing and depressurizing the audience, tension vs relax vs intrigue.
+- Look at the BTSM experiences they create (they include narrative experiences, lasers, smoke and colorful glitchy. Church of BTSM). It is more rave like tho.
 
 # BLACKLANE_ Electronic soundscapes.
 
