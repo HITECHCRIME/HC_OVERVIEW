@@ -293,6 +293,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - Self-made trap beat made from own natural audio samples (sticks, stones, leaves, water, ooh the field recording session would be glorious)
 - "wersy w bletkach na rewersie pełen rękaw"
 - MOTHNODE_ I is Patient (self)
+- MOTHNODE_ Follow the Trail
 
 ---
 
