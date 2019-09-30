@@ -85,9 +85,13 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP
 Slow, deep, esoteric, productivity themes. 
 
+[cover]
+
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
 Cyberpunk Swag album. (purple album/royal)
 - MOTHNODE_ The Hibernation 
+
+[cover]
 
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album)
 Album made exclusively with one other person.
