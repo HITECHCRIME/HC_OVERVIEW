@@ -26,6 +26,8 @@ Brutalist architecture and movement, monumental futura, dirty cyberpunk, self-im
 
 Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel like a narrative. Moodboard audio series style? Moodboard transitions between songs both in audio and visual. Sequential montages but could be played in a different order or random (hard cut). Web series vibe from the 2010s.
 
+[cover]
+
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
@@ -35,7 +37,9 @@ Mercenaries. Contains an arc narrative.
 + MOTHNODE_ NEONOWE PROXY (prod. X)                      // rival ambush - medium
 + MOTHNODE_ POWSTANIE (prod. Monki)                       // successful fight ??? - peak 
 + MOTHNODE_ LAS (prod. Monki)                             // reflection, existential scream  - last release  
-+ MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO 
++ MOTHNODE_ PARĘ REWOLUCJI PÓŹNIEJ / REDUX OUTRO
+
+[cover]
 
 ### /// HC02_ MOTHNODE_ Ryzomat EP
 Nature, civilization, transhumanism, every day life.
