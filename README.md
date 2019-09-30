@@ -188,8 +188,12 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 + HC_SG32_Going_Wrong
 + HC_SG51_Colorized_World
 
+[cover]
+
 ### /// HC20_ MOTHNODE_ Wartrap EP
 Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
+
+[cover]
 
 ### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
@@ -208,6 +212,8 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 - MOTHNODE_ The Giant Says
 - MOTHNODE_ Bob in the Mirror
 
+[cover]
+
 ### /// HC22_ MOTHNODE_ Rzad Mistykow EP
 Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja pomoc to kanibale."
 - MOTHNODE_ Mistycy Ducha
@@ -216,13 +222,19 @@ Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja
 - MOTHNODE_ Eksodus
 - MOTHNODE_ John Galt
 
+[cover]
+
 ### /// HC23_ MOTHNODE_ Urban Mythology EP
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
+
+[cover]
 
 ### /// HC24_ MOTHNODE_ Triangle of Fire EP [Zodiacal Series]
 Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold ornaments, ritual imagery. True self. Awakening.
 - MOTHNODE_ Aries
 - MOTHNODE_ "here i was born but watered down"
+
+[cover]
 
 ### /// HC25_ MOTHNODE_ Huna EP
 "These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form
@@ -234,11 +246,15 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ Mana
 - MOTHNODE_ Pono
 
+[cover]
+
 ### /// HC26_ MOTHNODE_ Dopamine Trails EP
 MOTHNODE_ Animal and the Human
 MOTHNODE_ Ghost in the Machines
 MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
+
+[cover]
 
 ### /// HC27_ MOTHNODE_ Edge Butterfly EP
 what Saramora said - i think edge butterfly is a moth
