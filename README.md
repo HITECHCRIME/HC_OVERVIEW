@@ -262,9 +262,13 @@ what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Night Butterfly
 - MOTHNODE_ Cocoon
 
+[cover]
+
 ### /// HC28_ MOTHNODE_ HIQ / haiku EP
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals. Assess, integrate, synthesize, postulate,  create coherent and useful mind pictures of the world.
 - MOTHNODE_ Branching Trails of Thought
+
+[cover]
 
 ### /// HC29_ MOTHNODE_ Heisenberg Effect EP
 - MOTHNODE_ Uncertain Principle
@@ -275,12 +279,18 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 > Read more: http://www.businessdictionary.com/definition/Heisenberg-effect.html
 
+[cover]
+
 ### /// HC30_ MOTHNODE_ Format Duszy EP
 - MOTHNODE_ Zmierzch (Prod. Clover)
+
+[cover]
 
 ### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming)
 - originally Ryzom was supposed to be the name of the album containing Polish 'Ryzomat' song but I'd like to dive deeper into the topic
 - album based on the abstract strata of the philosophy of rhizome. Soundscape almost. Natural soundscape + bass and delicate beat. Along with the album comes a designed visualization showcasing a visual and structural interpretation of the philosophy.
+
+[cover]
 
 ### /// HC32_ MOTHNODE_ DNA Prelude EP [Progression Series]
 (these could also be songs but I like the idea of overarching changing theme)
