@@ -168,12 +168,18 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
+[cover]
+
 ### /// HC17_ MOTHNODE_ Hybrids On-going Album
 Album mixtape containing all of my collaborations with others.
+
+[cover]
 
 ### /// HC18_ MOTHNODE_ Shadow Work EP
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
+
+[cover]
 
 ### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
