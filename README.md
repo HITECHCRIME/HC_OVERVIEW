@@ -130,6 +130,8 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 - MOTHNODE_ Sherpa
 - MOTHNODE_ Skadyssa
 
+[cover]
+
 ### /// HC12_ MOTHNODE_ Mantra EP
 Album using bass as a meditative technique.
 - MOTHNODE_ Cleanse
@@ -138,11 +140,17 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 - MOTHNODE_ Samsara
 
+[cover]
+
 ### /// HC13_ MOTHNODE_ Ksiega Szeptow
 Pagan futurism.
 
+[cover]
+
 ### /// HC14_ MOTHNODE_ Tourist Through Life EP
 Fleeting observer from a distance. Unseen presence. Story of life.
+
+[cover]
 
 ### /// HC15_ MOTHNODE_ Tactical EP
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
@@ -153,6 +161,8 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 - MOTHNODE_ The Little Grey Man
 - MOTHNODE_ Exfiltration Container
 - MOTHNODE_ Putpocket (person specializing in planting things in pockets)
+
+[cover]
 
 ### /// HC16_ MOTHNODE_ Wakanda EP
 Tribal african rhytms and chants that transform into deep bass and trap.
