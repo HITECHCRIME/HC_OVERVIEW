@@ -75,8 +75,12 @@ Darker, micro darkness type.
 + HC_SG19_Lord_Of_Flies
 + HC_SG53_The_Fourth_Industrial_Revolution
 
+[cover]
+
 ### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album)
 Collaboration album - each song is a split with someone. Conquer the world together theme.
+
+[cover]
 
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP
 Slow, deep, esoteric, productivity themes. 
