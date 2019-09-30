@@ -295,29 +295,47 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 ### /// HC32_ MOTHNODE_ DNA Prelude EP [Progression Series]
 (these could also be songs but I like the idea of overarching changing theme)
 
+[cover]
+
 ### /// HC33_ MOTHNODE_ Transhuman EP [Progression Series]
+
+[cover]
 
 ### /// HC34_ MOTHNODE_ Posthuman EP [Progression Series]
 
+[cover]
+
 ### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]
+
+[cover]
 
 ### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]
 - Gore vibe, hell, darkness, nature.
 
+[cover]
+
 ### /// HC37_ MOTHNODE_ Sacrificial EP
 Deep slow. "Sa-cri-fiiiice"
 
+[cover]
+
 ### /// HC38_ MOTHNODE_ The Purge EP
 Purging bad progs with bass.
+
+[cover]
 
 ### /// HC39_ MOTHNODE_ I0N0F0J
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
+[cover]
+
 ### /// HC40_ ICE7 EP
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
+
+[cover]
 
 ### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP
 Dendritic arbour. /// cell body axon = soma
@@ -325,6 +343,8 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Body Cell
 - MOTHNODE_ Soma
 - MOTHNODE_ Ax(i)on
+
+[cover]
 
 ### /// HC42_ MOTHNODE_ Error_default EP
 Social scripts focus album.
