@@ -48,6 +48,8 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
+[cover]
+
 ### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
@@ -55,6 +57,8 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ KEFLAR                                         
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 + MOTHNODE_ Król Maskarada
+
+[cover]
 
 ### /// HC04_ MOTHNODE_ Lost Net (English)
 Darker, micro darkness type.
