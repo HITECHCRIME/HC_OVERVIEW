@@ -48,7 +48,7 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ RYZOMAT
 + MOTHNODE_ TRWAŁOŚĆ UMYSŁU
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
@@ -58,7 +58,7 @@ Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ Dla Mnie I Wszystkich (nope)
 + MOTHNODE_ Król Maskarada
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC04_ MOTHNODE_ Lost Net (English)
 Darker, micro darkness type.
@@ -75,23 +75,23 @@ Darker, micro darkness type.
 + HC_SG19_Lord_Of_Flies
 + HC_SG53_The_Fourth_Industrial_Revolution
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album)
 Collaboration album - each song is a split with someone. Conquer the world together theme.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP
 Slow, deep, esoteric, productivity themes. 
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
 Cyberpunk Swag album. (purple album/royal)
 - MOTHNODE_ The Hibernation 
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album)
 Album made exclusively with one other person.
