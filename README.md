@@ -317,25 +317,25 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 ### /// HC37_ MOTHNODE_ Sacrificial EP
 Deep slow. "Sa-cri-fiiiice"
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC38_ MOTHNODE_ The Purge EP
 Purging bad progs with bass.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC39_ MOTHNODE_ I0N0F0J
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC40_ ICE7 EP
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP
 Dendritic arbour. /// cell body axon = soma
@@ -344,7 +344,7 @@ Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Soma
 - MOTHNODE_ Ax(i)on
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC42_ MOTHNODE_ Error_default EP
 Social scripts focus album.
