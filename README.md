@@ -96,7 +96,7 @@ Cyberpunk Swag album. (purple album/royal)
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album)
 Album made exclusively with one other person.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?] 
 
 ### /// HC09_ MOTHNODE_ breachInjectProgram EP
 - Dark Aggro Cyberpunk Trap Metal. Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
@@ -106,7 +106,7 @@ Scream rap album.
 + MOTHNODE_ 1gn0rvnt
 + MOTHNODE_ trust 1n vn1mv
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC10_ MOTHNODE_ Skuld EP
 https://en.wikipedia.org/wiki/Skuld
@@ -120,7 +120,7 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 - Skuld ›  The norn of the future.
 - Ymer ›  The huge giant out of whose body the world was created.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC11_ MOTHNODE_ Northern Invasion
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
@@ -130,7 +130,7 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 - MOTHNODE_ Sherpa
 - MOTHNODE_ Skadyssa
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC12_ MOTHNODE_ Mantra EP
 Album using bass as a meditative technique.
