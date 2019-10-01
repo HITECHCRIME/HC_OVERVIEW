@@ -140,17 +140,17 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 - MOTHNODE_ Samsara
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC13_ MOTHNODE_ Ksiega Szeptow
 Pagan futurism.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC14_ MOTHNODE_ Tourist Through Life EP
 Fleeting observer from a distance. Unseen presence. Story of life.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC15_ MOTHNODE_ Tactical EP
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
