@@ -162,18 +162,18 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 - MOTHNODE_ Exfiltration Container
 - MOTHNODE_ Putpocket (person specializing in planting things in pockets)
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC16_ MOTHNODE_ Wakanda EP
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC17_ MOTHNODE_ Hybrids On-going Album
 Album mixtape containing all of my collaborations with others.
 
-[cover]
+[cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC18_ MOTHNODE_ Shadow Work EP
 - Dealing with your inner demons.
