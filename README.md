@@ -384,6 +384,10 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Incognitas (Anon)
 - MOTHNODE_ Cogito Ergo Sum [Lies]
 - MOTHNODE_ Brute Truth
+- MOTHNODE_ It Follows
+- MOTHNODE_ Black Cross
+- MOTHNODE_ Cocoons (Spawn)
+- MOTHNODE_ 
 
 ---
 
