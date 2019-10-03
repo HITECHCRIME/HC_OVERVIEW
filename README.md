@@ -386,7 +386,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Brute Truth
 - MOTHNODE_ It Follows
 - MOTHNODE_ Black Cross
-- MOTHNODE_ Cocoons (Spawn)
+- MOTHNODE_ Cocoons (moth/Spawn)
 - MOTHNODE_ Mortimer
 - MOTHNODE_ Blood to the blood god
 
