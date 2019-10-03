@@ -383,6 +383,14 @@ Ya tengo tu medula congelada en la nevera
 - **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
 - **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q
 
+Structure:
+1. Satsu
+2. Satsu (MOTH just adds)
+3. Satsu Lead x MOTH full verses
+4. MOTH Lead x You full verses
+5. MOTH (Satsu just adds)
+6. MOTH
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
