@@ -387,7 +387,8 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ It Follows
 - MOTHNODE_ Black Cross
 - MOTHNODE_ Cocoons (Spawn)
-- MOTHNODE_ 
+- MOTHNODE_ Mortimer
+- MOTHNODE_ Blood to the blood god
 
 ---
 
