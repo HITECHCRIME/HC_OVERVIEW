@@ -352,6 +352,8 @@ Social scripts focus album.
 
 ### /// HC43_ Satsu x MOTHNODE_ X EP
 
+Wait for Satsu's decision.
+
 - **Satsu Song**
 Miedo de mi 
 Miedo de mi
