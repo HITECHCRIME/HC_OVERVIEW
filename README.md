@@ -391,6 +391,12 @@ Structure:
 5. MOTH (Satsu just adds)
 6. MOTH
 
+Alt structure:
+1. You (Moth just adds)
+2. You Lead x Me full verses
+3. Me Lead x You full verses
+4. Me (Satsu just adds)
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
