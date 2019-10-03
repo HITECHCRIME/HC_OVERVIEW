@@ -378,7 +378,7 @@ Dale un latigazo pa que pague por sus penas
 Ya tengo tu medula congelada en la nevera
 
 - **Satsu Song**
-- **Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140)
+- **Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140) https://www.youtube.com/watch?v=A-51LxYY2_k
 - **MOTHNODE x Satsu Song** (Mothnode lead - autotune-like song) (HC_SG141)
 - **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
 - **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q
