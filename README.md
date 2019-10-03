@@ -350,6 +350,39 @@ Dendritic arbour. /// cell body axon = soma
 Social scripts focus album.
 - MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
 
+### /// HC43_ Satsu x MOTHNODE_ X EP
+
+- **Satsu Song**
+Miedo de mi 
+Miedo de mi
+Miedo de mi
+Miedo de mi
+Tengo el demonio hablándole a mi oreja
+Ya tengo mil 
+Tiros contados pa la balacera
+El ídolo tuyo es una marioneta
+Dale en la nuca 
+Subelo a la guagua
+
+Ya me tomé la tableta de xanax
+Pintando con tu sangre el pentagrama
+Se abre tu pecho y te salen garras
+Y así me robó de tu alma
+Miedo mi 
+Tu cara de horror 
+Cuando me vistes empacado en el congelador
+
+(Demon voices)
+No quedarán tus huesos después de la cena
+Dale un latigazo pa que pague por sus penas
+Ya tengo tu medula congelada en la nevera
+
+- **Satsu Song**
+- **Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140)
+- **MOTHNODE x Satsu Song** (Mothnode lead) (HC_SG141)
+- **MOTHNODE Song** (HC_SG142)
+- **MOTHNODE Song** (HC_SG143)
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
