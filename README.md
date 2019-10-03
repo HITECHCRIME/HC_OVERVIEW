@@ -380,8 +380,8 @@ Ya tengo tu medula congelada en la nevera
 - **Satsu Song**
 - **Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140)
 - **MOTHNODE x Satsu Song** (Mothnode lead) (HC_SG141)
-- **MOTHNODE Song** (HC_SG142)
-- **MOTHNODE Song** (HC_SG143)
+- **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
+- **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
