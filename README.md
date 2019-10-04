@@ -305,39 +305,39 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]
+### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]  [ENGLISH SEASON EPISODES]
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]
+### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  [ENGLISH SEASON EPISODES]
 - Gore vibe, hell, darkness, nature.
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC37_ MOTHNODE_ Sacrificial EP
+### /// HC37_ MOTHNODE_ Sacrificial EP  [ENGLISH SEASON EPISODES]
 Deep slow. "Sa-cri-fiiiice"
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC38_ MOTHNODE_ The Purge EP
+### /// HC38_ MOTHNODE_ The Purge EP [ENGLISH SEASON EPISODES]
 Purging bad progs with bass.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC39_ MOTHNODE_ I0N0F0J
+### /// HC39_ MOTHNODE_ I0N0F0J [ENGLISH SEASON EPISODES]
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC40_ ICE7 EP
+### /// HC40_ ICE7 EP  [ENGLISH SEASON EPISODES]
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP
+### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
 Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Dendryte
 - MOTHNODE_ Body Cell
