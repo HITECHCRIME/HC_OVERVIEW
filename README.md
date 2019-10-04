@@ -341,7 +341,7 @@ Tracklisting:
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
+### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  [ENGLISH SEASON EPISODES]
 Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Dendryte
 - MOTHNODE_ Body Cell
@@ -350,11 +350,11 @@ Dendritic arbour. /// cell body axon = soma
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC42_ MOTHNODE_ Error_default EP
+### /// HC42_ MOTHNODE_ Error_default EP [ENGLISH SEASON EPISODES]
 Social scripts focus album.
 - MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
 
-### /// HC43_ Satsu x MOTHNODE_ X EP
+### /// HC43_ Satsu x MOTHNODE_ X EP [ENGLISH/SPANISH/POLISH SEASON EPISODES]
 
 Wait for Satsu's decision.
 
