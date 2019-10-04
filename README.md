@@ -60,7 +60,7 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC04_ MOTHNODE_ Lost Net (English) [ENGLISH SEASON EPISODES]
+### /// HC04_ MOTHNODE_ Lost Net [ENGLISH SEASON EPISODES]
 Darker, micro darkness type.
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
