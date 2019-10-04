@@ -122,7 +122,7 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC11_ MOTHNODE_ Northern Invasion
+### /// HC11_ MOTHNODE_ Northern Invasion [ENGLISH SEASON EPISODES / ICELANDIC LANG]
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
 
@@ -132,7 +132,7 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC12_ MOTHNODE_ Mantra EP
+### /// HC12_ MOTHNODE_ Mantra EP [ENGLISH SEASON EPISODES]
 Album using bass as a meditative technique.
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
