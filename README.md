@@ -93,12 +93,12 @@ Cyberpunk Swag album. (purple album/royal)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC08_ MOTHNODE_ In It Together (Dual Album)
+### /// HC08_ MOTHNODE_ In It Together (Dual Album) [ENGLISH SEASON EPISODES]
 Album made exclusively with one other person.
 
 [cover] [type of album] [narrative? conceptual? abstract?] 
 
-### /// HC09_ MOTHNODE_ breachInjectProgram EP
+### /// HC09_ MOTHNODE_ breachInjectProgram EP [ENGLISH SEASON EPISODES]
 - Dark Aggro Cyberpunk Trap Metal. Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 Scream rap album.
 + MOTHNODE_ ELECTR1C VE1NS
@@ -108,7 +108,7 @@ Scream rap album.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC10_ MOTHNODE_ Skuld EP
+### /// HC10_ MOTHNODE_ Skuld EP [ENGLISH SEASON EPISODES]
 https://en.wikipedia.org/wiki/Skuld
 Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
 Tribal, drums, tantric bass, electronic elements, minimal tho.
@@ -142,17 +142,17 @@ Album using bass as a meditative technique.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC13_ MOTHNODE_ Ksiega Szeptow
+### /// HC13_ MOTHNODE_ Ksiega Szeptow [POLISH SEASON EPISODES]
 Pagan futurism.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC14_ MOTHNODE_ Tourist Through Life EP
+### /// HC14_ MOTHNODE_ Tourist Through Life EP [ENGLISH SEASON EPISODES]
 Fleeting observer from a distance. Unseen presence. Story of life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC15_ MOTHNODE_ Tactical EP
+### /// HC15_ MOTHNODE_ Tactical EP [ENGLISH SEASON EPISODES]
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
@@ -164,18 +164,18 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC16_ MOTHNODE_ Wakanda EP
+### /// HC16_ MOTHNODE_ Wakanda EP [ENGLISH SEASON EPISODES]
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC17_ MOTHNODE_ Hybrids On-going Album
+### /// HC17_ MOTHNODE_ Hybrids On-going Album [ENGLISH SEASON EPISODES]
 Album mixtape containing all of my collaborations with others.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC18_ MOTHNODE_ Shadow Work EP
+### /// HC18_ MOTHNODE_ Shadow Work EP [ENGLISH SEASON EPISODES]
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
 
