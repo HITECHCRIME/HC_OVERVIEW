@@ -335,6 +335,10 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
 
+Tracklisting:
+- MOTHNODE_ Offworld (scifi futura album)
+- MOTHNODE_ ICE7
+
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
@@ -462,7 +466,6 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Cocoons (moth/Spawn)
 - MOTHNODE_ Mortimer
 - MOTHNODE_ Blood to the blood god
-- MOTHNODE_ Offworld (scifi futura album)
 - MOTHNODE_ Praxis (cyberpunk futura)
 - MOTHNODE_ Jake Hill & Hide
 ---
