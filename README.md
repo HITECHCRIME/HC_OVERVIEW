@@ -28,7 +28,7 @@ Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm
+### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm [POLISH SEASON EPISODES]
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
@@ -41,7 +41,7 @@ Mercenaries. Contains an arc narrative.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC02_ MOTHNODE_ Ryzomat EP
+### /// HC02_ MOTHNODE_ Ryzomat EP [POLISH SEASON EPISODES]
 Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ SIŁA KULTU
 + MOTHNODE_ (MOJA) SIATKA
@@ -50,7 +50,7 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC03_ MOTHNODE_ Lekki Okultyzm EP
+### /// HC03_ MOTHNODE_ Lekki Okultyzm EP [POLISH SEASON EPISODES]
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
 + MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
@@ -60,7 +60,7 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC04_ MOTHNODE_ Lost Net (English)
+### /// HC04_ MOTHNODE_ Lost Net (English) [ENGLISH SEASON EPISODES]
 Darker, micro darkness type.
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
@@ -77,7 +77,7 @@ Darker, micro darkness type.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album)
+### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) [ENGLISH SEASON EPISODES]
 Collaboration album - each song is a split with someone. Conquer the world together theme.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
