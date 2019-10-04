@@ -181,7 +181,7 @@ Album mixtape containing all of my collaborations with others.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
+### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP  [ENGLISH SEASON EPISODES]
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
 + HC_SG49_Slowclap
 + HC_SG26_Crave
@@ -190,12 +190,12 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC20_ MOTHNODE_ Wartrap EP
+### /// HC20_ MOTHNODE_ Wartrap EP [ENGLISH SEASON EPISODES]
 Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP
+### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP [ENGLISH SEASON EPISODES]
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
 “Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
 - Twin Peaks vibe concept album. 60s music and vibe mixed with trap. Kind of like an audio narrative series.
