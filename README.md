@@ -16,7 +16,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 41 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 43 EPs
 
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 
