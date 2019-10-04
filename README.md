@@ -214,7 +214,7 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC22_ MOTHNODE_ Rzad Mistykow EP
+### /// HC22_ MOTHNODE_ Rzad Mistykow EP [POLISH SEASON EPISODES]
 Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja pomoc to kanibale."
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
@@ -236,7 +236,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC25_ MOTHNODE_ Huna EP
+### /// HC25_ MOTHNODE_ Huna EP [ENGLISH SEASON EPISODES]
 "These people say our ancestors came here from the stars at tens of thousands of years ago. They brought with them a sacred wisdom called Ho'ala Huna (Hawai'ian words that mean: "that which causes an awakening to the secret or sacred awareness of Reality.") This knowledge was said to be the ultimate science of the world of spirit as well as the world of form
 - MOTHNODE_ Ike
 - MOTHNODE_ Kala
