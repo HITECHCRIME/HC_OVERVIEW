@@ -281,27 +281,27 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC30_ MOTHNODE_ Format Duszy EP
+### /// HC30_ MOTHNODE_ Format Duszy EP [POLISH SEASON EPISODES]
 - MOTHNODE_ Zmierzch (Prod. Clover)
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming)
+### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming) [ENGLISH SEASON EPISODES]
 - originally Ryzom was supposed to be the name of the album containing Polish 'Ryzomat' song but I'd like to dive deeper into the topic
 - album based on the abstract strata of the philosophy of rhizome. Soundscape almost. Natural soundscape + bass and delicate beat. Along with the album comes a designed visualization showcasing a visual and structural interpretation of the philosophy.
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC32_ MOTHNODE_ DNA Prelude EP [Progression Series]
+### /// HC32_ MOTHNODE_ DNA Prelude EP [Progression Series]  [ENGLISH SEASON EPISODES]
 (these could also be songs but I like the idea of overarching changing theme)
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC33_ MOTHNODE_ Transhuman EP [Progression Series]
+### /// HC33_ MOTHNODE_ Transhuman EP [Progression Series]  [ENGLISH SEASON EPISODES]
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC34_ MOTHNODE_ Posthuman EP [Progression Series]
+### /// HC34_ MOTHNODE_ Posthuman EP [Progression Series]  [ENGLISH SEASON EPISODES]
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
