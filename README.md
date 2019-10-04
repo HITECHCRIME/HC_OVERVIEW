@@ -82,12 +82,12 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC06_ MOTHNODE_ Plains of Trisight EP
+### /// HC06_ MOTHNODE_ Plains of Trisight EP [ENGLISH SEASON EPISODES]
 Slow, deep, esoteric, productivity themes. 
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP
+### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP [ENGLISH SEASON EPISODES]
 Cyberpunk Swag album. (purple album/royal)
 - MOTHNODE_ The Hibernation 
 
