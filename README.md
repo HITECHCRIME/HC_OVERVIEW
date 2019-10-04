@@ -385,6 +385,30 @@ Ya tengo tu medula congelada en la nevera
 - **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
 - **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q
 
+```
+Fear of me 
+Fear of me 
+Fear of me 
+Fear of me 
+I have the devil talking to my ear 
+I already have a thousand 
+Shots counted for the shooting 
+The idol of yours is a puppet 
+Hit the neck Upload it to the bus
+I already took the xanax tablet 
+Painting with your blood the pentagram 
+Your chest opens and claws come out
+And so it robbed me of your soul 
+Fear me
+Your horror face 
+When you dress me packed in the freezer
+
+(Demon voices) 
+There will be no bones left after dinner 
+Give him a whip to pay for his sorrows 
+I already have your medulla frozen in the fridge
+```
+
 Structure:
 1. Satsu
 2. Satsu (MOTH just adds)
