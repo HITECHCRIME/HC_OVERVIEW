@@ -248,7 +248,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC26_ MOTHNODE_ Dopamine Trails EP
+### /// HC26_ MOTHNODE_ Dopamine Trails EP [ENGLISH SEASON EPISODES]
 MOTHNODE_ Animal and the Human
 MOTHNODE_ Ghost in the Machines
 MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
@@ -256,7 +256,7 @@ MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC27_ MOTHNODE_ Edge Butterfly EP
+### /// HC27_ MOTHNODE_ Edge Butterfly EP [ENGLISH SEASON EPISODES]
 what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
 - MOTHNODE_ Night Butterfly
@@ -264,7 +264,7 @@ what Saramora said - i think edge butterfly is a moth
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC28_ MOTHNODE_ HIQ / haiku EP
+### /// HC28_ MOTHNODE_ HIQ / haiku EP [ENGLISH SEASON EPISODES]
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals. Assess, integrate, synthesize, postulate,  create coherent and useful mind pictures of the world.
 - MOTHNODE_ Branching Trails of Thought
 
