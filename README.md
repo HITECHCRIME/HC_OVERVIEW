@@ -468,6 +468,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Blood to the blood god
 - MOTHNODE_ Praxis (cyberpunk futura)
 - MOTHNODE_ Jake Hill & Hide
+- MOTHNODE_ Mothra (nature, flora and fauna)
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
