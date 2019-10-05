@@ -218,12 +218,18 @@ Tribal african rhytms and chants that transform into deep bass and trap.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC17_ MOTHNODE_ Hybrids On-going Album [ENGLISH SEASON EPISODES]
+### /// HC17_ MOTHNODE_ Hybrids On-going Album 
+
+[ENGLISH SEASON EPISODES]
+
 Album mixtape containing all of my collaborations with others.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC18_ MOTHNODE_ Shadow Work EP [ENGLISH SEASON EPISODES]
+### /// HC18_ MOTHNODE_ Shadow Work EP 
+
+[ENGLISH SEASON EPISODES]
+
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
 
