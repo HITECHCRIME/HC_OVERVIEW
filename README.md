@@ -419,7 +419,10 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC37_ MOTHNODE_ Sacrificial EP  [ENGLISH SEASON EPISODES]
+### /// HC37_ MOTHNODE_ Sacrificial EP  
+
+[ENGLISH SEASON EPISODES]
+
 Deep slow. "Sa-cri-fiiiice"
 
 [cover] [type of album] [narrative? conceptual? abstract?]
