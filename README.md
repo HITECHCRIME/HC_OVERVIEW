@@ -456,6 +456,7 @@ Hardcore futura album - distant future. Miners gathering rare types of ice from 
 Tracklisting:
 - MOTHNODE_ Offworld (scifi futura album)
 - MOTHNODE_ ICE7
+- MOTHNODE_ Trappist-G (trappist planets - check out the term haha)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
@@ -553,7 +554,7 @@ Alt structure:
 3. Me Lead x You full verses
 4. Me (Satsu just adds)
 
-### /// HC44_ MOTHNODE_ CBCBCBD EP 
+### /// HC44_ MOTHNODE_ CB-CB-CBD EP 
 
 [ENGLISH SEASON EPISODES]
 
@@ -582,7 +583,6 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - "Jail of your happiness so full of regrets, you think it protects xxx (deflect)"
 - "All I've got is Hitech Crime" / "All I have left is Hitech Crime"
 - MOTHNODE_ Attunement to Scripted Identities
-- MOTHNODE_ Trappist-G (trappist planets - check out the term haha)
 - wtf? "mio od na na/mid od ha na sztorc, mój squad, mój vibe, mój świat" ?
 - Self-made trap beat made from own natural audio samples (sticks, stones, leaves, water, ooh the field recording session would be glorious)
 - "wersy w bletkach na rewersie pełen rękaw"
