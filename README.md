@@ -238,7 +238,10 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC20_ MOTHNODE_ Wartrap EP [ENGLISH SEASON EPISODES]
+### /// HC20_ MOTHNODE_ Wartrap EP 
+
+[ENGLISH SEASON EPISODES]
+
 Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
