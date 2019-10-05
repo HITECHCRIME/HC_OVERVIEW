@@ -609,6 +609,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Repeat After Me (Mantra for the modern world) - i am not my feelings. i am not my emotions. i am not my thoughts.
 - MOTHNODE_ Isolation/Separation
 - MOTHNODE_ Frequency Drive
+- MOTHNODE_ Duality has a Third
 
 ---
 
