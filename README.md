@@ -235,7 +235,10 @@ Album mixtape containing all of my collaborations with others.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP  [ENGLISH SEASON EPISODES]
+### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
+
+[ENGLISH SEASON EPISODES]
+
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
 + HC_SG49_Slowclap
 + HC_SG26_Crave
