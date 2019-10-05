@@ -28,7 +28,10 @@ Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm [POLISH SEASON EPISODES]
+### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
+
+[POLISH SEASON EPISODES]
+
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
 + MOTHNODE_ PRZENIEŚMY SIĘ W CZASIE / SKIT Social media, phone sounds turn into drone bass as  we travel into the future.
@@ -41,7 +44,10 @@ Mercenaries. Contains an arc narrative.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC02_ MOTHNODE_ Ryzomat EP [POLISH SEASON EPISODES]
+### /// HC02_ MOTHNODE_ Ryzomat EP 
+
+[POLISH SEASON EPISODES]
+
 Nature, civilization, transhumanism, every day life.
 + MOTHNODE_ SIŁA KULTU
 + MOTHNODE_ (MOJA) SIATKA
