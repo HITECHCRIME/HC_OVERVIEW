@@ -89,7 +89,10 @@ Darker, micro darkness type.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) [ENGLISH SEASON EPISODES]
+### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) 
+
+[ENGLISH SEASON EPISODES]
+
 Collaboration album - each song is a split with someone. Conquer the world together theme.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
