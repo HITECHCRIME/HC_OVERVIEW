@@ -186,7 +186,10 @@ Pagan futurism.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC14_ MOTHNODE_ Tourist Through Life EP [ENGLISH SEASON EPISODES]
+### /// HC14_ MOTHNODE_ Tourist Through Life EP 
+
+[ENGLISH SEASON EPISODES]
+
 Fleeting observer from a distance. Unseen presence. Story of life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
