@@ -255,7 +255,10 @@ Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP [ENGLISH SEASON EPISODES]
+### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP 
+
+[ENGLISH SEASON EPISODES]
+
 https://cinematicdetective.wordpress.com/2018/09/17/a-cry-for-compassion-twin-peaks-season-three/
 “Through the darkness of future past, the magician longs to see, one chance out between two worlds, fire walk with me!”
 - Twin Peaks vibe concept album. 60s music and vibe mixed with trap. Kind of like an audio narrative series.
@@ -331,7 +334,10 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC27_ MOTHNODE_ Edge Butterfly EP [ENGLISH SEASON EPISODES]
+### /// HC27_ MOTHNODE_ Edge Butterfly EP 
+
+[ENGLISH SEASON EPISODES]
+
 what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
 - MOTHNODE_ Night Butterfly
