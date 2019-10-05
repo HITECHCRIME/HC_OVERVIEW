@@ -541,6 +541,8 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Praxis (cyberpunk futura)
 - MOTHNODE_ Jake Hill & Hide
 - MOTHNODE_ Mothra (nature, flora and fauna)
+- MOTHNODE_ CBD Regime (CBD EP)
+- MOTHNODE_ Tactical Drop Squad (CBD EP)
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
