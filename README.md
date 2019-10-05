@@ -175,6 +175,7 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Eighth Chakra
 - MOTHNODE_ Koan (Lesson of the Koans) https://www.youtube.com/watch?v=Pd-4dKaK_04
 - MOTHNODE_ Samsara
+- MOTHNODE_ Tantrap
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
@@ -601,6 +602,9 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Praxis (cyberpunk futura)
 - MOTHNODE_ Jake Hill & Hide
 - MOTHNODE_ Mothra (nature, flora and fauna)
+- MOTHNODE_ Beastmode
+- MOTHNODE_ 
+
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
