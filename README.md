@@ -603,7 +603,9 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Jake Hill & Hide
 - MOTHNODE_ Mothra (nature, flora and fauna)
 - MOTHNODE_ Beastmode
-- MOTHNODE_ 
+- MOTHNODE_ Trials & Tribulations
+- MOTHNODE_ (Too) Far Ahead (Stuck In The Future)
+- MOTHNODE_
 
 ---
 
