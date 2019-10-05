@@ -345,7 +345,10 @@ what Saramora said - i think edge butterfly is a moth
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC28_ MOTHNODE_ HIQ / haiku EP [ENGLISH SEASON EPISODES]
+### /// HC28_ MOTHNODE_ HIQ / haiku EP 
+
+[ENGLISH SEASON EPISODES]
+
 High IQ-themed album. Visualization of how a world would seem when run by highly intelligent individuals. Assess, integrate, synthesize, postulate,  create coherent and useful mind pictures of the world.
 - MOTHNODE_ Branching Trails of Thought
 
