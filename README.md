@@ -16,7 +16,7 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 43 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 44 EPs
 
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 
@@ -499,6 +499,11 @@ Alt structure:
 3. Me Lead x You full verses
 4. Me (Satsu just adds)
 
+### /// HC44_ MOTHNODE_ CBCBCBD EP [ENGLISH SEASON EPISODES]
+
+- MOTHNODE_ CBD Regime (CBD EP)
+- MOTHNODE_ Tactical Drop Squad (CBD EP)
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
@@ -541,8 +546,6 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Praxis (cyberpunk futura)
 - MOTHNODE_ Jake Hill & Hide
 - MOTHNODE_ Mothra (nature, flora and fauna)
-- MOTHNODE_ CBD Regime (CBD EP)
-- MOTHNODE_ Tactical Drop Squad (CBD EP)
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
