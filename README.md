@@ -457,6 +457,7 @@ Tracklisting:
 - MOTHNODE_ Offworld (scifi futura album)
 - MOTHNODE_ ICE7
 - MOTHNODE_ Trappist-G (trappist planets - check out the term haha)
+- MOTHNODE_ Stratas of Terra
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
