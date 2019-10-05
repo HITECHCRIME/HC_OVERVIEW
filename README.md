@@ -275,10 +275,13 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC26_ MOTHNODE_ Dopamine Trails EP [ENGLISH SEASON EPISODES]
-MOTHNODE_ Animal and the Human
-MOTHNODE_ Ghost in the Machines
-MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
+### /// HC26_ MOTHNODE_ Dopamine Trails EP 
+
+[ENGLISH SEASON EPISODES]
+
+- MOTHNODE_ Animal and the Human
+- MOTHNODE_ Ghost in the Machines
+- MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
 (dopamine trails theme)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
