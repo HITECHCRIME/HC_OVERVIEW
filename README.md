@@ -435,7 +435,10 @@ Purging bad progs with bass.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC39_ MOTHNODE_ I0N0F0J [ENGLISH SEASON EPISODES]
+### /// HC39_ MOTHNODE_ I0N0F0J 
+
+[ENGLISH SEASON EPISODES]
+
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
@@ -474,7 +477,9 @@ Dendritic arbour. /// cell body axon = soma
 Social scripts focus album.
 - MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
 
-### /// HC43_ Satsu x MOTHNODE_ X EP [ENGLISH/SPANISH/POLISH SEASON EPISODES]
+### /// HC43_ Satsu x MOTHNODE_ X EP 
+
+[ENGLISH/SPANISH/POLISH SEASON EPISODES]
 
 Wait for Satsu's decision.
 
@@ -547,7 +552,9 @@ Alt structure:
 3. Me Lead x You full verses
 4. Me (Satsu just adds)
 
-### /// HC44_ MOTHNODE_ CBCBCBD EP [ENGLISH SEASON EPISODES]
+### /// HC44_ MOTHNODE_ CBCBCBD EP 
+
+[ENGLISH SEASON EPISODES]
 
 - MOTHNODE_ CBD Regime (CBD EP)
 - MOTHNODE_ Tactical Drop Squad (CBD EP)
