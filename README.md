@@ -105,13 +105,19 @@ Slow, deep, esoteric, productivity themes.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP [ENGLISH SEASON EPISODES]
+### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP 
+
+[ENGLISH SEASON EPISODES]
+
 Cyberpunk Swag album. (purple album/royal)
 - MOTHNODE_ The Hibernation 
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC08_ MOTHNODE_ In It Together (Dual Album) [ENGLISH SEASON EPISODES]
+### /// HC08_ MOTHNODE_ In It Together (Dual Album) 
+
+[ENGLISH SEASON EPISODES]
+
 Album made exclusively with one other person.
 
 [cover] [type of album] [narrative? conceptual? abstract?] 
