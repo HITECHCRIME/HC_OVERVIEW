@@ -405,11 +405,16 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]  [ENGLISH SEASON EPISODES]
+### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]  
+
+[ENGLISH SEASON EPISODES]
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  [ENGLISH SEASON EPISODES]
+### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  
+
+[ENGLISH SEASON EPISODES]
+
 - Gore vibe, hell, darkness, nature.
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
