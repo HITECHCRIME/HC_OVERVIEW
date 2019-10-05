@@ -135,7 +135,10 @@ Scream rap album.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC10_ MOTHNODE_ Skuld EP [ENGLISH SEASON EPISODES]
+### /// HC10_ MOTHNODE_ Skuld EP 
+
+[ENGLISH SEASON EPISODES]
+
 https://en.wikipedia.org/wiki/Skuld
 Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
 Tribal, drums, tantric bass, electronic elements, minimal tho.
@@ -149,7 +152,10 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC11_ MOTHNODE_ Northern Invasion [ENGLISH SEASON EPISODES / ICELANDIC LANG]
+### /// HC11_ MOTHNODE_ Northern Invasion 
+
+[ENGLISH SEASON EPISODES / ICELANDIC LANG]
+
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
 
