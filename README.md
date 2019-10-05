@@ -340,7 +340,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
-- MOTHNODE_ Night Butterfly
+- MOTHNODE_ Night Butterfly / Edge Butterfly
 - MOTHNODE_ Cocoon
 
 [cover] [type of album] [narrative? conceptual? abstract?]
