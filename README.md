@@ -605,7 +605,8 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Beastmode
 - MOTHNODE_ Trials & Tribulations
 - MOTHNODE_ (Too) Far Ahead (Stuck In The Future)
-- MOTHNODE_
+- MOTHNODE_ Repeat After Me (Mantra for the modern world) - i am not my feelings. i am not my emotions. i am not my thoughts.
+- MOTHNODE_ 
 
 ---
 
