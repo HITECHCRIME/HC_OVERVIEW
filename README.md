@@ -182,7 +182,10 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC16_ MOTHNODE_ Wakanda EP [ENGLISH SEASON EPISODES]
+### /// HC16_ MOTHNODE_ Wakanda EP 
+
+[ENGLISH SEASON EPISODES]
+
 Tribal african rhytms and chants that transform into deep bass and trap.
 - Children of Vibration / Vibra?
 
