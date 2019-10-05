@@ -438,7 +438,10 @@ INFJ album. "aye aye, go an extra mile with me and you reach the core"
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC40_ ICE7 EP  [ENGLISH SEASON EPISODES]
+### /// HC40_ ICE7 EP  
+
+[ENGLISH SEASON EPISODES]
+
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
 - For heavy futura album about void miners >  ICE7 - rare type of ice (Eve Online vibes)
@@ -449,7 +452,10 @@ Tracklisting:
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  [ENGLISH SEASON EPISODES]
+### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
+
+[ENGLISH SEASON EPISODES]
+
 Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Dendryte
 - MOTHNODE_ Body Cell
