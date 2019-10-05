@@ -295,7 +295,10 @@ MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC24_ MOTHNODE_ Triangle of Fire EP (Zodiacal Series) [ENGLISH SEASON EPISODES]
+### /// HC24_ MOTHNODE_ Triangle of Fire EP (Zodiacal Series) 
+
+[ENGLISH SEASON EPISODES]
+
 Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold ornaments, ritual imagery. True self. Awakening.
 - MOTHNODE_ Aries
 - MOTHNODE_ "here i was born but watered down"
