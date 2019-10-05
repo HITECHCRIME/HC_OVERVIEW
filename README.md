@@ -56,7 +56,10 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC03_ MOTHNODE_ Lekki Okultyzm EP [POLISH SEASON EPISODES]
+### /// HC03_ MOTHNODE_ Lekki Okultyzm EP 
+
+[POLISH SEASON EPISODES]
+
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
 + MOTHNODE_ FLOTA DRONÓW                                   // drone workes, family mode of operation
