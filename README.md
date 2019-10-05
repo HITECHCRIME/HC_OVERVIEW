@@ -399,7 +399,9 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC34_ MOTHNODE_ Posthuman EP [Progression Series]  [ENGLISH SEASON EPISODES]
+### /// HC34_ MOTHNODE_ Posthuman EP [Progression Series]  
+
+[ENGLISH SEASON EPISODES]
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
