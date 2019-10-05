@@ -271,7 +271,10 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC22_ MOTHNODE_ Rzad Mistykow EP [POLISH SEASON EPISODES]
+### /// HC22_ MOTHNODE_ Rzad Mistykow EP 
+
+[POLISH SEASON EPISODES]
+
 Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja pomoc to kanibale."
 - MOTHNODE_ Mistycy Ducha
 - MOTHNODE_ Mistycy Mięśni
@@ -281,7 +284,10 @@ Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC23_ MOTHNODE_ Urban Mythology EP [ENGLISH SEASON EPISODES]
+### /// HC23_ MOTHNODE_ Urban Mythology EP 
+
+[ENGLISH SEASON EPISODES]
+
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
