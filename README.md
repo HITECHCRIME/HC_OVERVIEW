@@ -208,8 +208,9 @@ Fleeting observer from a distance. Unseen presence. Story of life.
 ### /// HC15_ MOTHNODE_ Tactical EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
+```
 - MOTHNODE_ Agent
 - MOTHNODE_ Runners
 - MOTHNODE_ cl0ser thvn d1stvnt t0 myself
