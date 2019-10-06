@@ -77,8 +77,9 @@ Nature, civilization, transhumanism, every day life.
 ### /// HC04_ MOTHNODE_ Lost Net 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Darker, micro darkness type.
+```
 + HC_SG34_Upgraded (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG31_No_Help (Lost Net)
@@ -105,16 +106,17 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Slow, deep, esoteric, productivity themes. 
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Cyberpunk Swag album. (purple album/royal)
+```
 - MOTHNODE_ The Hibernation 
 
 [cover] [type of album] [narrative? conceptual? abstract?]
