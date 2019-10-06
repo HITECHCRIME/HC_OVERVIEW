@@ -98,9 +98,9 @@ Darker, micro darkness type.
 ### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Collaboration album - each song is a split with someone. Conquer the world together theme.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP 
@@ -124,9 +124,9 @@ Cyberpunk Swag album. (purple album/royal)
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album) 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Album made exclusively with one other person.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?] 
 
 ### /// HC09_ MOTHNODE_ breachInjectProgram EP 
@@ -164,10 +164,10 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 ### /// HC11_ MOTHNODE_ Northern Invasion 
 
 [ENGLISH SEASON EPISODES / ICELANDIC LANG]
-
+```
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
-
+```
 - MOTHNODE_ Keflar
 - MOTHNODE_ Sherpa
 - MOTHNODE_ Skadyssa
@@ -177,8 +177,9 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 ### /// HC12_ MOTHNODE_ Mantra EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Album using bass as a meditative technique.
+```
 - MOTHNODE_ Cleanse
 - MOTHNODE_ Dao
 - MOTHNODE_ Eighth Chakra
@@ -191,9 +192,9 @@ Album using bass as a meditative technique.
 ### /// HC13_ MOTHNODE_ Ksiega Szeptow 
 
 [POLISH SEASON EPISODES]
-
+```
 Pagan futurism.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC14_ MOTHNODE_ Tourist Through Life EP 
