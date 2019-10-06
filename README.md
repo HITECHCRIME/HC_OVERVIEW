@@ -6,6 +6,10 @@
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP
 ```
+
+```
+THE WEYLAND YUTANI/AGENTS OF SHIELD OF TRAP MUSIC
+```
 **Hitech Crime** is a microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build a musical universe with unique lore and narratives.
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances and create futuristic audio and related visual communication using creative technology.
