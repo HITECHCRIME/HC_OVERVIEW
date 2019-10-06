@@ -200,9 +200,9 @@ Pagan futurism.
 ### /// HC14_ MOTHNODE_ Tourist Through Life EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Fleeting observer from a distance. Unseen presence. Story of life.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC15_ MOTHNODE_ Tactical EP 
@@ -265,9 +265,9 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 ### /// HC20_ MOTHNODE_ Wartrap EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP 
