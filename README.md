@@ -132,9 +132,10 @@ Album made exclusively with one other person.
 ### /// HC09_ MOTHNODE_ breachInjectProgram EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 - Dark Aggro Cyberpunk Trap Metal. Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 Scream rap album.
+```
 + MOTHNODE_ ELECTR1C VE1NS
 + MOTHNODE_ rvy
 + MOTHNODE_ 1gn0rvnt
@@ -147,9 +148,10 @@ Scream rap album.
 [ENGLISH SEASON EPISODES]
 
 https://en.wikipedia.org/wiki/Skuld
+```
 Futuristic viking vibe. Sample: https://www.youtube.com/watch?v=6FiMI502kPY
 Tribal, drums, tantric bass, electronic elements, minimal tho.
-
+```
 - Ivald ›  The father of the dwarfs that made Sif's hair, the ship Skidbladner, and Odin's spear Gungner.
 - Muspelheim ›  The world of blazing light before the creation.
 - Nidhug ›  A serpent in the nether world.
