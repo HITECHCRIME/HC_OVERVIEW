@@ -220,8 +220,9 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 ### /// HC16_ MOTHNODE_ Wakanda EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Tribal african rhytms and chants that transform into deep bass and trap.
+```
 - Children of Vibration / Vibra?
 
 [cover] [type of album] [narrative? conceptual? abstract?]
@@ -229,25 +230,27 @@ Tribal african rhytms and chants that transform into deep bass and trap.
 ### /// HC17_ MOTHNODE_ Hybrids On-going Album 
 
 [ENGLISH SEASON EPISODES]
-
+```
 Album mixtape containing all of my collaborations with others.
-
+```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC18_ MOTHNODE_ Shadow Work EP 
 
 [ENGLISH SEASON EPISODES]
-
+```
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
+```
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
 
 [ENGLISH SEASON EPISODES]
-
+```
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
+```
 + HC_SG49_Slowclap
 + HC_SG26_Crave
 + HC_SG32_Going_Wrong
