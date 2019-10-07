@@ -500,7 +500,23 @@ Social scripts focus album.
 
 Wait for Satsu's decision.
 
-- **Satsu Song**
+- MOTH Lead x You full verses
+
+// **MOTHNODE x Satsu Song** (HC_SG141) https://www.youtube.com/watch?v=A-51LxYY2_k
+
+- MOTH (Satsu just adds) 
+
+// **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
+
+- MOTH Solo
+
+**MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q autotune-like song? maybe not
+
+- Satsu lead + MOTHNODE verses  
+
+**Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140) mixed lang verse endings spanish/english https://www.youtube.com/watch?v=k5t8e-tqsAc
+
+- Satsu solo  **Satsu Song**
 Miedo de mi 
 Miedo de mi
 Miedo de mi
@@ -524,12 +540,6 @@ Cuando me vistes empacado en el congelador
 No quedarán tus huesos después de la cena
 Dale un latigazo pa que pague por sus penas
 Ya tengo tu medula congelada en la nevera
-
-- **Satsu Song**
-- **Satsu x MOTHNODE Song** (Satsu lead) (HC_SG140) mixed lang verse endings spanish/english https://www.youtube.com/watch?v=k5t8e-tqsAc
-- MOTH lead + satsu verses **MOTHNODE x Satsu Song** (Mothnode lead) (HC_SG141) https://www.youtube.com/watch?v=A-51LxYY2_k
-- MOTH + Satsu adds **MOTHNODE_ Stay With The Flow** (HC_SG142) https://www.youtube.com/watch?v=8RUG3TIVMSk
-- MOTH **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q autotune-like song? maybe not
 
 ```
 Fear of me 
@@ -559,8 +569,8 @@ Structure:
 1. Satsu
 2. Satsu (MOTH just adds)
 3. Satsu Lead x MOTH full verses
-4. MOTH Lead x You full verses
-5. MOTH (Satsu just adds)
+4. 
+5. 
 6. MOTH
 
 Alt structure:
