@@ -775,7 +775,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 ## 'UPCLICK' NARRATIVE SHORT FILM
 - based on the song?
 
-## '
+## 'DUAL TAGS' NARRATIVE SHORT FILM
+
+
 
 # Audiovisual IRL Experiences (Musical Narrative Universe)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
