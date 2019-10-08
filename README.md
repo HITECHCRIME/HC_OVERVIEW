@@ -770,10 +770,12 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - bad aspects of communication
 
 ## 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM
-- femenimity
+- ephemeral femininity
 
 ## 'UPCLICK' NARRATIVE SHORT FILM
 - based on the song?
+
+## '
 
 # Audiovisual IRL Experiences (Musical Narrative Universe)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
