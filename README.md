@@ -791,6 +791,8 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 ## 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 
+## 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+
 # Audiovisual IRL Experiences (Musical Narrative Universe)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
