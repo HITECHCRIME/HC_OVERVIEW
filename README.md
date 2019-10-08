@@ -796,6 +796,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 ## 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 - productivity, meditation, fire
 
+## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source  of  knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
