@@ -512,7 +512,7 @@ Wait for Satsu's decision.
 
 **MOTHNODE_ Get'em Snitch** (HC_SG143) https://www.youtube.com/watch?v=h-0CrfyHt4Q autotune-like song? maybe not
 
-
+text?
 
 - Satsu lead + MOTHNODE verses  
 
