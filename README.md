@@ -758,7 +758,10 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - privacy concerns, public personal data, censorship.
 
 ## 'OMNIS' NARRATIVE SHORT FILM
--  omnipotent all-seeing eye
+- omnipotent all-seeing eye
+
+## 'TRIBALIST' NARRATIVE SHORT FILM
+- crew, squad
 
 # Audiovisual IRL Experiences (Musical Narrative Universe)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
