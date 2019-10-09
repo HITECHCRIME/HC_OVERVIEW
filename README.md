@@ -803,6 +803,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
 - exploration and discovery theme.
 - lurking in the darkness
+- Avatar vibe
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
