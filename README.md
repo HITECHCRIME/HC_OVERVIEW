@@ -843,7 +843,13 @@ Ideas for the visuals and setups for concerts. Could also be applied to live onl
 - Look at the BTSM experiences they create (they include narrative experiences, lasers, smoke and colorful glitchy. Church of BTSM). It is more rave like tho.
 - Dropbox contains a lot of visal inspirations. Comb through it!
 
-# BLACKLANE_ Electronic soundscapes.
+---
+---
+
+# BLACKLANE_ Electronic soundscapes/ambients/drone.
+
+---
+---
 
 # Lekki Okultyzm - more lyrical Polish rap.
 
