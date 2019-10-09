@@ -754,6 +754,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_01]
 - Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
 
 
