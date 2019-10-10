@@ -393,7 +393,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 ### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming) 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 - originally Ryzom was supposed to be the name of the album containing Polish 'Ryzomat' song but I'd like to dive deeper into the topic
 - album based on the abstract strata of the philosophy of rhizome. Soundscape almost. Natural soundscape + bass and delicate beat. Along with the album comes a designed visualization showcasing a visual and structural interpretation of the philosophy.
