@@ -294,7 +294,7 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 
 ### /// HC22_ MOTHNODE_ Rzad Mistykow EP 
 
-[POLISH SEASON EPISODES]
+[POLISH SEASON EPISODES] [+NARRATIVE]
 
 Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja pomoc to kanibale."
 - MOTHNODE_ Mistycy Ducha
