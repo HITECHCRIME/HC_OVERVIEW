@@ -351,7 +351,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 ### /// HC27_ MOTHNODE_ Edge Butterfly EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 what Saramora said - i think edge butterfly is a moth
 - MOTHNODE_ Flight's Edge
