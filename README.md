@@ -145,7 +145,7 @@ Scream rap album.
 
 ### /// HC10_ MOTHNODE_ Skuld EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 https://en.wikipedia.org/wiki/Skuld
 ```
