@@ -223,7 +223,7 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 
 ### /// HC16_ MOTHNODE_ Wakanda EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Tribal african rhytms and chants that transform into deep bass and trap.
 ```
