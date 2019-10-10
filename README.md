@@ -50,7 +50,7 @@ Mercenaries. Contains an arc narrative.
 
 ### /// HC02_ MOTHNODE_ Ryzomat EP 
 
-[POLISH SEASON EPISODES]
+[POLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Nature, civilization, transhumanism, every day life.
 ```
