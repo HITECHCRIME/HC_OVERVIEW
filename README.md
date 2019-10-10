@@ -489,7 +489,7 @@ Dendritic arbour. /// cell body axon = soma
 
 ### /// HC42_ MOTHNODE_ Error_default EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 Social scripts focus album.
 - MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
