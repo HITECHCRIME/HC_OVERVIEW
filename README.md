@@ -163,7 +163,7 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 
 ### /// HC11_ MOTHNODE_ Northern Invasion 
 
-[ENGLISH SEASON EPISODES / ICELANDIC LANG]
+[ENGLISH SEASON EPISODES / ICELANDIC LANG] [+NARRATIVE]
 ```
 More of a reality album. Event album. Lasy islandzkie i wodospady to te nasze marzenia
 Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her including visuals and concepts.
