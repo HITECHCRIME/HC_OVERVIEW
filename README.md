@@ -233,7 +233,7 @@ Tribal african rhytms and chants that transform into deep bass and trap.
 
 ### /// HC17_ MOTHNODE_ Hybrids On-going Album 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Album mixtape containing all of my collaborations with others.
 ```
