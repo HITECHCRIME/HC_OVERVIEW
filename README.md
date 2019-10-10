@@ -477,7 +477,7 @@ Tracklisting:
 
 ### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 Dendritic arbour. /// cell body axon = soma
 - MOTHNODE_ Dendryte
