@@ -33,7 +33,7 @@ Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel
 
 ### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
 
-[POLISH SEASON EPISODES]
+[POLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Cinematic, Blade Runner style. Masks, weapons, tech, net, dirt, lowlife. 
 Mercenaries. Contains an arc narrative.
