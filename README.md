@@ -176,7 +176,7 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 
 ### /// HC12_ MOTHNODE_ Mantra EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Album using bass as a meditative technique.
 ```
