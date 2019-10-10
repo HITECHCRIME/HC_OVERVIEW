@@ -251,7 +251,7 @@ Album mixtape containing all of my collaborations with others.
 
 ### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Based on my day schedule and productivity evangelism. Album starts with the actual morning ritual initiation by Helve OS.
 ```
