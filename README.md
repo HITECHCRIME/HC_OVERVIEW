@@ -63,7 +63,7 @@ Nature, civilization, transhumanism, every day life.
 
 ### /// HC03_ MOTHNODE_ Lekki Okultyzm EP 
 
-[POLISH SEASON EPISODES]
+[POLISH SEASON EPISODES] [+NARRATIVE]
 
 + MOTHNODE_ ZGLISZCZA NICI                                 // lonely hacker
 + MOTHNODE_ Versus                                         // relationship anger, unjust treatment
