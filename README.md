@@ -428,7 +428,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 ### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 - Gore vibe, hell, darkness, nature.
 
