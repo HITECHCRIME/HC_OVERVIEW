@@ -113,7 +113,7 @@ Slow, deep, esoteric, productivity themes.
 
 ### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Cyberpunk Swag album. (purple album/royal)
 ```
