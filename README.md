@@ -452,7 +452,7 @@ Purging bad progs with bass.
 
 ### /// HC39_ MOTHNODE_ I0N0F0J 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 INFJ album. "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
