@@ -76,7 +76,7 @@ Nature, civilization, transhumanism, every day life.
 
 ### /// HC04_ MOTHNODE_ Lost Net 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Darker, micro darkness type.
 ```
