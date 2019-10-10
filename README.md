@@ -97,7 +97,7 @@ Darker, micro darkness type.
 
 ### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Collaboration album - each song is a split with someone. Conquer the world together theme.
 ```
