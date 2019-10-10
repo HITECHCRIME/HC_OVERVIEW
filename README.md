@@ -199,7 +199,7 @@ Pagan futurism.
 
 ### /// HC14_ MOTHNODE_ Tourist Through Life EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Fleeting observer from a distance. Unseen presence. Story of life.
 ```
@@ -207,7 +207,7 @@ Fleeting observer from a distance. Unseen presence. Story of life.
 
 ### /// HC15_ MOTHNODE_ Tactical EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant future. / Agent Album
 ```
