@@ -307,7 +307,7 @@ Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja
 
 ### /// HC23_ MOTHNODE_ Urban Mythology EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
