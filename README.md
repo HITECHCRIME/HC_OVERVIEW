@@ -105,7 +105,7 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 
 ### /// HC06_ MOTHNODE_ Plains of Trisight EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Slow, deep, esoteric, productivity themes. 
 ```
