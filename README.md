@@ -315,7 +315,7 @@ MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
 ### /// HC24_ MOTHNODE_ Triangle of Fire EP (Zodiacal Series) 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold ornaments, ritual imagery. True self. Awakening.
 - MOTHNODE_ Aries
