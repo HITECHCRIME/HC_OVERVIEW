@@ -496,7 +496,7 @@ Social scripts focus album.
 
 ### /// HC43_ Satsu x MOTHNODE_ X EP 
 
-[ENGLISH/SPANISH/POLISH SEASON EPISODES]
+[ENGLISH/SPANISH/POLISH SEASON EPISODES] [NO NARRATIVE]
 
 Wait for Satsu's decision.
 
