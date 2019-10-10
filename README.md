@@ -461,7 +461,7 @@ INFJ album. "aye aye, go an extra mile with me and you reach the core"
 
 ### /// HC40_ ICE7 EP  
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 Hardcore futura album - distant future. Miners gathering rare types of ice from asteroids.
 - Two shadows on a distant planet with 2 suns ("got more shadows in me than the rest, location-wise I'd say it's clear")
