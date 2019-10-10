@@ -444,7 +444,7 @@ Deep slow. "Sa-cri-fiiiice"
 
 ### /// HC38_ MOTHNODE_ The Purge EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 Purging bad progs with bass.
 
