@@ -191,7 +191,7 @@ Album using bass as a meditative technique.
 
 ### /// HC13_ MOTHNODE_ Ksiega Szeptow 
 
-[POLISH SEASON EPISODES]
+[POLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Pagan futurism.
 ```
