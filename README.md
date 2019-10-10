@@ -123,7 +123,7 @@ Cyberpunk Swag album. (purple album/royal)
 
 ### /// HC08_ MOTHNODE_ In It Together (Dual Album) 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Album made exclusively with one other person.
 ```
