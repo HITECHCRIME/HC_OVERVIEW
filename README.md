@@ -371,7 +371,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 ### /// HC29_ MOTHNODE_ Heisenberg Effect EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 
 - MOTHNODE_ Uncertain Principle
 - MOTHNODE_ Play & Change
