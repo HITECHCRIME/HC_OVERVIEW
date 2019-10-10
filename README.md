@@ -240,8 +240,8 @@ Album mixtape containing all of my collaborations with others.
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC18_ MOTHNODE_ Shadow Work EP 
-
-[ENGLISH SEASON EPISODES]
+ 
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 - Dealing with your inner demons.
 - https://scottjeffrey.com/shadow-work/
