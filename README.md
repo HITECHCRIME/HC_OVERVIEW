@@ -131,7 +131,7 @@ Album made exclusively with one other person.
 
 ### /// HC09_ MOTHNODE_ breachInjectProgram EP 
 
-[ENGLISH SEASON EPISODES]
+[ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 - Dark Aggro Cyberpunk Trap Metal. Aggrotrap. Trapmetal. Trapcore. Wkurwcore.
 Scream rap album.
