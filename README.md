@@ -17,6 +17,8 @@ As an expressive entity it explores and expresses topics ranging from *psycholog
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement etc.
 
+Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
