@@ -15,6 +15,8 @@ Its *technical aim* is to research, develop and execute ideas in form of new wav
 
 As an expressive entity it explores and expresses topics ranging from *psychology*, *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*. 
 
+Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement etc.
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
