@@ -843,7 +843,7 @@ Ideas for the visuals and setups for concerts. Could also be applied to live onl
 - Look at the BTSM experiences they create (they include narrative experiences, lasers, smoke and colorful glitchy. Church of BTSM). It is more rave like tho.
 - Dropbox contains a lot of visal inspirations. Comb through it!
 - Crypto-rave Excerpt:
-```
+
 ‘You’ve been invited to join our next crypto-rave.’ You click on the link sent by the crypto-rave network and get sent to the website of the next event. In the centre of the page there is a button that says ‘mine’, you press it and sit back. After a couple of hours you get a message that you’ve unlocked your new raver identity. Your new name is Eva Black and your character even has a personality. After six more hours of making your computer available to a crypto mining pool, you unlock your ticket and receive the secret location for the rave. 
 
 You take the bus to an outskirt and find yourself in-between buildings that look like they’ve been left by their owners a long time ago. You walk through an alley and see a big red circle, illuminating the darkness. As you get closer you see people queuing in front of a door. This must be it. Mesmerized you get closer and see people wearing masks, there’s a guy in front of you who turns around and stares at you with one cat eye lens. Behind you, a girl that looks like she just stepped out of the Matrix, lights her cigarette. You wonder if they all have a new identity just like you. 
@@ -851,7 +851,6 @@ You take the bus to an outskirt and find yourself in-between buildings that look
 At the door the bouncer asks your name. You mention Eva Black is here, he nods you in. Inside you see even more people that have dressed up in most unique ways. You walk the hallway and pass some rooms filled with colors and lights. You stop at one room that catches your attention. People are dancing. Not the ordinary style, but they’re learning Butoh: a Japanese theatre dance, where the dancers perform the dance of the death and disease, to gain insight. You move on to the next room where people are meditating. To end up in a room blasting techno. 
 
 Welcome, to the crypto-rave.
-```
 
 ---
 ---
