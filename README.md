@@ -25,6 +25,8 @@ Story > Tech > Audience.
 
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve.
 
+Community Engagement Idea: "You know what kind of night it is when Hitech Crime red is on the streets" - audience uses synchronized set up of red lamps  ;p
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
