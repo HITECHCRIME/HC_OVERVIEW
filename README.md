@@ -802,6 +802,11 @@ Story in transmedia: there is a narrative logic to it even if different projects
 
 Story is what we have in our mind once we consumed a plot of a movie. More information processed together, no one person is going to know all the parts of the story which creates a social opportunity for people to pull knowledge together and keep the story alive.
 
+---
+
+slave to a king story - comedy
+king to a slave - tragedy
+
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
