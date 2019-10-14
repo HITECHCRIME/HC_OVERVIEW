@@ -783,7 +783,8 @@ Hero
 Threshold guardian
 Herald
 Shapeshifter
-
+Ally
+Trickster
 
 It all depicts change. Get people accustomed to change, ease the pain of change.
 
