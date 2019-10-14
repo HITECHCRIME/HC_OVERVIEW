@@ -739,7 +739,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 # Hitech Crime Universe Notes
 
+"Our lives are constructed around stories that we tell each other and ourselves, about the complex things that happen to us everyday. We strip away the extraneous details and condense experiences into simplified narratives. So that we can store important information in a way that's easier to remember, when we need to remember it. These stories form our understanding and our memory of the world, and of the people we interact with. When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge. Guiding the way we behave and the way we live within our society. As we experience our own life stories, the things that happen to us have an emotional impact. If someone's nice to us, we feel welcome. We laugh when something's funny, we cry when something's sad, and we get angry when we feel something's unjust."
 
+Hero's Journey. The audience is the hero.
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
