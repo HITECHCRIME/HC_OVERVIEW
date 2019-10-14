@@ -825,7 +825,9 @@ World - integrated system with a lot of moving parts. Characters, settings, myth
 
 Transmedia: After telling a basic story you can picture an oral storyteller stopping at that point and extending outward and telling you more about those characters that the audience is really engaged and interested in. So those are points of extension, points where we could build out.
 
+"So you can sort of say that Tolstoy wanted to become a game designer, he just didnt have the technology. He wanted to have an immersive space that the viewer could travel through and within which he could play out different permutations, and if I tweak this variable then the outcome would have been different and here's how. But everything in, Tolstoy give almost a full on game design manual there. To how we build out war and peace into other media platforms. So I would say writers and storytellers throughout history have wanted to be able to expand the canvas in which they construct their stories and extend the story into other medium.
 
+It's just they often didn't have the resources to do that as fully as they might like. But looking for those moments in the story helps you to figure out where the extensions should go.
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
