@@ -794,6 +794,10 @@ All stories have a purpose, a moral that can be learned through the hero's trans
 
 Plot - sequence of events as they unfold, linear
 Story - is the thing we understand after watching the sequence of events
+Structure of information we assemble. Chunking of information and expecting people to piece it together.
+
+Story in transmedia: there is a narrative logic to it even if different projects tell different stories in different timelines and versions of reality. They all belong to one storyworld.
+
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
