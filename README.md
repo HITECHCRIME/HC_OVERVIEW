@@ -856,12 +856,18 @@ Character archetypes
 
 The moral
 
-One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
-The moral can usually be distilled into one simple core message that is designed to help provide a positive life lesson to the audience, and provide the context that defines the detail in all other elements within the story.
-Characters motivations are usually driven by the moral - highlighting the positive effects from heeding the moral, and the negative effects of ignoring it.
-The moral is usually revealed at the end of the hero’s journey, as the hero changes status as a result from learning the central life lesson being told.
-The journey, characters, motivations and moral of the story also have a bearing upon how you choose to use engage different audiences, and therefore which technologies you use.
-True connection and engagement with an audience comes from our ability to personally relate to the moral of the story, through emotional connections between the characters and their experiences, and our own personal stories that guide our lives.
+- One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
+
+- The moral can usually be distilled into one simple core message that is designed to help provide a positive life lesson to the audience, and provide the context that defines the detail in all other elements within the story.
+
+- Characters motivations are usually driven by the moral - highlighting the positive effects from heeding the moral, and the negative effects of ignoring it.
+
+- The moral is usually revealed at the end of the hero’s journey, as the hero changes status as a result from learning the central life lesson being told.
+
+- The journey, characters, motivations and moral of the story also have a bearing upon how you choose to use engage different audiences, and therefore which technologies you use.
+
+- True connection and engagement with an audience comes from our ability to personally relate to the moral of the story, through emotional connections between the characters and their experiences, and our own personal stories that guide our lives.
+
 Remember that the structure of your story is critical. To engage your audience, you need to take them on an emotional journey, with some kind of transformation for the hero because of a life lesson being learned. The audience needs to relate this transformation to their own experience.
 
 The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?
