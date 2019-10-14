@@ -813,6 +813,7 @@ So if you know your central character, what they want, what they need, where the
 
 So, what we're doing here, when we're talking about a story world, is we're taking our expectations of reality, and we're applying them into the storytelling. And that's very satisfying, that's a very good thing that everything stays the same. So the story world is actually about internal consistency. It's about there being internal rules, and the rules can be whatever you want. They can be that everyone is blue and they can fly, that's fine.
 
+But there needs to be internal rules that you follow. And those rules, once they're in place, can extend in all kinds of different directions, because they tell us what will happen.
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
