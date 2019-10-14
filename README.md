@@ -821,7 +821,7 @@ Concept: story is an episodic memory, a dream. In trans-media various elements c
 
 You don't remember the exact sequence of words in a book. You remember the mental imagery. An emotional contour.
 
-World - integrated system with a lot of moving parts. Characters, settings, myths, artifacts. A  whole system of society or a culture.
+World - integrated system with a lot of moving parts. Characters, settings, myths, artifacts, rules. A  whole system of society or a culture.
 
 Transmedia: After telling a basic story you can picture an oral storyteller stopping at that point and extending outward and telling you more about those characters that the audience is really engaged and interested in. So those are points of extension, points where we could build out.
 
