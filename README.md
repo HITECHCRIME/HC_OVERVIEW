@@ -870,9 +870,11 @@ The moral
 
 Remember that the structure of your story is critical. To engage your audience, you need to take them on an emotional journey, with some kind of transformation for the hero because of a life lesson being learned. The audience needs to relate this transformation to their own experience.
 
-The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?
+"The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?"
 
 Narratives are overarching - world arcs, character arcs (!), motif arcs.
+
+"So to your point about that multi discipline of narrative, we need to come up with the right language for the individual and that language is not just spoken language but it's also, is it an interface? Is it using a book? Is it using Kindle? Is it using virtual reality, augmented reality. >> We can tell one type of story that exists as a narrative from A to Z. It tells a story of a character, or a story of a brand, or a story of a musician, or album."
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
