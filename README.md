@@ -792,6 +792,9 @@ It all depicts change. Get people accustomed to change, ease the pain of change.
 
 All stories have a purpose, a moral that can be learned through the hero's transformation. Positive life-lesson? Depiction of "life" change before learning the lesson and after.
 
+Plot - sequence of events as they unfold, linear
+Story - is the thing we understand after watching the sequence of events
+
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
