@@ -880,6 +880,8 @@ Narratives are overarching - world arcs, character arcs (!), motif arcs.
 
 They understand the concepts behind or the mission statement behind the brand or what they're trying to achieve. And then, other types of scenario, for us, is really like interweaving all kinds of various storylines or ideas that don't necessarily feel like they go together, on first glance. But then when you take that 30,000 foot view and you step back from it and you see it all play out and you realize all the way along the road there they were connecting that and leading me down a path, that I wasn't aware of."
 
+
+
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
