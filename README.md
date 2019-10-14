@@ -829,6 +829,43 @@ Transmedia: After telling a basic story you can picture an oral storyteller stop
 
 It's just they often didn't have the resources to do that as fully as they might like. But looking for those moments in the story helps you to figure out where the extensions should go.
 
+Story, memory and meaning
+
+We remember things that happen to us in our lives by stripping away extraneous details, and condensing experiences into simplified narratives.
+
+When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge – guiding the way we behave and live within our broader society.
+
+Our own life experiences have an emotional impact upon us. No matter who we are, we all have common emotional responses to different situations.
+
+- Eliciting emotional responses in a story can therefore be used as a way to engage with diverse audiences in a similar manner, and communicate an important life lesson, or moral.
+
+The Hero’s Journey
+
+- In his 1949 book about comparative mythology, “The Hero with a Thousand Faces”, Joseph Campbell noted that most stories share the same structure. He called this structure the monomyth.
+Christopher Vogler distilled this monomyth into a series of simple steps called ‘Stages of the hero’s journey’. These simple steps form the basic structure for the majority of all stories told today. Refer to the Key Concept - The anatomy of story lecture earlier in the module for more detail.
+
+- The hero’s journey depicts change – a life lesson that must be learned the hard way by undertaking a personal journey to reach a new understanding. By connecting to the emotive elements in such stories, the audience can undertake the journey with the hero, so that they too can learn from the moral of the story and relate it to their own experience.
+
+Character archetypes
+
+- In his book “The Writer’s Journey: Mythic Structure for Storytellers and Screenwriters”, Christopher Vogler described the eight most common character archetypes appearing in most stories. An archetype is something that exhibits typical elements of certain personalities.
+
+- Most stories contain several of these archetypes, that interact in specific stages of the hero's journey, but not all stories need to contain them all.
+
+- Using character archetypes in combination with the stages of the hero's journey can help you structure your own stories.
+
+The moral
+
+One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
+The moral can usually be distilled into one simple core message that is designed to help provide a positive life lesson to the audience, and provide the context that defines the detail in all other elements within the story.
+Characters motivations are usually driven by the moral - highlighting the positive effects from heeding the moral, and the negative effects of ignoring it.
+The moral is usually revealed at the end of the hero’s journey, as the hero changes status as a result from learning the central life lesson being told.
+The journey, characters, motivations and moral of the story also have a bearing upon how you choose to use engage different audiences, and therefore which technologies you use.
+True connection and engagement with an audience comes from our ability to personally relate to the moral of the story, through emotional connections between the characters and their experiences, and our own personal stories that guide our lives.
+Remember that the structure of your story is critical. To engage your audience, you need to take them on an emotional journey, with some kind of transformation for the hero because of a life lesson being learned. The audience needs to relate this transformation to their own experience.
+
+The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?
+
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
