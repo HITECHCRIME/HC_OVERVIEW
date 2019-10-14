@@ -751,7 +751,17 @@ They stand as a guide as to how to conduct our own journey through life and end 
 
 Hero's Journey. The audience is the hero.
 
+Ordinary World
 
+Call to Adventure
+
+Refusal of the call
+
+Crossing the threshold
+
+Test, allies, enemies.
+
+Approach to the innermost cave.
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
