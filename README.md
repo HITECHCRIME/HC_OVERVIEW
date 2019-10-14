@@ -751,6 +751,7 @@ They stand as a guide as to how to conduct our own journey through life and end 
 
 Hero's Journey. The audience is the hero.
 
+```
 Ordinary World
 
 Call to Adventure
@@ -772,6 +773,20 @@ Seizing the sword, reward.
 The road back.
 
 Ressurection.
+
+Return with the elixir.
+```
+Characters
+
+```
+Hero
+Threshold guardian
+Herald
+Shapeshifter
+
+
+It all depicts change. Get people accustomed to change, ease the pain of change.
+
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
