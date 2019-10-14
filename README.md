@@ -796,7 +796,11 @@ Plot - sequence of events as they unfold, linear
 Story - is the thing we understand after watching the sequence of events
 Structure of information we assemble. Chunking of information and expecting people to piece it together.
 
+Story is a result of experiencing the plot.
+
 Story in transmedia: there is a narrative logic to it even if different projects tell different stories in different timelines and versions of reality. They all belong to one storyworld.
+
+Story is what we have in our mind once we consumed a plot of a movie. More information processed together, no one person is going to know all the parts of the story which creates a social opportunity for people to pull knowledge together and keep the story alive.
 
 
 # Narrative Arcs for Hitech Crime
