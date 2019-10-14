@@ -781,31 +781,19 @@ Hero's Journey. The audience is the hero.
 
 ```
 Ordinary World
-
 Call to Adventure
-
 Refusal of the call
-
 Meeting the Mentor.
-
 Crossing the threshold.
-
 Test, allies, enemies.
-
 Approach to the innermost cave.
-
 Ordeal, Hero's Darkest Hour.
-
 Seizing the sword, reward.
-
 The road back.
-
 Ressurection.
-
 Return with the elixir.
 ```
 Characters 
-
 ```
 Hero
 Threshold guardian
