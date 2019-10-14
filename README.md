@@ -831,11 +831,11 @@ It's just they often didn't have the resources to do that as fully as they might
 
 Story, memory and meaning
 
-We remember things that happen to us in our lives by stripping away extraneous details, and condensing experiences into simplified narratives.
+- We remember things that happen to us in our lives by stripping away extraneous details, and condensing experiences into simplified narratives.
 
-When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge – guiding the way we behave and live within our broader society.
+- When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge – guiding the way we behave and live within our broader society.
 
-Our own life experiences have an emotional impact upon us. No matter who we are, we all have common emotional responses to different situations.
+- Our own life experiences have an emotional impact upon us. No matter who we are, we all have common emotional responses to different situations.
 
 - Eliciting emotional responses in a story can therefore be used as a way to engage with diverse audiences in a similar manner, and communicate an important life lesson, or moral.
 
