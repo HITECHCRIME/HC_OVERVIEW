@@ -27,6 +27,8 @@ Transmedia storytelling has no beginning, middle or end. Let the audience fill i
 
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps  ;p
 
+- unpredictable and unusual approaches to storytelling
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
