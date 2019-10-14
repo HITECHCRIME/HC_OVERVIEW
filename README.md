@@ -802,6 +802,8 @@ Story in transmedia: there is a narrative logic to it even if different projects
 
 Story is what we have in our mind once we consumed a plot of a movie. More information processed together, no one person is going to know all the parts of the story which creates a social opportunity for people to pull knowledge together and keep the story alive.
 
+You don't remember the exact sequence of words in a book. You remember the mental imagery.
+
 ---
 
 slave to a king story - comedy
