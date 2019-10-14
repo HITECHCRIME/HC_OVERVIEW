@@ -776,7 +776,7 @@ Ressurection.
 
 Return with the elixir.
 ```
-Characters
+Characters 
 
 ```
 Hero
@@ -785,9 +785,10 @@ Herald
 Shapeshifter
 Ally
 Trickster
+```
++ motivation of the characters. what is their fictional/nonfictional core drive?
 
 It all depicts change. Get people accustomed to change, ease the pain of change.
-
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
