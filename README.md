@@ -821,6 +821,8 @@ Concept: story is an episodic memory, a dream. In trans-media various elements c
 
 You don't remember the exact sequence of words in a book. You remember the mental imagery. An emotional contour.
 
+World - integrated system with a lot of moving parts. Characters, settings, myths, artifacts. A  whole system of society or a culture.
+
 
 
 # Narrative Arcs for Hitech Crime
