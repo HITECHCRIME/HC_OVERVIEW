@@ -809,6 +809,10 @@ king to a slave - tragedy
 
 It is all about going through ups and downs (exchange of status) and be able to learn from that. Identify with the protagonist. Moral purpose.
 
+So if you know your central character, what they want, what they need, where they're trying to get to, what motivates them than the plot rights itself. If I have a plot about somebody who is very upset about their situation in life, and they want to change things and an opportunity comes along, that writes what happens. Not only does character motivation work, but the world can be given a motivation. The world is trying to set itself right.
+
+So, what we're doing here, when we're talking about a story world, is we're taking our expectations of reality, and we're applying them into the storytelling. And that's very satisfying, that's a very good thing that everything stays the same. So the story world is actually about internal consistency. It's about there being internal rules, and the rules can be whatever you want. They can be that everyone is blue and they can fly, that's fine.
+
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
