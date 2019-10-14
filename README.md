@@ -737,6 +737,10 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
+# Hitech Crime Universe Notes
+
+
+
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
