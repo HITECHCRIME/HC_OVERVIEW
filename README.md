@@ -807,6 +807,8 @@ Story is what we have in our mind once we consumed a plot of a movie. More infor
 slave to a king story - comedy
 king to a slave - tragedy
 
+It is all about going through ups and downs (exchange of status) and be able to learn from that. Identify with the protagonist. Moral purpose.
+
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
