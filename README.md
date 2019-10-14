@@ -817,7 +817,7 @@ But there needs to be internal rules that you follow. And those rules, once they
 
 Characters have to fight to get it. And win or lose, they're going to find out what they really needed. It might differ from they thought they wanted making it an enlightening experience for both the characters and the audience. And that's pretty much the absolute nutshell of the whole Campbell Jungian thing which can fill several textbooks, so.
 
-Concept: story is an episodic memory.
+Concept: story is an episodic memory, a dream. In trans-media various elements come together into an idea. Conjuring narratives comes natural to a human brain.
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
