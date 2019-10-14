@@ -747,6 +747,8 @@ Without some kind of personal relevance, any story will hold little interest to 
 
 In this way, every story is about the different challenges, struggles and experiences that we all have to go through. All stories are about the transformation of the status of their characters from their original state to a more enlightened, wiser position through some sort of trial or test.
 
+They stand as a guide as to how to conduct our own journey through life and end up in a better place than where we started.
+
 Hero's Journey. The audience is the hero.
 
 
