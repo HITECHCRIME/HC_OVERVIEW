@@ -757,7 +757,9 @@ Call to Adventure
 
 Refusal of the call
 
-Crossing the threshold
+Meeting the Mentor.
+
+Crossing the threshold.
 
 Test, allies, enemies.
 
