@@ -21,9 +21,11 @@ Album/song releases are like plot points in a bigger narrative (overarching them
 Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
 
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
+
 ```
 STORY > TECH > AUDIENCE
 ```
+
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve.
 
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps  ;p
