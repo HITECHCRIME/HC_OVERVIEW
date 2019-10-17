@@ -868,7 +868,7 @@ Christopher Vogler distilled this monomyth into a series of simple steps called 
 
 - The hero’s journey depicts change – a life lesson that must be learned the hard way by undertaking a personal journey to reach a new understanding. By connecting to the emotive elements in such stories, the audience can undertake the journey with the hero, so that they too can learn from the moral of the story and relate it to their own experience.
 
-Character archetypes
+**Character archetypes**
 
 - In his book “The Writer’s Journey: Mythic Structure for Storytellers and Screenwriters”, Christopher Vogler described the eight most common character archetypes appearing in most stories. An archetype is something that exhibits typical elements of certain personalities.
 
@@ -876,7 +876,7 @@ Character archetypes
 
 - Using character archetypes in combination with the stages of the hero's journey can help you structure your own stories.
 
-The moral
+**The moral**
 
 - One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
 
