@@ -605,6 +605,8 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Elmolo (Kenya)
 - MOTHNODE_ Kore (Kenya)
 - MOTHNODE_ Omotik (Kenya)
+- MOTHNODE_ Vazimba (with Glottolog code, unclassifiable) (Madagascar)
+- MOTHNODE_ Ajawa (Nigeria)
 
 # SONG & ALBUM IDEAS
 
