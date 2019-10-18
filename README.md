@@ -633,7 +633,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Mediterranean Lingua Franca (Tunisia)
 - MOTHNODE_ Punic (Tunisia)
 - MOTHNODE_ Sened (Tunisia)
-- MOTHNODE_
+- MOTHNODE_ Vanadalic (Tunisia)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
