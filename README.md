@@ -613,7 +613,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Kpati (Nigeria)
 - MOTHNODE_ Kubi (Nigeria)
 - MOTHNODE_ Mawa (Nigeria)
-- MOTHNODE_
+- MOTHNODE_ Teshenawa (Nigeria)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
