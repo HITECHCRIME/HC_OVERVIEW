@@ -649,7 +649,6 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 
 > To transmit signals, dopamine is released into the space between neurons (the synaptic cleft), where it attaches (binds) to receptors on the surface of neighboring neurons. The dopamine transporter brings dopamine from the synaptic cleft back into neurons for reuse. The activity of the transporter determines how much dopamine is present in the synaptic cleft and for how long. This activity makes the transporter a major controller of dopamine signaling in the brain.
 
-
 - MOTHNODE_ Black Flood (wave of movement, production, industrial)
 - MOTHNODE_ Oxytocin [Attachment Chemical]
 - MOTHNODE_ Interna/ (not belonging to anything, being one with the internal will - world moves, you flow)
