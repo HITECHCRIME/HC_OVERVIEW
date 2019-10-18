@@ -627,7 +627,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Mittu  (Sudan)
 - MOTHNODE_ Togoyo (Sudan) 
 - MOTHNODE_ Torona (Sudan) 
-- MOTHNODE_
+- MOTHNODE_ Kw'adza (Tanzania)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
