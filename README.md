@@ -636,11 +636,6 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Vanadalic (Tunisia)
 - MOTHNODE_ Nyang'i (Uganda)
 - MOTHNODE_ Singa (Uganda)
-- MOTHNODE_
-- MOTHNODE_
-- MOTHNODE_
-- MOTHNODE_
-- MOTHNODE_
 
 # SONG & ALBUM IDEAS
 
