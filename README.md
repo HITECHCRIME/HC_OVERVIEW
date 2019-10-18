@@ -622,7 +622,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Berti (Sudan)
 - MOTHNODE_ Birked (Sudan)
 - MOTHNODE_ Gule (Sudan)
-- MOTHNODE_
+- MOTHNODE_ Homa (Sudan)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
