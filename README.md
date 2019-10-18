@@ -590,6 +590,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Nagumi (Cameroon)
 - MOTHNODE_ Yeni (Cameroon)
 - MOTHNODE_ Horo (Chad)
+- MOTHNODE_ Muskum (Chad)
 
 # SONG & ALBUM IDEAS
 
