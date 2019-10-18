@@ -624,7 +624,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Gule (Sudan)
 - MOTHNODE_ Homa (Sudan)
 - MOTHNODE_ Meroitic (Sudan)
-- MOTHNODE_
+- MOTHNODE_ Mittu  (Sudan)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
