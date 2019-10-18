@@ -609,6 +609,8 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Ajawa (Nigeria)
 - MOTHNODE_ Auyokawa (Nigeria)
 - MOTHNODE_ Basa-Gumna (Nigeria)
+- MOTHNODE_ Gamo-Ningi (Nigeria)
+
 
 # SONG & ALBUM IDEAS
 
