@@ -595,7 +595,10 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Ancient Egyptian (Egypt)
 - MOTHNODE_ Ancient Nubian (Egypt)
 - MOTHNODE_ Geez (Eritrea)
-- MOTHNODE_
+- MOTHNODE_ Gafat (Ethiopia)
+- MOTHNODE_ Geez (Ethiopia)
+- MOTHNODE_ Mesmes (Ethiopia)
+- MOTHNODE_ Weyto (Ethiopia)
 
 # SONG & ALBUM IDEAS
 
