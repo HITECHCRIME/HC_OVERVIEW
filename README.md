@@ -634,7 +634,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Punic (Tunisia)
 - MOTHNODE_ Sened (Tunisia)
 - MOTHNODE_ Vanadalic (Tunisia)
-- MOTHNODE_
+- MOTHNODE_ Nyang'i (Uganda)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
