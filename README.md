@@ -592,6 +592,8 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Horo (Chad)
 - MOTHNODE_ Muskum (Chad)
 - MOTHNODE_ Ngbee (Democractic Republic of the Congo)
+- MOTHNODE_ Ancient Egyptian (Egypt)
+- MOTHNODE_ Ancient Nubian (Egypt)
 - MOTHNODE_ 
 
 # SONG & ALBUM IDEAS
