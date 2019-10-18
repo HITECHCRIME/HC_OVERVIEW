@@ -634,6 +634,15 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Tuls Aye
 - MOTHNODE_ Seeing Red (anger song)
 
+Randomness:
+- MOTHNODE_ Qaravultomba
+
+- MOTHNODE_  Death of Lingo [Research Project]
+
+This is a list of extinct languages of Africa, languages which have undergone language death, have no native speakers and no spoken descendant. There are 52 languages listed.
+
+
+
 ---
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
