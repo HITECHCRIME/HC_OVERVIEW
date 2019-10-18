@@ -583,7 +583,8 @@ Alt structure:
 
 This is a list of extinct languages of Africa, languages which have undergone language death, have no native speakers and no spoken descendant. There are 52 languages listed.
 
-- MOTHNODE_ Numidian
+- MOTHNODE_ Numidian (Algeria)
+- MOTHNODE_ Kwadi (Angola)
 
 # SONG & ALBUM IDEAS
 
