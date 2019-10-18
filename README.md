@@ -618,7 +618,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ IXam (South Africa)
 - MOTHNODE_ Seroa (South Africa)
 - MOTHNODE_ Ancient Nubian (Sudan)
-- MOTHNODE_
+- MOTHNODE_ Baygo (Sudan)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
