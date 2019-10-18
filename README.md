@@ -585,6 +585,11 @@ This is a list of extinct languages of Africa, languages which have undergone la
 
 - MOTHNODE_ Numidian (Algeria)
 - MOTHNODE_ Kwadi (Angola)
+- MOTHNODE_ Duli (Cameroon)
+- MOTHNODE_ Gey (Cameroon)
+- MOTHNODE_ Nagumi (Cameroon)
+- MOTHNODE_ Yeni (Cameroon)
+- MOTHNODE_
 
 # SONG & ALBUM IDEAS
 
