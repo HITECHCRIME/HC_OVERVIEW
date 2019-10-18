@@ -616,7 +616,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Teshenawa (Nigeria)
 - MOTHNODE_ IIXegwi (South Africa)
 - MOTHNODE_ IXam (South Africa)
-- MOTHNODE_
+- MOTHNODE_ Seroa (South Africa)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
