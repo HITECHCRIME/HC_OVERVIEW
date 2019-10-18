@@ -629,7 +629,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Torona (Sudan) 
 - MOTHNODE_ Kw'adza (Tanzania)
 - MOTHNODE_ Ngasa (Tanzania)
-- MOTHNODE_
+- MOTHNODE_ African Romance (Tunisia)
 - MOTHNODE_
 - MOTHNODE_
 - MOTHNODE_
