@@ -610,7 +610,7 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Auyokawa (Nigeria)
 - MOTHNODE_ Basa-Gumna (Nigeria)
 - MOTHNODE_ Gamo-Ningi (Nigeria)
-
+- MOTHNODE_ Kpati (Nigeria)
 
 # SONG & ALBUM IDEAS
 
