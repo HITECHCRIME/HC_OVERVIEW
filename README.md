@@ -599,6 +599,12 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Geez (Ethiopia)
 - MOTHNODE_ Mesmes (Ethiopia)
 - MOTHNODE_ Weyto (Ethiopia)
+- MOTHNODE_ Baga Kaloum (Guinea)
+- MOTHNODE_ Baga Sobané (Guinea)
+- MOTHNODE_ Esuma (Ivory Coast)
+- MOTHNODE_ Elmolo (Kenya)
+- MOTHNODE_ Kore (Kenya)
+- MOTHNODE_ Omotik (Kenya)
 
 # SONG & ALBUM IDEAS
 
