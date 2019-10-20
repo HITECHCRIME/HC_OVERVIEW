@@ -970,11 +970,11 @@ They understand the concepts behind or the mission statement behind the brand or
 
        protagonist hacker, underdog, reality hacker (vishacker)
        
-       sidekick
+       sidekick: girl vishacker
        
-       sidekick
+       sidekick: mechanoreceptor - tough anarchist
        
-       nemesis
+       nemesis: human evil, ignorance, stagnation, harsh world into protopia
      
 
 # Narrative Arcs for Hitech Crime
