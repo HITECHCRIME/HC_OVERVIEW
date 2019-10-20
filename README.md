@@ -975,6 +975,8 @@ They understand the concepts behind or the mission statement behind the brand or
        sidekick: mechanoreceptor - tough anarchist
        
        nemesis: human evil, ignorance, stagnation, harsh world into protopia
+       
+  
      
 
 # Narrative Arcs for Hitech Crime
