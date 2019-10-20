@@ -966,7 +966,16 @@ They understand the concepts behind or the mission statement behind the brand or
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - transmedia experience (digital, IRL, live, audio, visual, interactive)
-- characters:
+- characters: 
+
+       protagonist hacker, underdog, reality hacker (vishacker)
+       
+       sidekick
+       
+       sidekick
+       
+       nemesis
+     
 
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
