@@ -893,7 +893,21 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 # Hitech Crime Universe Notes
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
 
-Transmedia Storytelling 101
+## TL;DR
+
+To use the word 'transmedia' for describing your activity in PR and creation you need:
+- more than 1 media to use
+- more than 1 story to tell
+- more than 1 technology that you (or even likely your team) can use
+- time to create a big world with maximum details first
+
+And you need to remember about some different specialities in your audience such as:
+- they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
+- tend to some kind of addiction to things they love
+- then to unite through activity around points of attraction (and your world - that you created before - must generate these points aplenty)
+- they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
+
+## Transmedia Storytelling 101
 
 1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
 
