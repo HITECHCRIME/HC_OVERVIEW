@@ -637,6 +637,84 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Nyang'i (Uganda)
 - MOTHNODE_ Singa (Uganda)
 
+## /// HC46_ MOTHNODE_ 'MONUMENT TO THE FUTURE' EP
+including "Monument to the Future" NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+
+## /// HC47_ MOTHNODE_ 'AGE OF REDACTION' EP 
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_02]
+- privacy concerns, public personal data, censorship.
+
+## /// HC48_ MOTHNODE_ 'OMNIS' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_03]
+- omnipotent all-seeing eye
+
+## 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_04]
+- crew, squad
+
+## 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_05]
+- memetic control and influence
+
+## 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_06]
+- bad aspects of communication
+
+## 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_07]
+- ephemeral femininity
+
+## 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_08]
+- based on the song?
+
+## 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_09]
+-  x
+
+## 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_10]
+- x
+
+## 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_11]
+- issues of choice, cause and effect
+- butterfly effect motif
+
+## 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_12]
+- new visual technology discovered, then make it real during concerts and other experiences
+
+## 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_13]
+- deep space, AI.
+
+## 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_14]
+- x
+
+## 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_15]
+- x
+
+## 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_16]
+- productivity, meditation, fire
+
+## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_17]
+- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
+
+"retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
+
+## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_18]
+- Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
+- exploration and discovery theme.
+- lurking in the darkness
+- Avatar vibe
+
 # SONG & ALBUM IDEAS
 
 - idea make a synthetic language to sing/rap in
