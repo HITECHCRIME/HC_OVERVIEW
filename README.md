@@ -1051,7 +1051,9 @@ They understand the concepts behind or the mission statement behind the brand or
 
 ## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_17]
-- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source  of  knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
+- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
+
+"retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
 
 ## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_18]
