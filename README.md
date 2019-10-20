@@ -965,7 +965,7 @@ They understand the concepts behind or the mission statement behind the brand or
 
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
-- transmedia experience (digital, IRL, live, audio, visual, interactive)
+- audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
 - characters: 
 
        protagonist hacker, underdog, reality hacker (vishacker)
