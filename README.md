@@ -708,15 +708,14 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_17]
 - theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
 - "retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
 
-## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_18]
+## /// HC63_ MOTHNODE_ 'DEPTH STRIDER' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_18]
 - Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
 - exploration and discovery theme.
 - lurking in the darkness
 - Avatar vibe
 
 # SONG & ALBUM IDEAS
-
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
 - MOTHNODE_ SLC6A3 (Gene codename - dopamine transporter deficiency syndrome - good for productivity esoterism albums)
