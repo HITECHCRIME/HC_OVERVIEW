@@ -975,14 +975,13 @@ They understand the concepts behind or the mission statement behind the brand or
        sidekick: mechanoreceptor - tough anarchist
        
        nemesis: human evil, ignorance, stagnation, harsh world into protopia
-       
-  
-     
-
+         
 # Narrative Arcs for Hitech Crime
 - think of turning these into main pieces of albums (meaning turn these below into EP as well)
 - the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
 - make them go along with EP releases
+- or make them into another album plot steps
+- idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
