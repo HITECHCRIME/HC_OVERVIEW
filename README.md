@@ -811,8 +811,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 + HC_SG03_Sekta_Skrilla (Digital Brutalism) [PL] 
 
----
-
 + HC_SG04_Flota_Dronow (Digital Brutalism) [PL]
 + MOTHNODE_ Flota Dronów (Prod. X) Soundcloud
 + MOTHNODE_ Flota Dronów (Prod. X) Spotify
@@ -822,8 +820,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + MOTHNODE_ Flota Dronów (Prod. X) Instagram Music Video Highlight
 + MOTHNODE_ Flota Dronów (Prod. X) Facebook Post
 + MOTHNODE_ Flota Dronów (Prod. X) Facebook Music Highlight Video
-
----
 
 # Older Songs
 
@@ -891,7 +887,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG66_
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
-
 
 # Hitech Crime Universe Notes
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
