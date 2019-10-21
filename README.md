@@ -257,7 +257,7 @@ Album mixtape containing all of my collaborations with others.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC18_ MOTHNODE_ Shadow Work EP 
+### /// HC18_ | MOTHNODE_ Shadow Work EP 
  
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
