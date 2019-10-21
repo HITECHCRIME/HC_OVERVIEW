@@ -517,8 +517,6 @@ Social scripts focus album.
 
 [ENGLISH/SPANISH/POLISH SEASON EPISODES] [NO NARRATIVE]
 
-Wait for Satsu's decision.
-
 - MOTH Lead x You full verses
 
 // **MOTHNODE x Satsu Song** (HC_SG141) https://www.youtube.com/watch?v=A-51LxYY2_k
