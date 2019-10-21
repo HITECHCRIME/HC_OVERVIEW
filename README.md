@@ -192,7 +192,7 @@ Polska to rzeczywistosc. Going to Sara Mora and making a whole album with her in
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC12_ MOTHNODE_ Mantra EP 
+### /// HC12_ | MOTHNODE_ Mantra EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
