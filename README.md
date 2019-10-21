@@ -576,7 +576,7 @@ Alt structure:
 3. Me Lead x You full verses
 4. Me (Satsu just adds)
 
-### /// HC44_ MOTHNODE_ CB-CB-CBD EP 
+### /// HC44_ | MOTHNODE_ CB-CB-CBD EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
