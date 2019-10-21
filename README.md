@@ -341,7 +341,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC25_ MOTHNODE_ Huna EP 
+### /// HC25_ | MOTHNODE_ Huna EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
@@ -357,7 +357,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC26_ MOTHNODE_ Dopamine Trails EP 
+### /// HC26_ | MOTHNODE_ Dopamine Trails EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
