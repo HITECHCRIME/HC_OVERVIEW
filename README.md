@@ -121,7 +121,7 @@ Collaboration album - each song is a split with someone. Conquer the world toget
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC06_ MOTHNODE_ Plains of Trisight EP 
+### /// HC06_ | MOTHNODE_ Plains of Trisight EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
