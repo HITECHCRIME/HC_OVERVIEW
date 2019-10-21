@@ -368,7 +368,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC27_ MOTHNODE_ Edge Butterfly EP 
+### /// HC27_ | MOTHNODE_ Edge Butterfly EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
@@ -379,7 +379,7 @@ what Saramora said - i think edge butterfly is a moth
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC28_ MOTHNODE_ HIQ / haiku EP 
+### /// HC28_ | MOTHNODE_ HIQ / haiku EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
