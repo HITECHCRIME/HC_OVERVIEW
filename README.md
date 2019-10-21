@@ -147,7 +147,7 @@ Album made exclusively with one other person.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?] 
 
-### /// HC09_ MOTHNODE_ breachInjectProgram EP 
+### /// HC09_ | MOTHNODE_ breachInjectProgram EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
