@@ -129,7 +129,7 @@ Slow, deep, esoteric, productivity themes.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC07_ MOTHNODE_ Technomancer/Techsoteric EP 
+### /// HC07_ | MOTHNODE_ Technomancer/Techsoteric EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
