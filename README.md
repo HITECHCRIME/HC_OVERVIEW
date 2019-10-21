@@ -494,7 +494,7 @@ Tracklisting:
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC41_ MOTHNODE_ Neuralink (Neural Ink) EP  
+### /// HC41_ | MOTHNODE_ Neuralink (Neural Ink) EP  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
