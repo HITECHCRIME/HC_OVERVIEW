@@ -239,7 +239,7 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC16_ MOTHNODE_ Wakanda EP 
+### /// HC16_ | MOTHNODE_ Wakanda EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
