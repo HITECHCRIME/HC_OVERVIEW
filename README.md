@@ -92,7 +92,7 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC04_ MOTHNODE_ Lost Net 
+### /// HC04_ | MOTHNODE_ Lost Net 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
@@ -113,7 +113,7 @@ Darker, micro darkness type.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC05_ MOTHNODE_ Conspiracy (English Collab Album) 
+### /// HC05_ | MOTHNODE_ Conspiracy (English Collab Album) 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
