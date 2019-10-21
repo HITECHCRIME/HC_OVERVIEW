@@ -79,7 +79,7 @@ Nature, civilization, transhumanism, every day life.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC03_ MOTHNODE_ Lekki Okultyzm EP 
+### /// HC03_ | MOTHNODE_ Lekki Okultyzm EP 
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 
