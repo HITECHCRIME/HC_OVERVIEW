@@ -583,7 +583,7 @@ Alt structure:
 - MOTHNODE_ CBD Regime (CBD EP)
 - MOTHNODE_ Tactical Drop Squad (CBD EP)
 
-### /// HC45_ MOTHNODE_ Death of Lingo EP [Research Project]
+### /// HC45_ | MOTHNODE_ Death of Lingo EP [Research Project]
 
 This is a list of extinct languages of Africa, languages which have undergone language death, have no native speakers and no spoken descendant. There are 52 languages listed.
 
