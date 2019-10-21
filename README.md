@@ -469,7 +469,7 @@ Purging bad progs with bass.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC39_ MOTHNODE_ I0N0F0J 
+### /// HC39_ | MOTHNODE_ I0N0F0J 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
