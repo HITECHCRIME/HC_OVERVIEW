@@ -215,7 +215,7 @@ Pagan futurism.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC14_ MOTHNODE_ Tourist Through Life EP 
+### /// HC14_ | MOTHNODE_ Tourist Through Life EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
