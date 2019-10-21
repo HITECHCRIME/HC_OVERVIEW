@@ -445,7 +445,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC36_ MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  
+### /// HC36_ | MOTHNODE_ Mothraiser EP [Hellraiser Vibe]  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
