@@ -179,7 +179,7 @@ Tribal, drums, tantric bass, electronic elements, minimal tho.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC11_ MOTHNODE_ Northern Invasion 
+### /// HC11_ | MOTHNODE_ Northern Invasion 
 
 [ENGLISH SEASON EPISODES / ICELANDIC LANG] [+NARRATIVE]
 ```
