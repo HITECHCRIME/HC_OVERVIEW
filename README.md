@@ -885,7 +885,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
 
 ## TL;DR
-
 To use the word 'transmedia' for describing your activity in PR and creation you need:
 - more than 1 media to use
 - more than 1 story to tell
@@ -899,7 +898,6 @@ And you need to remember about some different specialities in your audience such
 - they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
 
 ## Transmedia Storytelling 101
-
 1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
 
 2. Transmedia storytelling reflects the economics of media consolidation or what industry observers call "synergy." Modern media companies are horizontally integrated - that is, they hold interests across a range of what were once distinct media industries. A media conglomerate has an incentive to spread its brand or expand its franchises across as many different media platforms as possible. Consider, for example, the comic books published in advance of the release of such films as Batman Begins and Superman Returns by DC ( owned by Warner Brothers, the studio that released these films). These comics provided back-story which enhanced the viewer's experience of the film even as they also help to publicize the forthcoming release (thus blurring the line between marketing and entertainment). The current configuration of the entertainment industry makes transmedia expansion an economic imperative, yet the most gifted transmedia artists also surf these marketplace pressures to create a more expansive and immersive story than would have been possible otherwise.
