@@ -288,7 +288,7 @@ Heavy, incoming forces type of vibe. Impending doom. Army march music feeling.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC21_ MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP 
+### /// HC21_ | MOTHNODE_ Twin Peaks / Wrapped In Plastic / Laura's Dream EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
