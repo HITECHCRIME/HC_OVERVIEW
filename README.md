@@ -478,7 +478,7 @@ INFJ album. "aye aye, go an extra mile with me and you reach the core"
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC40_ ICE7 EP  
+### /// HC40_ | ICE7 EP  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
