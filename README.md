@@ -267,7 +267,7 @@ Album mixtape containing all of my collaborations with others.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC19_ MOTHODE_ Ritual of the Morning Sun EP
+### /// HC19_ | MOTHODE_ Ritual of the Morning Sun EP
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
