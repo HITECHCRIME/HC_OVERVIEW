@@ -688,7 +688,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_11]
 - issues of choice, cause and effect
 - butterfly effect motif
 
-## /// HC57_ MOTHNODE_ 'TEC-10' EP
+## /// HC57_ | MOTHNODE_ 'TEC-10' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_12]
 - new visual technology discovered, then make it real during concerts and other experiences
 
