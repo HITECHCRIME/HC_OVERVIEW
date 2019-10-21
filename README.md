@@ -280,7 +280,7 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC20_ MOTHNODE_ Wartrap EP 
+### /// HC20_ | MOTHNODE_ Wartrap EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
