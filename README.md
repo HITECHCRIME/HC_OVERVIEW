@@ -648,7 +648,7 @@ including "Monument to the Future" NARRATIVE SHORT FILM SET IN HITECH CRIME UNIV
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_02]
 - privacy concerns, public personal data, censorship.
 
-## /// HC48_ MOTHNODE_ 'OMNIS' EP
+## /// HC48_ | MOTHNODE_ 'OMNIS' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_03]
 - omnipotent all-seeing eye
