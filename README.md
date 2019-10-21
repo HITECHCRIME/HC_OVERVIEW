@@ -207,7 +207,7 @@ Album using bass as a meditative technique.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC13_ MOTHNODE_ Ksiega Szeptow 
+### /// HC13_ | MOTHNODE_ Ksiega Szeptow 
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 ```
