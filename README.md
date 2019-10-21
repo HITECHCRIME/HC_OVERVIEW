@@ -161,7 +161,7 @@ Scream rap album.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC10_ MOTHNODE_ Skuld EP 
+### /// HC10_ | MOTHNODE_ Skuld EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
