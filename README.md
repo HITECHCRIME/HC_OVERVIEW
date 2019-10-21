@@ -402,7 +402,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC30_ MOTHNODE_ Format Duszy EP / Soulformat EP
+### /// HC30_ | MOTHNODE_ Format Duszy EP / Soulformat EP
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 
@@ -410,7 +410,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC31_ MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming) 
+### /// HC31_ | MOTHNODE_ Rhizome EP / Ryzom (differentiate from Ryzomat, perhaps different naming) 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
