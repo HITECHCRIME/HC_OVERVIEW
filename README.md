@@ -38,7 +38,7 @@ Hitech Crime Universe.
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 63 EPs
+## /// INJECTIONS [ALBUMS] | Current count: 63 EPs 
 ```
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 ```
@@ -50,7 +50,7 @@ Use `Hitech Crime presents`? That was one of the initial ideas - to make it feel
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC01_ MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
+### /// HC01_ | MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 ```
@@ -67,7 +67,7 @@ Mercenaries. Contains an arc narrative.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC02_ MOTHNODE_ Ryzomat EP 
+### /// HC02_ | MOTHNODE_ Ryzomat EP 
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 ```
