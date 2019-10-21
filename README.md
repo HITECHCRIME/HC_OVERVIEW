@@ -513,7 +513,7 @@ Dendritic arbour. /// cell body axon = soma
 Social scripts focus album.
 - MOTHNODE_ Are You (HC_SG136) - proto on dropbox/insta
 
-### /// HC43_ Satsu x MOTHNODE_ X EP 
+### /// HC43_ | Satsu x MOTHNODE_ X EP 
 
 [ENGLISH/SPANISH/POLISH SEASON EPISODES] [NO NARRATIVE]
 
