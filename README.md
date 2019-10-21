@@ -683,7 +683,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_09]
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_10]
 - MOTHNODE_ Children of Blight
 
-## /// HC56_ MOTHNODE_ 'PATHWAYS' EP 
+## /// HC56_ | MOTHNODE_ 'PATHWAYS' EP 
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_11]
 - issues of choice, cause and effect
 - butterfly effect motif
