@@ -419,7 +419,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC32_ MOTHNODE_ DNA Prelude EP [Progression Series]  
+### /// HC32_ | MOTHNODE_ DNA Prelude EP [Progression Series]  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE - BIGGER ARC]
 
@@ -427,7 +427,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC33_ MOTHNODE_ Transhuman EP [Progression Series]  
+### /// HC33_ | MOTHNODE_ Transhuman EP [Progression Series]  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE - BIGGER ARC]
 
