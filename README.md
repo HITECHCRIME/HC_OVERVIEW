@@ -310,7 +310,7 @@ Our dreams create our reality. Some are capable of creating powerful dreams that
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC22_ MOTHNODE_ Rzad Mistykow EP 
+### /// HC22_ | MOTHNODE_ Rzad Mistykow EP 
 
 [POLISH SEASON EPISODES] [+NARRATIVE]
 
