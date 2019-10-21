@@ -703,11 +703,11 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_14]
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_15]
 - x
 
-## /// HC61_ MOTHNODE_ 'FOCUS TRIANGLE' EP 
+## /// HC61_ | MOTHNODE_ 'FOCUS TRIANGLE' EP 
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_16]
 - productivity, meditation, fire
 
-## /// HC62_ MOTHNODE_ 'NO FUTURE MEANS NO PAST' EP
+## /// HC62_ | MOTHNODE_ 'NO FUTURE MEANS NO PAST' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_17]
 - theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
 - "retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
