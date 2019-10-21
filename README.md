@@ -323,7 +323,7 @@ Ayn Rand in Polish reality. "Ludzie którzy uważają, że należy im się twoja
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC23_ MOTHNODE_ Urban Mythology EP 
+### /// HC23_ | MOTHNODE_ Urban Mythology EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
@@ -331,7 +331,7 @@ MOTHNODE_ Tied Shoes Over A Powerline (drug dealer in the area sign?)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC24_ MOTHNODE_ Triangle of Fire EP (Zodiacal Series) 
+### /// HC24_ | MOTHNODE_ Triangle of Fire EP (Zodiacal Series) 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
