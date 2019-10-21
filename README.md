@@ -139,7 +139,7 @@ Cyberpunk Swag album. (purple album/royal)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC08_ MOTHNODE_ In It Together (Dual Album) 
+### /// HC08_ | MOTHNODE_ In It Together (Dual Album) 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
