@@ -223,7 +223,7 @@ Fleeting observer from a distance. Unseen presence. Story of life.
 ```
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC15_ MOTHNODE_ Tactical EP 
+### /// HC15_ | MOTHNODE_ Tactical EP 
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
