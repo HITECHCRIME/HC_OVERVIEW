@@ -439,7 +439,7 @@ High IQ-themed album. Visualization of how a world would seem when run by highly
 
 [cover]  [type of album] [narrative? conceptual? abstract?]
 
-### /// HC35_ MOTHNODE_ Singularity EP [Progression Series]  
+### /// HC35_ | MOTHNODE_ Singularity EP [Progression Series]  
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE - BIGGER ARC]
 
