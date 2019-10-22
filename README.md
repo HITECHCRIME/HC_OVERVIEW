@@ -1073,6 +1073,7 @@ They understand the concepts behind or the mission statement behind the brand or
 # Ideas for releases
 - QR code also could be the download link for the release.
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
+- Sara Mora - drone roof in łódź scene (ask her for more details)
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
