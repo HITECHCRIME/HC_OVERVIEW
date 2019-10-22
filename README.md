@@ -1079,6 +1079,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
 - scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
 - walking through a dark alley, techwear looks, golden glasses, hoodie, i take out my phone and AR elements pop up lighting the surroundings
+- lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
