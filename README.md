@@ -1081,6 +1081,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - walking through a dark alley, techwear looks, golden glasses, hoodie, i take out my phone and AR elements pop up lighting the surroundings
 - lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
 - alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
+- crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
