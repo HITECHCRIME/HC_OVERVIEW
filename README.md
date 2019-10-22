@@ -1070,10 +1070,11 @@ They understand the concepts behind or the mission statement behind the brand or
 - or make them into another album plot steps
 - idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
 
-# Ideas for releases
+# Ideas for video releases
 - QR code also could be the download link for the release.
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
 - Sara Mora - drone roof in łódź scene (ask her for more details)
+- golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
