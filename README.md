@@ -1075,6 +1075,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
 - Sara Mora - drone roof in łódź scene (ask her for more details)
 - golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
+- scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
