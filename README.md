@@ -1071,8 +1071,10 @@ They understand the concepts behind or the mission statement behind the brand or
 - idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
 
 # Ideas for video releases
-- QR code also could be the download link for the release.
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
+- camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
+- QR code is a website leading to a short story related to the song + title and artist of the song
+- QR code also could be the download link for the release.
 - Sara Mora - drone roof in łódź scene (ask her for more details)
 - golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
 - scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
