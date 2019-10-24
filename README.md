@@ -834,7 +834,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG20_ MOTHNODE_ Autumn
 + HC_SG21_ MOTHNODE_ Klatka [PL]
 + HC_SG22_ MOTHNODE_ Wszystko_W_Pyl [PL]
-+ HC_SG23_Prety [PL]
++ HC_SG23_ MOTHNODE_ Prety [PL]
 + HC_SG24_Zerwikaptur [PL]
 + HC_SG25_Versus (Digital Brutalism) [PL]
 + HC_SG26_Crave (Lost Net)
