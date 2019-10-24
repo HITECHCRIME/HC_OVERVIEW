@@ -31,7 +31,7 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 
 # /// STORYWORLD [THE UNIVERSE]
 
-Hitech Crime Universe.
+Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
 # /// STRAINS [CREATORS]
 
