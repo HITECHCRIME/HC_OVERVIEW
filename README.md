@@ -818,7 +818,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 + HC_SG05_ MOTHNODE_ Las (Digital Brutalism) [PL]
 + HC_SG06_ MOTHNODE_ World_Of_Blight (Lost Net)
-+ HC_SG07_Mindchip
++ HC_SG07_ MOTHNODE_ Mindchip
 + HC_SG08_Uprising (change to Powstanie) (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG09_Ignorant (Lost Net)
 + HC_SG10_Glebia [PL] [DIGITAL BRUTALISM]
