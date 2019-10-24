@@ -821,7 +821,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG07_ MOTHNODE_ Mindchip
 + HC_SG08_ MOTHNODE_ Uprising (change to Powstanie) (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG09_ MOTHNODE_ Ignorant (Lost Net)
-+ HC_SG10_Glebia [PL] [DIGITAL BRUTALISM]
++ HC_SG10_ MOTHNODE_ Glebia [PL] [DIGITAL BRUTALISM]
 + HC_SG11_Ja_Nie_Moge_Tak_Zyc [PL] [DIGITAL BRUTALISM]
 + HC_SG12_Jungsta [PL] [DIGITAL BRUTALISM]
 + HC_SG13_Profiles_Of_Negation
