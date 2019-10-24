@@ -847,7 +847,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG33_ MOTHNODE_ Stalker (Lost Net)
 + HC_SG34_ MOTHNODE_ Upgraded (Lost Net) / NORBI x MOTHNODE_ XXX
 + HC_SG35_ MOTHNODE_ Upclick (Lost Net)
-+ HC_SG36_Wreech (Lost Net)
++ HC_SG36_ MOTHNODE_ Wreech (Lost Net)
 + HC_SG37_Closer_Than_Distant_To_Myself (Lost Net)
 + HC_SG38_Odds_Stacker (Lost Net)
 + HC_SG39_Triple_X (Lost Net)
