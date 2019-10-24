@@ -829,7 +829,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG15_ MOTHNODE_ Zgliszcza_Nici (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG16_ MOTHNODE_ Rage
 + HC_SG17_ MOTHNODE_ Paradygmat [PL]
-+ HC_SG18_Spojrzenie [PL]
++ HC_SG18_ MOTHNODE_ Spojrzenie [PL]
 + HC_SG19_Lord_Of_Flies
 + HC_SG20_Autumn
 + HC_SG21_Klatka [PL]
