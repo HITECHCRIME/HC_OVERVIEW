@@ -825,7 +825,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG11_ MOTHNODE_ Ja_Nie_Moge_Tak_Zyc [PL] [DIGITAL BRUTALISM]
 + HC_SG12_ MOTHNODE_ Jungsta [PL] [DIGITAL BRUTALISM]
 + HC_SG13_ MOTHNODE_ Profiles_Of_Negation
-+ HC_SG14_Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism) [PL]
++ HC_SG14_ MOTHNODE_ Dla_Mnie_I_Dla_Wszystkich (Digital Brutalism) [PL]
 + HC_SG15_Zgliszcza_Nici (Digital Brutalism) [PL] [DIGITAL BRUTALISM]
 + HC_SG16_Rage
 + HC_SG17_Paradygmat [PL]
