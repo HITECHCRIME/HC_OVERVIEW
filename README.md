@@ -852,7 +852,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG38_ MOTHNODE_ Odds_Stacker (Lost Net)
 + HC_SG39_ MOTHNODE_ Triple_X (Lost Net)
 + HC_SG40_ MOTHNODE_ Origin
-+ HC_SG41_Cannibal
++ HC_SG41_ MOTHNODE_ Cannibal
 + HC_SG42_Sublimation
 + HC_SG43_Fuckya
 + HC_SG44_Electric_Veins
