@@ -770,6 +770,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Violent Delights
 - MOTHNODE_ Tuls Aye
 - MOTHNODE_ Seeing Red (anger song)
+- MOTHNODE_ Gorean/Kajira (DDLG motif)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
