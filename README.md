@@ -771,6 +771,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Tuls Aye
 - MOTHNODE_ Seeing Red (anger song)
 - MOTHNODE_ Gorean/Kajira (DDLG motif)
+- MOTHNODE_ Ontic https://en.wikipedia.org/wiki/Ontic
 
 Randomness:
 - MOTHNODE_ Qaravultomba
