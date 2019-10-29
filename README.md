@@ -43,8 +43,15 @@ HITECH CRIME UNIVERSE < content content content > AUDIENCE (sustained feedback l
 
 (both ways interaction, get personal, send things, choose at random, create engagement)
 
-A little bit of David Lynch approach: We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
+A little bit of David Lynch approach: 
 
+- We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
+
+> Spirit of film (giant)
+> Spirit of tv (midget)
+> Spirit of internet (?) (the fire itself?)
+
+- commentary on consumable ficticious violence
 
 # /// STRAINS [CREATORS]
 
