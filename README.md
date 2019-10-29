@@ -20,9 +20,14 @@ Album/song releases are like plot points in a bigger narrative (overarching them
 Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
 
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
+
+# /// STORYWORLD [THE UNIVERSE]
+
 ```
 STORY > TECH > AUDIENCE
 ```
+Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
+
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve.
 
 Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience.
@@ -31,9 +36,16 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 
 - unpredictable and unusual approaches to storytelling (what the audience prefers the most)
 
-# /// STORYWORLD [THE UNIVERSE]
+Hitech Crime Storyworld comes from a VOID [all possible futures/timelines], then it goes through ASCENSION [progress of all possible futures/timelines] into RELEASE [enlightenment and the making of choice].
 
-Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
+Construct a dopamine loop (memetic dependence based on subconscious value of acknowledging the search for purpose in life, search of identity, search for self and core drives).
+
+HITECH CRIME UNIVERSE < content content content > AUDIENCE (sustained feedback loop via audience interaction)
+
+(both ways interaction, get personal, send things, choose at random, create engagement)
+
+
+
 
 # /// STRAINS [CREATORS]
 
