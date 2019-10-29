@@ -53,6 +53,8 @@ A little bit of David Lynch approach:
 
 - commentary on consumable ficticious violence
 
+- IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
