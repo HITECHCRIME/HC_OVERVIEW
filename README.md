@@ -22,7 +22,6 @@ Seasons are overarching themes. A "whole set" would be all elements of content t
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
 
 # /// STORYWORLD [THE UNIVERSE]
-
 ```
 STORY > TECH > AUDIENCE
 ```
