@@ -49,7 +49,7 @@ A little bit of David Lynch approach:
 
 > Spirit of film (giant)
 > Spirit of tv (midget)
-> Spirit of internet (?) (the fire itself?)
+> Spirit of internet (?) (the fire itself?) < --- time to face this demon
 
 - commentary on consumable ficticious violence
 
