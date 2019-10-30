@@ -393,7 +393,7 @@ Welcome, to the crypto-rave.
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 63 EPs 
+## /// INJECTIONS [ALBUMS] | Current count: 64 EPs 
 ```
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 ```
@@ -1075,6 +1075,12 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_18]
 - lurking in the darkness
 - Avatar vibe
 
+## /// HC644_ | MOTHNODE_ 'SOMNIA' EP
+crew in a hitech asylum, suspended in animation, reliving traumas of the past while submerged in a transparent gel
+- MOTHNODE_ Asylum of the Mind
+- MOTHNODE_ Layers Peel
+- MOTHNODE_ Surround (environmental anima)
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
@@ -1238,8 +1244,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG66_
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
-
-
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
