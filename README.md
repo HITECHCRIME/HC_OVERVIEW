@@ -1096,6 +1096,25 @@ They understand the concepts behind or the mission statement behind the brand or
 - idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
 - head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
 - Hitech Crime's purpose is to embed the idea of generation of ideas by continuous exposition to different timelines and types of platforms of media.
+- "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+- lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
+
+RELEASE can consist of:
+- album release (audiovisual/physical/digital)
+- short story series
+- behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
+- longform version of the series
+- short web series narrative
+- audio podcast version
+- interactive IRL exhibition/videoart (chapter)
+- livestream narrative
+- live event IRL (concert, semi-LARP)
+- livestreams IRL Helve Logs
+- FB dopamine hook
+- Insta 9grid dopamine hook
+- virtual scenes (photogrammetric snapshot)
+- 
+
 
 # Ideas for video releases
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
