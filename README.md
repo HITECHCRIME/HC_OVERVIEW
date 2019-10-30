@@ -253,8 +253,8 @@ They understand the concepts behind or the mission statement behind the brand or
 - album release (audiovisual/physical/digital)
 - short story series
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
-- longform version of the series
 - short web series narrative
+- longform 'stick it together' version of the web series
 - audio podcast version
 - interactive IRL storytelling  exhibition (chapter)
 - livestream narrative
