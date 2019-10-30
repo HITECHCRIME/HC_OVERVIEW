@@ -55,6 +55,332 @@ A little bit of David Lynch approach:
 
 - IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
 
+# Hitech Crime Universe Notes
+A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
+
+## TL;DR
+To use the word 'transmedia' for describing your activity in PR and creation you need:
+- more than 1 media to use
+- more than 1 story to tell
+- more than 1 technology that you (or even likely your team) can use
+- time to create a big world with maximum details first
+
+And you need to remember about some different specialities in your audience such as:
+- they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
+- tend to some kind of addiction to things they love
+- then to unite through activity around points of attraction (and your world - that you created before - must generate these points aplenty)
+- they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
+
+## Transmedia Storytelling 101
+1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
+
+2. Transmedia storytelling reflects the economics of media consolidation or what industry observers call "synergy." Modern media companies are horizontally integrated - that is, they hold interests across a range of what were once distinct media industries. A media conglomerate has an incentive to spread its brand or expand its franchises across as many different media platforms as possible. Consider, for example, the comic books published in advance of the release of such films as Batman Begins and Superman Returns by DC ( owned by Warner Brothers, the studio that released these films). These comics provided back-story which enhanced the viewer's experience of the film even as they also help to publicize the forthcoming release (thus blurring the line between marketing and entertainment). The current configuration of the entertainment industry makes transmedia expansion an economic imperative, yet the most gifted transmedia artists also surf these marketplace pressures to create a more expansive and immersive story than would have been possible otherwise.
+
+3. Most often, transmedia stories are based not on individual characters or specific plots but rather complex fictional worlds which can sustain multiple interrelated characters and their stories. This process of world-building encourages an encyclopedic impulse in both readers and writers. We are drawn to master what can be known about a world which always expands beyond our grasp. This is a very different pleasure than we associate with the closure found in most classically constructed narratives, where we expect to leave the theatre knowing everything that is required to make sense of a particular story.
+
+4. Extensions may serve a variety of different functions. For example, the BBC used radio dramas to maintain audience interest in Doctor Who during almost a decade during which no new television episodes were produced. The extension may provide insight into the characters and their motivations (as in the case of websites surrounding Dawson's Creek and Veronica Mars which reproduced the imaginary correspondence or journals of their feature characters), may flesh out aspects of the fictional world (as in the web version of the Daily Planet published each week by DC comics during the run of its 52 series to "report" on the events occurring across its superhero universe), or may bridge between events depicted in a series of sequels (as in the animated series - The Clone Wars - which was aired on the Cartoon Network to bridge over a lapse in time between Star Wars II and III). The extension may add a greater sense of realism to the fiction as a whole (as occurs when fake documents and time lines were produced for the website associated with The Blair Witch Project or in a different sense, the documentary films and cd-roms produced by James Cameron to provide historical context for Titanic).
+
+5. Transmedia storytelling practices may expand the potential market for a property by creating different points of entry for different audience segments. So, for example, Marvel produces comic books which tell the Spider-man story in ways that they think will be particularly attractive to female (a romance comic, Mary Jane Loves Spiderman) or younger readers (coloring book or picture book versions of the classic comicbook stories ). Similarly, the strategy may work to draw viewers who are comfortable in a particular medium to experiment with alternative media platforms (as in the development of a Desperate Housewives game designed to attract older female consumers into gaming).
+
+6. Ideally, each individual episode must be accessible on its own terms even as it makes a unique contribution to the narrative system as a whole. Game designer Neil Young coined the term, "additive comprehension," to refer to the ways that each new texts adds a new piece of information which forces us to revise our understanding of the fiction as a whole. His example was the addition of an image of an origami unicorn to the director's cut edition of Bladerunner, an element which raised questions about whether the protagonist might be a replicant. Transmedia producers have found it difficult to achieve the delicate balance between creating stories which make sense to first time viewers and building in elements which enhance the experience of people reading across multiple media.
+
+7. Because transmedia storytelling requires a high degree of coordination across the different media sectors, it has so far worked best either in independent projects where the same artist shapes the story across all of the media involved or in projects where strong collaboration (or co-creation) is encouraged across the different divisions of the same company. Most media franchises, however, are governed not by co-creation (which involves conceiving the property in transmedia terms from the outset) but rather licensing (where the story originates in one media and subsequent media remain subordinate to the original master text.)
+
+8. Transmedia storytelling is the ideal aesthetic form for an era of collective intelligence. Pierre Levy coined the term, collective intelligence, to refer to new social structures that enable the production and circulation of knowledge within a networked society. Participants pool information and tap each others expertise as they work together to solve problems. Levy argues that art in an age of collective intelligence functions as a cultural attractor, drawing together like-minded individuals to form new knowledge communities. Transmedia narratives also function as textual activators - setting into motion the production, assessment, and archiving information. The ABC television drama, Lost, for example, flashed a dense map in the midst of one second season episode: fans digitized a freeze-frame of the image and put it on the web where together they extrapolated about what it might reveal regarding the Hanso Corporation and its activities on the island. Transmedia storytelling expands what can be known about a particular fictional world while dispersing that information, insuring that no one consumer knows everything and insure that they must talk about the series with others (see, for example, the hundreds of different species featured in Pokemon or Yu-Gi-O). Consumers become hunters and gatherers moving back across the various narratives trying to stitch together a coherent picture from the dispersed information.
+
+9. A transmedia text does not simply disperse information: it provides a set of roles and goals which readers can assume as they enact aspects of the story through their everyday life. We might see this performative dimension at play with the release of action figures which encourage children to construct their own stories about the fictional characters or costumes and role playing games which invite us to immerse ourselves in the world of the fiction. In the case of Star Wars, the Boba Fett action figure generated consumer interest in a character who had otherwise played a small role in the series, creating pressure for giving that character a larger plot function in future stories.
+
+10. The encyclopedic ambitions of transmedia texts often results in what might be seen as gaps or excesses in the unfolding of the story: that is, they introduce potential plots which can not be fully told or extra details which hint at more than can be revealed. Readers, thus, have a strong incentive to continue to elaborate on these story elements, working them over through their speculations, until they take on a life of their own. Fan fiction can be seen as an unauthorized expansion of these media franchises into new directions which reflect the reader's desire to "fill in the gaps" they have discovered in the commercially produced material.
+
+---
+
+
+"Our lives are constructed around stories that we tell each other and ourselves, about the complex things that happen to us everyday. We strip away the extraneous details and condense experiences into simplified narratives. So that we can store important information in a way that's easier to remember, when we need to remember it. These stories form our understanding and our memory of the world, and of the people we interact with. When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge. Guiding the way we behave and the way we live within our society. As we experience our own life stories, the things that happen to us have an emotional impact. If someone's nice to us, we feel welcome. We laugh when something's funny, we cry when something's sad, and we get angry when we feel something's unjust."
+
+"Emotions serve as a powerful mechanism to help us connect appropriate parts of the different stories together to learn our life lessons. Even though the specific details of each of our own stories are different, all humans share common emotional responses. So, emotions can be used as a hook by storytellers to engage a very diverse audience in a narrative, no matter how different they are in terms of their language, culture, or experience. Emotional response can also be a common touch point that storytellers can use, to help communicate very important messages to others in a condensed format. By connecting complex ideas to emotions, an audience can relate life lessons in a story to their own memories, emotions and in a way that's personally meaningful for them. They can integrate the new message with their own experience and we can learn from it."
+
+Without some kind of personal relevance, any story will hold little interest to a value for any audience.
+
+In this way, every story is about the different challenges, struggles and experiences that we all have to go through. All stories are about the transformation of the status of their characters from their original state to a more enlightened, wiser position through some sort of trial or test.
+
+They stand as a guide as to how to conduct our own journey through life and end up in a better place than where we started.
+
+Hero's Journey. The audience is the hero.
+
+```
+Ordinary World
+Call to Adventure
+Refusal of the call
+Meeting the Mentor.
+Crossing the threshold.
+Test, allies, enemies.
+Approach to the innermost cave.
+Ordeal, Hero's Darkest Hour.
+Seizing the sword, reward.
+The road back.
+Ressurection.
+Return with the elixir.
+```
+Characters 
+```
+Hero
+Threshold guardian
+Herald
+Shapeshifter
+Ally
+Trickster
+```
++ motivation of the characters. what is their fictional/nonfictional core drive?
+
+It all depicts change. Get people accustomed to change, ease the pain of change.
+
+All stories have a purpose, a moral that can be learned through the hero's transformation. Positive life-lesson? Depiction of "life" change before learning the lesson and after.
+
+Plot - sequence of events as they unfold, linear
+Story - is the thing we understand after watching the sequence of events
+Structure of information we assemble. Chunking of information and expecting people to piece it together.
+
+Story is a result of experiencing the plot.
+
+Story in transmedia: there is a narrative logic to it even if different projects tell different stories in different timelines and versions of reality. They all belong to one storyworld.
+
+Story is what we have in our mind once we consumed a plot of a movie. More information processed together, no one person is going to know all the parts of the story which creates a social opportunity for people to pull knowledge together and keep the story alive.
+
+---
+
+slave to a king story - comedy
+king to a slave - tragedy
+
+It is all about going through ups and downs (exchange of status) and be able to learn from that. Identify with the protagonist. Moral purpose.
+
+So if you know your central character, what they want, what they need, where they're trying to get to, what motivates them than the plot rights itself. If I have a plot about somebody who is very upset about their situation in life, and they want to change things and an opportunity comes along, that writes what happens. Not only does character motivation work, but the world can be given a motivation. The world is trying to set itself right.
+
+So, what we're doing here, when we're talking about a story world, is we're taking our expectations of reality, and we're applying them into the storytelling. And that's very satisfying, that's a very good thing that everything stays the same. So the story world is actually about internal consistency. It's about there being internal rules, and the rules can be whatever you want. They can be that everyone is blue and they can fly, that's fine.
+
+But there needs to be internal rules that you follow. And those rules, once they're in place, can extend in all kinds of different directions, because they tell us what will happen.
+
+Characters have to fight to get it. And win or lose, they're going to find out what they really needed. It might differ from they thought they wanted making it an enlightening experience for both the characters and the audience. And that's pretty much the absolute nutshell of the whole Campbell Jungian thing which can fill several textbooks, so.
+
+Concept: story is an episodic memory, a dream. In trans-media various elements come together into an idea. Conjuring narratives comes natural to a human brain. It works especially well with images and videos.
+
+You don't remember the exact sequence of words in a book. You remember the mental imagery. An emotional contour.
+
+World - integrated system with a lot of moving parts. Characters, settings, myths, artifacts, rules. A  whole system of society or a culture.
+
+Transmedia: After telling a basic story you can picture an oral storyteller stopping at that point and extending outward and telling you more about those characters that the audience is really engaged and interested in. So those are points of extension, points where we could build out.
+
+"So you can sort of say that Tolstoy wanted to become a game designer, he just didnt have the technology. He wanted to have an immersive space that the viewer could travel through and within which he could play out different permutations, and if I tweak this variable then the outcome would have been different and here's how. But everything in, Tolstoy give almost a full on game design manual there. To how we build out war and peace into other media platforms. So I would say writers and storytellers throughout history have wanted to be able to expand the canvas in which they construct their stories and extend the story into other medium.
+
+It's just they often didn't have the resources to do that as fully as they might like. But looking for those moments in the story helps you to figure out where the extensions should go.
+
+Story, memory and meaning
+
+- We remember things that happen to us in our lives by stripping away extraneous details, and condensing experiences into simplified narratives.
+
+- When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge – guiding the way we behave and live within our broader society.
+
+- Our own life experiences have an emotional impact upon us. No matter who we are, we all have common emotional responses to different situations.
+
+- Eliciting emotional responses in a story can therefore be used as a way to engage with diverse audiences in a similar manner, and communicate an important life lesson, or moral.
+
+The Hero’s Journey
+
+- In his 1949 book about comparative mythology, “The Hero with a Thousand Faces”, Joseph Campbell noted that most stories share the same structure. He called this structure the monomyth.
+Christopher Vogler distilled this monomyth into a series of simple steps called ‘Stages of the hero’s journey’. These simple steps form the basic structure for the majority of all stories told today. Refer to the Key Concept - The anatomy of story lecture earlier in the module for more detail.
+
+- The hero’s journey depicts change – a life lesson that must be learned the hard way by undertaking a personal journey to reach a new understanding. By connecting to the emotive elements in such stories, the audience can undertake the journey with the hero, so that they too can learn from the moral of the story and relate it to their own experience.
+
+**Character archetypes**
+
+- In his book “The Writer’s Journey: Mythic Structure for Storytellers and Screenwriters”, Christopher Vogler described the eight most common character archetypes appearing in most stories. An archetype is something that exhibits typical elements of certain personalities.
+
+- Most stories contain several of these archetypes, that interact in specific stages of the hero's journey, but not all stories need to contain them all.
+
+- Using character archetypes in combination with the stages of the hero's journey can help you structure your own stories.
+
+**The moral**
+
+- One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
+
+- The moral can usually be distilled into one simple core message that is designed to help provide a positive life lesson to the audience, and provide the context that defines the detail in all other elements within the story.
+
+- Characters motivations are usually driven by the moral - highlighting the positive effects from heeding the moral, and the negative effects of ignoring it.
+
+- The moral is usually revealed at the end of the hero’s journey, as the hero changes status as a result from learning the central life lesson being told.
+
+- The journey, characters, motivations and moral of the story also have a bearing upon how you choose to use engage different audiences, and therefore which technologies you use.
+
+- True connection and engagement with an audience comes from our ability to personally relate to the moral of the story, through emotional connections between the characters and their experiences, and our own personal stories that guide our lives.
+
+Remember that the structure of your story is critical. To engage your audience, you need to take them on an emotional journey, with some kind of transformation for the hero because of a life lesson being learned. The audience needs to relate this transformation to their own experience.
+
+"The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?"
+
+Narratives are overarching - world arcs, character arcs (!), motif arcs.
+
+"So to your point about that multi discipline of narrative, we need to come up with the right language for the individual and that language is not just spoken language but it's also, is it an interface? Is it using a book? Is it using Kindle? Is it using virtual reality, augmented reality. >> We can tell one type of story that exists as a narrative from A to Z. It tells a story of a character, or a story of a brand, or a story of a musician, or album."
+
+"And it gives you that all the way through. And takes you on a sort of traditional journey, right? And we can use multiple types of media or types of assets to do that. So for music for example the album package will tell you one thing. And that will lead into a single cover and the single covers will expand on an album package. That will lead into the videos. The videos will open that up and really let you dive in. The tour and the event cycle, really then take it to a whole other level right then take it to a whole other level right there. And that ends up being less traditional of a story and more conceptual narrative. We're talking about ideas, we're talking about evoking emotions, whatever the artist is trying to say in that place. For brands, a lot of the time the story is what is this brand story? What are they trying to accomplish? How do we bring people along for the ride? So that, at the end of it, they understand the brand.
+
+They understand the concepts behind or the mission statement behind the brand or what they're trying to achieve. And then, other types of scenario, for us, is really like interweaving all kinds of various storylines or ideas that don't necessarily feel like they go together, on first glance. But then when you take that 30,000 foot view and you step back from it and you see it all play out and you realize all the way along the road there they were connecting that and leading me down a path, that I wasn't aware of."
+
+**How to apply this to Hitech Crime**
+- Main motivational arc - "take future into your own hands"
+- audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
+- characters: 
+
+       protagonist hacker, underdog, reality hacker (vishacker)
+       
+       sidekick: girl vishacker
+       
+       sidekick: mechanoreceptor - tough anarchist
+       
+       nemesis: human evil, ignorance, stagnation, harsh world into protopia
+         
+# Narrative Arcs for Hitech Crime
+- think of turning these into main pieces of albums (meaning turn these below into EP as well)
+- the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
+- make them go along with EP releases
+- or make them into another album plot steps
+- idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
+- idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
+- head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
+- Hitech Crime's purpose is to embed the idea of generation of ideas by continuous exposition to different timelines and types of platforms of media.
+- "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+- lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
+
+RELEASE can consist of:
+- album release (audiovisual/physical/digital)
+- short story series
+- behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
+- longform version of the series
+- short web series narrative
+- audio podcast version
+- interactive IRL exhibition/videoart (chapter)
+- livestream narrative
+- live event IRL (concert, semi-LARP)
+- livestreams IRL Helve Logs
+- FB dopamine hook
+- Insta 9grid dopamine hook
+- virtual scenes (photogrammetric snapshot)
+- 
+
+
+# Ideas for video releases
+- scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
+- camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
+- QR code is a website leading to a short story related to the song + title and artist of the song
+- QR code also could be the download link for the release.
+- Sara Mora - drone roof in łódź scene (ask her for more details)
+- golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
+- scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
+- walking through a dark alley, techwear looks, golden glasses, hoodie, i take out my phone and AR elements pop up lighting the surroundings
+- lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
+- alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
+- crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
+
+## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_01]
+- Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
+
+
+## 'AGE OF REDACTION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_02]
+- privacy concerns, public personal data, censorship.
+
+## 'OMNIS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_03]
+- omnipotent all-seeing eye
+
+## 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_04]
+- crew, squad
+
+## 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_05]
+- memetic control and influence
+
+## 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_06]
+- bad aspects of communication
+
+## 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_07]
+- ephemeral femininity
+
+## 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NSF_08]
+- based on the song?
+
+## 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_09]
+-  x
+
+## 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_10]
+- x
+
+## 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_11]
+- issues of choice, cause and effect
+- butterfly effect motif
+
+## 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_12]
+- new visual technology discovered, then make it real during concerts and other experiences
+
+## 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_13]
+- deep space, AI.
+
+## 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_14]
+- x
+
+## 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_15]
+- x
+
+## 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_16]
+- productivity, meditation, fire
+
+## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_17]
+- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
+
+"retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
+
+## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_18]
+- Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
+- exploration and discovery theme.
+- lurking in the darkness
+- Avatar vibe
+
+# Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
+Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
+- wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
+- aggro popup concert from a mobile backpack audio unit
+- VR Concerts
+- Livestream Concerts (UNKNOWN LOCATION)
+- secret location concerts
+- "now we will cleanse the perimeter with bass to get rid of the (audible) bad programs" / "audio weapon" - purging tool
+- laser-gating
+- laser ceiling scissors (lasers shifting horizontally above user's head)
+- concerts are literally audiovisual sets - theatrical almost, with placing importance on pacing, pressurizing and depressurizing the audience, tension vs relax vs intrigue.
+- Look at the BTSM experiences they create (they include narrative experiences, lasers, smoke and colorful glitchy. Church of BTSM). It is more rave like tho.
+- Dropbox contains a lot of visal inspirations. Comb through it!
+- Crypto-rave Excerpt:
+
+‘You’ve been invited to join our next crypto-rave.’ You click on the link sent by the crypto-rave network and get sent to the website of the next event. In the centre of the page there is a button that says ‘mine’, you press it and sit back. After a couple of hours you get a message that you’ve unlocked your new raver identity. Your new name is Eva Black and your character even has a personality. After six more hours of making your computer available to a crypto mining pool, you unlock your ticket and receive the secret location for the rave. 
+
+You take the bus to an outskirt and find yourself in-between buildings that look like they’ve been left by their owners a long time ago. You walk through an alley and see a big red circle, illuminating the darkness. As you get closer you see people queuing in front of a door. This must be it. Mesmerized you get closer and see people wearing masks, there’s a guy in front of you who turns around and stares at you with one cat eye lens. Behind you, a girl that looks like she just stepped out of the Matrix, lights her cigarette. You wonder if they all have a new identity just like you. 
+
+At the door the bouncer asks your name. You mention Eva Black is here, he nods you in. Inside you see even more people that have dressed up in most unique ways. You walk the hallway and pass some rooms filled with colors and lights. You stop at one room that catches your attention. People are dancing. Not the ordinary style, but they’re learning Butoh: a Japanese theatre dance, where the dancers perform the dance of the death and disease, to gain insight. You move on to the next room where people are meditating. To end up in a room blasting techno. 
+
+Welcome, to the crypto-rave.
+
 # /// STRAINS [CREATORS]
 
 ![](assets/dlh_single_cover.png)
@@ -905,331 +1231,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
-# Hitech Crime Universe Notes
-A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
 
-## TL;DR
-To use the word 'transmedia' for describing your activity in PR and creation you need:
-- more than 1 media to use
-- more than 1 story to tell
-- more than 1 technology that you (or even likely your team) can use
-- time to create a big world with maximum details first
-
-And you need to remember about some different specialities in your audience such as:
-- they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
-- tend to some kind of addiction to things they love
-- then to unite through activity around points of attraction (and your world - that you created before - must generate these points aplenty)
-- they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
-
-## Transmedia Storytelling 101
-1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
-
-2. Transmedia storytelling reflects the economics of media consolidation or what industry observers call "synergy." Modern media companies are horizontally integrated - that is, they hold interests across a range of what were once distinct media industries. A media conglomerate has an incentive to spread its brand or expand its franchises across as many different media platforms as possible. Consider, for example, the comic books published in advance of the release of such films as Batman Begins and Superman Returns by DC ( owned by Warner Brothers, the studio that released these films). These comics provided back-story which enhanced the viewer's experience of the film even as they also help to publicize the forthcoming release (thus blurring the line between marketing and entertainment). The current configuration of the entertainment industry makes transmedia expansion an economic imperative, yet the most gifted transmedia artists also surf these marketplace pressures to create a more expansive and immersive story than would have been possible otherwise.
-
-3. Most often, transmedia stories are based not on individual characters or specific plots but rather complex fictional worlds which can sustain multiple interrelated characters and their stories. This process of world-building encourages an encyclopedic impulse in both readers and writers. We are drawn to master what can be known about a world which always expands beyond our grasp. This is a very different pleasure than we associate with the closure found in most classically constructed narratives, where we expect to leave the theatre knowing everything that is required to make sense of a particular story.
-
-4. Extensions may serve a variety of different functions. For example, the BBC used radio dramas to maintain audience interest in Doctor Who during almost a decade during which no new television episodes were produced. The extension may provide insight into the characters and their motivations (as in the case of websites surrounding Dawson's Creek and Veronica Mars which reproduced the imaginary correspondence or journals of their feature characters), may flesh out aspects of the fictional world (as in the web version of the Daily Planet published each week by DC comics during the run of its 52 series to "report" on the events occurring across its superhero universe), or may bridge between events depicted in a series of sequels (as in the animated series - The Clone Wars - which was aired on the Cartoon Network to bridge over a lapse in time between Star Wars II and III). The extension may add a greater sense of realism to the fiction as a whole (as occurs when fake documents and time lines were produced for the website associated with The Blair Witch Project or in a different sense, the documentary films and cd-roms produced by James Cameron to provide historical context for Titanic).
-
-5. Transmedia storytelling practices may expand the potential market for a property by creating different points of entry for different audience segments. So, for example, Marvel produces comic books which tell the Spider-man story in ways that they think will be particularly attractive to female (a romance comic, Mary Jane Loves Spiderman) or younger readers (coloring book or picture book versions of the classic comicbook stories ). Similarly, the strategy may work to draw viewers who are comfortable in a particular medium to experiment with alternative media platforms (as in the development of a Desperate Housewives game designed to attract older female consumers into gaming).
-
-6. Ideally, each individual episode must be accessible on its own terms even as it makes a unique contribution to the narrative system as a whole. Game designer Neil Young coined the term, "additive comprehension," to refer to the ways that each new texts adds a new piece of information which forces us to revise our understanding of the fiction as a whole. His example was the addition of an image of an origami unicorn to the director's cut edition of Bladerunner, an element which raised questions about whether the protagonist might be a replicant. Transmedia producers have found it difficult to achieve the delicate balance between creating stories which make sense to first time viewers and building in elements which enhance the experience of people reading across multiple media.
-
-7. Because transmedia storytelling requires a high degree of coordination across the different media sectors, it has so far worked best either in independent projects where the same artist shapes the story across all of the media involved or in projects where strong collaboration (or co-creation) is encouraged across the different divisions of the same company. Most media franchises, however, are governed not by co-creation (which involves conceiving the property in transmedia terms from the outset) but rather licensing (where the story originates in one media and subsequent media remain subordinate to the original master text.)
-
-8. Transmedia storytelling is the ideal aesthetic form for an era of collective intelligence. Pierre Levy coined the term, collective intelligence, to refer to new social structures that enable the production and circulation of knowledge within a networked society. Participants pool information and tap each others expertise as they work together to solve problems. Levy argues that art in an age of collective intelligence functions as a cultural attractor, drawing together like-minded individuals to form new knowledge communities. Transmedia narratives also function as textual activators - setting into motion the production, assessment, and archiving information. The ABC television drama, Lost, for example, flashed a dense map in the midst of one second season episode: fans digitized a freeze-frame of the image and put it on the web where together they extrapolated about what it might reveal regarding the Hanso Corporation and its activities on the island. Transmedia storytelling expands what can be known about a particular fictional world while dispersing that information, insuring that no one consumer knows everything and insure that they must talk about the series with others (see, for example, the hundreds of different species featured in Pokemon or Yu-Gi-O). Consumers become hunters and gatherers moving back across the various narratives trying to stitch together a coherent picture from the dispersed information.
-
-9. A transmedia text does not simply disperse information: it provides a set of roles and goals which readers can assume as they enact aspects of the story through their everyday life. We might see this performative dimension at play with the release of action figures which encourage children to construct their own stories about the fictional characters or costumes and role playing games which invite us to immerse ourselves in the world of the fiction. In the case of Star Wars, the Boba Fett action figure generated consumer interest in a character who had otherwise played a small role in the series, creating pressure for giving that character a larger plot function in future stories.
-
-10. The encyclopedic ambitions of transmedia texts often results in what might be seen as gaps or excesses in the unfolding of the story: that is, they introduce potential plots which can not be fully told or extra details which hint at more than can be revealed. Readers, thus, have a strong incentive to continue to elaborate on these story elements, working them over through their speculations, until they take on a life of their own. Fan fiction can be seen as an unauthorized expansion of these media franchises into new directions which reflect the reader's desire to "fill in the gaps" they have discovered in the commercially produced material.
-
----
-
-
-"Our lives are constructed around stories that we tell each other and ourselves, about the complex things that happen to us everyday. We strip away the extraneous details and condense experiences into simplified narratives. So that we can store important information in a way that's easier to remember, when we need to remember it. These stories form our understanding and our memory of the world, and of the people we interact with. When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge. Guiding the way we behave and the way we live within our society. As we experience our own life stories, the things that happen to us have an emotional impact. If someone's nice to us, we feel welcome. We laugh when something's funny, we cry when something's sad, and we get angry when we feel something's unjust."
-
-"Emotions serve as a powerful mechanism to help us connect appropriate parts of the different stories together to learn our life lessons. Even though the specific details of each of our own stories are different, all humans share common emotional responses. So, emotions can be used as a hook by storytellers to engage a very diverse audience in a narrative, no matter how different they are in terms of their language, culture, or experience. Emotional response can also be a common touch point that storytellers can use, to help communicate very important messages to others in a condensed format. By connecting complex ideas to emotions, an audience can relate life lessons in a story to their own memories, emotions and in a way that's personally meaningful for them. They can integrate the new message with their own experience and we can learn from it."
-
-Without some kind of personal relevance, any story will hold little interest to a value for any audience.
-
-In this way, every story is about the different challenges, struggles and experiences that we all have to go through. All stories are about the transformation of the status of their characters from their original state to a more enlightened, wiser position through some sort of trial or test.
-
-They stand as a guide as to how to conduct our own journey through life and end up in a better place than where we started.
-
-Hero's Journey. The audience is the hero.
-
-```
-Ordinary World
-Call to Adventure
-Refusal of the call
-Meeting the Mentor.
-Crossing the threshold.
-Test, allies, enemies.
-Approach to the innermost cave.
-Ordeal, Hero's Darkest Hour.
-Seizing the sword, reward.
-The road back.
-Ressurection.
-Return with the elixir.
-```
-Characters 
-```
-Hero
-Threshold guardian
-Herald
-Shapeshifter
-Ally
-Trickster
-```
-+ motivation of the characters. what is their fictional/nonfictional core drive?
-
-It all depicts change. Get people accustomed to change, ease the pain of change.
-
-All stories have a purpose, a moral that can be learned through the hero's transformation. Positive life-lesson? Depiction of "life" change before learning the lesson and after.
-
-Plot - sequence of events as they unfold, linear
-Story - is the thing we understand after watching the sequence of events
-Structure of information we assemble. Chunking of information and expecting people to piece it together.
-
-Story is a result of experiencing the plot.
-
-Story in transmedia: there is a narrative logic to it even if different projects tell different stories in different timelines and versions of reality. They all belong to one storyworld.
-
-Story is what we have in our mind once we consumed a plot of a movie. More information processed together, no one person is going to know all the parts of the story which creates a social opportunity for people to pull knowledge together and keep the story alive.
-
----
-
-slave to a king story - comedy
-king to a slave - tragedy
-
-It is all about going through ups and downs (exchange of status) and be able to learn from that. Identify with the protagonist. Moral purpose.
-
-So if you know your central character, what they want, what they need, where they're trying to get to, what motivates them than the plot rights itself. If I have a plot about somebody who is very upset about their situation in life, and they want to change things and an opportunity comes along, that writes what happens. Not only does character motivation work, but the world can be given a motivation. The world is trying to set itself right.
-
-So, what we're doing here, when we're talking about a story world, is we're taking our expectations of reality, and we're applying them into the storytelling. And that's very satisfying, that's a very good thing that everything stays the same. So the story world is actually about internal consistency. It's about there being internal rules, and the rules can be whatever you want. They can be that everyone is blue and they can fly, that's fine.
-
-But there needs to be internal rules that you follow. And those rules, once they're in place, can extend in all kinds of different directions, because they tell us what will happen.
-
-Characters have to fight to get it. And win or lose, they're going to find out what they really needed. It might differ from they thought they wanted making it an enlightening experience for both the characters and the audience. And that's pretty much the absolute nutshell of the whole Campbell Jungian thing which can fill several textbooks, so.
-
-Concept: story is an episodic memory, a dream. In trans-media various elements come together into an idea. Conjuring narratives comes natural to a human brain. It works especially well with images and videos.
-
-You don't remember the exact sequence of words in a book. You remember the mental imagery. An emotional contour.
-
-World - integrated system with a lot of moving parts. Characters, settings, myths, artifacts, rules. A  whole system of society or a culture.
-
-Transmedia: After telling a basic story you can picture an oral storyteller stopping at that point and extending outward and telling you more about those characters that the audience is really engaged and interested in. So those are points of extension, points where we could build out.
-
-"So you can sort of say that Tolstoy wanted to become a game designer, he just didnt have the technology. He wanted to have an immersive space that the viewer could travel through and within which he could play out different permutations, and if I tweak this variable then the outcome would have been different and here's how. But everything in, Tolstoy give almost a full on game design manual there. To how we build out war and peace into other media platforms. So I would say writers and storytellers throughout history have wanted to be able to expand the canvas in which they construct their stories and extend the story into other medium.
-
-It's just they often didn't have the resources to do that as fully as they might like. But looking for those moments in the story helps you to figure out where the extensions should go.
-
-Story, memory and meaning
-
-- We remember things that happen to us in our lives by stripping away extraneous details, and condensing experiences into simplified narratives.
-
-- When we connect what we learn from each of these episodic narratives in our own memories, important life lessons emerge – guiding the way we behave and live within our broader society.
-
-- Our own life experiences have an emotional impact upon us. No matter who we are, we all have common emotional responses to different situations.
-
-- Eliciting emotional responses in a story can therefore be used as a way to engage with diverse audiences in a similar manner, and communicate an important life lesson, or moral.
-
-The Hero’s Journey
-
-- In his 1949 book about comparative mythology, “The Hero with a Thousand Faces”, Joseph Campbell noted that most stories share the same structure. He called this structure the monomyth.
-Christopher Vogler distilled this monomyth into a series of simple steps called ‘Stages of the hero’s journey’. These simple steps form the basic structure for the majority of all stories told today. Refer to the Key Concept - The anatomy of story lecture earlier in the module for more detail.
-
-- The hero’s journey depicts change – a life lesson that must be learned the hard way by undertaking a personal journey to reach a new understanding. By connecting to the emotive elements in such stories, the audience can undertake the journey with the hero, so that they too can learn from the moral of the story and relate it to their own experience.
-
-**Character archetypes**
-
-- In his book “The Writer’s Journey: Mythic Structure for Storytellers and Screenwriters”, Christopher Vogler described the eight most common character archetypes appearing in most stories. An archetype is something that exhibits typical elements of certain personalities.
-
-- Most stories contain several of these archetypes, that interact in specific stages of the hero's journey, but not all stories need to contain them all.
-
-- Using character archetypes in combination with the stages of the hero's journey can help you structure your own stories.
-
-**The moral**
-
-- One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
-
-- The moral can usually be distilled into one simple core message that is designed to help provide a positive life lesson to the audience, and provide the context that defines the detail in all other elements within the story.
-
-- Characters motivations are usually driven by the moral - highlighting the positive effects from heeding the moral, and the negative effects of ignoring it.
-
-- The moral is usually revealed at the end of the hero’s journey, as the hero changes status as a result from learning the central life lesson being told.
-
-- The journey, characters, motivations and moral of the story also have a bearing upon how you choose to use engage different audiences, and therefore which technologies you use.
-
-- True connection and engagement with an audience comes from our ability to personally relate to the moral of the story, through emotional connections between the characters and their experiences, and our own personal stories that guide our lives.
-
-Remember that the structure of your story is critical. To engage your audience, you need to take them on an emotional journey, with some kind of transformation for the hero because of a life lesson being learned. The audience needs to relate this transformation to their own experience.
-
-"The structure discussed above can also apply to marketing strategies, or campaigns for social change. Simply replace the hero in your story with members of the audience. What journey do you want them to go on, or what understanding do you want them to develop by engaging in your transmedia strategy?"
-
-Narratives are overarching - world arcs, character arcs (!), motif arcs.
-
-"So to your point about that multi discipline of narrative, we need to come up with the right language for the individual and that language is not just spoken language but it's also, is it an interface? Is it using a book? Is it using Kindle? Is it using virtual reality, augmented reality. >> We can tell one type of story that exists as a narrative from A to Z. It tells a story of a character, or a story of a brand, or a story of a musician, or album."
-
-"And it gives you that all the way through. And takes you on a sort of traditional journey, right? And we can use multiple types of media or types of assets to do that. So for music for example the album package will tell you one thing. And that will lead into a single cover and the single covers will expand on an album package. That will lead into the videos. The videos will open that up and really let you dive in. The tour and the event cycle, really then take it to a whole other level right then take it to a whole other level right there. And that ends up being less traditional of a story and more conceptual narrative. We're talking about ideas, we're talking about evoking emotions, whatever the artist is trying to say in that place. For brands, a lot of the time the story is what is this brand story? What are they trying to accomplish? How do we bring people along for the ride? So that, at the end of it, they understand the brand.
-
-They understand the concepts behind or the mission statement behind the brand or what they're trying to achieve. And then, other types of scenario, for us, is really like interweaving all kinds of various storylines or ideas that don't necessarily feel like they go together, on first glance. But then when you take that 30,000 foot view and you step back from it and you see it all play out and you realize all the way along the road there they were connecting that and leading me down a path, that I wasn't aware of."
-
-**How to apply this to Hitech Crime**
-- Main motivational arc - "take future into your own hands"
-- audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
-- characters: 
-
-       protagonist hacker, underdog, reality hacker (vishacker)
-       
-       sidekick: girl vishacker
-       
-       sidekick: mechanoreceptor - tough anarchist
-       
-       nemesis: human evil, ignorance, stagnation, harsh world into protopia
-         
-# Narrative Arcs for Hitech Crime
-- think of turning these into main pieces of albums (meaning turn these below into EP as well)
-- the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
-- make them go along with EP releases
-- or make them into another album plot steps
-- idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
-- idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
-- head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
-- Hitech Crime's purpose is to embed the idea of generation of ideas by continuous exposition to different timelines and types of platforms of media.
-- "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
-- lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
-
-RELEASE can consist of:
-- album release (audiovisual/physical/digital)
-- short story series
-- behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
-- longform version of the series
-- short web series narrative
-- audio podcast version
-- interactive IRL exhibition/videoart (chapter)
-- livestream narrative
-- live event IRL (concert, semi-LARP)
-- livestreams IRL Helve Logs
-- FB dopamine hook
-- Insta 9grid dopamine hook
-- virtual scenes (photogrammetric snapshot)
-- 
-
-
-# Ideas for video releases
-- scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
-- camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
-- QR code is a website leading to a short story related to the song + title and artist of the song
-- QR code also could be the download link for the release.
-- Sara Mora - drone roof in łódź scene (ask her for more details)
-- golden glowing neons (squares) in the background of a room - Deus Ex Human Revolution vibe
-- scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
-- walking through a dark alley, techwear looks, golden glasses, hoodie, i take out my phone and AR elements pop up lighting the surroundings
-- lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
-- alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
-- crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
-
-## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_01]
-- Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
-
-
-## 'AGE OF REDACTION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_02]
-- privacy concerns, public personal data, censorship.
-
-## 'OMNIS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_03]
-- omnipotent all-seeing eye
-
-## 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_04]
-- crew, squad
-
-## 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_05]
-- memetic control and influence
-
-## 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_06]
-- bad aspects of communication
-
-## 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_07]
-- ephemeral femininity
-
-## 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_08]
-- based on the song?
-
-## 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_09]
--  x
-
-## 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_10]
-- x
-
-## 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_11]
-- issues of choice, cause and effect
-- butterfly effect motif
-
-## 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_12]
-- new visual technology discovered, then make it real during concerts and other experiences
-
-## 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_13]
-- deep space, AI.
-
-## 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_14]
-- x
-
-## 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_15]
-- x
-
-## 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_16]
-- productivity, meditation, fire
-
-## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_17]
-- theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
-
-"retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
-
-## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_18]
-- Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
-- exploration and discovery theme.
-- lurking in the darkness
-- Avatar vibe
-
-# Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
-Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
-- wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
-- aggro popup concert from a mobile backpack audio unit
-- VR Concerts
-- Livestream Concerts (UNKNOWN LOCATION)
-- secret location concerts
-- "now we will cleanse the perimeter with bass to get rid of the (audible) bad programs" / "audio weapon" - purging tool
-- laser-gating
-- laser ceiling scissors (lasers shifting horizontally above user's head)
-- concerts are literally audiovisual sets - theatrical almost, with placing importance on pacing, pressurizing and depressurizing the audience, tension vs relax vs intrigue.
-- Look at the BTSM experiences they create (they include narrative experiences, lasers, smoke and colorful glitchy. Church of BTSM). It is more rave like tho.
-- Dropbox contains a lot of visal inspirations. Comb through it!
-- Crypto-rave Excerpt:
-
-‘You’ve been invited to join our next crypto-rave.’ You click on the link sent by the crypto-rave network and get sent to the website of the next event. In the centre of the page there is a button that says ‘mine’, you press it and sit back. After a couple of hours you get a message that you’ve unlocked your new raver identity. Your new name is Eva Black and your character even has a personality. After six more hours of making your computer available to a crypto mining pool, you unlock your ticket and receive the secret location for the rave. 
-
-You take the bus to an outskirt and find yourself in-between buildings that look like they’ve been left by their owners a long time ago. You walk through an alley and see a big red circle, illuminating the darkness. As you get closer you see people queuing in front of a door. This must be it. Mesmerized you get closer and see people wearing masks, there’s a guy in front of you who turns around and stares at you with one cat eye lens. Behind you, a girl that looks like she just stepped out of the Matrix, lights her cigarette. You wonder if they all have a new identity just like you. 
-
-At the door the bouncer asks your name. You mention Eva Black is here, he nods you in. Inside you see even more people that have dressed up in most unique ways. You walk the hallway and pass some rooms filled with colors and lights. You stop at one room that catches your attention. People are dancing. Not the ordinary style, but they’re learning Butoh: a Japanese theatre dance, where the dancers perform the dance of the death and disease, to gain insight. You move on to the next room where people are meditating. To end up in a room blasting techno. 
-
-Welcome, to the crypto-rave.
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
