@@ -249,22 +249,29 @@ They understand the concepts behind or the mission statement behind the brand or
 - "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 - lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
 
-RELEASE can consist of:
+## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
 - longform version of the series
 - short web series narrative
 - audio podcast version
-- interactive IRL exhibition/videoart (chapter)
+- interactive IRL storytelling  exhibition (chapter)
 - livestream narrative
 - live event IRL (concert, semi-LARP)
 - livestreams IRL Helve Logs
 - FB dopamine hook
 - Insta 9grid dopamine hook
 - virtual scenes (photogrammetric snapshot)
-- 
-
+- game/VR render/experience
+- real world guerilla reality hacking (also livestreamed)
+- real world guerilla effect, experience the exposition -> universe content, photos,  videos, character shots
+- Agent Experience Logs_ outlet for fans who take part in the universe 
+- art installation
+- Alexa Narrative Experience (voice narrative, old radio shows)
+- TikTok -> clues for puzzles for the audience (cryptic account)
+- mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
+- mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
 
 # Ideas for video releases
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
