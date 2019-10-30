@@ -1093,7 +1093,9 @@ They understand the concepts behind or the mission statement behind the brand or
 - make them go along with EP releases
 - or make them into another album plot steps
 - idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
-- CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
+- idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
+- head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
+- Hitech Crime's purpose is to embed the idea of generation of ideas by continuous exposition to different timelines and types of platforms of media.
 
 # Ideas for video releases
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
