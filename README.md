@@ -29,12 +29,6 @@ Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future
 
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve.
 
-Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
-
-Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
-
-- unpredictable and unusual approaches to storytelling (what the audience prefers the most)
-
 Hitech Crime Storyworld comes from a VOID [all possible futures/timelines], then it goes through ASCENSION [progress of all possible futures/timelines] into RELEASE [enlightenment and the making of choice].
 
 Construct a dopamine loop (memetic dependence based on subconscious value of acknowledging the search for purpose in life, search of identity, search for self and core drives).
@@ -285,6 +279,11 @@ They understand the concepts behind or the mission statement behind the brand or
 - lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
 - alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
+- Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
+
+Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
+
+- unpredictable and unusual approaches to storytelling (what the audience prefers the most)
 
 # Transfer these into album plot progression
 
