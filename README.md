@@ -1133,6 +1133,8 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Seeing Red (anger song)
 - MOTHNODE_ Gorean/Kajira (DDLG motif)
 - MOTHNODE_ Ontic https://en.wikipedia.org/wiki/Ontic
+- MOTHNODE_ Stealthcry (depression related)
+- MOTHNODE_ Stemcell Utopia (change the cell's fate, experimental protocols, programming biological vectors)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
@@ -1140,6 +1142,7 @@ Randomness:
 - MOTHNODE_ Ulvella [Fungus]
 Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this taxon to other taxa within the phylum is unknown (incertae sedis), and it has not yet been placed with certainty into any class, order, or family.[1] This is a monotypic genus, containing the single species Ulvella chlorospila.
 - MOTHNODE ---- Using Isochronic Tones in trap music?
+- Album about stories of freedom and change - to biggest things humans talk about (freedom - we believe in various ways we are imprisoned, change - loss of familiar - it's not about the change in ourselves usually, it's about "i want another character in my story to change")
 
 # Content Types 
 
