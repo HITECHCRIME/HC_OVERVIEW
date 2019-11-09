@@ -365,6 +365,14 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 - lurking in the darkness
 - Avatar vibe
 
+## 'FUTURE MASKED WITH LIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS19]
+- neon glows of ads on top of the world
+- consumption blinds the world to the truth of a dying world
+- spectrum blinds our reality
+- AR/XR tech used to deceive humanity
+- 'future masked with light' lyrics
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
@@ -1074,11 +1082,22 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_18]
 - lurking in the darkness
 - Avatar vibe
 
-## /// HC644_ | MOTHNODE_ 'SOMNIA' EP
+## /// HC64_ | MOTHNODE_ 'SOMNIA' EP
 crew in a hitech asylum, suspended in animation, reliving traumas of the past while submerged in a transparent gel
 - MOTHNODE_ Asylum of the Mind
 - MOTHNODE_ Layers Peel
 - MOTHNODE_ Surround (environmental anima)
+
+## /// HC65_ | 'FUTURE MASKED WITH LIGHT' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
+- neon glows of ads on top of the world
+- consumption blinds the world to the truth of a dying world
+- spectrum blinds our reality
+- AR/XR tech used to deceive humanity
+- 'future masked with light' lyrics
+- MOTHNODE_ Future Masked With Light
+- MOTHNODE_ V_il/Unv_il
+- MOTHNODE_ Tapping Air
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
