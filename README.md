@@ -1284,6 +1284,15 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - auto-tune
 - eq
 
+4. Compressor Combo:
+- CLA76 (combo of two versions on top of vocal, punch and subtle)
+bluey, in -47, out -12, att 4, rel 7 4:1 ratio
+blackey, in max, out -30, att 1, rel 7, all ratio
+
+
+
+- CLA2A
+
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
 # Lekki Okultyzm - more lyrical Polish rap.
