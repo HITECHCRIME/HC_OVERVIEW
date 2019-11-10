@@ -1287,12 +1287,14 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 4. Compressor Combo:
 - CLA76 (combo of two versions on top of vocal, punch and subtle)
-bluey, in -47, out -12, att 4, rel 7 4:1 ratio
-blackey, in max, out -30, att 1, rel 7, all ratio
 
+> bluey, in -47, out -12, att 4, rel 7 4:1 ratio
 
+> blackey, in max, out -30, att 1, rel 7, all ratio
 
-- CLA2A
++ combo with CLA2A (peak reduction 45, gain 35)
+
+Alternative: RCompressor + RVox
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
