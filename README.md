@@ -1097,8 +1097,8 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
 - AR/XR tech used to deceive humanity
 - 'future masked with light' lyrics
 - MOTHNODE_ Future Masked With Light
-- MOTHNODE_ V_il/Unv_il
-- MOTHNODE_ Tapping Air
+- MOTHNODE_ V_il/Unv_il (Veil/Unveil)
+- MOTHNODE_ Tapping Air (haptic touch)
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
