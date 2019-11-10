@@ -1266,6 +1266,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
+# Audio Mixing Methodology (reality)
+
+1. Mix Prep:
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
