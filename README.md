@@ -1269,6 +1269,18 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 # Audio Mixing Methodology
 
+## Personal Singing Cadances
+
+- high humming
+- melodic singing
+- whisper
+- high scream
+- low growl
+- fast spit
+- lead bars
+
+## Tips for recording
+
 Low buffer size when recording.
 
 High buffer size when mixing.
