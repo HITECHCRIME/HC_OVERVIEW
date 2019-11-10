@@ -8,7 +8,7 @@
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP - HITECH CRIME MYTHOS
 ```
 ```
-THE WEYLAND-YUTANI OF TRAP MUSIC (WITH A DASH OF AGENTS OF SHIELD VIBE).
+THE WEYLAND-YUTANI OF TRAP MUSIC (NOTES: ?WITH A DASH OF AGENTS OF SHIELD VIBE? LEAVE THAT TO HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 ```
 **Hitech Crime** is a microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build a musical universe with unique lore and narratives.
 
