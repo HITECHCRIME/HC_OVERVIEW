@@ -29,7 +29,7 @@ STORY > TECH > AUDIENCE
 ```
 Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
-Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve.
+Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve. Think of Westworld business model - I know, ironic since it's ficticious and technology is not there yet. But the idea is similar.
 
 Hitech Crime Storyworld comes from a VOID [all possible futures/timelines], then it goes through ASCENSION [progress of all possible futures/timelines] into RELEASE [enlightenment and the making of choice].
 
