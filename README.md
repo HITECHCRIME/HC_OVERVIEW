@@ -1269,6 +1269,10 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 # Audio Mixing Methodology (reality)
 
+Low buffer size when recording.
+
+High buffer size when mixing.
+
 1. Mix Prep:
 - template
 - levels
