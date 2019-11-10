@@ -1267,13 +1267,17 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
-# Audio Mixing Methodology (reality)
+# Audio Mixing Methodology
 
 Low buffer size when recording.
 
 High buffer size when mixing.
 
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
+
+Concept of octave stacking.
+
+4stack octave - example -64, -30 +30, +64
 
 1. Mix Prep:
 - template 
