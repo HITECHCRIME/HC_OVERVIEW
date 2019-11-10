@@ -1296,6 +1296,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 Alternative: RCompressor + RVox
 
+-6db headroom
+-9db beat
+-11 vox (lower than beat, compressor will accomodate)
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
 # Lekki Okultyzm - more lyrical Polish rap.
