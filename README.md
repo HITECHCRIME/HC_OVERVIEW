@@ -1281,6 +1281,8 @@ Concept of octave stacking.
 
 Remember to take breaks for the ears - after a prolonged session ears themselves start distorting sounds as one gets accustomed to the sound of the song.
 
+Mix in mono 80% of the song, 20% stereo (ambience).
+
 1. Mix Prep:
 - template 
 
