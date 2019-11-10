@@ -1269,6 +1269,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 # Audio Mixing Methodology (reality)
 
 1. Mix Prep:
+- template
+- levels
+- sends
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
