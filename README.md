@@ -1325,7 +1325,7 @@ Alternative: RCompressor + RVox
 2. Fix.
 3. Enhance/make larger.
 4. Shape space.
-5. Space+depth panning.
+5. Space+depth+panning.
 
 -6db headroom
 -9db beat
