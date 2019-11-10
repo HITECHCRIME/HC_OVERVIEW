@@ -1281,6 +1281,9 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 ## Tips for recording
 
+Basic raw vocal solo recording compressor settings:
+2.9:1 ratio, -30 threshold, in 0, out 0, attack 0-x, release max
+
 Low buffer size when recording.
 
 High buffer size when mixing.
