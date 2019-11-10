@@ -1283,6 +1283,8 @@ Remember to take breaks for the ears - after a prolonged session ears themselves
 
 Mix in mono 80% of the song, 20% stereo (ambience).
 
+## Mixing Pathway
+
 1. Mix Prep:
 - template 
 
