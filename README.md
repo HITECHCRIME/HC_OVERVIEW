@@ -1279,6 +1279,8 @@ Concept of octave stacking.
 
 4stack octave - example -64, -30 +30, +64
 
+Remember to take breaks for the ears - after a prolonged session ears themselves start distorting sounds as one gets accustomed to the sound of the song.
+
 1. Mix Prep:
 - template 
 
