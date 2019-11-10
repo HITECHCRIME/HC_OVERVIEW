@@ -1274,6 +1274,15 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 - sends
 
 2. Mix Bus Processing:
+- mid/side EQ
+- Creme
+- Saturation
+
+3. Cleaning:
+- noise
+- breaths (don't cut them out, reduce input gain on each breath, more natural)
+- auto-tune
+- eq
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
