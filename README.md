@@ -1285,12 +1285,14 @@ Mix in mono 80% of the song, 20% stereo (ambience).
 
 ## Mixing Pathway
 
+**Version 01**
+
 1. Mix Prep:
 - template 
 
 (beat bus, vocal bus x 2 - depending how many tracks there are)
 
-(beat, verse, upverse, intro, main hook, uphook, adlibs) - usually 6 tracks unless more natural harmonies are required
+Common types of tracks: beat, verse, upverse, intro, main hook, uphook, adlibs - usually 6 tracks unless more natural harmonies are required (like 4stack octave harmonies).
 
 - levels
 - sends
@@ -1316,6 +1318,14 @@ Mix in mono 80% of the song, 20% stereo (ambience).
 + combo with CLA2A (peak reduction 45, gain 35)
 
 Alternative: RCompressor + RVox
+
+**Version 02**
+
+1. Balance.
+2. Fix.
+3. Enhance/make larger.
+4. Shape space.
+5. Space+depth panning.
 
 -6db headroom
 -9db beat
