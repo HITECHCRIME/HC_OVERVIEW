@@ -1275,8 +1275,10 @@ High buffer size when mixing.
 
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
+
+
 1. Mix Prep:
-- template
+- template (beat bus, vocal bus x 2 - depending how many tracks there are)
 - levels
 - sends
 
