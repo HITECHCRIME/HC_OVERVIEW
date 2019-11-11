@@ -34,7 +34,8 @@ Quick notes on the dream I had:
 - another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
 - distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
 - app would be the curated version of the released content (segregated into timelines, creating a plot point structure so to speak) - easy for people to "travel" across timelines and discover narrative arcs.
-- app would have goodies
+- app would have virtual goodies available to pick up 
+- app geolocating system would have actual physical things related to the Hitech Crime universe hidden in the real world and available to pick up for those who manage to triangulate their position through clues (merch, goodies)
 - app would have subscription for premium content?
 - app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
 - app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
