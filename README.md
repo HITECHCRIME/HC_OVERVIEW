@@ -1306,6 +1306,8 @@ Use buses -50% in CPU usage.
 
 Create a stereo slapback delay.
 
+Use 2 room reverbs.
+
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
 Concept of octave stacking.
