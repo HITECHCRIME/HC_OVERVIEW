@@ -37,6 +37,7 @@ Quick notes on the dream I had:
 - app would have goodies
 - app would have subscription for premium content?
 - app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
+- app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
 
 Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
