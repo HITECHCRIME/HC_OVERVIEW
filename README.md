@@ -389,7 +389,9 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 - 'future masked with light' lyrics
 
 ## X X X AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
-AI: "I'm afraid
+SCENE INSPIRATION
+AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
+X: "Are you an AI program?"
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
