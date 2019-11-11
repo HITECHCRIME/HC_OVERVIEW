@@ -29,7 +29,8 @@ What we're creating here is a "storyworld". We are basing it on trap music and c
 ```
 STORY > TECH > AUDIENCE
 ```
-Quick notes on the dream I had: 
+Quick notes on the dream I had about a geolocated app as an entry point.
+Niantic Version of engagement with the user (Real Life As A Platform?): 
 
 - another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
 - distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
