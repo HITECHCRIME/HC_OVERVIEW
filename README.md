@@ -1308,6 +1308,8 @@ Create a stereo slapback delay.
 
 Use 2 room reverbs.
 
+Serial compression for control and tone.
+
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
 Concept of octave stacking.
