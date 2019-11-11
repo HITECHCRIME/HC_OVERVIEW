@@ -1310,6 +1310,10 @@ Use 2 room reverbs.
 
 Serial compression for control and tone.
 
+Learn to volume balance.
+
+Organization system is essential.
+
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
 Concept of octave stacking.
