@@ -33,6 +33,10 @@ Quick notes:
 
 - another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
 - distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
+- app would be the curated version of the released content (segregated into timelines, creating a plot point structure so to speak) - easy for people to "travel" across timelines and discover narrative arcs.
+- app would have goodies
+- app would have subscription for premium content?
+- app would have 
 
 Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
