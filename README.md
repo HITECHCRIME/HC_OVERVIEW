@@ -392,6 +392,9 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 SCENE INSPIRATION
 AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
 X: "Are you an AI program?"
+AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
+X: "What do you mean you took Dr. Paul offline?"
+AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
