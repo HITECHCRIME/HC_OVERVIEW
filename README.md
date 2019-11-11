@@ -388,6 +388,9 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 - AR/XR tech used to deceive humanity
 - 'future masked with light' lyrics
 
+## X X X AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
+AI: "I'm afraid
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
