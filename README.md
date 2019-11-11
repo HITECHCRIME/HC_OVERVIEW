@@ -1302,7 +1302,9 @@ Low buffer size when recording.
 
 High buffer size when mixing.
 
-Use buses -50% in CPU usage
+Use buses -50% in CPU usage.
+
+Create a stereo slapback delay.
 
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
