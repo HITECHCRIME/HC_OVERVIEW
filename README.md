@@ -1302,6 +1302,8 @@ Low buffer size when recording.
 
 High buffer size when mixing.
 
+Use buses -50% in CPU usage
+
 Certain keys reflect specific types of emotions (example D Minor reflect a specific kind of sadness).
 
 Concept of octave stacking.
@@ -1359,6 +1361,10 @@ Alternative: RCompressor + RVox
 -6db headroom
 -9db beat
 -11 vox (lower than beat, compressor will accomodate)
+
+---
+
+
 
 # BLACKLANE_ Electronic soundscapes/ambients/drone.
 
