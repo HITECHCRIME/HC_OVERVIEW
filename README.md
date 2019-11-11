@@ -36,7 +36,7 @@ Quick notes:
 - app would be the curated version of the released content (segregated into timelines, creating a plot point structure so to speak) - easy for people to "travel" across timelines and discover narrative arcs.
 - app would have goodies
 - app would have subscription for premium content?
-- app would have 
+- app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
 
 Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
