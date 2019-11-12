@@ -1125,8 +1125,18 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
 - MOTHNODE_ V_il/Unv_il (Veil/Unveil)
 - MOTHNODE_ Tapping Air (haptic touch)
 
-## /// HC66_ | 'FALSE GODS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_20]
+## /// HC66_ | 'AINOIR'? 
+AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
+[NFS20] SCENE INSPIRATION
+AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
+X: "Are you an AI program?"
+AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
+X: "What do you mean you took Dr. Paul offline?"
+AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
+
+## /// HC67_ | 'FALSE GODS' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
+
 
 
 # SONG & ALBUM IDEAS
