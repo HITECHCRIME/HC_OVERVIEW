@@ -1125,6 +1125,8 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
 - MOTHNODE_ V_il/Unv_il (Veil/Unveil)
 - MOTHNODE_ Tapping Air (haptic touch)
 
+## /// HC66_ | 'FALSE GODS' EP
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
