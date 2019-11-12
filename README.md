@@ -1205,7 +1205,11 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - MOTHNODE ---- Using Isochronic Tones in trap music?
 - Album about stories of freedom and change - to biggest things humans talk about (freedom - we believe in various ways we are imprisoned, change - loss of familiar - it's not about the change in ourselves usually, it's about "i want another character in my story to change")
 
-# Content Types 
+# Content Types & Promo Methods
+
+- Distributors (The Orchard, Distrokid)
+- Spotify for Artists (submit songs for editors)
+- promo video banner with "Debut Album "X" Preorder Now ---- at hitechcri.me"
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
