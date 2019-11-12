@@ -398,6 +398,10 @@ AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
 X: "What do you mean you took Dr. Paul offline?"
 AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
 
+## 'FALSE GODS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE 
+[NFS_21]
+"maybe according to a religion that doesn't exist yet or a god that hasn't manifested yet"
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
@@ -1136,8 +1140,6 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 
 ## /// HC67_ | 'FALSE GODS' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
-
-
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
