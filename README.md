@@ -1213,7 +1213,7 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - pre-save link in profiles!
 - announce on social media (9tile posts, stories, narrative storyworld elements deployment, personal video etc)
 - establish a target goal for a release
-- set a timeline for this goal (2 months - before release build awareness, presaves, blog features etc)
+- set a timeline for this goal (2 months total - 1 month - before release build awareness, presaves, blog features etc - 1 month - after release engage with the followers, use the audience content related to your release, make them part of it, build stream target)
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
