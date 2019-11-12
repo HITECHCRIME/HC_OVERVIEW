@@ -1213,6 +1213,7 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - pre-save link in profiles!
 - announce on social media (9tile posts, stories, narrative storyworld elements deployment, personal video etc)
 - establish a target goal for a release
+- set a timeline for this goal
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
