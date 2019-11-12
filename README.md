@@ -207,6 +207,8 @@ Christopher Vogler distilled this monomyth into a series of simple steps called 
 
 - Using character archetypes in combination with the stages of the hero's journey can help you structure your own stories.
 
+- Expose character dynamics, keep the dialogue interesting.
+
 **The moral**
 
 - One of the most important elements of a story is its moral. All stories have an instructional purpose, and the moral is a lesson that can be learned through the transformative journey of the hero.
