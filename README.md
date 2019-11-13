@@ -1227,7 +1227,7 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - radioplay:
 
 1. under 4 minutes, has no derogatory terms, no political or religious message
-2.
+2. if you have a whole EP/album pick one track to be the flagship song
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
