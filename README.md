@@ -1230,7 +1230,8 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 2. if you have a whole EP/album pick one track to be the flagship song, usually it is the one that sounds the most commercial. get a lot of opinions to narrow down the selection.
 3. make a soundcloud private track link (if it's before release). never attach mp3 to the e-mail.
 4. make a download link (Dropbox) - full quality
-5. pitch process - make it personal, introduce yourself, explain what you are doing, what you did in the past and what you want from them. needs to be short and precise.
+5. pitch process - make it personal, introduce yourself, explain what you are doing, what you did in the past and what you want from them. needs to be short and precise but has to convince, so underline the things that make you stand out as an artist (give legitimacy). find similar sounding songs played by the station to break the ice and proves familiarity with what the station offers for their audience. this way they know what to expect.
+6. 
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
