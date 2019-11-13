@@ -301,6 +301,7 @@ They understand the concepts behind or the mission statement behind the brand or
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
 
 - unpredictable and unusual approaches to storytelling (what the audience prefers the most)
+- Narrative Preview Release for press/blog features cinematic sneak peek.
 
 # Transfer these into album plot progression
 
