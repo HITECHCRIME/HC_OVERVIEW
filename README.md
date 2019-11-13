@@ -1492,6 +1492,10 @@ they mean nothing
 
 LINK
 
+Tags:
+
+hitechcrime,aggrotrap,trap,trap music,music video,bass,you be at it,dark trap,mothnode,nomad,dark moon brand,hitech,creative,poland,poznań,polska,dark,hard,smooth,rap,heavy trap,heavy bass,evil trap,devil trap,one man army,netuh,helve avr,audiovisual,creative ops,creative operations,pop,rock,trance,futurap,chant rap,futura rap,future rap,futura,human edge,official video,techwear
+
 # Audio Mixing Methodology
 
 ## Personal Singing Cadances
