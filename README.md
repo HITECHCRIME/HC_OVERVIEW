@@ -1339,15 +1339,16 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 # Audio Description Template (Song Upload) EDIT IT PROPERLY
 
+modify the audio and audiovisual content descriptions to direct to themselves (perhaps make it a bit more like 'watch the cinematic narrative video on YouTube, instead of just subscribe on YouTube: x link x'
+
+MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
+
 /// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
 Get the new aggrotrap injection here_ LINKFIRE LINK
 Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
 
 Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
 Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
-
-HC_SG01_MOTHNODE_Digital_Life_Heist Prototype
-input YT description
 
 /// STREAM TARGETS “DIGITAL LIFE HEIST”_
 Spotify_ LINKFIRE LINK
