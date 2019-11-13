@@ -1234,6 +1234,7 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 6. choose stations - look where artists in a similar genre are being published. you can also start smaller, regional radio (hmm might be problematic due to Polish language being the priority for local stations).
 7. BBC Introducing? If it gets chosen, follow up and thank them. offer and interview or a session.
 8. Amazing Radio is very supportive (via amazingtunes website)
+9. genre-specific radio stations
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
