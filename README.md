@@ -403,6 +403,10 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 [NFS_21]
 "maybe according to a religion that doesn't exist yet or a god that hasn't manifested yet"
 
+## 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_22]
+- replaying memory as a form of consistent reality
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
