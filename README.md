@@ -1337,6 +1337,161 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
+# Audio Description Template (Song Upload) EDIT IT PROPERLY
+
+/// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
+Get the new aggrotrap injection here_ LINKFIRE LINK
+Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
+
+Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
+Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
+
+HC_SG01_MOTHNODE_Digital_Life_Heist Prototype
+input YT description
+
+/// STREAM TARGETS “DIGITAL LIFE HEIST”_
+Spotify_ LINKFIRE LINK
+Apple Music_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+SoundCloud_ LINKFIRE LINK
+
+/// DOWNLOAD TARGETS “DIGITAL LIFE HEIST”_
+iTunes_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+
+/// BLACK SHEEP FOLLOW MOTHNODE_
+Telegram Live Ops Group_ https://t.me/hitechops
+Instagram_ https://instagram.com/mothnode
+Soundcloud_ https://soundcloud.com/mothnode
+Spotify_ X
+Twitter_ https://www.twitter.com/mothnode
+Website_ http://www.helve.live
+Email_ X
+
+/// FOLLOW HITECH CRIME_
+Facebook_ http://www.facebook.com/hitechcrime
+Instagram_ https://instagram.com/hitechcrime
+Website_ http://www.hitechcri.me
+
+/// CREATIVE OPERATIVES_
+Producer_ Helve AVR / MOTHNODE
+Creative Director_ MOTHNODE / The Void
+Camera Ops_ Autonomous / MOTHNODE
+Lyrics_ MOTHNODE
+Beat_ HRTLZ
+
+/// LYRICAL INSIGHT_
+nadlatuję z duchem czasu
+aye aye aye aye to jest digital life heist (ou) 
+digital life heist (ej)
+privkey na blacie, numer swój odsłoń, (10)
+tyle hashów na kasę, a nie zmienię cię w cyfrę
+
+#AGGROTRAP #HITECHCRIME #MOTHNODE 
+
+/// Audio Injection by MOTHNODE performing "Digital Life Heist"
+© ARR 2019 Hitech Crime / Helve AVR
+
+LINK
+
+# Audiovisual Description Template (Music Video)
+
+Title: /// MOTHNODE_ Dryspace (Prod. Sylar) | Live Ops Music Video Practice
+
+/// OFFICIAL AV_INJECTION FOR AGGROTRAP "DRYSPACE" BY MOTHNODE_
+Get the new aggrotrap injection here_ LINKFIRE LINK
+Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
+
+Pre-order ALBUM NAME strain with exclusive merch_ X
+Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
+
+/// STREAM TARGETS “DRYSPACE”_
+Spotify_ LINKFIRE LINK
+Apple Music_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+SoundCloud_ LINKFIRE LINK
+
+/// DOWNLOAD TARGETS “DRYSPACE”_
+iTunes_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+
+/// BLACK SHEEP FOLLOW MOTHNODE_
+Telegram Live Ops Group_ https://t.me/hitechops
+Instagram_ https://instagram.com/mothnode
+Soundcloud_ https://soundcloud.com/mothnode
+Spotify_ X
+Twitter_ https://www.twitter.com/mothnode
+Website_ http://www.helve.live
+Email_ X
+
+/// FOLLOW HITECH CRIME_
+Facebook_ http://www.facebook.com/hitechcrime
+Instagram_ https://instagram.com/hitechcrime
+Website_ http://www.hitechcri.me
+
+/// CREATIVE OPERATIVES_
+Producer_ Helve AVR / MOTHNODE
+Creative Director_ MOTHNODE / The Void
+Camera Ops_ Autonomous / MOTHNODE
+Lyrics_ MOTHNODE
+Beat_ Sylar
+
+/// LYRICAL INSIGHT_
+that sys tech too many nulls aye 
+i ain't givin' up - hackin' real till we cut
+i'm burnin' haze kush with my circle ops
+we bring home-ooor-we-dry in space till we done aye
+
+gettin' it done, tough nails 
+through the coffin 
+life runs its own course 
+along the lines of others 
+telling you to stop so often 
+
+let'em try to touch you 
+with their orders 
+words of dire that mean nothing 
+they mean nothing to you lot
+they mean nothing
+
+they meant something
+now they mean nothing
+they meant something
+now they mean nothing
+whispers whispers whispers whispers 
+whispers to run no
+friction to run
+no friction to run aye
+
+ya aye
+prrrrrrrrrrr
+
+that sys tech took many nulls aye 
+i ain't givin' up - hackin' real till we cut
+i'm burnin' haze kush with my circle ops
+we bring home or we dry in space till we done aye
+
+gettin' it done, tough nails 
+through the coffin 
+life runs its own course 
+along the lines of others 
+telling you to stop so often 
+let'em try to touch you 
+with their orders 
+words of dire that mean nothing 
+they mean nothing to you lot
+they mean nothing
+
+they mean nothing 
+they mean nothing
+
+#AGGROTRAP #HITECHCRIME #MOTHNODE 
+
+/// Music Video by MOTHNODE performing "Dryspace"
+© ARR 2019 Hitech Crime / Helve AVR
+
+LINK
+
 # Audio Mixing Methodology
 
 ## Personal Singing Cadances
