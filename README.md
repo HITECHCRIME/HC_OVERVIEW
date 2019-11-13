@@ -1339,7 +1339,11 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 # Audio Description Template (Song Upload) EDIT IT PROPERLY
 
-modify the audio and audiovisual content descriptions to direct to themselves (perhaps make it a bit more like 'watch the cinematic narrative video on YouTube, instead of just subscribe on YouTube: x link x'
+- modify the audio and audiovisual content descriptions to direct to themselves (perhaps make it a bit more like 'watch the cinematic narrative video on YouTube, instead of just subscribe on YouTube: x link x'
+
+- add lore snippet to hook /// DISCOVER HITECH CRIME UNIVERSE or something like that. Quote from the world? Some explanation or setting description?
+
+- add /// WORD FROM MOTHNODE for personal (real thoughts, not character?)
 
 MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
 
