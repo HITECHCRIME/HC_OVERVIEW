@@ -1146,6 +1146,10 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 ## /// HC67_ | 'FALSE GODS' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
 
+## /// HC68_ | 'X' EP 
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
+- replaying memory as a form of consistent reality theme
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
