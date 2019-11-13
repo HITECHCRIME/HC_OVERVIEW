@@ -1228,7 +1228,8 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 
 1. under 4 minutes, has no derogatory terms, no political or religious message
 2. if you have a whole EP/album pick one track to be the flagship song, usually it is the one that sounds the most commercial. get a lot of opinions to narrow down the selection.
-3. make a soundcloud private track (if it's before release). never attach mp3 to the e-mail.
+3. make a soundcloud private track link (if it's before release). never attach mp3 to the e-mail.
+4. make a download link (Dropbox) - full quality
 
 All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
