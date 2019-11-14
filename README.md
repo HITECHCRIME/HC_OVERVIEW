@@ -305,7 +305,7 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 
 # Tech that goes along with the conceptual
 
-Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 MC "This lens has a lot of character. Something about it makes snapshot look like **memories**. Though it's not a "clean lens"." Vintage lens used for hitech themes. The image of a memory is an important aspect of this specific setup (bokeh+grain type). There is a unique distortion of the background as well.
+Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot of character. Something about it makes snapshot look like **memories**. Though it's not a "clean lens"." Vintage lens used for hitech themes. The image of a memory is an important aspect of this specific setup (bokeh+grain type). There is a unique distortion of the background as well.
 
 # Transfer these into album plot progression
 
