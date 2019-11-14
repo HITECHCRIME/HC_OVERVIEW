@@ -1421,6 +1421,11 @@ Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
 Pre-order ALBUM NAME strain with exclusive merch_ X
 Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
 
+/// ENTER THE NARRATIVE UNVIERSE OF HITECH CRIME
+"LORE SNIPPET"
+(enter the narrative world of Hitech Crime)
+Enter the Hitech Crime cinematic narrative universe
+
 /// STREAM TARGETS “DRYSPACE”_
 Spotify_ LINKFIRE LINK
 Apple Music_ LINKFIRE LINK
