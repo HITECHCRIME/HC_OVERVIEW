@@ -1448,7 +1448,7 @@ Twitter_ https://www.twitter.com/mothnode
 Website_ http://www.helve.live
 Email_ X
 
-/// FOLLOW HITECH CRIME_
+/// FOLLOW HITECH CRIME SOCIAL NODES_
 Facebook_ http://www.facebook.com/hitechcrime
 Instagram_ https://instagram.com/hitechcrime
 Website_ http://www.hitechcri.me
