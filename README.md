@@ -1348,8 +1348,6 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 - add lore snippet to hook /// DISCOVER HITECH CRIME UNIVERSE or something like that. Quote from the world? Some explanation or setting description?
 
-- add /// WORD FROM MOTHNODE for personal (real thoughts, not character?)
-
 MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
 
 /// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
@@ -1362,6 +1360,9 @@ Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
 
 /// ENTER THE NARRATIVE UNVIERSE OF HITECH CRIME
 "LORE SNIPPET"
+
+/// WORD FROM MOTHNODE for personal (real thoughts, not character?)
+xxx
 
 /// STREAM TARGETS “DIGITAL LIFE HEIST”_
 Spotify_ LINKFIRE LINK
