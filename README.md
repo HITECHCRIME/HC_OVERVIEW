@@ -1355,6 +1355,7 @@ MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
 /// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
 Get the new aggrotrap injection here_ LINKFIRE LINK
 Enter the Hitech Crime cinematic narrative universe on YouTube_ http://bit.ly/313tr8c
+(enter the narrative world of Hitech Crime)
 
 Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
 Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
