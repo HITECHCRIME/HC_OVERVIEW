@@ -1358,6 +1358,7 @@ Enter the Hitech Crime cinematic narrative universe on YouTube_ http://bit.ly/31
 (enter the narrative world of Hitech Crime)
 
 /// 
+"LORE SNIPPET"
 
 Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
 Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
