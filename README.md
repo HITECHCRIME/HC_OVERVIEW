@@ -1357,7 +1357,7 @@ Get the new aggrotrap injection here_ LINKFIRE LINK
 Enter the Hitech Crime cinematic narrative universe on YouTube_ http://bit.ly/313tr8c
 (enter the narrative world of Hitech Crime)
 
-/// 
+/// ENTER THE NARRATIVE UNVIERSE OF HITECH CRIME
 "LORE SNIPPET"
 
 Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
