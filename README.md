@@ -1426,6 +1426,9 @@ Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
 (enter the narrative world of Hitech Crime)
 Enter the Hitech Crime cinematic narrative universe
 
+/// WORD FROM MOTHNODE for personal (real thoughts, not character?)
+xxx
+
 /// STREAM TARGETS “DRYSPACE”_
 Spotify_ LINKFIRE LINK
 Apple Music_ LINKFIRE LINK
