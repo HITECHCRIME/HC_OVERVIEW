@@ -271,6 +271,10 @@ Media Form Spectrum
 
 > From the umbrella category of Language, my taxonomy creates a structure to break that idea apart into ever-more-specific language forms. It can be written or spoken. Written language can be scribbled, sprayed, puffed into clouds, or set in a type font. Spoken language breaks into conversation, lecture, voice over and more. With each new level of specificity the media form of language finds more and more advantages, more ways of communication, and differentiates what it can or cannot say.
 
+---
+
+![](media-taxonomy.png)
+
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
