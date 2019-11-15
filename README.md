@@ -278,6 +278,10 @@ Because audience engagement is central to this form of storytelling, make sure w
 
 Can't do it alone if the projectspan is large.
 
+- keep it cost-effective
+
+
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
