@@ -283,6 +283,10 @@ Media Form Spectrum
 
 ---
 
+> “Why do we have to define it (transmedia storytelling) yet?”  asks indie filmmaker Lance Weiler. “Why can’t we just continue to experiment?”  Because, says TV writer-producer Jesse Alexander (Lost and Heroes) “You have to give it a name so people can talk about it. Isaac Newton didn’t discover gravity, he named it.”  	
+
+---
+
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
