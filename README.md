@@ -370,6 +370,8 @@ And you need to remember about some different specialities in your audience such
        sidekick: mechanoreceptor - tough anarchist
        
        nemesis: human evil, ignorance, stagnation, harsh world into protopia
+       
+> Flesh out character traits by creating a character diamond. Understand the character’s primary trait (their north star), secondary trait (their counter star), their non-negotiable (the thing they are prepared to die on a hill for) and their weakness or fatal flaw.
          
 # Narrative Arcs for Hitech Crime
 - main pieces of albums (meaning turn these below into EP as well)
