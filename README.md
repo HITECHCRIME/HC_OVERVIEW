@@ -260,6 +260,8 @@ They understand the concepts behind or the mission statement behind the brand or
 - "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 - lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
 
+# Content Cloud
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
