@@ -56,6 +56,22 @@ A little bit of David Lynch approach:
 - commentary on consumable ficticious violence and the meaning of meaning
 
 # Transmedia Storytelling Notes
+
+BENEFITS
+
+- Transmedia encourages and supports consumer participation, from interactions across channels to the co-creation of products, stories, and messages.
+- Transmedia allows the brand to go “surround sound.” This means, when a customer is looking for insights about your topic, your information is available on their channel of choice, from social media to podcasts to documents.
+- Leverage multimedia content to create a richer brand experience across channels by experimenting with emerging channels such as podcasts, virtual reality, brand-run TV shows, and more.
+- Amplify messages and explore the best format for telling them—by experimenting with a full range of different forms and media to flesh out a complete transmedia strategy.
+
+LIMITATIONS
+
+- Coordinating and collaborating with individual sectors of a media conglomerate can be a challenge.
+- While entry points may entice a range of consumers, it may also provide many points to push consumers away.
+- It could get hard to understand the entire dynamic of a franchise if you have several content creators.
+- Balancing content between hardcore fans and casual fans is a daunting task.
+- Not all stories are suitable for transmedia storytelling.
+
 1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
 
 2. Transmedia storytelling reflects the economics of media consolidation or what industry observers call "synergy." Modern media companies are horizontally integrated - that is, they hold interests across a range of what were once distinct media industries. A media conglomerate has an incentive to spread its brand or expand its franchises across as many different media platforms as possible. Consider, for example, the comic books published in advance of the release of such films as Batman Begins and Superman Returns by DC ( owned by Warner Brothers, the studio that released these films). These comics provided back-story which enhanced the viewer's experience of the film even as they also help to publicize the forthcoming release (thus blurring the line between marketing and entertainment). The current configuration of the entertainment industry makes transmedia expansion an economic imperative, yet the most gifted transmedia artists also surf these marketplace pressures to create a more expansive and immersive story than would have been possible otherwise.
