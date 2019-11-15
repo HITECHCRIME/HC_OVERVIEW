@@ -286,6 +286,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative.
 - Distort the timeline.
 - Register various domains for fictional places and concepts.
+A show that interacts with the real audience in the story. Making TV no longer a one way medium. Think about it - Elliot accuses us of being in on it. What if the things we did online actually did affect the storyline? That would be epic!
 
 # Ideas for video releases
 
@@ -303,7 +304,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
 
 
-That would be fucking brilliant. A show that interacts with the real audience in the story. Making TV no longer a one way medium. Think about it - Elliot accuses us of being in on it. What if the things we did online actually did affect the storyline? That would be epic!
+
 ![](qrs-within-narratives.png)
 
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
@@ -315,7 +316,7 @@ Community Engagement Idea: "You know what kind of night it is when Hitech Crime 
 
 Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot of character. Something about it makes snapshot look like **memories**. Though it's not a "clean lens"." Vintage lens used for hitech themes. The image of a memory is an important aspect of this specific setup (bokeh+grain type). There is a unique distortion of the background as well.
 
-# Transfer these into album plot progression
+# Transfer these into album plot progression cloud
 
 ## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
