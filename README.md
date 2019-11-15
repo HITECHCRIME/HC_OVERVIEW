@@ -626,6 +626,10 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 [NFS_22]
 - replaying memory as a form of consistent reality
 
+## 'DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_23] 
+- depopulation theme
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
@@ -1364,18 +1368,19 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 
 ## /// HC67_ | 'FALSE GODS' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
+- MOTHNODE_ Judgement/Opinion
+- MOTHNODE_ Perception
 
 ## /// HC68_ | 'X' EP 
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
 - replaying memory as a form of consistent reality theme
 
 ## /// HC69_ | 'DEPOPULUS' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_XX]
 album on depopulation
 - MOTHNODE_ Solar Flare
 - MOTHNODE_ Depopulus
 - MOTHNODE_ Average Happiness
-
-## /// HC70_ | '
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
