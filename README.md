@@ -361,7 +361,7 @@ And you need to remember about some different specialities in your audience such
 **How to apply the notes to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
-- characters: 
+- characters, Protagonists, Deuteragonists, Confidants
 
        protagonist hacker, underdog, reality hacker (vishacker)
        
