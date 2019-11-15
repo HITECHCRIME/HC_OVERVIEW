@@ -264,6 +264,11 @@ They understand the concepts behind or the mission statement behind the brand or
 
 > Interface is king; nothing kills an ambitious multiplatform effort faster than a clunky point of entry." -Jessica Clark
 
+## Paradigms
+
+- content must be unique
+
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
@@ -306,8 +311,6 @@ They understand the concepts behind or the mission statement behind the brand or
 - alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
-
-
 
 ![](qrs-within-narratives.png)
 
