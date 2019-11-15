@@ -275,7 +275,9 @@ Media Form Spectrum
 
 ---
 
+> Research Paper: Transmedia Journalism as a Post-Digital Narrative
 
+---
 
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
