@@ -401,13 +401,9 @@ Can't do it alone if the projectspan is large.
 - TikTok -> clues for puzzles for the audience (cryptic account)
 - mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
-- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storyline.
-- Distort the timeline.
-- Register various domains for fictional places and concepts.
-- Use text as an intimate platform of breaching the 4th wall.
+- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storylines.
 
 Quick notes on the dream I had about a geolocated app as an entry point.
-Niantic Version of engagement with the user (Real Life As A Platform?): 
 
 - another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
 - distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
@@ -417,8 +413,11 @@ Niantic Version of engagement with the user (Real Life As A Platform?):
 - app would have subscription for premium content?
 - app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
 - app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
-
 - wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+
+Other types to consider:
+
+Niantic Version of engagement with the user (Real Life As A Platform?). 
 
 PRINT MATERIALS
 Books & magazines
@@ -427,6 +426,7 @@ Posters
 Postcards
 Stickers
 Comic books
+
 DIGITAL CONTENT
 eBooks
 Website content
@@ -434,10 +434,12 @@ Fan fiction
 Podcasts
 Video
 Video games
+
 DIRECT COMMUNICATIONS
 Text messages
 Chat or instant messages
 Email
+
 SOCIAL MEDIA
 Twitter
 Facebook
@@ -445,6 +447,7 @@ Instagram
 Tumblr
 YouTube
 Fan sites and forums
+
 EXPERIENTIAL MEDIA 
 Theater
 Concerts
@@ -471,7 +474,9 @@ Toys
 - idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
 - idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
 - head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
-
+- Distort the timeline, fragment the narrative.
+- Register various domains for fictional places and concepts.
+- Use texting platform as the most intimate platform of breaching the 4th wall.
 
 ![](qrs-within-narratives.png)
 
