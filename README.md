@@ -302,6 +302,8 @@ Media Form (Story Language)
 
 ![](media-form.png)
 
+> I’ll come back to content in later posts. First the idea of media form merits some examples for which I didn’t have room in the linked article. Media form, one of the two terms I use to replace the vague and often-conflated singular medium, has been variously described as a language of storytelling, as semiotics, or as modes. The best way to understand what separates it from its partner media channel is that a media form can be published in many different places. The media channel is the place. For example, text is a media form. It’s common and old (from the dawn of writing) and, as the illustration up top shows, can land almost anywhere. We see text in print, online, in skywriting and graffiti, in tattoos and crawling across the bottom of a cable news broadcast. Word-besotted humans have put it everywhere. The it is the media form, and the where is the media channel.
+
 Media Form Spectrum
 
 ![](media-form-spectrum.png)
