@@ -264,27 +264,38 @@ They understand the concepts behind or the mission statement behind the brand or
 
 > Interface is king; nothing kills an ambitious multiplatform effort faster than a clunky point of entry." -Jessica Clark
 
-## Paradigms
+## Hitech Crime Storytelling Paradigms
 
-- content must be unique
+- **content must be unique**
 
 Rather than repeating the information on different platforms, use different parts of a story to match a platform’s strength and maximize user experience. 
 
-- seamless point of entry
+- **seamless point of entry**
 
 Because audience engagement is central to this form of storytelling, make sure whichever platform you’re using gets readers to interact in a very simple way.
 
-- make partner connections
+- **make partner connections**
 
 Can't do it alone if the projectspan is large.
 
-- keep it cost-effective
+- **keep it cost-effective**
 
 > “You can incorporate transmedia in a low-cost way, like introducing social media as a way to extend the story. It depends on your goals and what you’re trying to achieve.”
 
-- the story is the most important
+- **the story is the most important**
 
-> “By telling interconnected stories we can embrace the nuance and complexity that exists in any story world,” Moloney wrote. “Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.”
+> Transmedia journalism is designing a project to unfold across multiple media in an expansive rather than repetitive way. In the movie and music industries much of a transmedia story may be told in a film or on an album. But a series of interconnected stories or pieces of context may be told through games, comics, novels, Web media, fan fiction and even amusement parks. Those other pieces expand rather than repeat the story.
+
+> A Story World: A transmedia project explores a space that contains multiple characters who can each tell multiple stories. It’s a space that you can draw a border around, like Batman’s Gotham City or that galaxy far far away. In journalism this could be a physical space like a neighborhood, a social space like a community, or an issue space like immigration or climate change. It could also be an ongoing beat topic, like state government.
+
+> Media Forms: The interconnected stories from that world take advantage of the different forms media can take. These include text, audio, video, game and interactive forms, graphic nonfiction, physical artifacts, lectures and many others. These ‘languages’ tell stories in unique ways. Stories from our world should use the media form that best fits the way an individual story in our world should be told. Nearly any media form can tell a good journalistic story if we use our usual forethought and ethical rigor.
+
+> Media Channels: Those forms can all be distributed in multiple ways. Text, for example, can be published by newspapers, magazines, the Web, or even sidewalk chalk and sky writing. These are media channels, or connection points with an audience. As we take advantage of the media forms above, we want to take advantage of the many ways we can reach varying audiences. For example, regular newspaper readers differ from gamers in where and how they can be found. Here we decide who it is important to reach, and place media to find those audiences. Journalism options include various print media, television, radio, museums, lectures, game consoles, public projections, billboards or any other means for the stories to be seen. Nearly any media channel could be used to tell a journalistic story. Websites and mobile apps are powerful channels as they can display many of the forms listed above. But they are each only single media channels with particular audiences. They alone don’t answer all our needs.
+
+> Partnerships: Few organizations exist that have the skills to produce many media forms and have access to many media channels. This requires teamwork between skilled producers of different media forms as well as cooperation between the owners of various media channels. Each partner would gain from the work or distribution of the others.
+
+> What it Creates: By telling interconnected stories we can embrace the nuance and complexity that exists in any story world. Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.
+
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
