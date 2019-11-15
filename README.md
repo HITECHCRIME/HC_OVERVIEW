@@ -288,6 +288,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storyline.
 - Distort the timeline.
 - Register various domains for fictional places and concepts.
+- Use text as an intimate platform of breaching the 4th wall.
 
 # Ideas for video releases
 
