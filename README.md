@@ -298,7 +298,11 @@ Can't do it alone if the projectspan is large.
 
 ^ by Kevin Moloney
 
+Media Form (Story Language)
+
 ![](media-form.png)
+
+Media Form Spectrum
 
 ![](media-form-spectrum.png)
 
