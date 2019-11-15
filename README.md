@@ -251,6 +251,8 @@ They understand the concepts behind or the mission statement behind the brand or
 
 ^ by Kevin Moloney
 
+![](media-taxonomy.png)
+
 Media Form (Story Language)
 
 > “Pictures can’t say ain’t.” Sol Worth
@@ -273,7 +275,7 @@ Media Form Spectrum
 
 ---
 
-![](media-taxonomy.png)
+
 
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
