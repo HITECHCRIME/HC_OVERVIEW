@@ -358,7 +358,7 @@ And you need to remember about some different specialities in your audience such
 
 > Interface is king; nothing kills an ambitious multiplatform effort faster than a clunky point of entry." -Jessica Clark
 
-## Hitech Crime Storytelling Paradigms
+## Hitech Crime Technical Storytelling Paradigms
 
 - **content must be unique**
 
