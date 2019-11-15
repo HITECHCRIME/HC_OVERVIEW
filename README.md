@@ -299,6 +299,8 @@ They understand the concepts behind or the mission statement behind the brand or
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
 
+![](qrs-within-narratives.png)
+
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
 
 - unpredictable and unusual approaches to storytelling (what the audience prefers the most)
