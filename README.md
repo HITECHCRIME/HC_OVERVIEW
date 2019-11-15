@@ -274,7 +274,9 @@ Rather than repeating the information on different platforms, use different part
 
 Because audience engagement is central to this form of storytelling, make sure whichever platform you’re using gets readers to interact in a very simple way.
 
-- 
+- make partner connections
+
+Can't do it alone if the projectspan is large.
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
