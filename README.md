@@ -486,6 +486,8 @@ Toys
 
 # Ideas for releases
 
+> UNRAVEL SMALL BEGINNINGS: Create your origin story in this order: how it all started, what happened next, when it all took off, what have you learned along the way. These kinds of stories tend to do very well. Why? Because people love these rags-to-riches kinds of stories. We love hearing stories about how something from the bottom made its way to the top. It draws more inspiration in hopes that one day, we might do the same. A great story can help plant a product in people’s minds without them even realizing it – all you need to do is learn how to listen, communicate, and connect.
+
 - scene where i'm seen displaying the qr code briefly on a handheld display or piece of paper and some other dude scanning it with their phone (recorded as if undercover surveillance)
 - camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
 - QR code is a website leading to a short story related to the song + title and artist of the song
