@@ -296,6 +296,8 @@ Can't do it alone if the projectspan is large.
 
 > What it Creates: By telling interconnected stories we can embrace the nuance and complexity that exists in any story world. Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.
 
+^ by Kevin Moloney
+
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
