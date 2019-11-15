@@ -283,6 +283,8 @@ They understand the concepts behind or the mission statement behind the brand or
 - TikTok -> clues for puzzles for the audience (cryptic account)
 - mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
+- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative.
+- Distort the timeline.
 
 # Ideas for video releases
 
@@ -299,6 +301,8 @@ They understand the concepts behind or the mission statement behind the brand or
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
 
+
+That would be fucking brilliant. A show that interacts with the real audience in the story. Making TV no longer a one way medium. Think about it - Elliot accuses us of being in on it. What if the things we did online actually did affect the storyline? That would be epic!
 ![](qrs-within-narratives.png)
 
 Community Engagement Idea: "You know what kind of night it is when Hitech Crime red glows on the streets" - audience uses synchronized set up of red lamps. Symbolic meaning would be that we invite the narrative into our private space and interact with it.
