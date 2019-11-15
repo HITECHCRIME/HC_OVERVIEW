@@ -458,7 +458,7 @@ Toys
 
 # Ideas for releases
 
-- scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
+- scene where i'm seen displaying the qr code briefly on a phone or piece of paper and some other dude scanning it with their phone (recorded as if undercover surveillance)
 - camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
 - QR code is a website leading to a short story related to the song + title and artist of the song
 - QR code also could be the download link for the release.
