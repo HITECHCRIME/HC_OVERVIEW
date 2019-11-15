@@ -235,6 +235,40 @@ Narratives are overarching - world arcs, character arcs (!), motif arcs.
 
 They understand the concepts behind or the mission statement behind the brand or what they're trying to achieve. And then, other types of scenario, for us, is really like interweaving all kinds of various storylines or ideas that don't necessarily feel like they go together, on first glance. But then when you take that 30,000 foot view and you step back from it and you see it all play out and you realize all the way along the road there they were connecting that and leading me down a path, that I wasn't aware of."
 
+---
+
+> Transmedia journalism is designing a project to unfold across multiple media in an expansive rather than repetitive way. In the movie and music industries much of a transmedia story may be told in a film or on an album. But a series of interconnected stories or pieces of context may be told through games, comics, novels, Web media, fan fiction and even amusement parks. Those other pieces expand rather than repeat the story.
+
+> A Story World: A transmedia project explores a space that contains multiple characters who can each tell multiple stories. It’s a space that you can draw a border around, like Batman’s Gotham City or that galaxy far far away. In journalism this could be a physical space like a neighborhood, a social space like a community, or an issue space like immigration or climate change. It could also be an ongoing beat topic, like state government.
+
+> Media Forms: The interconnected stories from that world take advantage of the different forms media can take. These include text, audio, video, game and interactive forms, graphic nonfiction, physical artifacts, lectures and many others. These ‘languages’ tell stories in unique ways. Stories from our world should use the media form that best fits the way an individual story in our world should be told. Nearly any media form can tell a good journalistic story if we use our usual forethought and ethical rigor.
+
+> Media Channels: Those forms can all be distributed in multiple ways. Text, for example, can be published by newspapers, magazines, the Web, or even sidewalk chalk and sky writing. These are media channels, or connection points with an audience. As we take advantage of the media forms above, we want to take advantage of the many ways we can reach varying audiences. For example, regular newspaper readers differ from gamers in where and how they can be found. Here we decide who it is important to reach, and place media to find those audiences. Journalism options include various print media, television, radio, museums, lectures, game consoles, public projections, billboards or any other means for the stories to be seen. Nearly any media channel could be used to tell a journalistic story. Websites and mobile apps are powerful channels as they can display many of the forms listed above. But they are each only single media channels with particular audiences. They alone don’t answer all our needs.
+
+> Partnerships: Few organizations exist that have the skills to produce many media forms and have access to many media channels. This requires teamwork between skilled producers of different media forms as well as cooperation between the owners of various media channels. Each partner would gain from the work or distribution of the others.
+
+> What it Creates: By telling interconnected stories we can embrace the nuance and complexity that exists in any story world. Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.
+
+^ by Kevin Moloney
+
+Media Form (Story Language)
+
+> “Pictures can’t say ain’t.” Sol Worth
+
+![](media-form.png)
+
+> I’ll come back to content in later posts. First the idea of media form merits some examples for which I didn’t have room in the linked article. Media form, one of the two terms I use to replace the vague and often-conflated singular medium, has been variously described as a language of storytelling, as semiotics, or as modes. The best way to understand what separates it from its partner media channel is that a media form can be published in many different places. The media channel is the place. For example, text is a media form. It’s common and old (from the dawn of writing) and, as the illustration up top shows, can land almost anywhere. We see text in print, online, in skywriting and graffiti, in tattoos and crawling across the bottom of a cable news broadcast. Word-besotted humans have put it everywhere. The it is the media form, and the where is the media channel.
+
+Media Form Spectrum
+
+![](media-form-spectrum.png)
+
+> In my taxonomy I break the idea of media form first into seven umbrella groups: Language, Image, Interaction, Object, Music, Odor and Flavor. That left to right order spreads them across a spectrum of most explicit (language) to most implicit (flavor) in how they communicate. Language is capable of being very explicit in how it communicates, if the circumstances are right. It is capable of great detail and narrative order or disorder. Words — written or spoken — can describe the absence of something where the other media forms cannot. As Sol Worth pointed out, “Pictures can’t say ain’t.” Language is never completely explicit, though. The reader or listener always brings her or his own experience to understanding a message.
+
+> “Gown removed carelessly. Head, less so.” — Joss Whedon
+
+> This is a little six-word story by the creator of Buffy the Vampire Slayer. It’s a nice example of how language is an implicit communicator too. When we read that sparse story we fill in all the blanks with our own experiences and remnants of other stories. We abhor the gaps and make up stuff to fill them ourselves. So yes, language is the most explicit of my seven categories, but that does not mean it is entirely explicit. Nothing achieves that when humans are involved in the communication.
+
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
@@ -284,29 +318,6 @@ Can't do it alone if the projectspan is large.
 
 - **the story is the most important**
 
-> Transmedia journalism is designing a project to unfold across multiple media in an expansive rather than repetitive way. In the movie and music industries much of a transmedia story may be told in a film or on an album. But a series of interconnected stories or pieces of context may be told through games, comics, novels, Web media, fan fiction and even amusement parks. Those other pieces expand rather than repeat the story.
-
-> A Story World: A transmedia project explores a space that contains multiple characters who can each tell multiple stories. It’s a space that you can draw a border around, like Batman’s Gotham City or that galaxy far far away. In journalism this could be a physical space like a neighborhood, a social space like a community, or an issue space like immigration or climate change. It could also be an ongoing beat topic, like state government.
-
-> Media Forms: The interconnected stories from that world take advantage of the different forms media can take. These include text, audio, video, game and interactive forms, graphic nonfiction, physical artifacts, lectures and many others. These ‘languages’ tell stories in unique ways. Stories from our world should use the media form that best fits the way an individual story in our world should be told. Nearly any media form can tell a good journalistic story if we use our usual forethought and ethical rigor.
-
-> Media Channels: Those forms can all be distributed in multiple ways. Text, for example, can be published by newspapers, magazines, the Web, or even sidewalk chalk and sky writing. These are media channels, or connection points with an audience. As we take advantage of the media forms above, we want to take advantage of the many ways we can reach varying audiences. For example, regular newspaper readers differ from gamers in where and how they can be found. Here we decide who it is important to reach, and place media to find those audiences. Journalism options include various print media, television, radio, museums, lectures, game consoles, public projections, billboards or any other means for the stories to be seen. Nearly any media channel could be used to tell a journalistic story. Websites and mobile apps are powerful channels as they can display many of the forms listed above. But they are each only single media channels with particular audiences. They alone don’t answer all our needs.
-
-> Partnerships: Few organizations exist that have the skills to produce many media forms and have access to many media channels. This requires teamwork between skilled producers of different media forms as well as cooperation between the owners of various media channels. Each partner would gain from the work or distribution of the others.
-
-> What it Creates: By telling interconnected stories we can embrace the nuance and complexity that exists in any story world. Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.
-
-^ by Kevin Moloney
-
-Media Form (Story Language)
-
-![](media-form.png)
-
-> I’ll come back to content in later posts. First the idea of media form merits some examples for which I didn’t have room in the linked article. Media form, one of the two terms I use to replace the vague and often-conflated singular medium, has been variously described as a language of storytelling, as semiotics, or as modes. The best way to understand what separates it from its partner media channel is that a media form can be published in many different places. The media channel is the place. For example, text is a media form. It’s common and old (from the dawn of writing) and, as the illustration up top shows, can land almost anywhere. We see text in print, online, in skywriting and graffiti, in tattoos and crawling across the bottom of a cable news broadcast. Word-besotted humans have put it everywhere. The it is the media form, and the where is the media channel.
-
-Media Form Spectrum
-
-![](media-form-spectrum.png)
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
