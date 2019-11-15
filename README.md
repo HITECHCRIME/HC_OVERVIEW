@@ -291,7 +291,7 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 ---
 
-**Chaotic Fiction*
+**Chaotic Fiction**
 
 > I define chaotic fiction as a fictional construct that begins with a set of rules, uses those rules to run its scenario through an organic "computer" comprised of audience and author, and ends with a finite body of work that was not predetermined. This is to say that, though the authors (those who set the rules and started the production of the fiction in motion) may have been able to predict with some measure of certainty what they might end up with upon completion of the product, since they did not have complete control during production of every element of creation, they could not say with absolute certainty beforehand exactly what would be created by the process.
 
