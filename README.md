@@ -378,6 +378,8 @@ Can't do it alone if the projectspan is large.
 
 - **the story is the most important**
 
+- **let the traditional media work in conjunction with digital media for full spectrum**
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
