@@ -283,10 +283,10 @@ They understand the concepts behind or the mission statement behind the brand or
 - TikTok -> clues for puzzles for the audience (cryptic account)
 - mystery teaser 01 (twitter) part 1/2 -> go through socials to piece the message together
 - mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
-- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative.
+- Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative. A fictional project that interacts with the real audience in the story. One way medium no more. Things audience does online affects the storyline.
 - Distort the timeline.
 - Register various domains for fictional places and concepts.
-A show that interacts with the real audience in the story. Making TV no longer a one way medium. Think about it - Elliot accuses us of being in on it. What if the things we did online actually did affect the storyline? That would be epic!
+
 
 # Ideas for video releases
 
