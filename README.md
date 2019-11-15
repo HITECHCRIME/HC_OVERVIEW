@@ -251,7 +251,7 @@ They understand the concepts behind or the mission statement behind the brand or
 
 ^ by Kevin Moloney
 
-![](media-taxonomy.png)
+![](https://github.com/HITECHCRIME/HC_OVERVIEW/blob/master/media_taxonomy.png)
 
 Media Form (Story Language)
 
