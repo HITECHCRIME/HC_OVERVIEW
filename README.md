@@ -272,6 +272,10 @@ Rather than repeating the information on different platforms, use different part
 
 - seamless point of entry
 
+Because audience engagement is central to this form of storytelling, make sure whichever platform you’re using gets readers to interact in a very simple way.
+
+- 
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
