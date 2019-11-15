@@ -1369,6 +1369,14 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
 - replaying memory as a form of consistent reality theme
 
+## /// HC69_ | 'DEPOPULUS' EP
+album on depopulation
+- MOTHNODE_ Solar Flare
+- MOTHNODE_ Depopulus
+- MOTHNODE_ Average Happiness
+
+## /// HC70_ | '
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
