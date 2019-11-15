@@ -29,21 +29,13 @@ What we're creating here is a "storyworld". We are basing it on trap music and c
 ```
 STORY > TECH > AUDIENCE
 ```
-Quick notes on the dream I had about a geolocated app as an entry point.
-Niantic Version of engagement with the user (Real Life As A Platform?): 
+“Humans do not engage in activities that are meaningless. If you think you see people doing things you find meaningless, look again, and try to understand what the activities mean for them.”
 
-- another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
-- distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
-- app would be the curated version of the released content (segregated into timelines, creating a plot point structure so to speak) - easy for people to "travel" across timelines and discover narrative arcs.
-- app would have virtual goodies available to pick up 
-- app geolocating system would have actual physical things related to the Hitech Crime universe hidden in the real world and available to pick up for those who manage to triangulate their position through clues (merch, goodies)
-- app would have subscription for premium content?
-- app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
-- app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
-
-Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
+– Henry Jenkins
 
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve. Think of Westworld business model - I know, ironic since it's ficticious and technology is not there yet. But the idea is similar.
+
+Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
 
 Hitech Crime Storyworld comes from a VOID [all possible futures/timelines], then it goes through ASCENSION [progress of all possible futures/timelines] into RELEASE [enlightenment and the making of choice].
 
@@ -53,35 +45,7 @@ HITECH CRIME UNIVERSE < content content content > AUDIENCE (sustained feedback l
 
 (both ways interaction, get personal, send things, choose at random, create engagement)
 
-A little bit of David Lynch approach: 
-
-- We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
-
-> Spirit of film (giant)
-> Spirit of tv (midget)
-> Spirit of internet (?) (the fire itself?) < --- time to face this demon
-
-- commentary on consumable ficticious violence
-
-- IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
-
-# Hitech Crime Universe Notes
-A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
-
-## TL;DR
-To use the word 'transmedia' for describing your activity in PR and creation you need:
-- more than 1 media to use
-- more than 1 story to tell
-- more than 1 technology that you (or even likely your team) can use
-- time to create a big world with maximum details first
-
-And you need to remember about some different specialities in your audience such as:
-- they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
-- tend to some kind of addiction to things they love
-- then to unite through activity around points of attraction (and your world - that you created before - must generate these points aplenty)
-- they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
-
-## Transmedia Storytelling 101
+# Transmedia Storytelling Notes
 1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
 
 2. Transmedia storytelling reflects the economics of media consolidation or what industry observers call "synergy." Modern media companies are horizontally integrated - that is, they hold interests across a range of what were once distinct media industries. A media conglomerate has an incentive to spread its brand or expand its franchises across as many different media platforms as possible. Consider, for example, the comic books published in advance of the release of such films as Batman Begins and Superman Returns by DC ( owned by Warner Brothers, the studio that released these films). These comics provided back-story which enhanced the viewer's experience of the film even as they also help to publicize the forthcoming release (thus blurring the line between marketing and entertainment). The current configuration of the entertainment industry makes transmedia expansion an economic imperative, yet the most gifted transmedia artists also surf these marketplace pressures to create a more expansive and immersive story than would have been possible otherwise.
@@ -343,7 +307,22 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 > Note that the visual aids used in this article were drawn for simplicity and illustration only and do not necessarily reflect my personal measurement of those products along the metrics provided. It should also be noted that the above descriptions ought to make clear why there is a huge difference between the terms "game" and "gaming."
 
-**How to apply this to Hitech Crime**
+# Hitech Crime Universe Notes
+A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
+
+To use the word 'transmedia' for describing your activity in PR and creation you need:
+- more than 1 media to use
+- more than 1 story to tell
+- more than 1 technology that you (or even likely your team) can use
+- time to create a big world with maximum details first
+
+And you need to remember about some different specialities in your audience such as:
+- they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
+- tend to some kind of addiction to things they love
+- then to unite through activity around points of attraction (and your world - that you created before - must generate these points aplenty)
+- they like to fill in the gaps - and you must leave some spaces to be filled by your audience.
+
+**How to apply the notes to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
 - characters: 
@@ -419,6 +398,33 @@ Can't do it alone if the projectspan is large.
 - Distort the timeline.
 - Register various domains for fictional places and concepts.
 - Use text as an intimate platform of breaching the 4th wall.
+
+Quick notes on the dream I had about a geolocated app as an entry point.
+Niantic Version of engagement with the user (Real Life As A Platform?): 
+
+- another platform to distribute narrative/audiovisual content would be to create your own app that would be updated as the new releases, new narrative elements, timelines, concepts, puzzles appear
+- distribution of content via geolocating app (version of Helve Global Operations Map but for the "in-universe" presence of audience - players?)
+- app would be the curated version of the released content (segregated into timelines, creating a plot point structure so to speak) - easy for people to "travel" across timelines and discover narrative arcs.
+- app would have virtual goodies available to pick up 
+- app geolocating system would have actual physical things related to the Hitech Crime universe hidden in the real world and available to pick up for those who manage to triangulate their position through clues (merch, goodies)
+- app would have subscription for premium content?
+- app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
+- app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
+
+
+
+
+A little bit of David Lynch approach: 
+
+- We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
+
+> Spirit of film (giant)
+> Spirit of tv (midget)
+> Spirit of internet (?) (the fire itself?) < --- time to face this demon
+
+- commentary on consumable ficticious violence
+
+- IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
 
 # Ideas for video releases
 
