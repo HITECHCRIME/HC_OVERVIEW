@@ -285,6 +285,7 @@ They understand the concepts behind or the mission statement behind the brand or
 - mystery teaser 02 (fb) part 2/2 -> go through socials to piece the message together
 - Include websites like LOST did, but to have things that happen on the real internet affect what happens in the narrative universe - posts and events pop up in the narrative.
 - Distort the timeline.
+- Register various domains for fictional places and concepts.
 
 # Ideas for video releases
 
