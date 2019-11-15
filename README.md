@@ -262,6 +262,8 @@ They understand the concepts behind or the mission statement behind the brand or
 
 # Content Cloud
 
+> Interface is king; nothing kills an ambitious multiplatform effort faster than a clunky point of entry." -Jessica Clark
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
