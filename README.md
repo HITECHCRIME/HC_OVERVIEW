@@ -301,7 +301,7 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 > I prefer to present these three key elements of chaotic fiction as three linear graphs. The first graph consists of the authors (or, as we know them in alternate reality gaming, the puppetmasters) on one end and the audience, or players, on the other. This defines who has more control over the development of the fiction, the people who produce it or those who engage with it.
 
-![](1_autorship.jpg)
+![](https://github.com/HITECHCRIME/HC_OVERVIEW/blob/master/1_authorship.jpg)
 
 > If we were to take a given campaign (ARG or not) such as the Daughters of Freya episodic email story and place it somewhere on the graph, most of us could agree it would find itself toward the author end of the spectrum, with the audience having little to no effect on the outcome. A game such as I Love Bees might be in the middle of the spectrum, as players were able to affect events within the game, but a majority of the plot and assets used were still premade. Finally, we could easily consider the Uncyclopedia as a chaotic fictional construct that would appear far to the audience end of the spectrum on this graph, being as it is largely anarchical in creation but still subject to certain rules imposed by the site creators.
 
