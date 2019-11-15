@@ -255,8 +255,6 @@ Media Form (Story Language)
 
 > “Pictures can’t say ain’t.” Sol Worth
 
-![](media-form.png)
-
 > I’ll come back to content in later posts. First the idea of media form merits some examples for which I didn’t have room in the linked article. Media form, one of the two terms I use to replace the vague and often-conflated singular medium, has been variously described as a language of storytelling, as semiotics, or as modes. The best way to understand what separates it from its partner media channel is that a media form can be published in many different places. The media channel is the place. For example, text is a media form. It’s common and old (from the dawn of writing) and, as the illustration up top shows, can land almost anywhere. We see text in print, online, in skywriting and graffiti, in tattoos and crawling across the bottom of a cable news broadcast. Word-besotted humans have put it everywhere. The it is the media form, and the where is the media channel.
 
 Media Form Spectrum
@@ -268,6 +266,10 @@ Media Form Spectrum
 > “Gown removed carelessly. Head, less so.” — Joss Whedon
 
 > This is a little six-word story by the creator of Buffy the Vampire Slayer. It’s a nice example of how language is an implicit communicator too. When we read that sparse story we fill in all the blanks with our own experiences and remnants of other stories. We abhor the gaps and make up stuff to fill them ourselves. So yes, language is the most explicit of my seven categories, but that does not mean it is entirely explicit. Nothing achieves that when humans are involved in the communication.
+
+![](media-form.png)
+
+> From the umbrella category of Language, my taxonomy creates a structure to break that idea apart into ever-more-specific language forms. It can be written or spoken. Written language can be scribbled, sprayed, puffed into clouds, or set in a type font. Spoken language breaks into conversation, lecture, voice over and more. With each new level of specificity the media form of language finds more and more advantages, more ways of communication, and differentiates what it can or cannot say.
 
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
