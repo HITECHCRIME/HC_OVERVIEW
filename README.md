@@ -298,6 +298,7 @@ Can't do it alone if the projectspan is large.
 
 ^ by Kevin Moloney
 
+![](media-form.png)
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
