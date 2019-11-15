@@ -45,6 +45,16 @@ HITECH CRIME UNIVERSE < content content content > AUDIENCE (sustained feedback l
 
 (both ways interaction, get personal, send things, choose at random, create engagement)
 
+A little bit of David Lynch approach: 
+
+- We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
+
+> Spirit of film (giant)
+> Spirit of tv (midget)
+> Spirit of internet (?) (the fire itself?) < --- time to face this demon
+
+- commentary on consumable ficticious violence and the meaning of meaning
+
 # Transmedia Storytelling Notes
 1. Transmedia storytelling represents a process where integral elements of a fiction get dispersed systematically across multiple delivery channels for the purpose of creating a unified and coordinated entertainment experience. Ideally, each medium makes it own unique contribution to the unfolding of the story. So, for example, in The Matrix franchise, key bits of information are conveyed through three live action films, a series of animated shorts, two collections of comic book stories, and several video games. There is no one single source or ur-text where one can turn to gain all of the information needed to comprehend the Matrix universe.
 
@@ -411,20 +421,38 @@ Niantic Version of engagement with the user (Real Life As A Platform?):
 - app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
 - app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
 
-
-
-
-A little bit of David Lynch approach: 
-
-- We live as characters in different Hitech Crime Universe timelines (within HCU, not overview branding-wise, not in terms of narrative brand entities). We can become selfaware. Cross the worlds between fiction and reality.
-
-> Spirit of film (giant)
-> Spirit of tv (midget)
-> Spirit of internet (?) (the fire itself?) < --- time to face this demon
-
-- commentary on consumable ficticious violence
-
-- IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
+PRINT MATERIALS
+Books & magazines
+Flyers
+Posters
+Postcards
+Stickers
+Comic books
+DIGITAL CONTENT
+eBooks
+Website content
+Fan fiction
+Podcasts
+Video
+Video games
+DIRECT COMMUNICATIONS
+Text messages
+Chat or instant messages
+Email
+SOCIAL MEDIA
+Twitter
+Facebook
+Instagram
+Tumblr
+YouTube
+Fan sites and forums
+EXPERIENTIAL MEDIA 
+Theater
+Concerts
+Exhibitions
+Live Installations
+Theme Parks
+Toys
 
 # Ideas for video releases
 
@@ -440,6 +468,7 @@ A little bit of David Lynch approach:
 - alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
+- IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
 
 ![](qrs-within-narratives.png)
 
