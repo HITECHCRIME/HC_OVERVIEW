@@ -279,6 +279,10 @@ Media Form Spectrum
 
 ---
 
+> **Demand.** Today’s audiences expect their media to be social, participatory and customized for every device they use, especially the much-coveted hard-core fans who are especially drawn to properties which let them go them deeper into a story or discover something first. **Creativity.** The formulaic is giving way to the innovative, as producers, including a new crop of digital natives, compete to engage fans in their stories over time and space with new approaches and on new devices. 
+
+---
+
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
