@@ -346,15 +346,12 @@ And you need to remember about some different specialities in your audience such
        nemesis: human evil, ignorance, stagnation, harsh world into protopia
          
 # Narrative Arcs for Hitech Crime
-- think of turning these into main pieces of albums (meaning turn these below into EP as well)
-- the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content)
+- main pieces of albums (meaning turn these below into EP as well)
+- the main song like for example "Monument to the future" would be a longplay 10min (with narration) but there would be a "radio edit" included in the album (bonus content) and multiple points of access with variation
 - make them go along with EP releases
 - or make them into another album plot steps
-- idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
-- idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
-- head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
 - Hitech Crime's purpose is to embed the idea of generation of ideas by continuous exposition to different timelines and types of platforms of media.
-- "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) > wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+- "Join the narrative!" main call to action > newsletter + links to all relevant social platforms (storyworld content types) 
 - lovecraft mythos, folklore/legends, agents of shield/marvel, cyberpunk
 
 # Content Cloud
@@ -421,6 +418,8 @@ Niantic Version of engagement with the user (Real Life As A Platform?):
 - app would have live show tickets included in the subscription? or separate purchase via website (Apple doesn't allow buying from within apps)
 - app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
 
+- wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
+
 PRINT MATERIALS
 Books & magazines
 Flyers
@@ -454,7 +453,7 @@ Live Installations
 Theme Parks
 Toys
 
-# Ideas for video releases
+# Ideas for releases
 
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
 - camera starts following me through an alley and some corridors. at one point i turn around and show a painted square with QR code on it (Children of Men vibe) then title
@@ -469,6 +468,10 @@ Toys
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
 - IDEA: Current times scene but giant hovering ships in the air. Constructs hovering over ground.
+- idea: every day items mirrored. Jacket with words backwards. Signal: these items have been interacted and moved by a 4-dimensional being. Idea for reccuring album theme.
+- idea: CGI-blended environments/enhanced reality. Standing on a bridge hanging above a hitech furnace. fire particles floating in the air. wearing a longcoat and a thief's beanie. looking at a person on the other side opposite side of the brigde
+- head of the architect is seen veiled in mystery, at the very beginning of the series, being jarred and isolated as a power source. the architect is the idea generation machine.
+
 
 ![](qrs-within-narratives.png)
 
