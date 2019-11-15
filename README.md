@@ -280,7 +280,9 @@ Can't do it alone if the projectspan is large.
 
 - keep it cost-effective
 
+> “You can incorporate transmedia in a low-cost way, like introducing social media as a way to extend the story. It depends on your goals and what you’re trying to achieve.”
 
+- 
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
