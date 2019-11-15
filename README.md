@@ -289,7 +289,6 @@ They understand the concepts behind or the mission statement behind the brand or
 - Distort the timeline.
 - Register various domains for fictional places and concepts.
 
-
 # Ideas for video releases
 
 - scene where i'm seen displaying the qr code briefly and some other dude scanning it with their phone (recorded as if undercover surveillance)
