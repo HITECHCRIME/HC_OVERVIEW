@@ -300,6 +300,8 @@ Can't do it alone if the projectspan is large.
 
 ![](media-form.png)
 
+![](media-form-spectrum.png)
+
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
 - short story series
