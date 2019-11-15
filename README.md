@@ -282,7 +282,9 @@ Can't do it alone if the projectspan is large.
 
 > “You can incorporate transmedia in a low-cost way, like introducing social media as a way to extend the story. It depends on your goals and what you’re trying to achieve.”
 
-- 
+- the story is the most important
+
+> “By telling interconnected stories we can embrace the nuance and complexity that exists in any story world,” Moloney wrote. “Through multiple forms we can engage the different parts of our story-loving brains. By distributing them across varying channels we can target the audiences that really matter.”
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
