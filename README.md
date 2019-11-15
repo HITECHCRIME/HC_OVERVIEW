@@ -287,6 +287,10 @@ Media Form Spectrum
 
 ---
 
+Mapping the user Journey/XP: https://storiesonboard.com/
+
+---
+
 **How to apply this to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
@@ -335,7 +339,6 @@ Can't do it alone if the projectspan is large.
 > “You can incorporate transmedia in a low-cost way, like introducing social media as a way to extend the story. It depends on your goals and what you’re trying to achieve.”
 
 - **the story is the most important**
-
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
