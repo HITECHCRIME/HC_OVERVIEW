@@ -270,7 +270,7 @@ They understand the concepts behind or the mission statement behind the brand or
 
 Rather than repeating the information on different platforms, use different parts of a story to match a platform’s strength and maximize user experience. 
 
-- 
+- seamless point of entry
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
