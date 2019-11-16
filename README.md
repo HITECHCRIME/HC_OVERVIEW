@@ -1640,6 +1640,8 @@ xxx
 
 Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
 
+Use # for Helve Ops to rally the people. #OPxxxxxxxxxxx
+
 Thank you to all agents for being a part of our global Hitech Crime community.
 
 /// STREAM TARGETS “DIGITAL LIFE HEIST”_
