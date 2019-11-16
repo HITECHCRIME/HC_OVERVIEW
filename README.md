@@ -351,6 +351,7 @@ To use the word 'transmedia' for describing your activity in PR and creation you
 - more than 1 story to tell
 - more than 1 technology that you (or even likely your team) can use
 - time to create a big world with maximum details first
+- different types of personalities react to different types of stories.
 
 And you need to remember about some different specialities in your audience such as:
 - they are fragmented (and it means you can never know what was the story that gave 1st step to your consumers)
