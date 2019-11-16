@@ -542,7 +542,7 @@ Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot 
 ## /// 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_05]
 
-Based on a couple of years of memetic research during the university years. Went deep into the topic with my best friend at the time. We created lore and mental structures for a feature film script that was supposed to go deep into the memeplexes. It was about a humanoid manifestation of language/memeplexes being a hybrid between human and memetic agent. Abstract film.
+Based on a couple of years of memetic research during the university years. Went deep into Richard Dawkins and the implications of the topic with my best friend at the time. We created lore and mental structures for a feature film script that was supposed to go deep into the memeplexes and present a metanarrative mixed with memetic audiovisual cues for the audience. It was about a manifestation of language/memeplexes being a hybrid between human and memetic agent. Abstract film.
 
 > In real life, language is a 'meme' and reacting to an insult in a negative way is a 'memetic effect'. An anomalous memetic effect is when a meme has an effect that doesn't occur in the real world.
 
@@ -550,6 +550,7 @@ Based on a couple of years of memetic research during the university years. Went
 - MOTHNODE_ Memeplex
 - MOTHNODE_ Visual Agent
 - MOTHNODE_ Thought Hazard
+- MOTHNODE_ Imitation Game
 
 ## /// 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_06]
