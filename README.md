@@ -559,50 +559,50 @@ Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot 
 [NFS_09]
 -  x
 
-## 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_10]
 - x
 
-## 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_11]
 - issues of choice, cause and effect
 - butterfly effect motif
 
-## 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_12]
 - new visual technology discovered, then make it real during concerts and other experiences
 
-## 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_13]
 - deep space, AI.
 MOTHNODE_ Synergy / Synergetic AI
 
-## 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_14]
 - x
 
-## 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_15]
 - x
 
-## 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_16]
 - productivity, meditation, fire
 
-## 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_17]
 - theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
 
 "retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
 
-## 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_18]
 - Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
 - exploration and discovery theme.
 - lurking in the darkness
 - Avatar vibe
 
-## 'FUTURE MASKED WITH LIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'FUTURE MASKED WITH LIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS19]
 - neon glows of ads on top of the world
 - consumption blinds the world to the truth of a dying world
@@ -610,7 +610,8 @@ MOTHNODE_ Synergy / Synergetic AI
 - AR/XR tech used to deceive humanity
 - 'future masked with light' lyrics
 
-## X X X AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
+## /// 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
 [NFS20] SCENE INSPIRATION
 AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
 X: "Are you an AI program?"
@@ -618,19 +619,19 @@ AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
 X: "What do you mean you took Dr. Paul offline?"
 AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
 
-## 'FALSE GODS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE 
+## /// 'FALSE GODS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE 
 [NFS_21]
 "maybe according to a religion that doesn't exist yet or a god that hasn't manifested yet"
 
-## 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_22]
 - replaying memory as a form of consistent reality
 
-## 'ACTIVE DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'ACTIVE DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_23] 
 - depopulation theme
 
-## 'DISPERTION PROTOCOL' EP NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'DISPERTION PROTOCOL' EP NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_24]
 - MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
 - MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
