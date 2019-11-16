@@ -523,39 +523,39 @@ Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot 
 
 # Transfer these into album plot progression cloud
 
-## 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_01]
 - Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
 
-## 'AGE OF REDACTION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'AGE OF REDACTION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_02]
 - privacy concerns, public personal data, censorship.
 
-## 'OMNIS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'OMNIS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_03]
 - omnipotent all-seeing eye
 
-## 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_04]
 - crew, squad
 
-## 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_05]
 - memetic control and influence
 
-## 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_06]
 - bad aspects of communication
 
-## 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_07]
 - ephemeral femininity
 
-## 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NSF_08]
 - based on the song?
 
-## 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_09]
 -  x
 
