@@ -1637,6 +1637,8 @@ Enter the Hitech Crime cinematic narrative universe
 /// WORD FROM MOTHNODE for personal (real thoughts, not character?)
 xxx
 
+Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
+
 /// STREAM TARGETS “DIGITAL LIFE HEIST”_
 Spotify_ LINKFIRE LINK
 Apple Music_ LINKFIRE LINK
