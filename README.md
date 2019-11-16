@@ -1376,11 +1376,16 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
 - replaying memory as a form of consistent reality theme
 
 ## /// HC69_ | 'DEPOPULUS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_XX]
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_23]
 album on depopulation
 - MOTHNODE_ Solar Flare
 - MOTHNODE_ Depopulus
 - MOTHNODE_ Average Happiness
+
+## /// HC70_ | 'SOLITON' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
+- MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
+- MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
@@ -1437,9 +1442,6 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Ontic https://en.wikipedia.org/wiki/Ontic
 - MOTHNODE_ Stealthcry (depression related)
 - MOTHNODE_ Stemcell Utopia (change the cell's fate, experimental protocols, programming biological vectors)
-/// HC70_ MOTHNODE_ Soliton EP
-- MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
-- MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
