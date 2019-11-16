@@ -1413,6 +1413,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
 - MOTHNODE_ Bion (The bound state of two solitons is known as a bion,[21][22][23] or in systems where the bound state periodically oscillates, a breather.)
 - MOTHNODE_ Oscillon (The cause of this phenomenon is currently under debate; the most likely connection is with the mathematical theory of chaos and may give insights into the way patterns in sand form.)
 - MOTHNODE_ Metastable Phase
+- MOTHNODE_ nematIconic (In optics, a nematicon is a spatial soliton in nematic liquid crystals (NLC).)
 
 > Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
