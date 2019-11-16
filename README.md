@@ -1409,6 +1409,12 @@ album on depopulation
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
 - MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
 - MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
+- MOTHNODE_ Fiberspeed
+- MOTHNODE_ Bion (The bound state of two solitons is known as a bion,[21][22][23] or in systems where the bound state periodically oscillates, a breather.)
+- MOTHNODE_ Oscillon (The cause of this phenomenon is currently under debate; the most likely connection is with the mathematical theory of chaos and may give insights into the way patterns in sand form.)
+- MOTHNODE_ Metastable Phase
+
+> Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
