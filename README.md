@@ -1639,6 +1639,8 @@ xxx
 
 Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
 
+Thank you to all agents for being a part of our global Hitech Crime community.
+
 /// STREAM TARGETS “DIGITAL LIFE HEIST”_
 Spotify_ LINKFIRE LINK
 Apple Music_ LINKFIRE LINK
@@ -1704,6 +1706,8 @@ Enter the Hitech Crime cinematic narrative universe
 xxx
 
 Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
+
+Thank you to all agents for being a part of our global Hitech Crime community.
 
 /// STREAM TARGETS “DRYSPACE”_
 Spotify_ LINKFIRE LINK
