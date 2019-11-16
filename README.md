@@ -904,6 +904,7 @@ Based on my day schedule and productivity evangelism. Album starts with the actu
 + HC_SG26_Crave
 + HC_SG32_Going_Wrong
 + HC_SG51_Colorized_World
+- MOTNODE_ Sunset Ritual
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
