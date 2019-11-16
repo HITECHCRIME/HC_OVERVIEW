@@ -643,6 +643,13 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 [NFS_24]
 - MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
 - MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
+- MOTHNODE_ Fiberspeed
+- MOTHNODE_ Bion (The bound state of two solitons is known as a bion,[21][22][23] or in systems where the bound state periodically oscillates, a breather.)
+- MOTHNODE_ Oscillon (The cause of this phenomenon is currently under debate; the most likely connection is with the mathematical theory of chaos and may give insights into the way patterns in sand form.)
+- MOTHNODE_ Metastable Phase
+- MOTHNODE_ nematIconic (In optics, a nematicon is a spatial soliton in nematic liquid crystals (NLC).)
+
+> Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
