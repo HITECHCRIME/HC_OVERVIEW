@@ -1437,6 +1437,9 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Ontic https://en.wikipedia.org/wiki/Ontic
 - MOTHNODE_ Stealthcry (depression related)
 - MOTHNODE_ Stemcell Utopia (change the cell's fate, experimental protocols, programming biological vectors)
+/// HC70_ MOTHNODE_ Soliton EP
+- MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
+- MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
