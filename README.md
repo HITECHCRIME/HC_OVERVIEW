@@ -626,9 +626,14 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 [NFS_22]
 - replaying memory as a form of consistent reality
 
-## 'DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## 'ACTIVE DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_23] 
 - depopulation theme
+
+## 'SOLITON' EP
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
+- MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
+- MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
