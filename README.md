@@ -1900,7 +1900,21 @@ Alternative: RCompressor + RVox
 
 
 
-# BLACKLANE_ Electronic soundscapes/ambients/drone.
+# BLACKLANE_
+
+BLACKLANE THEME COVER
+
+## /// INJECTIONS [ALBUMS] | Current count: 0 EPs 
+```
+Motifs: progress, rhythm, delicate states. 
+```
+Electronic soundscapes/ambients/drone.
+
+Content Font Regime is xxx
+
+[cover] [type of album] [narrative? conceptual? abstract?]
+
+### /// HC01_ | MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
 
 # Lekki Okultyzm - more lyrical Polish rap.
 
