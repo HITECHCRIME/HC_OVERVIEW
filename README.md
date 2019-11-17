@@ -639,7 +639,8 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 
 ## /// 'ACTIVE DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_23] 
-- depopulation theme
+- depopulation theme 
+- Global Population controlled via an app as a merit system. People who fall out of rank on the app get "depopulated".
 
 ## /// 'DISPERTION PROTOCOL' EP NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_24]
