@@ -1911,11 +1911,13 @@ Motifs: progress, rhythm, delicate states.
 Electronic soundscapes/ambients/drone.
 Finally found a version of techno that doesn't destroy my mind and soul = DUB TECHNO
 
+Black path. Techwear. Black Ops futura.
+
 Content Font Regime is xxx
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC01_ | MOTHNODE_ Brutalizm Elektroniczny EP / Elektrobrutalizm 
+### /// HC01_ | blacklane
 
 # Lekki Okultyzm - more lyrical Polish rap.
 
