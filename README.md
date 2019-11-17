@@ -1414,6 +1414,7 @@ album on depopulation / Global Population controlled via an app as a merit syste
 - MOTHNODE_ Solar Flare
 - MOTHNODE_ Depopulus
 - MOTHNODE_ Average Happiness
+- MOTHNODE_ Meritocracy
 
 ## /// HC70_ | 'SOLITON' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
