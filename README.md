@@ -654,6 +654,10 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 
 > Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
+## /// 'TRIBE' SINGLE NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_25] Futura tribe. Street Futura Aggrotrap
+- MOTHNODE_ Tribe
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
