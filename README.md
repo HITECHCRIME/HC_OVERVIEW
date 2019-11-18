@@ -1483,6 +1483,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Ontic https://en.wikipedia.org/wiki/Ontic
 - MOTHNODE_ Stealthcry (depression related)
 - MOTHNODE_ Stemcell Utopia (change the cell's fate, experimental protocols, programming biological vectors)
+- MOTHNODE_ Aogashima (natural planetarium - perfect sky volcanic island)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
