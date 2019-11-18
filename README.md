@@ -853,6 +853,7 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Dharmic Justice
 - MOTHNODE_ Ahimsa (cause no injury, do no harm)
 - MOTHNODE_ Sunyata / Void (meditative dwelling, an emancipation of the mind by emptiness being consequent upon the realization that "the world is empty of self or anything pertaining to self". Form is emptiness, emptiness is form. Emptiness is not separate from form, form is not separate from emptiness. Whatever is form is emptiness, whatever is emptiness is form.)
+- MOTHNODE_ Samatha (turning your attention to an idea/conception. For instance turning our attention to a geometrical figure, a blue circle. We will focus our attention to this blue circle and ceaselessly tirelessly, confine it to the vision of this blue circle. We deal here with an exercise of attention that is taking place in continuity, a bit as if finally, the blue circle was self-existing, was something continous.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
