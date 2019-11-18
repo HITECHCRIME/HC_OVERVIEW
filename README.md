@@ -1443,6 +1443,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
 > Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
 ## /// HC71_ | 'Tribe' Single (TEST NARRATIVE UNIVERSE SINGLE) one song + surround material
+including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_25]
 - MOTHNODE_ Tribe (https://github.com/HITECHCRIME/HC_SG152_Tribe)
 
 ## /// HC72_ | 'Exale' EP (TEST NARRATIVE UNIVERSE ALBUM) album + surround material
