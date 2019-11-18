@@ -896,6 +896,8 @@ Tribal african rhytms and chants that transform into deep bass and trap.
 
 ### /// HC17_ | MOTHNODE_ Hybrids Realtime On-going Album (DOWNLOADABLE NEW VERSIONS/ITERATIONS)
 
+on Hitech Crime Timeline website this would be presented as an ongoing album for the whole duration. it would go along with other timelines but be more in reality as it would be collaborations album with other actual real bands
+
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 ```
 Album mixtape containing all of my collaborations with others.
