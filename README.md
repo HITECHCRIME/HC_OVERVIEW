@@ -1120,11 +1120,11 @@ Purging bad progs with bass.
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
-### /// HC39_ | MOTHNODE_ I0N0F0J 
+### /// HC39_ | MOTHNODE_ I0N0F0J feat. forsamsonite
 
 [ENGLISH SEASON EPISODES] [+NARRATIVE]
 
-INFJ album. "aye aye, go an extra mile with me and you reach the core"
+INFJ album. 2 infjs collab "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
 [cover] [type of album] [narrative? conceptual? abstract?]
