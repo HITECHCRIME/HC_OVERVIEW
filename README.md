@@ -1485,6 +1485,8 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Stemcell Utopia (change the cell's fate, experimental protocols, programming biological vectors)
 - MOTHNODE_ Aogashima (natural planetarium - perfect sky volcanic island)
 - MOTHNODE_ The Thinking Tree (ancient olive tree in Puglia, Italy)
+- MOTHNODE_ (Tianzi Mountain Regions location)
+- MOTHNODE_ Hyperion (tallest tree in the world, unknown location)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
