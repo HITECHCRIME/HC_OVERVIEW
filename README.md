@@ -686,7 +686,7 @@ Welcome, to the crypto-rave.
 
 ![](assets/dlh_single_cover.png)
 
-## /// INJECTIONS [ALBUMS] | Current count: 70 EPs 
+## /// INJECTIONS [ALBUMS] | Current count: 72 EPs/Singles
 ```
 Motifs: dead of blight, oracle, triangles, moth's flight, the life's search, hacking reality, hacker persona, meditation, attunement with the environment, isolation, separation.
 ```
