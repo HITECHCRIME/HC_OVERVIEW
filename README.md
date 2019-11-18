@@ -987,6 +987,9 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ Aries
 - MOTHNODE_ "here i was born but watered down"
 
+### /// HCxx (Zodiacal Series) 
+- MOTHNODE_ X (Zodiacal Series)
+
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC25_ | MOTHNODE_ Huna EP 
