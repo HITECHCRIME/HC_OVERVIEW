@@ -850,6 +850,7 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Samsara
 - MOTHNODE_ Tantrap
 - MOTHNODE_ Mudra (symbolic/ritual hand gesture)
+- MOTHNODE_ Dharmic Justice
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
