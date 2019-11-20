@@ -411,7 +411,7 @@ Can't do it alone if the projectspan is large.
 
 ## RELEASE can consist of:
 - album release (audiovisual/physical/digital)
-- short story series
+- short story series (example Star Trek: Short Trek variations - tiny snippets from the universe 14 min)
 - behind the scenes/making of (Helve Logs via Helve AVR Creative Ops)
 - short web series narrative
 - longform 'stick it together' version of the web series
