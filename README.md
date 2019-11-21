@@ -369,7 +369,7 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 # Data-driven Release Prototyping (Internal)
 
-
+![](data-driven-prototype-approach.png)
 
 # "Narrow example"
 ![](cryochamber-example.png)
