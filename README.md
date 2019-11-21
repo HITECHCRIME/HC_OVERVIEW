@@ -495,6 +495,7 @@ Quick notes on the dream I had about a geolocated app as an entry point.
 
 ![](plot_database.JPG)
 
+Helve Logs approach can be applied here too.
 ![](content_distribution_overview.png)
 
 Other types to consider:
