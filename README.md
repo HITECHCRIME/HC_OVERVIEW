@@ -370,6 +370,9 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 # "Narrow example"
 ![](cryochamber-example.png)
 
+# Value of Scenes
+Statistically film has 40 to 60 scenes. Each of the scenes has a change in value assigned either positive (desire of the protagonist) or negative (forces of antagonism).
+
 # Hitech Crime Universe Notes
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
 
