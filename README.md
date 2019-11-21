@@ -373,7 +373,7 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 # Value of Scenes
 Statistically film has 40 to 60 scenes. Each of the scenes has a change in value assigned either positive (desire of the protagonist) or negative (forces of antagonism).
 
-> Within each scene is a story beat — a character’s action or reaction. Story beats add up to shape the turning of the scene. Or to put it another way, it’s those actions and reactions that shift the scene’s value either positively or negatively.
+> Within each scene is a story beat — a character’s action or reaction. Story beats add up to shape the turning of the scene. Or to put it another way, it’s those actions and reactions that shift the scene’s value either positively or negatively. Beats build scenes, and scenes build sequences. The end of a sequence will have a more significant change with greater impact than the scene that comes before it. Those sequences form an act — a series of scenes that end in a climax. All stories should build to an action where the audience can imagine no other.
 
 # Hitech Crime Universe Notes
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
