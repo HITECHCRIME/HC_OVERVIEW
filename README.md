@@ -1694,7 +1694,7 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 + HC_SG67_
 + HC_SG68_GANJU_MOTH_PKP (FEATURE)
 
-# Audio Description Template (Song Upload) EDIT IT PROPERLY
+# Audio Description Template (Song Upload)
 
 - modify the audio and audiovisual content descriptions to direct to themselves (perhaps make it a bit more like 'watch the cinematic narrative video on YouTube, instead of just subscribe on YouTube: x link x'
 
