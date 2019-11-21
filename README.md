@@ -466,8 +466,8 @@ Can't do it alone if the projectspan is large.
 
 Example:
 
-![](instagram_9post_1.JPG)
-![](instagram_9post_2.JPG)
+![](instagram_9post_1.png)
+![](instagram_9post_2.png)
 
 - virtual scenes (photogrammetric snapshot)
 - game/VR render/experience
@@ -495,7 +495,7 @@ Quick notes on the dream I had about a geolocated app as an entry point.
 
 ![](plot_database.JPG)
 
-![](content_distribution_overview.JPG)
+![](content_distribution_overview.png)
 
 Other types to consider:
 
