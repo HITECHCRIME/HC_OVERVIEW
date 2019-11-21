@@ -487,6 +487,8 @@ Quick notes on the dream I had about a geolocated app as an entry point.
 - app would be basically a mobile version of the hitechcri.me website (website would be the go to for all main content)
 - wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
+![](plot_database.JPG)
+
 Other types to consider:
 
 Niantic Version of engagement with the user (Real Life As A Platform?). 
