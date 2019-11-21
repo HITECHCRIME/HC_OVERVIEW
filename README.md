@@ -371,7 +371,9 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 ![](data-driven-prototype-approach.png)
 
-# "Narrow example"
+# Microlabel "Narrow example"
+This is a label for cinematic ambient music I've been following for years. At some point it refined its approach and created a microverse of content.
+
 ![](cryochamber-example.png)
 
 # Value of Scenes
