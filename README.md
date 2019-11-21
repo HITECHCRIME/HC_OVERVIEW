@@ -1076,6 +1076,7 @@ Fire within fire. Triangle within triangle. Flames, smoke and edges. Gold orname
 - MOTHNODE_ Animal and the Human
 - MOTHNODE_ Ghost in the Machines
 - MOTHNODE_ Qoooikfix [Quickfix] (HC_SG122)
+- MOTHNODE_ Dopamine Cartel
 (dopamine trails theme)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
