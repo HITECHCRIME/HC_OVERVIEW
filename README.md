@@ -462,7 +462,13 @@ Can't do it alone if the projectspan is large.
 - live event IRL (concert, semi-LARP)
 - livestreams IRL Helve Logs
 - FB dopamine hook
-- Insta 9grid dopamine hook
+- Insta 9grid/9post dopamine hook
+
+Example:
+
+![](instagram_9post_1.JPG)
+![](instagram_9post_2.JPG)
+
 - virtual scenes (photogrammetric snapshot)
 - game/VR render/experience
 - real world guerilla reality hacking (also livestreamed)
@@ -488,6 +494,8 @@ Quick notes on the dream I had about a geolocated app as an entry point.
 - wiki of hitech crime universe > hitechcri.me/timeline (there are MAIN NODES/ALBUM RELEASES - unlock node by sharing with humans, TIMELINES - arcs of releases, CONTENT CLOUD - associated types of content related to the release - see more examples below.
 
 ![](plot_database.JPG)
+
+![](content_distribution_overview.JPG)
 
 Other types to consider:
 
