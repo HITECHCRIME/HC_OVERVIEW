@@ -357,6 +357,10 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 
 > Note that the visual aids used in this article were drawn for simplicity and illustration only and do not necessarily reflect my personal measurement of those products along the metrics provided. It should also be noted that the above descriptions ought to make clear why there is a huge difference between the terms "game" and "gaming."
 
+![](TP_Confusion.jpg)
+![](TM_minus_TM.jpg)
+![](TM.png)
+
 # Hitech Crime Universe Notes
 A couple of notes relating to the design of the story, the vibe and the brand that Hitech Crime is intended to be.
 
