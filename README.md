@@ -57,6 +57,18 @@ A little bit of David Lynch approach:
 
 # Transmedia Storytelling Notes
 
+> Dee Cook at Workbook Project even described the “transmedia” content at SXSW 2011 (where it was a boiling hot topic) in this way:
+
+> …the most overused and under-understood [term] of the conference… Most of the “Transmedia” panels just didn’t seem to get it – there was no takeaway, there was a lot of gobbeldygook, and in one bizarre case, there was a futurist who seemed to be discussing how in 6-10 years we will all be watching programmed television.
+
+> After SXSW, Steve went on in another series of ranting tweets (read the full exchange here):
+
+> Telling ONE story on multiple platforms is NOT the same as telling many stories in the same universe on multiple platforms…  By that definition, the earliest example of Transmedia is the Bible: stories, live events, plays, meetups, music, swag….  and if that’s the case, Transmedia is NOT SOMETHING NEW at all!
+
+> Transmedia SHOULD mean ONE SINGLE story on multiple platforms, not MANY stories in the same story world on many platforms
+
+> Franchising is NOT Transmedia. It’s FRANCHISING
+
 BENEFITS
 
 - Transmedia encourages and supports consumer participation, from interactions across channels to the co-creation of products, stories, and messages.
