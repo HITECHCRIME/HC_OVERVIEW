@@ -33,6 +33,8 @@ STORY > TECH > AUDIENCE
 
 – Henry Jenkins
 
+It could be argued that every life, your very own is a transmedia narrative unique to you and the multitude of facetes your present your "self" to the world. 
+
 Transmedia storytelling has no beginning, middle or end. Let the audience fill in the gaps with their engagement on various platforms of expression. This leads to potential monetization of engagement via "subscribing to a storyworld". Hitech Crime microlabel is a universe that the audience can explore and help it evolve. Think of Westworld business model - I know, ironic since it's ficticious and technology is not there yet. But the idea is similar.
 
 Hitech Crime Universe. Depends on the timeline: dystopia, cyberpunk, near future, alternative real world timelines.
