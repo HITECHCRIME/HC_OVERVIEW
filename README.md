@@ -1479,7 +1479,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
 
 ## /// HC69_ | 'DEPOPULUS' EP
 including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_23]
-album on depopulation / Global Population control app. An app as a merit system. People who fall out of rank on the app get "depopulated".
+album on depopulation / Global Population control app. An app as a merit system. People who fall out of rank on the app get "depopulated". Example short film "Life Begins at Rewirement": https://www.youtube.com/watch?v=EXxxsfQDyAQ
 - MOTHNODE_ Solar Flare
 - MOTHNODE_ Depopulus
 - MOTHNODE_ Average Happiness
