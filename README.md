@@ -695,6 +695,7 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 [NFS_23] 
 - depopulation theme 
 - Global Population control app. An app as a merit system. People who fall out of rank on the app get "depopulated".
+- Example short film "Life Begins at Rewirement": https://www.youtube.com/watch?v=EXxxsfQDyAQ
 
 ## /// 'DISPERTION PROTOCOL' EP NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [NFS_24]
