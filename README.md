@@ -1577,7 +1577,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Misantropics
 - MOTHNODE_ Deja Vu, Deja Reve
 - MOTHNODE_ Nightsight (experimental biohacker eye drops that let you temporarily see in the dark - Chlorin e6, a chemical found in some deep water fish) https://newatlas.com/biohackers-night-vision-eyedrops/36797/
-
+- MOTHNODE_ Lingo Personality (often people who use a variety of languages have different personalities depending on which language they use - very true to me)
 
 
 Randomness:
