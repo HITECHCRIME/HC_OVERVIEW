@@ -1570,6 +1570,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Clinomania (motionless state)
 - MOTHNODE_ Mioclonic Trigger (Myoclonic seizures are brief shock-like jerks of a muscle or group of muscles. They occur in a variety of epilepsy syndromes that have different characteristics. During a myoclonic seizure, the person is usually awake and able to think clearly.)
 - MOTHNODE_ Bodyglow (pumping the body with light/electricity - the light can't be seen by human eye, we give off light as a default)
+- MOTHNODE_ Dry Valleys (place in Antarctic were it hasn't rained or snowed in 2 milion years)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
