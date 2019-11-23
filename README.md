@@ -1573,7 +1573,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Dry Valleys (place in Antarctic were it hasn't rained or snowed in 2 milion years)
 - MOTHNODE_ Cherophobia (irrational disgust with feeling happy. avoiding happiness)
 - MOTHNODE_ Charlie Duke (and his moon photo)
-
+- MOTHNODE_ 256 Billion GB (storage capacity of the human brain)
 
 
 
