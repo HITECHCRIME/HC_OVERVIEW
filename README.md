@@ -1572,6 +1572,13 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Bodyglow (pumping the body with light/electricity - the light can't be seen by human eye, we give off light as a default)
 - MOTHNODE_ Dry Valleys (place in Antarctic were it hasn't rained or snowed in 2 milion years)
 - MOTHNODE_ Cherophobia (irrational disgust with feeling happy. avoiding happiness)
+- MOTHNODE_ Charlie Duke (and his moon photo)
+
+
+
+
+
+
 
 Randomness:
 - MOTHNODE_ Qaravultomba
