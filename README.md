@@ -554,6 +554,9 @@ Toys
 - scene: short clips for general purpose: zooming in towards me meditating with my back towards the camera.
 - walking through a dark alley, techwear looks, golden glasses, hoodie, i take out my phone and AR elements pop up lighting the surroundings
 - lying on the floor in darkness with glowing white cables attached to my halfnaked flesh (motif from Dryspace song storyboard)
+
+![](dryspace_storyboard_example.png)
+
 - alternative contrasting scene, glowing environment full of light with black sillouettes of cables and my body
 - crouching scene, shadow on my face, one can only see the golden reflection of the sunglasses
 - Plot Magic: symbolic themes of Hitech Crime. Example: flickering lights or just presence of NEON LIGHTS whenever something important is being passed on or important things are happening both for the narrative and the audience. CGI-rendered (Ian Hubert - Blender) moths follow everywhere in the background of the scenes (reflective state of mind, going towards personal light)
