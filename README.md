@@ -1574,7 +1574,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Cherophobia (irrational disgust with feeling happy. avoiding happiness)
 - MOTHNODE_ Charlie Duke (and his moon photo)
 - MOTHNODE_ 256 Billion GB (storage capacity of the human brain)
-
+- MOTHNODE_ Misantropics
 
 
 
