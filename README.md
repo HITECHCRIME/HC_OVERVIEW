@@ -915,12 +915,19 @@ Album using bass as a meditative technique.
 - MOTHNODE_ Samatha (turning your attention to an idea/conception. For instance turning our attention to a geometrical figure, a blue circle. We will focus our attention to this blue circle and ceaselessly tirelessly, confine it to the vision of this blue circle. We deal here with an exercise of attention that is taking place in continuity, a bit as if finally, the blue circle was self-existing, was something continous.
 
 Step1: Onion and Banana Juice to cleanse chakras (ELIXIR TO BRING BALANCE)
+
 Step2: EARTH CHAKRA - SPINE - SURVIVAL BLOCKED WITH FEAR, SURRENDER THE FEARS
+
 Step3: WATER CHAKRA - PLEASURE BLOCKED WITH GUILT BURDEN (ACCEPT IT HAPPENED, FORGIVE YOURSELF)
+
 Step4: FIRE CHAKRA - STOMACH - WILLPOWER BLOCKED BY SHAME (RELEASE YOUR LETDOWNS AND DISAPPOINTMENTS, ACCEPT AND LOVE YOURSELF )
+
 Step5: LOVE CHAKRA - HEART - LOVE BLOCKED BY GRIEF (LAY ALL YOUR GRIEF IN FRONT OF YOU, SADNESS, LOSS)
+
 Step6: SOUND CHAKRA - THROAT - TRUTH BLOCKED BY LIES WE TELL OURSELVES (MUST ACCEPT WHAT YOU ARE, RELEASE DENIAL AND THE LIES, YOU CANNOT LIE ABOUT YOUR OWN NATURE)
+
 Step7: LIGHT CHAKRA - CENTER OF FOREHEAD - INSIGHT BLOCKED BY ILLUSION (Release all illusion of separation within yourself. Collective Consciousness)
+
 Step8: THOUGHT CHAKRA - CROWN OF THE HEAD - PURE COSMIC ENERGY BLOCKED BY EARTHLY ATTACHMENTS (LET GO OF LOVE, THINGS YOU ARE USED TO, REALIZE LETTING GO DOESN'T MEAN IT DISAPPEARS)
 
 [cover] [type of album] [narrative? conceptual? abstract?]
