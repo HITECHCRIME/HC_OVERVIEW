@@ -1569,6 +1569,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Letologic (s†ą†e wehre you can't remember the word)
 - MOTHNODE_ Clinomania (motionless state)
 - MOTHNODE_ Mioclonic Trigger (Myoclonic seizures are brief shock-like jerks of a muscle or group of muscles. They occur in a variety of epilepsy syndromes that have different characteristics. During a myoclonic seizure, the person is usually awake and able to think clearly.)
+- MOTHNODE_ Bodyglow (pumping the body with light/electricity - the light can't be seen by human eye, we give off light as a default)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
