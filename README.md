@@ -1576,7 +1576,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ 256 Billion GB (storage capacity of the human brain)
 - MOTHNODE_ Misantropics
 - MOTHNODE_ Deja Vu, Deja Reve
-
+- MOTHNODE_ Nightsight (experimental biohacker eye drops that let you temporarily see in the dark - Chlorin e6, a chemical found in some deep water fish) https://newatlas.com/biohackers-night-vision-eyedrops/36797/
 
 
 
