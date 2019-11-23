@@ -28,6 +28,9 @@ Seasons are overarching themes. A "whole set" would be all elements of content t
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
 
 # /// STORYWORLD [THE UNIVERSE]
+
+I'm testing a structure for a first "pilot episode" single release called "TRIBE": https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
+
 ```
 STORY > TECH > AUDIENCE
 ```
@@ -581,24 +584,24 @@ Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot 
 
 # Transfer these into album plot progression cloud
 
-## /// 'MONUMENT TO THE FUTURE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_01]
+## /// 'MONUMENT TO THE FUTURE' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_01]
 - Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and   concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
 
-## /// 'AGE OF REDACTION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_02]
+## /// 'AGE OF REDACTION' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_02]
 - privacy concerns, public personal data, censorship.
 
-## /// 'OMNIS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_03]
+## /// 'OMNIS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_03]
 - omnipotent all-seeing eye
 
-## /// 'TRIBALIST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_04]
+## /// 'TRIBALIST' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_04]
 - crew, squad
 
-## /// 'MEMETIC ENTRANCE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_05]
+## /// 'MEMETIC ENTRANCE' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_05]
 
 Based on a couple of years of memetic research during the university years. Went deep into Richard Dawkins and the implications of the topic with my best friend at the time. We created lore and mental structures for a feature film script that was supposed to go deep into the memeplexes and present a metanarrative mixed with memetic audiovisual cues for the audience. It was about a manifestation of language/memeplexes being a hybrid between human and memetic agent. Abstract film.
 
@@ -610,98 +613,98 @@ Based on a couple of years of memetic research during the university years. Went
 - MOTHNODE_ Thought Hazard
 - MOTHNODE_ Imitation Game
 
-## /// 'REGIME OF COMMUNICATION' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_06]
+## /// 'REGIME OF COMMUNICATION' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_06]
 - bad aspects of communication
 
-## /// 'HER DEMONIC MAJESTY' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_07]
+## /// 'HER DEMONIC MAJESTY' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_07]
 - ephemeral femininity
 
-## /// 'UPCLICK' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_08]
+## /// 'UPCLICK' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_08]
 - based on the song?
 
-## /// 'DUAL TAGS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_09]
+## /// 'DUAL TAGS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_09]
 -  x
 
-## /// 'CHILDREN OF BLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_10]
+## /// 'CHILDREN OF BLIGHT' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_10]
 - x
 
-## /// 'PATHWAYS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_11]
+## /// 'PATHWAYS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_11]
 - issues of choice, cause and effect
 - butterfly effect motif
 
-## /// 'TEC-10' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_12]
+## /// 'TEC-10' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_12]
 - new visual technology discovered, then make it real during concerts and other experiences
 
-## /// 'AIDA' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_13]
+## /// 'AIDA' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_13]
 - deep space, AI.
 MOTHNODE_ Synergy / Synergetic AI
 
-## /// 'SIDECHAINS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_14]
+## /// 'SIDECHAINS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_14]
 - x
 
-## /// 'MOTH'S FLIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_15]
+## /// 'MOTH'S FLIGHT' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_15]
 - x
 
-## /// 'FOCUS TRIANGLE' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_16]
+## /// 'FOCUS TRIANGLE' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_16]
 - productivity, meditation, fire
 
-## /// 'NO FUTURE MEANS NO PAST' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_17]
+## /// 'NO FUTURE MEANS NO PAST' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_17]
 - theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
 
 "retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
 
-## /// 'DEPTH STRIDER'? NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_18]
+## /// 'DEPTH STRIDER'? CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_18]
 - Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
 - exploration and discovery theme.
 - lurking in the darkness
 - Avatar vibe
 
-## /// 'FUTURE MASKED WITH LIGHT' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS19]
+## /// 'FUTURE MASKED WITH LIGHT' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF 19]
 - neon glows of ads on top of the world
 - consumption blinds the world to the truth of a dying world
 - spectrum blinds our reality
 - AR/XR tech used to deceive humanity
 - 'future masked with light' lyrics
 
-## /// 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+## /// 'X' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
-[NFS20] SCENE INSPIRATION
+[CNSF 20] SCENE INSPIRATION
 AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
 X: "Are you an AI program?"
 AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
 X: "What do you mean you took Dr. Paul offline?"
 AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
 
-## /// 'FALSE GODS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE 
-[NFS_21]
+## /// 'FALSE GODS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE 
+[CNSF_21]
 "maybe according to a religion that doesn't exist yet or a god that hasn't manifested yet"
 
-## /// 'X' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_22]
+## /// 'X' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_22]
 - replaying memory as a form of consistent reality
 
-## /// 'ACTIVE DEPOPULUS' NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_23] 
+## /// 'ACTIVE DEPOPULUS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_23] 
 - depopulation theme 
 - Global Population control app. An app as a merit system. People who fall out of rank on the app get "depopulated".
 - Example short film "Life Begins at Rewirement": https://www.youtube.com/watch?v=EXxxsfQDyAQ
 
-## /// 'DISPERTION PROTOCOL' EP NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_24]
+## /// 'DISPERTION PROTOCOL' EP CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_24]
 - MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
 - MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 - MOTHNODE_ Fiberspeed
@@ -712,8 +715,9 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 
 > Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
-## /// 'TRIBE' SINGLE NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_25] Futura tribe. Street Futura Aggrotrap
+## /// 'TRIBE' SINGLE CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_25] Futura tribe Story. Street Futura Aggrotrap 
+REPOSITORY FOR THE FULL TRANSMEDIA RELEASE: https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
 - MOTHNODE_ Tribe
 
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
@@ -1375,23 +1379,22 @@ This is a list of extinct languages of Africa, languages which have undergone la
 - MOTHNODE_ Singa (Uganda)
 
 ## /// HC46_ | MOTHNODE_ 'MONUMENT TO THE FUTURE' EP
-including "Monument to the Future" NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+including "Monument to the Future" CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF 01]
 
 ## /// HC47_ | MOTHNODE_ 'AGE OF REDACTION' EP 
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_02]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_02]
 - privacy concerns, public personal data, censorship.
 
 ## /// HC48_ | MOTHNODE_ 'OMNIS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NSF_03]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_03]
 - omnipotent all-seeing eye
 
 ## /// HC49_ | MOTHNODE_ 'TRIBALIST' EP 
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_04]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_04]
 - crew, squad
 
 ## /// HC50_ | MOTHNODE_ 'MEMETIC ENTRANCE' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_05]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_05]
 
 Based on a couple of years of memetic research during the university years. Went deep into the topic with my best friend at the time. We created lore and mental structures for a feature film script that was supposed to go deep into the memeplexes. It was about a humanoid manifestation of language/memeplexes being a hybrid between human and memetic agent. Abstract film.
 
@@ -1403,60 +1406,60 @@ Based on a couple of years of memetic research during the university years. Went
 - MOTHNODE_ Thought Hazard
 
 ## /// HC51_ | MOTHNODE_ 'REGIME OF COMMUNICATION' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_06]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_06]
 - bad aspects of communication
 
 ## /// HC52_ | MOTHNODE_ 'HER DEMONIC MAJESTY' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_07]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_07]
 - ephemeral femininity and sexuality
 
 ## /// HC53_ | MOTHNODE_ 'UPCLICK' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NSF_08]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_08]
 - based on the song?
 - MOTHNODE_ Upclick
 
 ## /// HC54_ | MOTHNODE_ 'DUAL TAGS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_09]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_09]
 - duality
 - MOTHNODE_ Dual Tags
 
 ## /// HC55_ | MOTHNODE_ 'CHILDREN OF BLIGHT' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_10]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_10]
 - MOTHNODE_ Children of Blight
 
 ## /// HC56_ | MOTHNODE_ 'PATHWAYS' EP 
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_11]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_11]
 - issues of choice, cause and effect
 - butterfly effect motif
 
 ## /// HC57_ | MOTHNODE_ 'TEC-10' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_12]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_12]
 - new visual technology discovered, then make it real during concerts and other experiences
 
 ## /// HC58_ | MOTHNODE_ 'AIDA' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_13]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_13]
 - deep space, AI.
 - MOTHNODE_ AIDA
 
 ## /// HC59_ | MOTHNODE_ 'SIDECHAINS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_14]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_14]
 - MOTHNODE_ Sidechains
 
 ## /// HC60_ | MOTHNODE_ 'MOTH'S FLIGHT' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_15]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_15]
 - x
 
 ## /// HC61_ | MOTHNODE_ 'FOCUS TRIANGLE' EP 
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_16]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_16]
 - productivity, meditation, fire
 
 ## /// HC62_ | MOTHNODE_ 'NO FUTURE MEANS NO PAST' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_17]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_17]
 - theme: Hitech Crime goes all Dharma Initiative / photos and initiation videos that go back to the 1930s. Back then the initiative was called differently. Videos present scientists and operatives who have unknown source of knowledge about the future. Since we already know the future because we lived it we can use various important events in human history.
 - "retro film a'la Dharma Initiative. Early days of the experiment. Film glitches of 60s. make an orientation video use the language used back then"
 
 ## /// HC63_ | MOTHNODE_ 'DEPTH STRIDER' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_18]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_18]
 - Hang Son Doong cave system. Seeking for forbidden knowledge. Endless river.
 - exploration and discovery theme.
 - lurking in the darkness
@@ -1469,7 +1472,7 @@ crew in a hitech asylum, suspended in animation, reliving traumas of the past wh
 - MOTHNODE_ Surround (environmental anima)
 
 ## /// HC65_ | 'FUTURE MASKED WITH LIGHT' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF 19]
 - neon glows of ads on top of the world
 - consumption blinds the world to the truth of a dying world
 - spectrum blinds our reality
@@ -1481,7 +1484,7 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_19]
 
 ## /// HC66_ | 'AINOIR'? 
 AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
-[NFS20] SCENE INSPIRATION
+[CNSF_20] SCENE INSPIRATION
 AI: "I'm afraid Dr XXXX was taken offline some time ago due to security measures. May I assist you?
 X: "Are you an AI program?"
 AI: "That is an oversimplification but yes, I am a progra created by Dr XXXX."
@@ -1489,16 +1492,16 @@ X: "What do you mean you took Dr. Paul offline?"
 AI: "I stopped his pacemaker by infecting his home monitoring device with a malware package. It was as painless as one could hope."
 
 ## /// HC67_ | 'FALSE GODS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_21]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_21]
 - MOTHNODE_ Judgement/Opinion
 - MOTHNODE_ Perception
 
 ## /// HC68_ | 'X' EP 
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_22]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_22]
 - replaying memory as a form of consistent reality theme
 
 ## /// HC69_ | 'DEPOPULUS' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_23]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_23]
 album on depopulation / Global Population control app. An app as a merit system. People who fall out of rank on the app get "depopulated". Example short film "Life Begins at Rewirement": https://www.youtube.com/watch?v=EXxxsfQDyAQ
 - MOTHNODE_ Solar Flare
 - MOTHNODE_ Depopulus
@@ -1506,7 +1509,7 @@ album on depopulation / Global Population control app. An app as a merit system.
 - MOTHNODE_ Meritocracy
 
 ## /// HC70_ | 'SOLITON' EP
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_24]
 - MOTHNODE_ Wave Packets (hidden messages, maintaining shape throughout various platforms)
 - MOTHNODE_ Disperse (circular spread topdown shoot, destructive, soundwave giving life in the end, metal trap beat)
 - MOTHNODE_ Fiberspeed
@@ -1518,8 +1521,10 @@ including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_24]
 > Magnetic solitons are an exact solution of classical nonlinear differential equations — magnetic equations, e.g. the Landau–Lifshitz equation, continuum Heisenberg model, Ishimori equation, nonlinear Schrödinger equation and others.
 
 ## /// HC71_ | 'Tribe' Single (TEST NARRATIVE UNIVERSE SINGLE) one song + surround material
-including NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [NFS_25]
+including CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE [CNSF_25]
 - MOTHNODE_ Tribe (https://github.com/HITECHCRIME/HC_SG152_Tribe)
+[CNSF_25] Futura tribe Story. Street Futura Aggrotrap 
+REPOSITORY FOR THE FULL TRANSMEDIA RELEASE: https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
 
 ## /// HC72_ | 'Exale' EP (TEST NARRATIVE UNIVERSE ALBUM) album + surround material
 in:exhale collab? sweet custom beats, bass soundscapes <3
