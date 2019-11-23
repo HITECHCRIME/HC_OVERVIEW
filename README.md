@@ -1565,6 +1565,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ (Tianzi Mountain Regions location)
 - MOTHNODE_ Hyperion (tallest tree in the world, unknown location)
 - MOTHNODE_ Forces of Antagonism (Robert McKee inspiration - 4th wall of storytelling)
+- MOTHNODE_ 507 Years (Ming creature killed)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
