@@ -1567,6 +1567,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Forces of Antagonism (Robert McKee inspiration - 4th wall of storytelling)
 - MOTHNODE_ 507 Years (Ming creature killed)
 - MOTHNODE_ Letologic (s†ą†e wehre you can't remember the word)
+- MOTHNODE_ Clinomania (motionless state)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
