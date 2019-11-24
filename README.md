@@ -679,6 +679,10 @@ MOTHNODE_ Synergy / Synergetic AI
 - spectrum blinds our reality
 - AR/XR tech used to deceive humanity
 - 'future masked with light' lyrics
+- inspired by Helio on DUST YT channel
+- getting light means being modified neurally. People who get exposed have a slight mind control introduced into their minds. 
+- Robotic voice: "Attention, this is your your intermittent reminder to get light. If you're feeling noticeably anxious, fatigued or otherwise not your normal self you may be already overdue for a session. Stop by your local light clinic and get your necessary exposure. Do not forget, light is a prerequisite for life. Your council of health is here for you." then comes in the bass and music, song starts.
+- light from neons has a amnesia light particle
 
 ## /// 'X' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 AI BASED, MODERN TIMES, MIX ACTUAL REALITY AND NEWS INTO THE NARRATIVE, MAKE IT AS REAL AS POSSIBLE
@@ -694,7 +698,7 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 "maybe according to a religion that doesn't exist yet or a god that hasn't manifested yet"
 
 ## /// 'X' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[CNSF_22]
+[CNSF_22] 
 - replaying memory as a form of consistent reality
 
 ## /// 'ACTIVE DEPOPULUS' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
