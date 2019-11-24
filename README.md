@@ -1604,7 +1604,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ Lingo Personality (often people who use a variety of languages have different personalities depending on which language they use - very true to me)
 - MOTHNODE_ Weltschmerzen (the feeling of world's pain and its weariness)
 - MOTHNODE_ The Dark Passenger (our dark self)
-- MOTHNODE_ Light and Shadow
+- MOTHNODE_ Light from the Shadow
 
 
 Randomness:
