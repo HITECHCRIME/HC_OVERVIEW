@@ -981,7 +981,7 @@ Operative theme. Agents. Missions. Hitech but not cyberpunk, not so distant futu
 ```
 Tribal african rhytms and chants that transform into deep bass and trap.
 ```
-- Children of Vibration / Vibra?
+- Children of Vibration / Vibra? - How vibration can change an object into data-enabled surface https://www.youtube.com/watch?v=7X9k73HHMyw
 
 [cover] [type of album] [narrative? conceptual? abstract?]
 
