@@ -1614,14 +1614,15 @@ EP
 - MOTHNODE_ Lacuna (a blank space/missing part)
 - MOTHNODE_ Eunoia (beautiful thinking, a well mind)
 - MOTHNODE_ Irenic (promoting peace)
+- MOTHNODE_ Metanoia (journey of changing one’s mind, heart, self or way of life)
 
 - MOTHNODE_ Induratize
 - MOTHNODE_ Rantipole
 - MOTHNODE_ Erlebnisse
 - MOTHNODE_ Rewriting The Future 
 (rewrite, rewrite, establish the facts then recount it a lot, perceptive enough to plug in a style of the block, skip to the timeline from hours before coz what’s trending right now won’t make it to top, let's not make it stop)
--
--
+- MOTHNODE_ Noceur (one who stays up late)
+- MOTHNODE_ Nyctophiliac
 -
 -
 -
