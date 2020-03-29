@@ -1613,7 +1613,7 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 EP
 - MOTHNODE_ Lacuna (a blank space/missing part)
 - MOTHNODE_ Eunoia (beautiful thinking, a well mind)
-
+- MOTHNODE_ Irenic (promoting peace)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
