@@ -1677,6 +1677,9 @@ MOTHNODE_ Karmić Gniew - add female vocals a’la Zui  “znowu karmic gniew zn
 Mindsetting EP
 “Our life is what our thoughts make it” Marcus Aurelius (Mindsetting EP)
 
+Ksiega Mgly EP (sequel to Ksiega Szeptow EP)
+Paganic futurism.
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
