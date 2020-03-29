@@ -1629,9 +1629,16 @@ EP
 “there are times in the darkness when you feel like you are the only one perceiving the world in its purest form, savour that feeling as when the light comes you will be blinded (with distractions)” creatures of the hollow night, filling the void, running towards the light. often thought to myself what’s this prowl meant to mean, long trek into depths, saved the state just before it became too clear, born hazed doesn’t make it real for the cause is still unseen
 
 - MOTHNODE_ Oathbreaker, come and see, come and see oathbreakers in the wild, behold with sight and kneel before what fate has brought to thee 
--
--
-
+- HC_SG185 MOTHNODE_ Away From People, 304 days on a break freedom hanging calls for the null got nulled ain’t a single human that awaits for the scripts a brag just in catchin’ someone’s falling i ain’t the falls man / not ready for the day
+- HC_SG187_ Helper / Goner for the muff, goner for the cray, goner for the truth, goner for the maze, bitch you got it rough, lemme get the haze, ready to light up causes to obtain
+- HC_SG186 Belong_ Nowhere I belong, always searching for the trust I lost, agent unattached, string be cut (truly for the most), in my own way, glory to the different, persistent breed, all stealth, all conscious, all observant, never rush to please, fever got me good when i got what i want, swarms of nodes, space physical running digital on point, i am here to make you feel, i am here to make you stand, i am here to bring you life not to fall apart, force in words and bass reaching all the crowds, coz that’s the only way to stand above, in an era of turning cloners into copycats, still the same, everywhere you look for longer, same thing same mask till you object your thoughts to the tyrants of palindrome, i hereby announce nowhere i belong nowhere i belong
+- Make a Killstation Days Before Dying inspired song - HC_SG184
+i hope sincerely one day morbid certainty comes alive
+still thinking you want understanding at the end of your path
+so closely missing points of conflict of our never finishing fights
+dear you'll be standing at my grave so clearly weeping tears of blood
+it wasn't me versus you, you versus me
+it was the problem we clashed for at the core out being
 
 
 
