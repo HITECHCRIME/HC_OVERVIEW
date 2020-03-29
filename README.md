@@ -1652,7 +1652,11 @@ EP
 - MOTHNODE_ Banshe
 - MOTHNODE_ Valkir
 
+EP
+Dual Album based on Freud’s notions. Based on Beyond The Pleasure Principle (1920) by Sigmund Freud.
 
+- MOTHNODE_ Liebenstrieb (Life Instinct) / EROS
+- MOTHNODE_ Todestrieb (Death Drive) / THANATOS
 
 Randomness:
 - MOTHNODE_ Qaravultomba
