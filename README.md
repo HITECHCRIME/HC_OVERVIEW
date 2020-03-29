@@ -1615,6 +1615,23 @@ EP
 - MOTHNODE_ Eunoia (beautiful thinking, a well mind)
 - MOTHNODE_ Irenic (promoting peace)
 
+- MOTHNODE_ Induratize
+- MOTHNODE_ Rantipole
+- MOTHNODE_ Erlebnisse
+- MOTHNODE_ Rewriting The Future 
+(rewrite, rewrite, establish the facts then recount it a lot, perceptive enough to plug in a style of the block, skip to the timeline from hours before coz what’s trending right now won’t make it to top, let's not make it stop)
+-
+-
+-
+-
+-
+-
+
+
+
+
+
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
