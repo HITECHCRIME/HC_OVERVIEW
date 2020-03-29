@@ -1610,8 +1610,9 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ The Dark Passenger (our dark self)
 - MOTHNODE_ Light from the Shadow
 
+EP
 - MOTHNODE_ Lacuna (a blank space/missing part)
-
+- MOTHNODE_ Eunoia (beautiful thinking, a well mind)
 
 
 Randomness:
