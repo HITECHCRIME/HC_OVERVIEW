@@ -1672,6 +1672,11 @@ Acceptance of the Absurd: a solution in which ones accepts the ABsurd and contin
 MOTHNODE_ Shadow of Self EP
 ![](shadowofselfep.jpg)
 
+MOTHNODE_ Karmić Gniew - add female vocals a’la Zui  “znowu karmic gniew znowu karmic gniew chce stlumic moje mysli tez”
+
+Mindsetting EP
+“Our life is what our thoughts make it” Marcus Aurelius (Mindsetting EP)
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
