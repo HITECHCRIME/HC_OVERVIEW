@@ -1670,7 +1670,7 @@ Acceptance of the Absurd: a solution in which ones accepts the ABsurd and contin
 - MOTHNODE_ Fleetin’ Rational (succumbing to irrational thoughts)
 
 MOTHNODE_ Shadow of Self EP
-![](shadowofself.jpg)
+![](shadowofselfep.jpg)
 
 Randomness:
 - MOTHNODE_ Qaravultomba
