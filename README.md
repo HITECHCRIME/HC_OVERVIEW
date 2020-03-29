@@ -1658,6 +1658,18 @@ Dual Album based on Freud’s notions. Based on Beyond The Pleasure Principle (1
 - MOTHNODE_ Liebenstrieb (Life Instinct) / EROS
 - MOTHNODE_ Todestrieb (Death Drive) / THANATOS
 
+Agents of Absurdism EP
+MOTHNODE_ Agents of Absurdism EP: 
+Acceptance of the Absurd: a solution in which ones accepts the ABsurd and continues to live in spite of it. Camus endorsed this solution, believing that b accepting the ABsurd, one can achieve the greatest extent of one's freedom. By recognizing no religious or other moral constraints, and by rebelling against the Absurd (through meaning-making) while simultaneously accepting it as unstoppable, one could find contentment through the transient personal meaning contructed in the process. Kierkegaard, on the other hand, regarded this solution as "demoniac madness": He rages most of all at the thought that eternity might get it into its head to take his misery from him!
+
+- MOTHNODE_ Plagued by Thoughts
+- MOTHNODE_ Faith’s Cutting (religion, transcendence, selfharm - ways to choose other paths in the world of absurdism)
+- MOTHNODE_ Eternal Atlas (struggle)
+- MOTHNODE_ Natural Daemons (thought patterns, trying to accomodate for the lack of meaning)
+- MOTHNODE_ Absurda (chanting song, tribal)
+- MOTHNODE_ Fleetin’ Rational (succumbing to irrational thoughts)
+
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
