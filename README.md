@@ -27,6 +27,8 @@ Seasons are overarching themes. A "whole set" would be all elements of content t
 
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
 
+Think of Hitech Crime metabrand dark trap microlabel as a virtual city or a digital experience where you join your friends and new acquaintances in experiencing and actively interacting with an entire semi-fictional cinematic and gamified universe. It has its own characters, places, events, puzzles, its own lore and can almost feel like a live realtime game taking place both online and in real life as new chapters, timelines, themes are released to consume. You are invited to collaborate with the creators (operatives) themselves and be part of an endless fictional story filled with mysteries.
+
 # /// STORYWORLD [THE UNIVERSE]
 
 I'm testing a structure for a first "pilot episode" single release called "TRIBE": https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
@@ -1623,8 +1625,10 @@ EP
 (rewrite, rewrite, establish the facts then recount it a lot, perceptive enough to plug in a style of the block, skip to the timeline from hours before coz what’s trending right now won’t make it to top, let's not make it stop)
 - MOTHNODE_ Noceur (one who stays up late)
 - MOTHNODE_ Nyctophiliac
-- MOTHNODE_ Acquainted With The Night “there are times in the darkness when you feel like you are the only one perceiving the world in its purest form, savour that feeling as when the light comes you will be blinded (with distractions)” creatures of the hollow night, filling the void, running towards the light. often thought to myself what’s this prowl meant to mean, long trek into depths, saved the state just before it became too clear, born hazed doesn’t make it real for the cause is still unseen
--
+- MOTHNODE_ Acquainted With The Night 
+“there are times in the darkness when you feel like you are the only one perceiving the world in its purest form, savour that feeling as when the light comes you will be blinded (with distractions)” creatures of the hollow night, filling the void, running towards the light. often thought to myself what’s this prowl meant to mean, long trek into depths, saved the state just before it became too clear, born hazed doesn’t make it real for the cause is still unseen
+
+- MOTHNODE_ Oathbreaker, come and see, come and see oathbreakers in the wild, behold with sight and kneel before what fate has brought to thee 
 -
 -
 
