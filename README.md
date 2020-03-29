@@ -1680,6 +1680,76 @@ Mindsetting EP
 Ksiega Mgly EP (sequel to Ksiega Szeptow EP)
 Paganic futurism.
 
+MOTHNODE - 2020 EP
+- MOTHNODE_ Indigo Warrior
+- MOTHNODE_ Hopi Tribe
+- MOTHNODE_ Alive Again
+- MOTHNODE_ High Frequency
+- MOTHNODE_ Here To Change
+- MOTHNODE_ Separation Paradigm (comparison society)
+- MOTHNODE_ Come Together
+- MOTHNODE_ Energy’s All The Same
+- MOTHNODE_ Hidden Into Light
+- MOTHNODE_ Veil of Illusion
+- MOTHNODE_ Way Out (finding way to cope through drugs is bad), 
+- MOTHNODE_ Do I Belong (If you don’t feel like you belong to this world it is because you came here to create a new one)
+
+MOTHNODE_ Polish Bruhas (Polski kawalek o wiedzmach)
+
+MOTHNODE_ Ephoron Virgo [Mayflies] arrive at sunset over rivers
+
+MOTHNODE_ Cam Grids
+
+MOTHNODE_ Trance App
+
+MOTHNODE_ Shallow Starlight
+
+MOTHNODE_ The Genius of the Crowd EP based on Charles Bukowski’s poem. 
+- MOTHNODE_ Their Hatred Will Be Perfect
+- MOTHNODE_ Beware The Knowers
+- MOTHNODE_ Quick to Praise 
+- MOTHNODE_ For You Are Nothing Alone
+- MOTHNODE_ Seeking Average/Average Human Being
+- MOTHNODE_ Solitude
+- MOTHNODE_ Constant Crowd
+
+Dark Sci-fi Trap EP: 
+MOTHNODE_ Summoner of Worlds, 
+MOTHNODE_ Github Occult, 
+MOTHNODE_ Cybershaman, 
+(MOTHNODE_ Doing Nothing State, 
+MOTHNODE_ Neuroreactive, 
+MOTHNODE_ Cybercrime Div), 
+MOTHNODE_ Borstal
+
+MOTHNODE_ Fallen Fallen Is Babylon (BioShock Decadence)
+
+MOTHNODE_ Adonis Luxury Resort (BioShock Decadence)
+
+MOTHNODE_ Melanism
+
+MOTHNODE_ Black Leopard
+
+MOTHNODE_ Iberian
+
+MOTHNODE_ Amur
+
+MOTHNODE_ Albino Thoughts (?)
+
+MOTHNODE_ Red Wolf
+
+MOTHNODE_ White Deer
+
+MOTHNODE_ Molecular Dharma (systematic flipping, living software, programming biological agents, end of disease, abundance, human enhancement, stage of reality)
+
+MOTHNODE_ Phonebook (dystopian EP song) based on the idea that data became scarce in the world and a personal phonebook holds all the power of networking
+
+MOTHNODE_ Death of Despair, Tomorrow Is In Your Hands, Homo Ludens, Schwartzchild Radius, Seed of Universe, Relation, Strands, Dirac Equation (Death Stranding inspired)
+
+
+
+
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
