@@ -29,6 +29,8 @@ What we're creating here is a "storyworld". We are basing it on trap music and c
 
 Think of Hitech Crime metabrand dark trap microlabel as a virtual city or a digital experience where you join your friends and new acquaintances in experiencing and actively interacting with an entire semi-fictional cinematic and gamified universe. It has its own characters, places, events, puzzles, its own lore and can almost feel like a live realtime game taking place both online and in real life as new chapters, timelines, themes are released to consume. You are invited to collaborate with the creators (operatives) themselves and be part of an endless fictional story filled with mysteries.
 
+RED band as the inspiration for narrative Hitech Crime stories
+
 # /// STORYWORLD [THE UNIVERSE]
 
 I'm testing a structure for a first "pilot episode" single release called "TRIBE": https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
@@ -1640,7 +1642,15 @@ dear you'll be standing at my grave so clearly weeping tears of blood
 it wasn't me versus you, you versus me
 it was the problem we clashed for at the core out being
 
-
+EP
+- MOTHNODE_ Telepresence
+- MOTHNODE_ Omni
+- MOTHNODE_ Ruthfull
+- MOTHNODE_ 50th God
+- MOTHNODE_ Protodaemon
+- MOTHNODE_ 92.711
+- MOTHNODE_ Banshe
+- MOTHNODE_ Valkir
 
 
 
