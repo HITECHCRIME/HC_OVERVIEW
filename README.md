@@ -1610,6 +1610,9 @@ https://ghr.nlm.nih.gov/gene/SLC6A3
 - MOTHNODE_ The Dark Passenger (our dark self)
 - MOTHNODE_ Light from the Shadow
 
+- MOTHNODE_ Lacuna (a blank space/missing part)
+
+
 
 Randomness:
 - MOTHNODE_ Qaravultomba
