@@ -1623,7 +1623,7 @@ EP
 (rewrite, rewrite, establish the facts then recount it a lot, perceptive enough to plug in a style of the block, skip to the timeline from hours before coz what’s trending right now won’t make it to top, let's not make it stop)
 - MOTHNODE_ Noceur (one who stays up late)
 - MOTHNODE_ Nyctophiliac
--
+- MOTHNODE_ Acquainted With The Night “there are times in the darkness when you feel like you are the only one perceiving the world in its purest form, savour that feeling as when the light comes you will be blinded (with distractions)” creatures of the hollow night, filling the void, running towards the light. often thought to myself what’s this prowl meant to mean, long trek into depths, saved the state just before it became too clear, born hazed doesn’t make it real for the cause is still unseen
 -
 -
 -
@@ -2077,3 +2077,5 @@ brutalist, digitalarcana, real vs surreal, trap music, cyberpunk, humanedge, tec
 
 https://www.youtube.com/watch?v=JRVkxtjKvCE
 ＳＡＤＷＡＶＥ ~ [FREE] SAD XXXTENTACION TYPE BEAT (SLOW LOFI RAP BEAT 2019)
+
+I def get the idea that you should brand very true to your ideals to attract the right people and not be interested in chasing those who will never be into you. That’s smart. But the hard part is overly obtuse things only work when you have a large or very dedicated fan base, not for building one. Not as the primary thing you use to try to build yourself, anyway. I would brainstorm it as more of a funnel. The wide part is a very easy to get message about who you are/ how the brands fit together/ etc. Then you create ever more hidden or detailed information down to the top of the funnel where 95% of your audience will never see, but will really excite and envigorate your super fans so that they now tell others about you. Those are your evangelists. You mentioned “quantity creates quality.” If you mean you plan to release tons of music, that gives you plenty of opportunities to hide clues and breadcrumbs
