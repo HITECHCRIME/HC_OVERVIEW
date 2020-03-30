@@ -1974,6 +1974,78 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 - use Linkfire to direct to the latest release (see if there is a gentler way of doing this)
 
+---
+
+MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
+
+/// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
+Get the new aggrotrap injection here_ LINKFIRE LINK
+Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
+
+Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
+Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
+
+/// ENTER THE NARRATIVE UNVIERSE OF HITECH CRIME
+"LORE SNIPPET"
+(enter the narrative world of Hitech Crime)
+Enter the Hitech Crime cinematic narrative universe
+
+/// WORD FROM MOTHNODE for personal (real thoughts, not character?)
+xxx
+
+Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
+
+Use # for Helve Ops to rally the people. #OPxxxxxxxxxxx
+
+Thank you to all agents for being a part of our global Hitech Crime community.
+
+/// STREAM TARGETS “DIGITAL LIFE HEIST”_
+Spotify_ LINKFIRE LINK
+Apple Music_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+SoundCloud_ LINKFIRE LINK
+
+/// DOWNLOAD TARGETS “DIGITAL LIFE HEIST”_
+iTunes_ LINKFIRE LINK
+Amazon Music_ LINKFIRE LINK
+
+/// BLACK SHEEP FOLLOW MOTHNODE_
+Telegram Live Ops Group_ https://t.me/hitechops
+Instagram_ https://instagram.com/mothnode
+Soundcloud_ https://soundcloud.com/mothnode
+Spotify_ X
+Twitter_ https://www.twitter.com/mothnode
+Website_ http://www.helve.live
+Email_ X
+
+/// FOLLOW HITECH CRIME SOCIAL NODES_ 
+Facebook_ http://www.facebook.com/hitechcrime
+Instagram_ https://instagram.com/hitechcrime
+Website_ http://www.hitechcri.me
+
+/// CREATIVE OPERATIVES_
+Producer_ Helve AVR / MOTHNODE
+Creative Director_ MOTHNODE / The Void
+Camera Ops_ Autonomous / MOTHNODE
+Lyrics_ MOTHNODE
+Beat_ HRTLZ
+
+/// LYRICAL INSIGHT_
+nadlatuję z duchem czasu
+aye aye aye aye to jest digital life heist (ou) 
+digital life heist (ej)
+privkey na blacie, numer swój odsłoń, (10)
+tyle hashów na kasę, a nie zmienię cię w cyfrę
+
+#AGGROTRAP #HITECHCRIME #MOTHNODE 
+
+/// Audio Injection by MOTHNODE performing "Digital Life Heist"
+© ARR 2019 Hitech Crime / Helve AVR
+
+LINK
+
+# Audiovisual Description Template (Music Video)
+
 **NEW YOUTUBE RELEASE DESCRIPTION**
 
 Title: /// MOTHNODE_ Emergent (Prod. Griesgrammar) | Hitech Crime | Live Street Ops Music Video
@@ -2055,75 +2127,6 @@ https://linktr.ee/mothnode
 
 ---
 
-MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
-
-/// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
-Get the new aggrotrap injection here_ LINKFIRE LINK
-Subscribe to MOTHNODE on YouTube_ http://bit.ly/313tr8c
-
-Pre-order Brutalizm Elektroniczny strain with exclusive merch_ X
-Pre-order exclusive merch in collaboration with KΛNNIBΛL WEΛR_
-
-/// ENTER THE NARRATIVE UNVIERSE OF HITECH CRIME
-"LORE SNIPPET"
-(enter the narrative world of Hitech Crime)
-Enter the Hitech Crime cinematic narrative universe
-
-/// WORD FROM MOTHNODE for personal (real thoughts, not character?)
-xxx
-
-Show your Operative flair by sharing your stories about your favorite narratives, songs, albums, mysteries, events, and meetups on social with the #HitechCrime hashtag.
-
-Use # for Helve Ops to rally the people. #OPxxxxxxxxxxx
-
-Thank you to all agents for being a part of our global Hitech Crime community.
-
-/// STREAM TARGETS “DIGITAL LIFE HEIST”_
-Spotify_ LINKFIRE LINK
-Apple Music_ LINKFIRE LINK
-Amazon Music_ LINKFIRE LINK
-SoundCloud_ LINKFIRE LINK
-
-/// DOWNLOAD TARGETS “DIGITAL LIFE HEIST”_
-iTunes_ LINKFIRE LINK
-Amazon Music_ LINKFIRE LINK
-
-/// BLACK SHEEP FOLLOW MOTHNODE_
-Telegram Live Ops Group_ https://t.me/hitechops
-Instagram_ https://instagram.com/mothnode
-Soundcloud_ https://soundcloud.com/mothnode
-Spotify_ X
-Twitter_ https://www.twitter.com/mothnode
-Website_ http://www.helve.live
-Email_ X
-
-/// FOLLOW HITECH CRIME SOCIAL NODES_ 
-Facebook_ http://www.facebook.com/hitechcrime
-Instagram_ https://instagram.com/hitechcrime
-Website_ http://www.hitechcri.me
-
-/// CREATIVE OPERATIVES_
-Producer_ Helve AVR / MOTHNODE
-Creative Director_ MOTHNODE / The Void
-Camera Ops_ Autonomous / MOTHNODE
-Lyrics_ MOTHNODE
-Beat_ HRTLZ
-
-/// LYRICAL INSIGHT_
-nadlatuję z duchem czasu
-aye aye aye aye to jest digital life heist (ou) 
-digital life heist (ej)
-privkey na blacie, numer swój odsłoń, (10)
-tyle hashów na kasę, a nie zmienię cię w cyfrę
-
-#AGGROTRAP #HITECHCRIME #MOTHNODE 
-
-/// Audio Injection by MOTHNODE performing "Digital Life Heist"
-© ARR 2019 Hitech Crime / Helve AVR
-
-LINK
-
-# Audiovisual Description Template (Music Video)
 
 Title: /// MOTHNODE_ Dryspace (Prod. Sylar) | Live Ops Music Video Practice
 
