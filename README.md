@@ -43,6 +43,10 @@ Creating engaging content (in my case semi-fictional universes with story arcs a
 
 Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 act film), Single 1 song (short film).
 
+---
+
+„respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
+
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
 **GENERAL*
