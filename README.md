@@ -39,6 +39,10 @@ RED band as the late-realized inspiration for narrative Hitech Crime stories
 
 Creating engaging content (in my case semi-fictional universes with story arcs and narratives for each of the 3 brands) that pulls in the audience seemingly to give them entertainment but throughout the process it starts to deliver important and thought-provoking concepts. Transmedia storytelling and gamification of the story depending on the brand. Microlabel is more of a cinematic storytelling (music albums hybridized with interactive installations and short films) while techwear clothing brand Kannibal has a cinematic narrative universe that is constructed and is an excuse to showcase future potential of technology to badly influence societies. It is like reverse engineering escapism and making people self-aware and fully conscious of their choices.
 
+---
+
+Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 act film), Single 1 song (short film).
+
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
 **GENERAL*
