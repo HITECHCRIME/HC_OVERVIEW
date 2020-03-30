@@ -1831,9 +1831,16 @@ MOTHNODE_ Phonebook (dystopian EP song) based on the idea that data became scarc
 
 MOTHNODE_ Death of Despair, Tomorrow Is In Your Hands, Homo Ludens, Schwartzchild Radius, Seed of Universe, Relation, Strands, Dirac Equation (Death Stranding inspired)
 
+---
 
+LATERAL THALAMUS EP
 
+Based on the idea that consciousness comes from lateral thalamus.
+https://www.inverse.com/mind-body/tiny-area-of-the-brain-could-enable-consciousness/amp
 
+MOTHNODE_ Consciousless
+
+---
 
 Randomness:
 - MOTHNODE_ Qaravultomba
