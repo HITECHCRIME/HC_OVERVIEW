@@ -51,6 +51,10 @@ Gather user content: „respond with a photo or video of yourself doing the Hite
 
 Alternate Reality YouTube VLOG/SERIES (Render weird things in the distance, colossus buildings, “disregard the goliath we are not here to visit it”) Alternate reality operative travel/mission logs
 
+---
+
+Spark AR Custom Instagram Filter for Hitech Crime.
+
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
 **GENERAL*
