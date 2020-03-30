@@ -47,6 +47,10 @@ Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 
 
 Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
 
+---
+
+Alternate Reality YouTube VLOG/SERIES (Render weird things in the distance, colossus buildings, “disregard the goliath we are not here to visit it”) Alternate reality operative travel/mission logs
+
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
 **GENERAL*
