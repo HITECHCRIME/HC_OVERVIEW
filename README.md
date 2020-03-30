@@ -55,6 +55,10 @@ Alternate Reality YouTube VLOG/SERIES (Render weird things in the distance, colo
 
 Spark AR Custom Instagram Filter for Hitech Crime.
 
+---
+
+Connecting 30+ bluetooth headphones to one source for quiet rogue concert in public
+
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
 **GENERAL*
