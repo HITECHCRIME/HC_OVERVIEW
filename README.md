@@ -2,7 +2,7 @@
 
 ![](helve-banner.png)
 
-# HITECH CRIME | CINEMATIC NARRATIVE UNIVERSE MUSIC MICROLABEL
+# HITECH CRIME | CINEMATIC NARRATIVE UNIVERSE TRANSMEDIA MUSIC MICROLABEL
 
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP - HITECH CRIME MYTHOS
@@ -15,7 +15,7 @@ THE WEYLAND-YUTANI OF TRAP MUSIC
 (NOTES: ?WITH A DASH OF AGENTS OF SHIELD VIBE? LEAVE THAT TO 
 HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 ```
-**Hitech Crime** is a microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build an audiovisual universe with unique lore and narratives.
+**Hitech Crime** is a transmedia music microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build an audiovisual universe with unique lore and narratives.
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
