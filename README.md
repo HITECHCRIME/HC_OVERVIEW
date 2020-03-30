@@ -15,7 +15,7 @@ THE WEYLAND-YUTANI OF TRAP MUSIC
 (NOTES: ?WITH A DASH OF AGENTS OF SHIELD VIBE? LEAVE THAT TO 
 HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 ```
-**Hitech Crime** is a transmedia music microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build an audiovisual universe with unique lore and narratives.
+**Hitech Crime** is a transmedia music microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build an audiovisual universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past suffering and discover the sense of self through experimental means.
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
