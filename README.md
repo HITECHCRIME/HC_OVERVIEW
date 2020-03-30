@@ -1974,6 +1974,87 @@ All songs: [NOT ALL SONGS - UPDATE THE LIST]
 
 - use Linkfire to direct to the latest release (see if there is a gentler way of doing this)
 
+**NEW YOUTUBE RELEASE DESCRIPTION**
+
+Title: /// MOTHNODE_ Emergent (Prod. Griesgrammar) | Hitech Crime | Live Street Ops Music Video
+
+Use hashtags HITECHCRIME + MOTHNODE + GENRE OF THE SONG
+
+/// OFFICIAL DIY UNDERGROUND AV_INJECTION FOR SONG “EMERGENT” BY DIRECTOR OPERATIVE MOTHNODE OF THE HITECH CRIME CINEMATIC NARRATIVE UNIVERSE MICROLABEL⁣⁣
+
+SUBSCRIBE TO MOTHNODE ON YOUTUBE_ http://bit.ly/313tr8c
+
+/// STREAM TARGETS FOR “EMERGENT”_
+SoundCloud_ https://soundcloud.com/mothnode/mothnode-emergent-prod/s-OyhDp
+Instagram IGTV_ https://www.instagram.com/tv/B74L1RTnwzq/
+
+/// BLACK SHEEP FOLLOW MOTHNODE_
+Linktree_ https://www.linktr.ee/mothnode
+Instagram_ https://instagram.com/mothnode
+Soundcloud_ https://soundcloud.com/mothnode
+
+/// BECOME AN AGENT OF HITECH CRIME_
+Agent Discord Server_ https://discord.gg/QH4gtDG
+
+/// FOLLOW HITECH CRIME_
+Facebook_ http://www.facebook.com/hitechcrime
+Instagram_ https://instagram.com/hitechcrime 
+
+/// COMMENT FROM THE DIRECTOR OPERATIVE_ 
+
+Live Street Ops Music Video for „Emergent” song prototype featuring Aoku techwear gear. Video and audio recording done solo in Poznań, Poland using autonomous DJI Osmo Pocket camera, edited on phone in LumaFusion app. Audio recorded raw with no corrections with AT2005 and Focusrite Scarlett Solo. Need that bloody PC workstation.⁣ Let me know what you think of the nice touch at the very end of the music video!
+⁣
+/// True agents of Hitech Crime comment with ]|[ symbol underneath to your show your flair. Stay in contact with the HQ.⁣⁣
+⁣⁣
+/// TARGET_ MOTHNODE_ Emergent⁣⁣
+/// STATUS_ Song Prototype HC_SG169
+
+/// CREATIVE OPERATIVES_
+Producer_ Helve AVR / MOTHNODE
+Creative Director_ MOTHNODE / The Void
+Camera Ops_ Autonomous / MOTHNODE
+Lyrics_ MOTHNODE
+Beat_ Griesgrammar https://www.youtube.com/channel/UCMpj21m-PQqAsJ_Hmxn1BbA
+
+/// LYRICAL INSIGHT_
+
+i’ve been breached ⁣
+so I’ve put my shields up⁣
+nowadays all reach⁣
+i just wanna rap⁣
+⁣
+what I looked for in life’s ⁣
+what I found in trap⁣
+expression till I see bodies drop⁣
+till I see bodies drop aye⁣
+⁣
+i ran with depression ⁣
+suppressed learned a lesson ⁣
+through dancing with devils ⁣
+got honed into stun ⁣
+making it precious experience⁣
+deflected the truths were so hidden ⁣
+i snapped this back on⁣
+I’ve chosen to run into deals ⁣
+i barely contorted to shapes ⁣
+i wanted assigned to myself ⁣
+so these were the lies that I ripped ⁣
+to reveal the monster beneath⁣
+⁣
+in my skin so torn into shreds ⁣
+I emerged a new being⁣
+still human I bled⁣
+still human I bled⁣
+
+#DARKTRAP #HITECHCRIME #MOTHNODE 
+
+/// Music Video by MOTHNODE performing "Emergent"
+© ARR 2019 Hitech Crime / Helve AVR
+
+https://linktr.ee/mothnode
+
+---
+
 MOTHNODE_ Digital Life Heist [HC_SG01 / HITECH CRIME NARRATIVE UNIVERSE]
 
 /// OFFICIAL AUD_INJECTION FOR AGGROTRAP "DIGITAL LIFE HEIST" BY MOTHNODE_
