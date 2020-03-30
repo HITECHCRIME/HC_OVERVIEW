@@ -27,9 +27,50 @@ Seasons are overarching themes. A "whole set" would be all elements of content t
 
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
 
+---
+
 Think of Hitech Crime metabrand dark trap microlabel as a virtual city or a digital experience where you join your friends and new acquaintances in experiencing and actively interacting with an entire semi-fictional cinematic and gamified universe. It has its own characters, places, events, puzzles, its own lore and can almost feel like a live realtime game taking place both online and in real life as new chapters, timelines, themes are released to consume. You are invited to collaborate with the creators (operatives) themselves and be part of an endless fictional story filled with mysteries.
 
-RED band as the inspiration for narrative Hitech Crime stories
+---
+
+RED band as the late-realized inspiration for narrative Hitech Crime stories
+
+---
+
+Creating engaging content (in my case semi-fictional universes with story arcs and narratives for each of the 3 brands) that pulls in the audience seemingly to give them entertainment but throughout the process it starts to deliver important and thought-provoking concepts. Transmedia storytelling and gamification of the story depending on the brand. Microlabel is more of a cinematic storytelling (music albums hybridized with interactive installations and short films) while techwear clothing brand Kannibal has a cinematic narrative universe that is constructed and is an excuse to showcase future potential of technology to badly influence societies. It is like reverse engineering escapism and making people self-aware and fully conscious of their choices.
+
+# /// VISUAL COMMUNICATION OF THE BRAND NOTES
+
+**GENERAL*
+
+RED (EMOTION - NEGATIVE) + WHITE (BALANCE - POSITIVE)
+
+- minimal
+- intricate?
+- cyberornate (both logo-wise and ux-wise)
+- bold, brutalist
+- lots of brutalist architecture in motion pictures
+- as few lines and cutouts as possible (modularity?)
+- easy to replicate visually
+- stencil form / neon form / marker action form
+- balanced
+- timeless symbol
+- better ratios
+- symbol includes H C I T letters (subliminal)
+- slimmer core to adjust to 16:9 content and widescreen
+- hitech is hidden energetic, operational dashboard vibe
+- final logo needs to have red bg or elements to correlate with the brand theme.
+- futuristic elements but tones - practical.
+- bigger visual style of the universe, semi-fictional Operatives of Hitech Crime are black ops of trap music, HC is the undercover "corporation" trying to hack the world for the better (positive anarchy)
+- krotalox (shadowtech)
+- aoku (techwear)
+
+**LOGO NOTES**
+
+- needs character/weight to it at some points
+- needs to work aesthetically with UI/UX
+- needs to have some sort of look to it as reference images
+- easily replicable
 
 # /// STORYWORLD [THE UNIVERSE]
 
