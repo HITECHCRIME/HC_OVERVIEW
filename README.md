@@ -45,7 +45,7 @@ Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 
 
 ---
 
-„respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
+Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
 
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
