@@ -1862,6 +1862,16 @@ MOTHNODE_ Consciousless
 
 ---
 
+MOTHNODE_ Before All Else EP
+
+Before All Else, Be Armed - Machiavelli
+
+- On The Importance Of Trust
+- Impenetrable (shielded from the world with strength of character)
+- Predatory Sense (vigilance over surroundings)
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
