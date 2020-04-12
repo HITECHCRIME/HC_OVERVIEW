@@ -2133,6 +2133,10 @@ Use hashtags HITECHCRIME + MOTHNODE + GENRE OF THE SONG
 
 SUBSCRIBE TO MOTHNODE ON YOUTUBE_ http://bit.ly/313tr8c
 
+/// AGENT MERCH DROP_ 
+Support the development of our independent microlabel!
+https://utip.io/mothnode/shop
+
 /// STREAM TARGETS FOR “EMERGENT”_
 SoundCloud_ https://soundcloud.com/mothnode/mothnode-emergent-prod/s-OyhDp
 Instagram IGTV_ https://www.instagram.com/tv/B74L1RTnwzq/
