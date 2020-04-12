@@ -1,8 +1,8 @@
 ![](assets/hitechcrime.png)
 
-![](helve-banner.png)
-
 # HITECH CRIME | CINEMATIC NARRATIVE UNIVERSE TRANSMEDIA MUSIC MICROLABEL
+
+![](helve-banner.png)
 
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP - HITECH CRIME MYTHOS
