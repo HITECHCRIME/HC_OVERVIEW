@@ -15,11 +15,11 @@ THE WEYLAND-YUTANI OF TRAP MUSIC
 (NOTES: ?WITH A DASH OF AGENTS OF SHIELD VIBE? LEAVE THAT TO 
 HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 ```
-**Hitech Crime** is a cinematic narrative universe music microlabel being set in Helve AVR's dark moon metabrand system. It acts as a unified hub for creative and experimental audio transmedia projects.
+**Hitech Crime** is a cinematic narrative universe transmedia music microlabel being set in Helve AVR's dark moon metabrand system. It acts as a unified hub for creative and experimental audio projects.
 
 **Creative Aim**
 
-Its *creative aim* is to build an audiovisual universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past suffering and discover the sense of self through experimental means.
+Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past and present suffering and discover the sense of self through various means. It presents a path of progress and understanding of life through narrative story arcs to draw in the audience and teach them important elements of life while simulatenously entertaining.
 
 **Technical Aim**
 
