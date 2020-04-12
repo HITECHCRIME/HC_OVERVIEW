@@ -1870,6 +1870,13 @@ Before All Else, Be Armed - Machiavelli
 - Impenetrable (shielded from the world with strength of character)
 - Predatory Sense (vigilance over surroundings)
 
+--- 
+
+MOTHNODE_ Spiritual Helper EP
+
+MOTHNODE_ Tsentsak (Spiritual Helper)
+MOTHNODE_ Shaman's Chant
+
 ---
 
 Randomness:
