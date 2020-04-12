@@ -27,7 +27,7 @@ Its *technical aim* is to research, develop and execute ideas in form of new wav
 
 **Themes**
 
-As an always evolving expressive entity it explores and dives into topics of:
+As an always evolving expressive entity it hybridizes, explores and dives into topics of:
 - psychology / human psyche
 - belonging / group identity
 - self / personal identity
