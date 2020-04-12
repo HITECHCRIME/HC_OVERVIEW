@@ -15,11 +15,40 @@ THE WEYLAND-YUTANI OF TRAP MUSIC
 (NOTES: ?WITH A DASH OF AGENTS OF SHIELD VIBE? LEAVE THAT TO 
 HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 ```
-**Hitech Crime** is a transmedia music microlabel acting as a unified hub for creative and experimental audio projects. Its *creative aim* is to build an audiovisual universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past suffering and discover the sense of self through experimental means.
+**Hitech Crime** is a cinematic narrative universe music microlabel being set in Helve AVR's dark moon metabrand system. It acts as a unified hub for creative and experimental audio transmedia projects.
+
+**Creative Aim**
+
+Its *creative aim* is to build an audiovisual universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past suffering and discover the sense of self through experimental means.
+
+**Technical Aim**
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
-As an expressive entity it explores and expresses topics ranging from *psychology*, *transhumanism*, *human edge*, *niche cyberpunk* to *predictive societal changes of the future in relation to the advancement of technology*.
+**Themes**
+
+As an always evolving expressive entity it explores and dives into topics of:
+- psychology / human psyche
+- belonging / group identity
+- self / personal identity
+- duality / multiplicity 
+- path of self-anarchistic creativity / life progress
+- negative emotions
+- depression / coping
+- addiction / cravings
+- spiritualism / shamanism
+- religion as a tool
+- consciousness / belief
+- human relationships
+- freedom of the mind
+- x-patic behaviours
+- near future cyberpunk
+- advancement of technology
+- predictive societal changes
+- transhumanism / human edge
+- creative operations
+- rogue squads and operations
+- subversive methodologies
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
 
