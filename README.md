@@ -19,7 +19,11 @@ HELVE AVR, TOO MUCH BLENDING WITH OTHER METABRANDS).
 
 **Creative Aim**
 
-Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. I used it as a tool to understand and express past and present suffering and discover the sense of self through various means. It presents a path of progress and understanding of life through narrative story arcs to draw in the audience and teach them important elements of life while simulatenously entertaining.
+Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. 
+
+I used it as a tool to understand and express past and present suffering and discover the sense of self through various means. 
+
+It presents a path of progress and understanding of life through narrative story arcs to draw in the audience and teach them important elements of life while simulatenously entertaining.
 
 **Technical Aim**
 
