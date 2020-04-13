@@ -85,7 +85,6 @@ Gather user content: „respond with a photo or video of yourself doing the Hite
 
 ---
 
-Connecting 30+ bluetooth headphones to one source for quiet rogue concert in public
 
 ![](HC_DISTRO.jpg)
 
@@ -130,6 +129,8 @@ Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 
 Alternate Reality YouTube VLOG/SERIES (Render weird things in the distance, colossus buildings, “disregard the goliath we are not here to visit it”) Alternate reality operative travel/mission logs
 
 Spark AR Custom Instagram Filter for Hitech Crime.
+
+Connecting 30+ bluetooth headphones to one source for quiet rogue concert in public
 
 '''
 
