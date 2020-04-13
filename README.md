@@ -121,7 +121,7 @@ RED (EMOTION - NEGATIVE) + WHITE (BALANCE - POSITIVE)
 - needs to have some sort of look to it as reference images
 - easily replicable
 
-'''
+```
 NOTES
 
 Hitech Crime Content Framework Idea: Album 11 songs (web series), EP 3 songs (3 act film), Single 1 song (short film).
@@ -131,8 +131,7 @@ Alternate Reality YouTube VLOG/SERIES (Render weird things in the distance, colo
 Spark AR Custom Instagram Filter for Hitech Crime.
 
 Connecting 30+ bluetooth headphones to one source for quiet rogue concert in public
-
-'''
+```
 
 # /// STORYWORLD [THE UNIVERSE]
 
