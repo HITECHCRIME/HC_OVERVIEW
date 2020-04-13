@@ -92,7 +92,7 @@ Spark AR Custom Instagram Filter for Hitech Crime.
 
 Connecting 30+ bluetooth headphones to one source for quiet rogue concert in public
 
-![](hitech-crime-distro.jpg)
+![](HC_DISTRO.jpg)
 
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
