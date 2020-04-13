@@ -6,7 +6,7 @@
 ```
 THE WEYLAND-YUTANI OF TRAP MUSIC 
 ```
-**Hitech Crime** is a cinematic narrative universe music microlabel being set in Helve AVR's dark moon transmedia metabrand system. It acts as a unified identity hub for creative and experimental audio projects.
+**Hitech Crime** is a **cinematic narrative universe transmedia music microlabel** being set in Helve AVR's **dark moon metabrand system**. It acts as a unified identity hub for creative and experimental audio projects.
 
 **Creative Aim**
 
