@@ -86,7 +86,7 @@ Gather user content: „respond with a photo or video of yourself doing the Hite
 ---
 
 
-![](HC_DISTRO.jpg)
+![](MICROLABEL_DISTRIBUTION.jpg)
 
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
