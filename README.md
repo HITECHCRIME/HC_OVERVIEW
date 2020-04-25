@@ -1309,6 +1309,15 @@ Purging bad progs with bass.
 INFJ album. 2 infjs collab "aye aye, go an extra mile with me and you reach the core"
 - songs based on INFJ character - intuition, feeling, judgement
 
+Some always need to be attending, somewhere,
+When I'm sitting here white reflecting in my eyes
+They need to prop their stance, 
+You see I got nothing to focus on in this room, perfect
+Now I can feel at peace, room temperature
+39 degrees and feeling heat
+This I N F J went from broke to skates
+dipped my toes In rage
+
 [cover] [type of album] [narrative? conceptual? abstract?]
 
 ### /// HC40_ | ICE7 EP  
