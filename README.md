@@ -104,6 +104,7 @@ RED (EMOTION - NEGATIVE) + WHITE (BALANCE - POSITIVE)
 - needs to work aesthetically with UI/UX
 - needs to have some sort of look to it as reference images
 - easily replicable
+- choose 3 MAIN BRAND FONTS
 
 ```
 NOTES
