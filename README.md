@@ -1917,11 +1917,26 @@ MOTHNODE_ Gematria EP
 https://en.wikipedia.org/wiki/Gematria
 
 MOTHNODE_ Knowledge of Writing
+
 MOTHNODE_ The Written
+
 MOTHNODE_ Mispar Hechrachi / Absolute Value
+
 MOTHNODE_ Mispar Ne'elam / Hidden Number
 
 ---
+
+MOTHNODE_ Loop EP
+
+MOTHNODE_ I. Think
+
+MOTHNODE_ II. Say
+
+MOTHNODE_ III. Do
+
+MOTHNODE_ IV. Behaviour
+
+MOTHNODE_ V. Identity
 
 Randomness:
 - MOTHNODE_ Qaravultomba
