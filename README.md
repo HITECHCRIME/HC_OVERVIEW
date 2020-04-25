@@ -1946,6 +1946,13 @@ MOTHNODE_ IV. Behaviour
 
 MOTHNODE_ V. Identity
 
+---
+
+MOTHNODE_ EUCLID EP
+Euclidean wormholes, micro black holes, stellar black holes https://shodhganga.inflibnet.ac.in/bitstream/10603/97452/13/13_chapter%205.pdf
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
