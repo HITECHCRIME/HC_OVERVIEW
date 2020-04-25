@@ -1913,6 +1913,14 @@ MOTHNODE_ Shaman's Chant
 
 ---
 
+MOTHNODE_ Gematria EP
+https://en.wikipedia.org/wiki/Gematria
+
+MOTHNODE_ Knowledge of Writing
+MOTHNODE_ The Written
+MOTHNODE_ Mispar Hechrachi / Absolute Value
+MOTHNODE_ Mispar Ne'elam / Hidden Number
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
