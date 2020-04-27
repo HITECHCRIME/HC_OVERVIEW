@@ -36,7 +36,8 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - negative emotions
 - depression / coping
 - addiction / cravings
-- spiritualism / shamanism
+- spiritualism / shamanism / synthetic nature
+- occult / mysticism
 - religion as a tool
 - consciousness / belief
 - human relationships
