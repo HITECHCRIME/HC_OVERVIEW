@@ -1962,6 +1962,8 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - MOTHNODE ---- Using Isochronic Tones in trap music?
 - Album about stories of freedom and change - to biggest things humans talk about (freedom - we believe in various ways we are imprisoned, change - loss of familiar - it's not about the change in ourselves usually, it's about "i want another character in my story to change")
 - MOTHNODE_ Good One-percenter (Ghost in the Shell reference)
+- MOTHNODE_ The Whisperer (tainted thoughts - Yu'Vath)
+- MOTHNODE_ Death of Integrity (Warhammer 40K reference?)
 
 # Content Types & Promo Methods
 
