@@ -22,6 +22,8 @@ Its *technical aim* is to research, develop and execute ideas in form of new wav
 
 **Themes**
 
+Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk).
+
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP - HITECH CRIME MYTHOS
 DARK CYBERPUNK/ALT-FUTURA CINEMATIC UNIVERSE / AUDIO FUTURA
