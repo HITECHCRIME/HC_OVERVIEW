@@ -52,6 +52,7 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - creative operations
 - rogue squads and operations
 - subversive methodologies
+- dark web society
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
 
