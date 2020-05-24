@@ -77,7 +77,17 @@ Gather user content: „respond with a photo or video of yourself doing the Hite
 
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
 
-**GENERAL*
+## LOGO LORE / MEANING
+
+```
+]|[
+```
+It was intended as a bold brutalist architecture symbol on its own, a timeless etching - it contains the initials letters of Hitech Crime. A symbol of stability and expansion, a "monument to the future", which is also the title of the first cinematic film set in the HC Universe.
+
+Hitech Crime in its basic form was supposed to be a near future alternative reality setting but it expanded a lot since then into cyberpunk as well. Planning possible enhancement of it in the future.
+
+
+## GENERAL
 
 RED (EMOTION - NEGATIVE) + WHITE (BALANCE - POSITIVE)
 
