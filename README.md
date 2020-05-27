@@ -33,6 +33,7 @@ DARKWAVE TRAP
 DARK CYBERPUNK
 ALT-FUTURA CINEMATIC UNIVERSE
 AUDIO FUTURA
+MANTRA-P
 ```
 
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
