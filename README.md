@@ -164,9 +164,13 @@ Hitech Crime and my core has always been going into the symbolism of triangles.
 
 > Path goes from bottom to top:
 
-🔺
-]|[
-🔻
+> 🔺 
+
+> ]|[
+
+> 🔻
+
+/// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
 
 
