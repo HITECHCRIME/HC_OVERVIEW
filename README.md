@@ -149,8 +149,10 @@ General
 # /// STORYWORLD [THE UNIVERSE]
 
 > I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all.
-My self-development system Dopamine Trails talks about reaching your "core self" and talks about getting rid of negative dopamine triggers. It is the origin of all these metabrands but here is a way it ties into the universe of Hitech Crime with its purpose to make people realize the existence of their own core self through transformation of negative emotions into something productive.
-Hitech Crime and my core has always been going into the symbolism of triangles.
+
+> The self-development system I created called Dopamine Trails talks about reaching your "core self" and talks about getting rid of negative dopamine triggers to reach it. That system is the origin of all these metabrands (Helve AVR, Hitech Crime and Kannibal). Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive (a prison for negative thoughts and emotions).
+
+> Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric meaning it is fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
 
 > Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
 
