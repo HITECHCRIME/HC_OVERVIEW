@@ -2026,6 +2026,78 @@ Euclidean wormholes, micro black holes, stellar black holes https://shodhganga.i
 
 ---
 
+MOTHNODE_ Priorities EP
+
+Looping album:
+
+- MOTHNODE_ Future/Spirit (Ascent)
+- MOTHNODE_ Past/Mind (Descent)
+- MOTHNODE_ Present/Body (Descent)
+
+---
+
+MOTHNODE_ Power of Shapes EP
+
+---
+
+MOTHNODE_ (non)aristotelian EP
+
+Artistotelian logic - binary true/false. Good evil. Real not real. 2 parts
+
+Non-Aristotelian logic has 7 parts:
+
+true / false / unknown / true and false / true and unknown / true and false and unknown / false and unknown
+
+Shroedingers Cat conundrum
+
+- MOTHNODE_ True
+- MOTHNODE_ False
+- MOTHNODE_ Unknown
+- MOTHNODE_ True + False
+- MOTHNODE_ True + Unknown
+- MOTHNODE_ True + False + Unknown
+- MOTHNODE_ False + Unknown
+
+---
+
+MOTHNODE_ Vav EP
+
+6th letter of Hebrew, Vav - binds 2 concepts together, hook/nail depending on the translation. 6th day of creation.
+
+Yesod (creation of first man, Adam) - The Foundation
+
+Malkuth (plane of manifest objective reality) - The Kingdom
+
+Upper Sepphirah - Higher Consciousness
+
+---
+
+MOTHNODE_ Hierophant EP
+
+Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
+
+- MOTHNODE_ Corrupted
+- MOTHNODE_ Inverted Hierophant
+- MOTHNODE_ Dogma
+- MOTHNODE_ Peak Rotation (peaks of triangles)
+
+"We must always question those who speak on behalf of others" - trust but verify
+
+---
+
+MOTHNODE_ Return of the Woman
+
+---
+
+MOTHNODE_ Indeterminate Reality / Hyperreality / Seeing all realities at once
+
+---
+
+MOTHNODE_ A Song For the Others
+
+---
+
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
