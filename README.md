@@ -67,6 +67,8 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 
 ## /// STORYWORLD [THE UNIVERSE]
 
+![](meaning-of-hitech-crime.png)
+
 ### The Meaning_
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
