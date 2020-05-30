@@ -6,6 +6,18 @@
 ```
 THE WEYLAND-YUTANI OF TRAP MUSIC / CYBERPUNK 2077 FOR MUSIC / DARKWAVE TRAP
 ```
+```
+MINIMAL FUTURA AGGRO TRAP 
+CHANTRAP 
+FUTURAP 
+HITECH CRIME MYTHOS
+DARKWAVE TRAP
+DARK CYBERPUNK
+ALT-FUTURA CINEMATIC UNIVERSE
+AUDIO FUTURA
+MANTRA-P
+```
+
 **Hitech Crime** is a **cinematic narrative universe transmedia music microlabel** being set in [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system**. It acts as a unified identity hub for creative and experimental audio projects. It exists both in the fictional universe as well as in reality.
 
 **Creative Aim**
@@ -27,18 +39,6 @@ Be a helping hand for people to reach their own fulfillment by discovering their
 **Themes**
 
 Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
-
-```
-MINIMAL FUTURA AGGRO TRAP 
-CHANTRAP 
-FUTURAP 
-HITECH CRIME MYTHOS
-DARKWAVE TRAP
-DARK CYBERPUNK
-ALT-FUTURA CINEMATIC UNIVERSE
-AUDIO FUTURA
-MANTRA-P
-```
 
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
 - psychology / human psyche
