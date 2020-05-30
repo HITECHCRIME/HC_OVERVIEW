@@ -148,25 +148,37 @@ General
 
 # /// STORYWORLD [THE UNIVERSE]
 
-> I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all. The self-development system I created called Dopamine Trails talks about reaching your "core self" and talks about getting rid of negative dopamine triggers to reach it. That system is the origin of all these metabrands (Helve AVR, Hitech Crime and Kannibal). Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive (a prison for negative thoughts and emotions).
+## THE MEANING
 
-> Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric meaning it is fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
+I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all.
 
-> Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). 
+The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of myself (Helve AVR, Hitech Crime and Kannibal). 
 
-> This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
+Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
 
-> Downward triangle - Past/Mind and Present/Body being the top two points of priorities for a person. The descent into corporeal, degrading human. 
+Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric sense I identify as fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
 
-> This one also signifies the Inverted Hierophant in Tarot: corrupted by dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order it is described as feminine. 
+### Upward Triangle
 
-> INVERTED HIEROPHANTS are our thoughts and emotions - easily influenced and solidified into bad patterns.
+Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). 
 
-> The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. The core self of our person exists within the upright triangle acting as a self-guiding force - that is the goal. Think of it as an upward triangle with a dot in it as the symbol. 
+This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
 
-> Now... how this ties into the Hitech Crime as a universe and as a semi-fictional organization/agency within that universe.
+### Downward Triangle
 
-> Hitech Crime acts as a link/helping hand towards reaching the core self. It has a goal of guiding people from downward triangle to the upward one. Since we are going with the delicate sci-fi cyberpunk theme The Core could possible be the unifying "cyber"-space that we can all tap into. Outer consciousness, collective consciousness of the virtualized world.
+Downward triangle - Past/Mind and Present/Body being the top two points of priorities for a person. The descent into corporeal, degrading human. 
+
+This one also signifies the Inverted Hierophant in Tarot: corrupted by dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order it is described as feminine. 
+
+INVERTED HIEROPHANTS are our thoughts and emotions - easily influenced and solidified into bad patterns.
+
+The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. The core self of our person exists within the upright triangle acting as a self-guiding force - that is the goal. Think of it as an upward triangle with a dot in it as the symbol. 
+
+Now... how this ties into the Hitech Crime as a universe and as a semi-fictional organization/agency within that universe.
+
+Hitech Crime acts as a link/helping hand towards reaching the core self. It has a goal of guiding people from downward triangle to the upward one. Since we are going with the delicate sci-fi cyberpunk theme The Core could possible be the unifying "cyber"-space that we can all tap into. Outer consciousness, collective consciousness of the virtualized world.
+
+### The Path To The Top
 
 > Path goes from bottom to top:
 
