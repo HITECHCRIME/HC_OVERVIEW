@@ -76,14 +76,14 @@ Hitech Crime and my core self has always been going into the symbolism of triang
 
 Here is a way the triangles tie into the universe of Hitech Crime with its main purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
 
-### Upward Triangle_
+### Upward Triangle_ [🔺]
 Imagine an Upward Triangle. (Future/Spirit) as the priority at the top, (Past/Mind) and (Present/Body) at the bottom corners - that symbol as a whole signifies the ascent into divine realm of rational (getting rid of unnecessary dopamine triggers in life). 
 
 This attaches easily to the concept of Upright Hierophant from Tarot: he's a translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way - to reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. In the old order Upward Triangle is described as masculine.
 
 Upright Hierophants are our self-analyzed core drives guiding us to where we truly want to be - hardly influenced, promoting positive reinforcement of the main goals.
 
-### Downward Triangle_
+### Downward Triangle_ [🔻]
 Now imagine a Downward Triangle - (Past/Mind) and (Present/Body) being the top two points of priorities for a person. (Future/Spirit) at the bottom. The descent into corporeal, degrading and torn human. 
 
 This one signifies the Inverted Hierophant in Tarot: corrupted by negative dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order Downward Triangle is described as feminine. 
