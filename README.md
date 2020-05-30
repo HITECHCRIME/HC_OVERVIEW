@@ -65,29 +65,7 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - subversive methodologies
 - dark web society
 
-Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
-
-Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
-
-What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
-
----
-
-Think of Hitech Crime metabrand dark trap microlabel as a virtual city or a digital experience where you join your friends and new acquaintances in experiencing and actively interacting with an entire semi-fictional cinematic and gamified universe. It has its own characters, places, events, puzzles, its own lore and can almost feel like a live realtime game taking place both online and in real life as new chapters, timelines, themes are released to consume. You are invited to collaborate with the creators (operatives) themselves and be part of an endless fictional story filled with mysteries.
-
----
-
-RED band as the late-realized inspiration for narrative Hitech Crime stories
-
----
-
-Creating engaging content (in my case semi-fictional universes with story arcs and narratives for each of the 3 brands) that pulls in the audience seemingly to give them entertainment but throughout the process it starts to deliver important and thought-provoking concepts. Transmedia storytelling and gamification of the story depending on the brand. Microlabel is more of a cinematic storytelling (music albums hybridized with interactive installations and short films) while techwear clothing brand Kannibal has a cinematic narrative universe that is constructed and is an excuse to showcase future potential of technology to badly influence societies. It is like reverse engineering escapism and making people self-aware and fully conscious of their choices.
-
-Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
-
-![](MICROLABEL_DISTRIBUTION.jpg)
-
-# /// STORYWORLD [THE UNIVERSE]
+# STORYWORLD [THE UNIVERSE]
 
 ## The Meaning
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
@@ -131,6 +109,29 @@ Path goes from bottom to top:
 /// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES
+
+Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
+
+Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
+
+What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
+
+---
+
+Think of Hitech Crime metabrand dark trap microlabel as a virtual city or a digital experience where you join your friends and new acquaintances in experiencing and actively interacting with an entire semi-fictional cinematic and gamified universe. It has its own characters, places, events, puzzles, its own lore and can almost feel like a live realtime game taking place both online and in real life as new chapters, timelines, themes are released to consume. You are invited to collaborate with the creators (operatives) themselves and be part of an endless fictional story filled with mysteries.
+
+---
+
+RED band as the late-realized inspiration for narrative Hitech Crime stories
+
+---
+
+Creating engaging content (in my case semi-fictional universes with story arcs and narratives for each of the 3 brands) that pulls in the audience seemingly to give them entertainment but throughout the process it starts to deliver important and thought-provoking concepts. Transmedia storytelling and gamification of the story depending on the brand. Microlabel is more of a cinematic storytelling (music albums hybridized with interactive installations and short films) while techwear clothing brand Kannibal has a cinematic narrative universe that is constructed and is an excuse to showcase future potential of technology to badly influence societies. It is like reverse engineering escapism and making people self-aware and fully conscious of their choices.
+
+Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
+
+![](MICROLABEL_DISTRIBUTION.jpg)
+
 
 ## LOGO LORE / MEANING
 
