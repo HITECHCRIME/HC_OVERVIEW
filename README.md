@@ -148,9 +148,7 @@ General
 
 # /// STORYWORLD [THE UNIVERSE]
 
-> I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all.
-
-> The self-development system I created called Dopamine Trails talks about reaching your "core self" and talks about getting rid of negative dopamine triggers to reach it. That system is the origin of all these metabrands (Helve AVR, Hitech Crime and Kannibal). Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive (a prison for negative thoughts and emotions).
+> I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all. The self-development system I created called Dopamine Trails talks about reaching your "core self" and talks about getting rid of negative dopamine triggers to reach it. That system is the origin of all these metabrands (Helve AVR, Hitech Crime and Kannibal). Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive (a prison for negative thoughts and emotions).
 
 > Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric meaning it is fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
 
