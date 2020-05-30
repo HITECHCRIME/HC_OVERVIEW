@@ -150,19 +150,19 @@ General
 
 ## THE MEANING
 
-I had the most profound realization last night. Perhaps the base foundation for all Hitech Crime lore / universe / meaning of it all.
+I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
-The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of myself (Helve AVR, Hitech Crime and Kannibal). 
+The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of myself (Helve AVR, Hitech Crime and Kannibal). They wouldn't be here if I wouldn't self-analyze myself to such extent.
 
-Here is a way it ties into the universe of Hitech Crime with its purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
+Here is a way it ties into the universe of Hitech Crime with its main purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
 
-Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric sense I identify as fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
+Hitech Crime and my core self has always been going into the symbolism of triangles in a conceptual sense. In esoteric sense it identifies as fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well.
 
 ### Upward Triangle
 
 Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). 
 
-This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
+This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. In the old order it is described as masculine.
 
 ### Downward Triangle
 
@@ -190,7 +190,9 @@ Hitech Crime acts as a link/helping hand towards reaching the core self. It has 
 
 /// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
+To access the Core in the fictional universe one could have an implant at the back of their head with a symbol of Hitech Crime and when accessing it the left and right side of the logo would slide horizontally locking in the mode.
 
+Animation spanning all albums - inverting of the triangle.
 
 I'm testing a structure for a first "pilot episode" single release called "TRIBE": https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
 
