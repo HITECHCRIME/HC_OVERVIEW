@@ -181,7 +181,7 @@ The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant 
 Think of Core Self as an Upward Triangle with a dot in it as the symbol. 
 
 ### Hitech Crime Being The Link Between Two States
-Now how this ties into the Hitech Crime in terms of the universe we are creating as a microlabel. Remember that Hitech Crime is a semi-fictional organization/agency within that universe. It acts as a link/helping hand towards reaching the core self for others. It has a goal of guiding people from Downward Triangle to the Upward Triangle by subversive means. 
+Now how this ties into the Hitech Crime in terms of the universe we are creating as a microlabel. Remember that Hitech Crime is a semi-fictional organization/agency within that universe. It acts as a link/helping hand towards reaching the core self for others. It has a goal of guiding people from Downward Triangle to the Upward Triangle by traditional and subversive means. It aims at least to balance the triangles for people.
 
 Since we are going with the delicate sci-fi cyberpunk theme - the core self could be made to mean the unifying metaphysical space that we can all tap into. Inner consciousness in a bigger collective consciousness of the virtualized world.
 
