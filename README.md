@@ -152,13 +152,19 @@ General
 
 > Hitech Crime and my core has always been going into the symbolism of triangles. In esoteric meaning it is fire within fire, endless creation, endless sustenance, self-sustaining order within the chaos of life.
 
-> Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
+> Upward triangle - Future/Spirit as the priority at the top, Past/Mind and Present/Body at the bottom - signifying the ascent into divine realm of rational (getting rid of unnecessary elements in life). 
 
-> Downward triangle - Past/Mind and Present/Body being the top two points of priorities for a person. The descent into corporeal, degrading human. This one also signifies the Inverted Hierophant in Tarot: corrupted by dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order it is described as feminine. INVERTED HIEROPHANTS are our thoughts and emotions - easily influenced and solidified.
+> This attaches to the concept of Upright Hierophant from Tarot: translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way. To reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. This can get as esoteric and occult as we want  but it seems to make sense in its basic symbolism as well. In the old order it is described as masculine.
+
+> Downward triangle - Past/Mind and Present/Body being the top two points of priorities for a person. The descent into corporeal, degrading human. 
+
+> This one also signifies the Inverted Hierophant in Tarot: corrupted by dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order it is described as feminine. 
+
+> INVERTED HIEROPHANTS are our thoughts and emotions - easily influenced and solidified into bad patterns.
 
 > The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. The core self of our person exists within the upright triangle acting as a self-guiding force - that is the goal. Think of it as an upward triangle with a dot in it as the symbol. 
 
-> Now... how this ties into the Hitech Crime as a universe and as a semi-fictional organization/agency within that unvierse.
+> Now... how this ties into the Hitech Crime as a universe and as a semi-fictional organization/agency within that universe.
 
 > Hitech Crime acts as a link/helping hand towards reaching the core self. It has a goal of guiding people from downward triangle to the upward one. Since we are going with the delicate sci-fi cyberpunk theme The Core could possible be the unifying "cyber"-space that we can all tap into. Outer consciousness, collective consciousness of the virtualized world.
 
