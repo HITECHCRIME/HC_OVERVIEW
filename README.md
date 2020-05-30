@@ -17,10 +17,10 @@ ALT-FUTURA CINEMATIC UNIVERSE
 AUDIO FUTURA
 MANTRA-P
 ```
-## Introduction
+## /// Introduction_
 **Hitech Crime** is a **cinematic narrative universe transmedia music microlabel** being set in [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system**. It acts as a unified identity hub for creative and experimental audio projects. It exists both in the fictional universe as well as in reality.
 
-**Creative Aim**
+### Creative Aim_
 
 Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. 
 
@@ -28,15 +28,15 @@ It presents a path of progress and understanding through narrative story arcs to
 
 I used it as a tool to understand and express past and present suffering and discover the sense of self through various endeavours. 
 
-**Technical Aim**
+### Technical Aim_
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
-**Metaphysical Aim**
+### Metaphysical Aim_
 
 Be a helping hand for people to reach their own fulfillment by discovering their core self and core drives, to help them become a better version of themselves. Later described in The Storyworld section of the repository.
 
-**Themes**
+### Themes_
 
 Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
 
@@ -65,9 +65,9 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - subversive methodologies
 - dark web society
 
-# STORYWORLD [THE UNIVERSE]
+## /// STORYWORLD [THE UNIVERSE]
 
-## The Meaning
+### The Meaning_
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
 The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of different parts of my character (Helve AVR, Hitech Crime and Kannibal). They wouldn't be here if I wouldn't self-analyze myself to such extent.
@@ -76,31 +76,31 @@ Hitech Crime and my core self has always been going into the symbolism of triang
 
 Here is a way the triangles tie into the universe of Hitech Crime with its main purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
 
-### Upward Triangle
+### Upward Triangle_
 Imagine an Upward Triangle. (Future/Spirit) as the priority at the top, (Past/Mind) and (Present/Body) at the bottom corners - that symbol as a whole signifies the ascent into divine realm of rational (getting rid of unnecessary dopamine triggers in life). 
 
 This attaches easily to the concept of Upright Hierophant from Tarot: he's a translator between higher consciousness and mankind, spiritual guidance, knowledge-giver. This is what we are striving for in a way - to reach the Upright Hierophant in a more or less metaphysical way or unlock him within us by self-realizing our own needs and goals in life. In the old order Upward Triangle is described as masculine.
 
 Upright Hierophants are our self-analyzed core drives guiding us to where we truly want to be - hardly influenced, promoting positive reinforcement of the main goals.
 
-### Downward Triangle
+### Downward Triangle_
 Now imagine a Downward Triangle - (Past/Mind) and (Present/Body) being the top two points of priorities for a person. (Future/Spirit) at the bottom. The descent into corporeal, degrading and torn human. 
 
 This one signifies the Inverted Hierophant in Tarot: corrupted by negative dopamine, spreading dogmatic teachings, indoctrinating, promoting inflexible thinking (being drawn to the same things over and over - addiction). In the old order Downward Triangle is described as feminine. 
 
 Invereted Hierophants are our thoughts and emotions - easily influenced and solidified into bad patterns.
 
-### Core Self guided with the Upward Triangle
+### Core Self guided with the Upward Triangle_
 The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. Establishing the core self of our person existing within the Upright Triangle to act as a self-guiding force - that is the goal of life as well as the main core drive for Hitech Crime, which is establishing a world for transformation of self, transformation of negative thinking and emotions into productive patterns. 
 
 Think of Core Self as an Upward Triangle with a dot in it as the symbol. 
 
-### Hitech Crime Being The Link Between Two States
+### Hitech Crime Being The Link Between Two States_
 Now how this ties into the Hitech Crime in terms of the universe we are creating as a microlabel. Remember that Hitech Crime is a semi-fictional organization/agency within that universe. It acts as a link/helping hand towards reaching the core self for others. It has a goal of guiding people from Downward Triangle to the Upward Triangle by traditional and subversive means. It aims at least to balance the triangles for people.
 
 Since we are going with the delicate sci-fi cyberpunk theme - the core self could be made to mean the unifying metaphysical space that we can all tap into. Inner consciousness in a bigger collective consciousness of the virtualized world.
 
-### The Path To The Top
+### The Path To The Top_
 Path goes from bottom to top:
 🔺 
 ]|[
@@ -108,7 +108,7 @@ Path goes from bottom to top:
 
 /// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
-# /// VISUAL COMMUNICATION OF THE BRAND NOTES
+## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
 
