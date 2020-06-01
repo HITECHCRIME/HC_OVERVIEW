@@ -1714,6 +1714,9 @@ REPOSITORY FOR THE FULL TRANSMEDIA RELEASE: https://github.com/HITECHCRIME/HC_SG
 in:exhale collab? sweet custom beats, bass soundscapes <3
 
 ## /// HC73_ | 'IDX-517' EP /// BRUTALIST FUTURA AUDIOVISUAL SINGLE/EP
+![](idx517_front.png)
+![](idx517_back.png)
+
 Album + Simple Visual Game To Unlock The Hitech Crime team member + Short Film + Snippets (Sufferosa style). One of the inmates is undercover HC agent. 
 
 - MOTHNODE_ Intercept (Intro) Cinematic, receiving distress signal from a distant beacon, decyphering, locking signal to track. Communication, cinematic ambience and radio comms, lore setup/situation setup.
