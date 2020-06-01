@@ -110,6 +110,14 @@ Path goes from bottom to top:
 
 /// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
+## /// TIMELINES
+
+### NEARSIGHT Timeline
+Alt futura, near future society in the process of changing due to technological advancement. Minimal tech present, gentle hitech themes, similar to present society but a tiny bit more advanced.
+
+### DISTANT Timeline
+Proper Cyberpunk 2077 vibes. Distant future dystopia.
+
 ## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
