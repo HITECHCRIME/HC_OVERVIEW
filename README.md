@@ -118,6 +118,9 @@ Alt futura, near future society in the process of changing due to technological 
 ### DISTANT Timeline
 Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
+### HYBRID Timeline
+Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
+
 ## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
