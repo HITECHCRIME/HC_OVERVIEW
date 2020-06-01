@@ -1713,6 +1713,61 @@ REPOSITORY FOR THE FULL TRANSMEDIA RELEASE: https://github.com/HITECHCRIME/HC_SG
 ## /// HC72_ | 'Exale' EP (TEST NARRATIVE UNIVERSE ALBUM) album + surround material
 in:exhale collab? sweet custom beats, bass soundscapes <3
 
+## /// HC73_ | 'IDX-517' EP /// BRUTALIST FUTURA AUDIOVISUAL SINGLE/EP
+Album + Simple Visual Game To Unlock The Hitech Crime team member + Short Film + Snippets (Sufferosa style). One of the inmates is undercover HC agent. 
+
+- MOTHNODE_ Intercept (Intro) Cinematic, receiving distress signal from a distant beacon, decyphering, locking signal to track. Communication, cinematic ambience and radio comms, lore setup/situation setup.
+- MOTHNODE_ X (Communication Song, Planning the Escape)
+- MOTHNODE_ Modular Riot (feat. Downwxlf) (slow beatdown trap type of beat, rolling, heavy but with space'y enviros, bass darkness)
+- MOTHNODE_ Beam Shifters (ties into the mini-game from QR code, escape and transfer of the Agent)
+- MOTHNODE_ Outro (cinematic outro)
+
+Potential help: @objectclasseuclxd
+
+> sort of but it will exist in hitech, the only way I could really fit DownWxlf into your world, how I feel about it at least. Like a dystopian space viking
+
+> Yeah I love that man, it feels good - the universe will be shifting quite a bit some time soon as I will be nailing down the actual vibe. It has space for both alt-futura, near-future advanced tech society (like minimal cyberpunk) and then it has the more distant future - proper cyberpunk where dystopian space vikings sits perfectly :smile: I will be exploring these 2 "timelines"
+
+> Yeah I wanted something that could fit in either timeline. Like downwxlf isnt human, he was once. Hes from this age, and the way he fits into those timelines is hes gotten modified. Kinda like the day dreams about my future if that makes sense. So in the minimal age, he'd be old and modified for longevity, prolly actually die at some point and be reborn. I been really going down that path I have imagery in my head for days
+
+> Operative DownWxlf Mentally unstable so he got removed from active duty and you lose track of him. Then he sends out a distress beacon because he is an antihero and has go involved in some sort of revolution fighting and is stubborn so waits until the last minute to call for help. They hit him with a direct blast from an EMP cannon and assume hes dead. When you find him scavengers are stripping some of his tech, but you can still sense brain activity. And somehow he survives. 
+
+>  Awesome, that's a great perspective. The timelines will in the end flow into each other as the the near-future advances. Oh cool, perhaps in the beginning in the near-future timeline he was still human/or at least the trigger point is shown (the moment of change I mean)? Then as you describe at some point in the arc of the character and the time of the universe something happened. Gives me vibe of like a grim version of Agents of Shield, which is also a way I used to describe in the beginning how Hitech Crime might feel. The process of change from one state to another, "the becoming" as put by Guattari and Deleuze in their book about rhizome (Capitalism and Schizophrenia: A Thousand Plateaus - philosophy book, really my own bible of abstract thinking)
+
+> I mean its constantly evolving but yes at some point he has passed a point of his humanity and has become something more. Super anti hero vibes. A wanderer. Helping those in need. I have the concepts in my mind. A lot of refurbished old world tech. Like first model tech, stuff he has found of scavenged. Someone may even "find" him and bring him back, very utilitarian. Not very flashy. Things just got intimidation. More of a raider vibe, actually the raiders from fall out 4 would be a good example, but mix in some futuristic tech, and the mask would prolly turn into something of necessity.
+
+> I'm feeling this :slight_smile: I'm still trying to figure out if all major characters of HC are somehow connected to Hitech Crime as a fictional organization filled with Operatives (it's like a subversive covert "agency"/org). The shadow movement :wink:
+
+> Like yall found me imprisoned. Because downwxlf is a wanderer, loner
+
+> I mean like in the DX-517 was it? the album with space containment chambers where we "locate" a missing Operative and try to take him back.  Aye, remote operator 
+
+> Maybe y'all brought me back. Gonna have a metal jaw actually fused to mine in the concept art. Lost due to cancer, so when that happened I chose the black market route
+
+>  There is definitely a good opportunity to figure out a backstory of how an Operative ended up imprisoned. Could be some physical stuff/crime accusations, could be  political imprisonment or some other intrigue.
+
+> Imagine cable but more feral, I think you feel the vibe
+
+>  the DX-517 element of the story is quite a bit into the future, for now I'm thinking broad strokes
+
+> Yeah downwxlf would def be involved in some resistance esque fighting. At the point you find him is he heavily modified or just basic. I'm trying to think how he gets overwhelmed and captured.
+
+>  I think already modified suits it, especially that there is a point where he is the one who instigates riot (the riot song) to help Operatives from external source to contact him and help him escape
+
+> Which explains the old world tech. He was one of the first to embrace it because of the power potential. And instead of fully refitting himself hes more retrofit and just maintains it. Which gives him the appearance of being large and intimidating which is why he kept the old world tech. Because the newer stuff is more streamlined
+
+> As a metaphor it might be his shell that protects him from the world. He doesn't want to let go of the protection. this sounds exactly like I envisioned it initially with the whole thing - "Marvel Universe of Dark Trap" haha
+
+> And as he moves on, he just adds to it, as hes wounded. He dies at one point, and that's where powered by old gods comes in. It will flesh itself out. And tbh if there were implants available rn I'd be first in line, that's why it makes sense to me. It's just me exaggerated and in different universes
+
+> Mentally unstable so he got removed from active duty and you lose track of him. Then he sends out a distress beacon because he is an antihero and has go involved in some sort of revolution fighting and is stubborn so waits until the last minute to call for help. They hit him with a direct blast from an EMP cannon and assume hes dead. When you find him scavengers are stripping some of his tech, but you can still sense brain activity. And somehow he survives.
+
+> Needless to say hes grateful and bitter, and a perfect weapon for HC to aim and use. Thru his gratitude he is loyal. And after the incident some refurbished tech and retrofitted tech is added to keep him alive (I know it's been done before dont care) his kidneys and liver no longer work, due to past drug and alcohol abuse as well as all the pills needed for his tech and to fight the infection of foreign metals added to his body.
+
+>  I think that's a pretty good backstory and is kinda true to me (I'm clean and sober now) etc. And theres alot I can play with. I need to make some concept art, I have it in my head
+
+---
+
 # SONG & ALBUM IDEAS
 - idea make a synthetic language to sing/rap in
 - EP where each song is basically an episode of a web series (this could slowly turn into a trap musical narrative haha)
