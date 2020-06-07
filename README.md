@@ -9,11 +9,21 @@ THE WEYLAND-YUTANI OF TRAP MUSIC / CYBERPUNK 2077 FOR MUSIC / DARKWAVE TRAP
 ```
 MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE TRAP / DARK CYBERPUNK / ALT-FUTURA CINEMATIC UNIVERSE / AUDIO FUTURA / MANTRA-P
 ```
-1. INTRODUCTION TO THE WORLD OF HITECH CRIME_
-2. STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
+1. [INTRODUCTION TO THE WORLD OF HITECH CRIME_](#intro)
+       1.1 CREATIVE AIM_
+       1.2 TECHNICAL AIM_
+       1.3 METAPHYSICAL AIM_
+       1.4 THEMES_
+       
+2. [STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_](#storyworld)
+       2.1
+       2.2
+       2.3
+       2.4
 3.
 4.
 
+<a name="intro"></a>
 ## /// INTRODUCTION TO THE WORLD OF HITECH CRIME_
 **Hitech Crime** is a *cinematic narrative universe transmedia music microlabel* created as a proof of a concept by [Helve AVR](https://github.com/HELVE/H_OVERVIEW) rogue high technology creative agency's **dark moon metabrand system** . 
 
@@ -68,6 +78,7 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - subversive methodologies
 - dark web society
 
+<a name="storyworld"></a>
 ## /// STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
 ![](meaning-of-hitech-crime.png)
