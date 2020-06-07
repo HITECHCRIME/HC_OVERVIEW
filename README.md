@@ -11,23 +11,23 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 ```
 1. [INTRODUCTION TO THE WORLD OF HITECH CRIME_](#intro)
 
-       1.1 CREATIVE AIM_
+      1.1 [CREATIVE AIM_](#creativeaim)
        
-       1.2 TECHNICAL AIM_
+      1.2 [TECHNICAL AIM_](#technicalaim)
        
-       1.3 METAPHYSICAL AIM_
+      1.3 [METAPHYSICAL AIM_](#metaphysicalaim)
        
-       1.4 THEMES_
+      1.4 [THEMES_](#themes)
        
 2. [STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_](#storyworld)
 
-       2.1
+      2.1
        
-       2.2
+      2.2
        
-       2.3
+      2.3
        
-       2.4
+      2.4
 3.
 4.
 
@@ -41,6 +41,7 @@ Microlabel's projects are set in the Hitech Crime universe and exists both in th
 
 > You are not building a business, you are building a cult. The most important are the people and the product.
 
+<a name="creativeaim"></a>
 ### Creative Aim_
 
 Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. 
@@ -49,14 +50,17 @@ It presents a path of progress and understanding through narrative story arcs to
 
 I used it as a tool to understand and express past and present suffering and discover the sense of self through various endeavours. 
 
+<a name="technicalaim"></a>
 ### Technical Aim_
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
+<a name="metaphysicalaim"></a>
 ### Metaphysical Aim_
 
 Be a helping hand for people to reach their own fulfillment by discovering their core self and core drives, to help them become a better version of themselves. Later described in The Storyworld section of the repository.
 
+<a name="themes"></a>
 ### Themes_
 
 Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
