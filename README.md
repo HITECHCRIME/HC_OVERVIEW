@@ -21,13 +21,23 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
        
 2. [STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_](#storyworld)
 
-      2.1
-       
-      2.2
+      2.1 THE MEANING
+
+      2.2 TIMELINES
+      
+      - THE ORIGIN TIMELINE (2 years of testing the concept, small release package tests)
+      
+      - NEARSIGHT TIMELINE (initial official launch)
+          
+      - DISTANT TIMELINE (advanced launch)
+          
+      - HYBRID TIMELINE (continuous ever-expanding side timeline with collaborations with other Operatives)
        
       2.3
        
       2.4
+       
+      2.5
 3.
 4.
 
