@@ -17,6 +17,14 @@ ALT-FUTURA CINEMATIC UNIVERSE
 AUDIO FUTURA
 MANTRA-P
 ```
+## /// BASIC ENTRY POINTS_ (make an icon grid)
+
+UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TIKTOK / FACEBOOK
+
+### /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
+
+DISCORD / TWITCH 
+
 ## /// Introduction_
 **Hitech Crime** is a **cinematic narrative universe transmedia music microlabel** being set in [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system**. It acts as a unified identity hub for creative and experimental audio projects. It exists both in the fictional universe as well as in reality.
 
