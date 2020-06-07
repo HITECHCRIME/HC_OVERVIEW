@@ -214,6 +214,10 @@ General
 
 ```
 
+AUDIO AMBIENCE_ 2814 : Rain Temple https://www.youtube.com/watch?v=7eRf__n7VPg
+
+２８１４ - 新しい日の誕生/Birth of a New Day (Full Album) [HD] https://www.youtube.com/watch?v=F9L4q-0Pi4E
+
 To access the Core in the fictional universe one could have an implant at the back of their head with a symbol of Hitech Crime and when accessing it the left and right side of the logo would slide horizontally locking in the mode.
 
 Animation spanning all albums - inverting of the triangle.
