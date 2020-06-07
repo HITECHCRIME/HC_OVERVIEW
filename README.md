@@ -25,7 +25,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
       2.2 TIMELINES
       
-      - THE ORIGIN TIMELINE (2 years of testing the concept, small release package tests)
+      - THE ORIGIN TIMELINE (past 2+ years of testing the concept, 1 year into the future of small release package tests)
       
       - NEARSIGHT TIMELINE (initial official launch)
           
