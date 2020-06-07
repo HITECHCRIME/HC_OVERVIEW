@@ -63,7 +63,7 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - subversive methodologies
 - dark web society
 
-## /// STORYWORLD [THE UNIVERSE]
+## /// STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
 ![](meaning-of-hitech-crime.png)
 
