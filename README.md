@@ -26,7 +26,7 @@ UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TI
 DISCORD / TWITCH 
 
 ## /// Introduction_
-**Hitech Crime** is a **Cinematic Narrative Universe Transmedia Music Microlabel** being created within the [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system** as a proof of a concept. It plays the role of a testing ground for the new wave experimental transmedia communication and creative expression aimed for by the creative agency. Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, breaching the 4th wall and bringing its audience closer than ever before.
+**Hitech Crime** is a *cinematic narrative universe transmedia music microlabel* created with [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system** as a proof of a concept for future business opportunities. It plays the role of a testing ground for the new wave experimental transmedia communication and creative expression aimed for by the creative agency. Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, breaching the 4th wall and bringing its audience closer than ever before.
 
 > You are not building a business, you are building a cult. The most important are the people and the product.
 
