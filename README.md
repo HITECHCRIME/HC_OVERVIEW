@@ -7,26 +7,10 @@
 THE WEYLAND-YUTANI OF TRAP MUSIC / CYBERPUNK 2077 FOR MUSIC / DARKWAVE TRAP
 ```
 ```
-MINIMAL FUTURA AGGRO TRAP 
-CHANTRAP 
-FUTURAP 
-HITECH CRIME MYTHOS
-DARKWAVE TRAP
-DARK CYBERPUNK
-ALT-FUTURA CINEMATIC UNIVERSE
-AUDIO FUTURA
-MANTRA-P
+MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE TRAP / DARK CYBERPUNK / ALT-FUTURA CINEMATIC UNIVERSE / AUDIO FUTURA / MANTRA-P
 ```
-## /// BASIC ENTRY POINTS_ (make an icon grid)
-
-UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TIKTOK / FACEBOOK
-
-## /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
-
-DISCORD / TWITCH 
-
-## /// Introduction_
-**Hitech Crime** is a *cinematic narrative universe transmedia music microlabel* created with [Helve AVR](https://github.com/HELVE/H_OVERVIEW)'s **dark moon metabrand system** as a proof of a concept. 
+## /// INTRODUCTION TO THE WORLD OF HITECH CRIME_
+**Hitech Crime** is a *cinematic narrative universe transmedia music microlabel* created as a proof of a concept by [Helve AVR](https://github.com/HELVE/H_OVERVIEW) rogue high technology creative agency's **dark moon metabrand system** . 
 
 It plays the role of a testing ground for the new wave experimental transmedia communication and creative expression aimed for by the creative agency. 
 
@@ -136,6 +120,14 @@ Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
 ### HYBRID Timeline
 Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
+
+## /// BASIC ENTRY POINTS_ (make an icon grid)
+
+UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TIKTOK / FACEBOOK
+
+## /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
+
+DISCORD / TWITCH 
 
 ## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
