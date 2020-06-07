@@ -114,6 +114,8 @@ This one signifies the Inverted Hierophant in Tarot: corrupted by negative dopam
 
 Invereted Hierophants are our thoughts and emotions - easily influenced and solidified into bad patterns.
 
+![](szymon-hendzel-fanart.jpg)
+
 ### Core Self guided with the Upward Triangle_
 The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. Establishing the core self of our person existing within the Upright Triangle to act as a self-guiding force - that is the goal of life as well as the main core drive for Hitech Crime, which is establishing a world for transformation of self, transformation of negative thinking and emotions into productive patterns. 
 
