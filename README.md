@@ -110,6 +110,8 @@ Path goes from bottom to top:
 
 /// DIRECTOR OPERATIVE MOTHNODE / 30052020
 
+> The point with Hitech Crime is to see the corruption of the perceived oneness, call it out and purge in order to reunite with self. In a more of a tarot vibe - HC is the upright hierophant in its intent and the aim is to draw light to the inverted hierophant, the corruptor so it gets recognized. This way HC connects with Dopamine Trails system which lies at the core of all I’m doing.
+
 ## /// TIMELINES
 
 ### NEARSIGHT Timeline
@@ -153,6 +155,35 @@ MUSIC VIDEOS AND FILM CONTENT HAVE HIDDEN PINGS THAT ALERT VIEWERS TO INTERACTAB
 
 ---
 
+## Current Drawbacks and Feedback
+
+> I find that I’m a high level reader but when I see your stuff, my first thoughts are damn this is a lot of words. And it’s high level complexity too. You’re on a wave big time, your people seem to be on the tempo with it though. I’m always looking to simplify the knowledge for those who don’t know. If you make it so simple and clear with layman’s English and lead up to the overall constructs, this shit would go hard. People don’t like reading for the most part. This is what I’ve learned from my work. The Less words needed to communicate the better.
+
+True, I’ve been told I need to narrow the level of complexity at least at the entrance.
+
+> You’re on a wave big time, your people seem to be on the tempo with it though. You’re an intellect for sure. Most people can’t keep up. I’m always looking to simplify the knowledge for those who don’t know
+
+Yeah, my aim now is to design a website (in progress) that is kind of like a hub, slowly introducing the audience to elements of it all. Which will also be the main audiovisual content hub. That is what I want as well - I’m kind of working inwards - like made the massive strokes of the brush, now on the details and then gonna work on giving the whole clear picture to the viewer if that makes sense - to make it approachable. I want to use more visuals and audio / written text will be just a bonus in terms of lore. A percentage of the whole communication, for those who want to go even deeper. The golden users, the cult. Like with ARGs really. The juicy stuff is “at the end of the labyrinth”.
+
+> Are you looking at this as a business model?
+
+Yes, from the very beginning. Helve at its core will be a creative agency providing services for branding and communication of this kind of breed of projects. HC is like a proof of concept. HC and Kannibal are the test field.
+
+> You might benefit from the idea of the 4 product empire: Free offer, Core offer, Up sell, Subscription.
+
+Ah yes, I am familiar. All HC base content will be free. Free stuff “sells” the most. It establishes the connection.
+
+> You are versed in the marketing world then. It’s rapport building.
+
+Hehe I do community management and marketing for a living. Used to do it mostly for game development companies but switched my field and learned a hell lot more by expanding the horizon. I even have already the structure of the 4 product empire in terms of naming - just realized. Sort of tho. Need to think on this more as I did a split between Agents (audience/warm clientele) and Operatives (the creatives collaborating on the projects). But it would go something like this:
+
+- agents - free offer
+- agents - core offer
+- operatives - upsell
+- prime agents - subscription
+
+Transitioning into Operative would possibly be taking creative part in making of the universe/project. Including people who are most passionate to become parts of the universe. Just spitballing here rn. The idea since the beginning was to include even the base users / Agents as being part of something larger - HC in its fictional sense is an agency as well. And of course a whole array of physical products for “the hot ones” - album releases, merch made by Kannibal brand, hidden bonus content (but don’t want to gate the content to anyone), even like 3D printed props from the universe’s narrative (got plenty of ideas for a variety of possible products, gonna be testing as I go along) (...) Oh yeah, back to the “array of products” obviously forgot to mention the main core content which are the cinematics/films/viewing content which could also be package as universe in a bundle sort of - but these are all obviously for people who are invested in this emotionally/hooked. Not for the base Agents who are just warm but usually not willing to spend a dime just yet. I mean let’s take a closer look at Disney, they live off of toys/merch. I mean heck, first elevator pitch for HC had a phrase “the marvel universe of trap music”. Just like Helve AVR was the “Agents of Shield of creative industry”. Now HC has shifted a bit into to “the Cyberpunk 2077 of darkwave trap” vibe as a lot of people seem to want this kind of vibe - and the fun part is that that exact vibe was built into the idea from the start too, just later down the timeline of the universe as it progresses through chapters and years. HC starts as a alternative near future world with minimal but more advanced tech and then it evolves further and further and grows into full-fledged cyberpunk. Initial feeling was it was gonna go into Alien vibe, like Weyland-Yutani corporation type of agency but it shifted too. Now we got Nearsight Timeline and Distant Timeline in terms of constructing the universe.
+
 ## LOGO LORE / MEANING
 
 ```
@@ -161,7 +192,6 @@ MUSIC VIDEOS AND FILM CONTENT HAVE HIDDEN PINGS THAT ALERT VIEWERS TO INTERACTAB
 It was intended as a bold brutalist architecture symbol on its own, a timeless etching - it contains the initials letters of Hitech Crime. A symbol of stability and expansion, a "monument to the future", which is also the title of the first cinematic film set in the HC Universe.
 
 Hitech Crime in its basic form was supposed to be a near future alternative reality setting but it expanded a lot since then into cyberpunk as well. Planning possible enhancement of it in the future.
-
 
 ## GENERAL
 
