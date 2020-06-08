@@ -2296,6 +2296,14 @@ MOTHNODE_ A Song For the Others
 
 ---
 
+MOTHNODE_ Pay No Attention To The Man Behind The Curtain EP
+
+- MOTHNODE_ Shadows Upon Us
+- MOTHNODE_ Ancient Order
+- MOTHNODE_ Destablishment
+
+---
+
 
 Randomness:
 - MOTHNODE_ Qaravultomba
