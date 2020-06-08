@@ -104,12 +104,12 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 <a name="storyworld"></a>
 # STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
-![](meaning-of-hitech-crime.png)
-
 ## THE OBJECTIVE MEANING_
 Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
 
 ## THE UNDERLYING MEANING_
+![](meaning-of-hitech-crime.png)
+
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
 The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of different parts of my character (Helve AVR, Hitech Crime and Kannibal). They wouldn't be here if I wouldn't self-analyze myself to such extent.
