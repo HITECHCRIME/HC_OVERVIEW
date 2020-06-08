@@ -46,13 +46,11 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 <a name="intro"></a>
 ## /// INTRODUCTION TO THE WORLD OF HITECH CRIME_
 
-> You are not building a business, you are building a world for people to find themselves in, a world they can learn from, a cult with positive outcome. The most important are the people and the product. - DIRECTOR OPERATIVE MOTHNODE
+> You are not building a business, you are creating an immersive world for people to find themselves in, a world they can learn from, a cult with positive outcomes they can belong to without fear or doubt. - DIRECTOR OPERATIVE MOTHNODE
 
 **Hitech Crime** is a *cinematic narrative universe transmedia music microlabel* created as a proof of a concept by [Helve AVR](https://github.com/HELVE/H_OVERVIEW) rogue high technology creative agency's **dark moon metabrand system**. It plays the role of a testing ground for the new wave experimental transmedia communication and creative expression aimed for by the creative agency. 
 
 Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, bringing its audience closer than ever before.
-
-
 
 <a name="creativeaim"></a>
 ### Creative Aim_
@@ -174,6 +172,8 @@ UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TI
 ## /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
 
 DISCORD / TWITCH 
+
+> For the educational and entertaining purposes to work in such a storyworld you have to make both the people and the product the most important thing. It has to rotate around their minds at all times. - DIRECTOR OPERATIVE MOTHNODE
 
 ## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
