@@ -169,9 +169,15 @@ Timeline which is semi-fictional. Focuses on the endless collaborative album (co
 
 ![](MICROLABEL_DISTRIBUTION.jpg)
 
-## THE DOUBLE SWEEP [720 MARKETING]_
+## WHAT IS A METABRAND_
 
-The idea is to utilize all possible platforms for a dual purpose unlike with 360 communication approach. Both for the fictional purposes (immersiveness of the experience) and the real world purposes (real time updates and dopamine hooks).
+Metabrand in Helve AVR's dark moon metabrand system means an entity that exists both in reality and in the fiction of the brand itself providing a overarching narrative in order to draw people in for a longterm consumption.
+
+## THE DOUBLE SWEEP OR THE 720 MARKETING_
+
+> A 360° Marketing Campaign is a complete creative campaign idea across all the brand’s marketing mix elements, designed to implement a brand strategy (usually positioning). In simple words, a 360 marketing campaign focuses on communicating a consistent message through all the marketing mix elements. New products are launched or the old product brands are altered or extended to fit in the planned positioning strategy. The campaign includes an integrated promotional marketing approach where all the promotional devices (online, offline, and mobile) are used in an effective way to communicate the specified message. All the possible touch points are effectively exploited. Packaging and the visual looks are also altered to fit the positioning strategy The products belonging to the 360-degree campaign are usually marketed with different prices. This, however, depends on the brand’s niche.
+
+THEORY: The idea is to utilize all possible platforms and content access points for a dual purpose unlike with 360 communication approach, doubling the possible content. The Double Sweep Content has an additional goal in mind apart from the base real world purpose of spreading the updates and leaving dopamine hooks for the users. That additional purpose is to "hack the real" through fictional elements in order to merge the real and the unreal for the purposes of immersiveness of the experience. It is yet to be concluded if this is morally appropriate in the current state of social media management and brand development.
 
 ## /// BASIC ENTRY POINTS_ (make an icon grid)
 
