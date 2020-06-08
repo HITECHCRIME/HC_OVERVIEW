@@ -188,6 +188,14 @@ Metabrand in Helve AVR's dark moon metabrand system means an entity that exists 
 
 THEORY: The idea is to utilize all possible platforms and content access points for a dual purpose unlike with 360 communication approach, doubling the possible content. The Double Sweep Content has an additional goal in mind apart from the base real world purpose of spreading the updates and leaving dopamine hooks for the users. That additional purpose is to "hack the real" through fictional elements in order to merge the real and the unreal for the purposes of immersiveness of the experience. It is yet to be concluded if this is morally appropriate in the current state of social media management and brand development.
 
+> The pieces are coming together. First of all need to make it as clear and dumbed down as possible for the basic access to lower the entry point barrier in terms of marketing psychology and accessibility. I was thinking about making different tiers of approach to target various groups of people. 
+
+> It goes more or less like this: 
+> - People who just want to listen to content (passive listeners based on genre).
+> - People who are looking for personal answers in content (can relate to it).
+> - People who want to be immersed in content (want to escape reality).
+> - People who want to become the content (want to take part in the making).
+
 ## /// BASIC ENTRY POINTS_ (make an icon grid)
 
 UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TIKTOK / FACEBOOK
