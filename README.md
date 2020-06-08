@@ -2304,6 +2304,12 @@ MOTHNODE_ Pay No Attention To The Man Behind The Curtain EP
 
 ---
 
+MOTHNODE_ Chiral Vectors [Leave Your Mark] EP
+- MOTHNODE_ Leave Your Mark
+- MOTHNODE_ Chiralistic Tendencies
+- MOTHNODE_ Cross To Carry
+
+---
 
 Randomness:
 - MOTHNODE_ Qaravultomba
