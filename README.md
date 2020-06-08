@@ -714,7 +714,7 @@ And you need to remember about some different specialities in your audience such
 **How to apply the notes to Hitech Crime**
 - Main motivational arc - "take future into your own hands"
 - audiovisual transmedia experience (digital, IRL, live, audio, visual, interactive)
-- characters, Protagonists, Deuteragonists, Confidants
+- Traditional Archetypes? Characters, Protagonists, Deuteragonists, Confidants, Nemesis (villain - inverted hierophant), Mentors (wisdom)
 
        protagonist hacker, underdog, reality hacker (vishacker)
        
