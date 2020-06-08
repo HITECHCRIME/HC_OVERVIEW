@@ -44,7 +44,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 4.
 
 <a name="intro"></a>
-## /// INTRODUCTION TO THE WORLD OF HITECH CRIME_
+# INTRODUCTION TO THE WORLD OF HITECH CRIME_
 
 > You are not building a business, you are creating an immersive world for people to find themselves in, a world they can learn from, a cult with positive outcomes they can belong to. - DIRECTOR OPERATIVE MOTHNODE
 
@@ -53,7 +53,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, bringing its audience closer than ever before.
 
 <a name="creativeaim"></a>
-### Creative Aim_
+## Creative Aim_
 
 Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. 
 
@@ -62,17 +62,17 @@ It presents a path of progress and understanding through narrative story arcs to
 I used it as a tool to understand and express past and present suffering and discover the sense of self through various endeavours. 
 
 <a name="technicalaim"></a>
-### Technical Aim_
+## Technical Aim_
 
 Its *technical aim* is to research, develop and execute ideas in form of new wave interactive performances/experiences and create futuristic audio and related visual communication using creative technology.
 
 <a name="metaphysicalaim"></a>
-### Metaphysical Aim_
+## Metaphysical Aim_
 
 Be a helping hand for people to reach their own fulfillment by discovering their core self and core drives, to help them become a better version of themselves. Later described in The Storyworld section of the repository.
 
 <a name="themes"></a>
-### Themes_
+## Themes_
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
 
 ![](hitech-crime-themes.png)
@@ -102,14 +102,14 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - dark web society
 
 <a name="storyworld"></a>
-## /// STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
+# STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
 ![](meaning-of-hitech-crime.png)
 
-### THE OBJECTIVE MEANING_
+## THE OBJECTIVE MEANING_
 Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
 
-### THE UNDERLYING MEANING_
+## THE UNDERLYING MEANING_
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
 The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of different parts of my character (Helve AVR, Hitech Crime and Kannibal). They wouldn't be here if I wouldn't self-analyze myself to such extent.
@@ -154,16 +154,24 @@ Path goes from bottom to top:
 
 > The point with Hitech Crime is to see the corruption of the perceived oneness, call it out and purge in order to reunite with self. In a more of a tarot vibe - HC is the upright hierophant in its intent and the aim is to draw light to the inverted hierophant, the corruptor so it gets recognized. This way HC connects with Dopamine Trails system which lies at the core of all I’m doing.
 
-## /// TIMELINES
+# TIMELINES_
 
-### NEARSIGHT Timeline
+## NEARSIGHT Timeline
 Alt futura, near future society in the process of changing due to technological advancement. Minimal tech present, gentle hitech themes, similar to present society but a tiny bit more advanced.
 
-### DISTANT Timeline
+## DISTANT Timeline
 Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
-### HYBRID Timeline
+## HYBRID Timeline
 Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
+
+# COMMUNCIATION OF THE HITECH CRIME METABRAND_
+
+![](MICROLABEL_DISTRIBUTION.jpg)
+
+## THE DOUBLE SWEEP [720 MARKETING]_
+
+The idea is to utilize all possible platforms for a dual purpose unlike with 360 communication approach. Both for the fictional purposes (immersiveness of the experience) and the real world purposes (real time updates and dopamine hooks).
 
 ## /// BASIC ENTRY POINTS_ (make an icon grid)
 
@@ -175,7 +183,7 @@ DISCORD / TWITCH
 
 > For the educational and entertaining purposes to work in such a storyworld you have to make both the people and the product the most important thing. It has to rotate around their minds at all times. - DIRECTOR OPERATIVE MOTHNODE
 
-## /// VISUAL COMMUNICATION OF THE BRAND NOTES_
+# /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
 
@@ -197,7 +205,7 @@ Creating engaging content (in my case semi-fictional universes with story arcs a
 
 Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
 
-![](MICROLABEL_DISTRIBUTION.jpg)
+
 
 ---
 
