@@ -156,13 +156,22 @@ Path goes from bottom to top:
 
 # TIMELINES_
 
+## THE ORIGIN Timeline
+(past 2+ years of testing the concept, 1 year into the future of small release package tests)
+
 ## NEARSIGHT Timeline
+(initial official narrative arc launch) 
+
 Alt futura, near future society in the process of changing due to technological advancement. Minimal tech present, gentle hitech themes, similar to present society but a tiny bit more advanced.
 
 ## DISTANT Timeline
+(advanced launch, possibly parallel narrative arc) 
+
 Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
 ## HYBRID Timeline
+(continuous ever-expanding side timeline with collaborations with other Operatives) 
+
 Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
 
 # COMMUNCIATION OF THE HITECH CRIME METABRAND_
