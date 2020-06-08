@@ -76,6 +76,9 @@ Be a helping hand for people to reach their own fulfillment by discovering their
 Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
 
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
+
+![](hitech-crime-themes.png)
+
 - psychology / human psyche
 - belonging / group identity
 - self / personal identity
