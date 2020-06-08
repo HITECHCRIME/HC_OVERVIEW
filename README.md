@@ -2308,7 +2308,8 @@ MOTHNODE_ Chiral Vectors [Leave Your Mark] EP
 - MOTHNODE_ Leave Your Mark
 - MOTHNODE_ Chiralistic Tendencies
 - MOTHNODE_ Cross To Carry
-
+- MOTHNODE_ Fake Duplicate
+- MOTHNODE_ Mirroring
 ---
 
 Randomness:
