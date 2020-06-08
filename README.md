@@ -74,9 +74,6 @@ Be a helping hand for people to reach their own fulfillment by discovering their
 
 <a name="themes"></a>
 ### Themes_
-
-Agents and Operatives of Hitech Crime are a semi-fictional organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
-
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
 
 ![](hitech-crime-themes.png)
@@ -110,7 +107,10 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 
 ![](meaning-of-hitech-crime.png)
 
-### The Meaning_
+### THE OBJECTIVE MEANING_
+Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
+
+### THE UNDERLYING MEANING_
 I had the most profound realization last night. Perhaps the base foundation for Hitech Crime lore/universe/meaning of it all.
 
 The self-development system I created to get myself out of a severly bad mental situation in life called Dopamine Trails talks about reaching your "core self", about getting rid of negative dopamine triggers to reach it. It is the origin of all the metabrands/manifestations of different parts of my character (Helve AVR, Hitech Crime and Kannibal). They wouldn't be here if I wouldn't self-analyze myself to such extent.
