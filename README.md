@@ -2315,6 +2315,18 @@ MOTHNODE_ Chiral Vectors [Leave Your Mark] EP
 MOTHNODE_ Zazen EP
 Zen-sitting. https://www.dailyzen.com/journal/zazen
 
+---
+
+MOTHNODE_ Master Therion (Energized Meditation Hyatt)
+Master Therion is a freer of slaves. It is very easy to understand
+why he is hated by Dogma addicts and pushers.
+These laws represent enlightened anarchy! This means living
+without dictators, if you can imagine that. Dictators know that
+"humans" prefer anything which looks like ORDER, no matter how
+stifling, rather than anything which looks like freedom. The
+solution — tell them they are free show them that they are
+— slaves.
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
