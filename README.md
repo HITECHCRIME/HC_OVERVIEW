@@ -85,7 +85,6 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - negative emotions
 - depression / coping
 - addiction / cravings
-- spiritualism / shamanism / synthetic nature
 - occult / mysticism
 - religion as a tool
 - consciousness / belief
@@ -2129,11 +2128,54 @@ MOTHNODE_ The Genius of the Crowd EP based on Charles Bukowski’s poem.
 Dark Sci-fi Trap EP: 
 MOTHNODE_ Summoner of Worlds, 
 MOTHNODE_ Github Occult, 
-MOTHNODE_ Cybershaman, 
 (MOTHNODE_ Doing Nothing State, 
 MOTHNODE_ Neuroreactive, 
 MOTHNODE_ Cybercrime Div), 
 MOTHNODE_ Borstal
+
+MOTHNODE_ Cybershaman 
+
+WHO OWNS WHO
+
+MODEL ONE
+- GOD
+- God OWNS Man
+- God is the Center and Perfect
+- Man is Sinful
+- Religion
+- Priest
+- Sin/Pathology
+- God is Studied
+- One Up/One Down
+- Oppression
+- Adaptation to God's Will
+
+MODEL TWO
+- SOCIETY & ITS CARETAKERS
+- Society OWNS Man
+- Society is the Center and Perfect
+- Man is Sick
+- Law
+- Politician/Doctor
+- Pathology &
+- Rebelliousness
+- Man is Studied
+- One Up/One Down
+- Oppression
+- Adaptation to Society's Will
+
+MODEL THREE
+- THE CYBERSHAMAN
+- Man OWNS Hirself
+- Life is the Center
+- Man is ?
+- Philosophy
+- Cyber-Philosopher/Adventurer
+- Functionality & Good Will
+- Life is Studied
+- Shifting Systems of Probabilistic Truth
+- Essential Cooperation
+- Grow to Possibilities of Self
 
 ---
 
