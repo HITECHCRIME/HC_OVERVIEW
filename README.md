@@ -2312,6 +2312,9 @@ MOTHNODE_ Chiral Vectors [Leave Your Mark] EP
 - MOTHNODE_ Mirroring
 ---
 
+MOTHNODE_ Zazen EP
+Zen-sitting. https://www.dailyzen.com/journal/zazen
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
