@@ -2327,6 +2327,11 @@ stifling, rather than anything which looks like freedom. The
 solution — tell them they are free show them that they are
 — slaves.
 
+MOTHNODE_ Rulers of Dogma
+MOTHNODE_ AmGod
+MOTHNODE_ Thought Tension
+MOTHNODE_ Authority / Do What Thou Wilt
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
