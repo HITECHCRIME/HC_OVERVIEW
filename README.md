@@ -2344,6 +2344,14 @@ into the abyss — only then do I begin"
 
 ---
 
+MOTHNODE_ The Invocation of Eris
+
+CHAOS AS PREREQUISITE TO CHANGE
+
+"In a dark time, the eye begins to see" —Theodore Roethke
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
