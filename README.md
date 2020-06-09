@@ -2375,6 +2375,10 @@ Since My House Burned Down I Have A Better View Of The Rising Sun.
 
 ---
 
+https://en.wikipedia.org/wiki/Max_Stirner
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
