@@ -2344,11 +2344,19 @@ into the abyss — only then do I begin"
 
 ---
 
-MOTHNODE_ The Invocation of Eris
+MOTHNODE_ The Order of Eris
+
+- MOTHNODE_ The Invocation of Eris
 
 CHAOS AS PREREQUISITE TO CHANGE
 
 "In a dark time, the eye begins to see" —Theodore Roethke
+
+The goddess Eris (or Discordia) is the midwife of Chaos, the
+bringer of creative destruction. For those aspiring to the magickal
+life, she will be a most helpful handmaiden, a necessary
+preliminary, an archetype whose invokation is necessary if a
+New Order be wrought. 
 
 ---
 
