@@ -2333,6 +2333,14 @@ MOTHNODE_ Thought Tension
 MOTHNODE_ Authority / Do What Thou Wilt
 MOTHNODE_ The Intelligence Agents (Tim Leary)
 
+"To throw off these clothes and these naked bones
+—to leave my emotions in the dust — to cast my mind
+into the darkness of space — burning my habits in
+the demon's fire. When this is done, falling blindly
+into the abyss — only then do I begin"
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
