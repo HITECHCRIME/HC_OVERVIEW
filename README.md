@@ -2358,9 +2358,20 @@ life, she will be a most helpful handmaiden, a necessary
 preliminary, an archetype whose invokation is necessary if a
 New Order be wrought. 
 
+Eris aids in dissolving the protective circle of self-concept by
+scrambling our programs, confusing us, and ferrying us into the
+space of No-Form, the lap of Chaos: Hence, we find ourselves
+in reach of magickal power, in a state of trance, ready to dance a
+new reality for ourselves. As William Burroughs astutely
+commented, "escape routes open in times of chaos."
+
 ---
 
+MOTHNODE_ Harbinger of Breakthrough EP
+
 "I must create my own system, or be enslaved by another's." William Blake
+
+Since My House Burned Down I Have A Better View Of The Rising Sun.
 
 ---
 
