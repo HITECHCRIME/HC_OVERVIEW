@@ -2352,6 +2352,10 @@ CHAOS AS PREREQUISITE TO CHANGE
 
 ---
 
+"I must create my own system, or be enslaved by another's." William Blake
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
