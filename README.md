@@ -2317,7 +2317,7 @@ Zen-sitting. https://www.dailyzen.com/journal/zazen
 
 ---
 
-MOTHNODE_ Master Therion (Energized Meditation Hyatt)
+MOTHNODE_ AMGOD (Energized Meditation Hyatt)
 Master Therion is a freer of slaves. It is very easy to understand
 why he is hated by Dogma addicts and pushers.
 These laws represent enlightened anarchy! This means living
@@ -2332,6 +2332,9 @@ MOTHNODE_ AmGod
 MOTHNODE_ Thought Tension
 MOTHNODE_ Authority / Do What Thou Wilt
 MOTHNODE_ The Intelligence Agents (Tim Leary)
+MOTHNODE_ Master Therion
+
+"We just appear as we will disappear."
 
 "To throw off these clothes and these naked bones
 —to leave my emotions in the dust — to cast my mind
