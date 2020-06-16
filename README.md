@@ -2421,6 +2421,12 @@ https://en.wikipedia.org/wiki/Max_Stirner
 
 ---
 
+MOTHNODE_ Hapax Legomenon
+
+https://www.youtube.com/watch?v=fCn8zs912OE 17:00
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
