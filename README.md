@@ -2386,6 +2386,22 @@ into the abyss — only then do I begin"
 
 ---
 
+MOTHNODE_ Pantheon of Identity EP
+
+In relation to creating new identities every week in order to become a fluid mind. Nothing is permanent. Identity fluidity against rigidness of mind.
+
+- MOTHNODE_ Cosma
+- MOTHNODE_ Belial
+- MOTHNODE_ Traisoma
+- MOTHNODE_ Anteriot
+- MOTHNODE_ Bashir
+- MOTHNODE_ Evelai
+- MOTHNODE_ Terres
+- MOTHNODE_ Avalon
+- MOTHNODE_ Episko
+
+---
+
 MOTHNODE_ The Order of Eris
 
 - MOTHNODE_ The Invocation of Eris
