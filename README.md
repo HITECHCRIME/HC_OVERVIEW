@@ -2443,6 +2443,12 @@ https://www.youtube.com/watch?v=fCn8zs912OE 17:00
 
 ---
 
+MOTHNODE_ Ancient Blood
+
+MOTHNODE_ 0 Rh-
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
