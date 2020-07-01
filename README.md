@@ -2443,9 +2443,15 @@ https://www.youtube.com/watch?v=fCn8zs912OE 17:00
 
 ---
 
-MOTHNODE_ Ancient Blood
+MOTHNODE_ Ancient Blood EP
 
 MOTHNODE_ 0 Rh-
+
+---
+
+MOTHNODE_ Overmorrow (day after tomorrow)
+
+- two days from now it will manifest
 
 ---
 
