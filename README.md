@@ -2455,6 +2455,10 @@ MOTHNODE_ Overmorrow (day after tomorrow)
 
 ---
 
+MOTHNODE_ Sanctum EP
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
