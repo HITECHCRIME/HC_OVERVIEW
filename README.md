@@ -2459,6 +2459,15 @@ MOTHNODE_ Sanctum EP
 
 ---
 
+MOTHNODE_ Give and Receive
+MOTHNODE_ Fair Exchange
+MOTHNODE_ Own The Balance
+
+Narcissism = value for self
+Altruism = value for others
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
