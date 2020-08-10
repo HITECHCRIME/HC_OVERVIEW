@@ -2469,7 +2469,7 @@ Altruism = value for others
 ---
 
 MOTHNODE_ Thelime EP (the old album concept)
-Pixelgridscape on black with HC logo in the middle piercing through it. First album idea ever.
+White pixelgridscape on black with HC logo in the middle piercing through it. First album idea ever.
 
 ---
 
