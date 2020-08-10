@@ -2468,6 +2468,11 @@ Altruism = value for others
 
 ---
 
+MOTHNODE_ Thelime EP (the old album concept)
+Pixelgridscape on black with HC logo in the middle piercing through it. First album idea ever.
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
@@ -2478,6 +2483,7 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - MOTHNODE_ Good One-percenter (Ghost in the Shell reference)
 - MOTHNODE_ The Whisperer (tainted thoughts - Yu'Vath)
 - MOTHNODE_ Death of Integrity (Warhammer 40K reference?)
+- MOTHNODE_ Sciolist
 
 # Content Types & Promo Methods
 
