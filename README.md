@@ -1578,6 +1578,13 @@ Social scripts focus album.
 
 ### /// HC43_ | Satsu x MOTHNODE_ X EP 
 
+Satsu x MOTH EP
+1. HC_SG140_Satsu Lead
+2. HC_SG141_Que_Tal_Tu_Odio (moth lead)
+3. HC_SG142_Stay With The Flow (moth solo)
+4. HC_SG143_Getem_Snitch
+5.
+
 [ENGLISH/SPANISH/POLISH SEASON EPISODES] [NO NARRATIVE]
 
 - MOTH Lead x You full verses
