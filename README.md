@@ -175,13 +175,157 @@ Timeline which is semi-fictional. Focuses on the endless collaborative album (co
 
 # COMMUNCIATION OF THE HITECH CRIME METABRAND_
 
+## Hitech Crime Distribution Funnel
+Digital Broadcast Platforms
+- Agent Access - high quality access points
+
+**Preframing Content**
+
+Expenses:
+
+---
+
+## CONTENT CLOUD
+
+### The Assumptions
+
+Humans look for **convenience**.
+
+Humans look for **connection to escape**.
+
+Humans look for **connection to figure out who they are**.
+
+### The Message
+
+- Commentary on consumable ficticious violence.
+- Entertainment and escapism as hook for education.
+- Express your negative emotions in order to contain and use them - search for purpose in life, search of identity, search of - self and core drives.
+- Dopamine Trails life progression system - Helve AVR Source Code. 
+> VOID (all possible futures/timelines)
+> ASCENSION (progress of all possible futures/timelines)
+> RELEASE (englightenment and the making of choice)
+
+MAIN WEBSITE (DIGITAL)
+- Hitech Crime Wiki
+- Archive of Communication
+- Short Stories
+- Lore Logs/Memoirs
+- Uplink Newsletter + In-Universe: In-Universe Character Photos + In-Universe Videos
+- Release Timeline
+- Gamified Mission System for Fans
+
+TWITTER (DIGITAL)
+- Photogrammetric Scenes
+- Personal Updates
+
+FACEBOOK (DIGITAL)
+- Custom AR Filters (Spark AR)
+- Updates
+- Photogrammetric Scenes
+
+INSTAGRAM (DIGITAL)
+- Custom AR Filters (Spark AR)
+- Personal Updates
+- Stories Promo
+- 9-post Vibe Release Promo
+- IGTV Promo
+- Photogrammetric Scenes
+
+TIKTOK (DIGITAL)
+- Cypher/Puzzles
+- Promos
+- Custom AR Filters (Spark AR)
+- Photogrammetric Scenes
+
+DISCORD (DIGITAL)
+- Engagement Interaction
+- Community Projects
+- Operative Coordination
+- Agent Briefings
+
+YOUTUBE (DIGITAL)
+- Web Series Stitched
+- Universe Cinematics
+- Short Films (Single 1 song)
+- 3-Act Feature Film (Extended Play 3 songs)
+- Web Series (Long Play 11 songs)
+- Augmented Vlogs
+- Music Videos
+- Behind The Scenes IRL (Helve Logs)
+- IRL Podcasts
+- In-Universe Audio Stories
+
+AUDIO STREAMING PLATFORMS (DIGITAL)
+- YouTube Music
+- Soundcloud
+- Spotify
+- iTunes
+- Deezer
+- Apple Music
+- Tidal
+- Amazon Music
+- Qobuz
+
+LIVE CREATIVE OPS (LIVE, PHYSICAL)
+- Global Agent Network Map
+- Agent Experience Logs (Audience In-Universe Cosplay)
+- Live Action Roleplay
+- Silent Rogue Concert (Bluetooth Flashmob)
+- VR Experiences + Performance
+- IRL Interactive Installations
+- Live Creative Ops: Agent-Driven
+- Live Creative Ops: Operative-Driven
+- Art Installations
+- Rogue Popup Backpack Performance
+- Helve HQ Twitch Streams
+- Remote Performance
+- Live Performance (Concerts)
+- Universe Phone Calls
+- Character Chats
+- IRL Package Deliveries
+- Augmented Reality Games
+- Geolocated Surprises
+- Secret Location Gatherings
+
+WEBSITE SHOP
+- Accessory Merchandise
+- Clothing Merchandise
+- Prime Operative Season Pass
+- Digital Tickets
+- In-Universe Merchandise (Lore Items)
+- Physical Albums
+- Exclusive Digital Albums
+- Collector Edition Album Loadout
+- Stickers
+- Kannibal Wear
+
+ALEXA AUDIO
+- Alexa Narrative Experience
+- Alexa Reminder For Live Events
+- Alexa Cyphers
+
+HITECH CRIME AGENT DASHBOARD APP "OVERSEER"
+- Access to Shop
+- Access to Website and the timeline
+- Access to live creative ops updates
+
+OTHER
+- Video Games
+- Comics
+- Books
+- Posters
+- Wallpaper
+- Leaflet
+- Indoctrination Booklet
+- Hidden QR Codes - leading to hidden content
+
 ![](MICROLABEL_DISTRIBUTION.jpg)
 
-## WHAT IS A METABRAND_
+### WHAT IS A METABRAND_
 
 Metabrand in Helve AVR's dark moon metabrand system means an entity that exists both in reality and in the fiction of the brand itself providing a overarching narrative in order to draw people in for a longterm consumption.
 
-## THE INFINITE SWEEP OR THE SPHERICAL MARKETING_
+### THE INFINITE SWEEP OR THE SPHERICAL MARKETING_
 
 > A 360° Marketing Campaign is a complete creative campaign idea across all the brand’s marketing mix elements, designed to implement a brand strategy (usually positioning). In simple words, a 360 marketing campaign focuses on communicating a consistent message through all the marketing mix elements. New products are launched or the old product brands are altered or extended to fit in the planned positioning strategy. The campaign includes an integrated promotional marketing approach where all the promotional devices (online, offline, and mobile) are used in an effective way to communicate the specified message. All the possible touch points are effectively exploited. Packaging and the visual looks are also altered to fit the positioning strategy The products belonging to the 360-degree campaign are usually marketed with different prices. This, however, depends on the brand’s niche.
 
@@ -201,11 +345,11 @@ It is yet to be concluded if this is morally appropriate in the current state of
 > - People who want to be immersed in content (want to escape reality).
 > - People who want to become the content (want to take part in the making).
 
-## /// BASIC ENTRY POINTS_ (make an icon grid)
+### /// BASIC ENTRY POINTS_ (make an icon grid)
 
 UNIVERSE HUB WEBSITE / YOUTUBE / INSTAGRAM / SOUNDCLOUD / SPOTIFY / TWITTER / TIKTOK / FACEBOOK
 
-## /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
+### /// ADVANCED ENTRY POINTS_ [THE CORE] (make an icon grid)
 
 DISCORD / TWITCH 
 
@@ -218,6 +362,8 @@ Album/song releases are like plot points in a bigger narrative (overarching them
 Seasons are overarching themes. A "whole set" would be all elements of content that belong to the a particular season (story arcs, microthemes, album narrative music videos etc).
 
 What we're creating here is a "storyworld". We are basing it on trap music and culture but want to completely change the approach to this and any type of music/genre as a not only solely audio experience. 
+
+Frustration / Anger - Red
 
 ---
 
