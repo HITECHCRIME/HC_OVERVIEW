@@ -173,7 +173,7 @@ Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
 Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
 
-# COMMUNCIATION OF THE HITECH CRIME METABRAND_
+# CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
 
 ## Hitech Crime Distribution Funnel
 Digital Broadcast Platforms
@@ -183,17 +183,11 @@ Digital Broadcast Platforms
 
 Expenses:
 
----
+## The Assumptions
 
-## CONTENT CLOUD
-
-### The Assumptions
-
-Humans look for **convenience**.
-
-Humans look for **connection to escape**.
-
-Humans look for **connection to figure out who they are**.
+- Humans look for **convenience**.
+- Humans look for **connection to escape**.
+- Humans look for **connection to figure out who they are**.
 
 ### The Message
 
@@ -205,18 +199,23 @@ Humans look for **connection to figure out who they are**.
 > ASCENSION (progress of all possible futures/timelines)
 > RELEASE (englightenment and the making of choice)
 
+## Hitech Crime Content and Platform Types
+
 MAIN WEBSITE (DIGITAL)
 - Hitech Crime Wiki
-- Archive of Communication
-- Short Stories
+- Archive of Visual Communication from all other social media platforms (embeded gathering aligned with releases/categorized into releases)
+- In-Universe Short Stories
 - Lore Logs/Memoirs
 - Uplink Newsletter + In-Universe: In-Universe Character Photos + In-Universe Videos
 - Release Timeline
 - Gamified Mission System for Fans
+- Embeded Twitch Livestream
+- Embeded - Helve Logs - Behind The Scenes IRL
+- 
 
 TWITTER (DIGITAL)
 - Photogrammetric Scenes
-- Personal Updates
+- Updates
 
 FACEBOOK (DIGITAL)
 - Custom AR Filters (Spark AR)
@@ -249,9 +248,9 @@ YOUTUBE (DIGITAL)
 - Short Films (Single 1 song)
 - 3-Act Feature Film (Extended Play 3 songs)
 - Web Series (Long Play 11 songs)
-- Augmented Vlogs
+- Augmented Vlogs (In-Universe or Hitech Crime vibe)
 - Music Videos
-- Behind The Scenes IRL (Helve Logs)
+- Helve Logs - Behind The Scenes IRL
 - IRL Podcasts
 - In-Universe Audio Stories
 
@@ -267,8 +266,9 @@ AUDIO STREAMING PLATFORMS (DIGITAL)
 - Qobuz
 
 LIVE CREATIVE OPS (LIVE, PHYSICAL)
-- Global Agent Network Map
-- Agent Experience Logs (Audience In-Universe Cosplay)
+- Global Agent and Operative Network Map
+- Agent Reports 
+- In-Universe Experience - Audience In-Universe Cosplay
 - Live Action Roleplay
 - Silent Rogue Concert (Bluetooth Flashmob)
 - VR Experiences + Performance
@@ -278,7 +278,7 @@ LIVE CREATIVE OPS (LIVE, PHYSICAL)
 - Art Installations
 - Rogue Popup Backpack Performance
 - Helve HQ Twitch Streams
-- Remote Performance
+- Remote Performance (Livestream Concerts and Events)
 - Live Performance (Concerts)
 - Universe Phone Calls
 - Character Chats
