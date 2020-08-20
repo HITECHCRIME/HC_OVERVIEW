@@ -264,6 +264,9 @@ AUDIO STREAMING PLATFORMS (DIGITAL)
 - Tidal
 - Amazon Music
 - Qobuz
+- Napster
+- Bandcamp
+- Genius
 
 LIVE CREATIVE OPS (LIVE, PHYSICAL)
 - Global Agent and Operative Network Map
