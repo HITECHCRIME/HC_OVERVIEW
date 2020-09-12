@@ -2629,6 +2629,13 @@ White pixelgridscape on black with HC logo in the middle piercing through it. Fi
 
 ---
 
+MOTHNODE_ Orchid (buy bandwidth dVPN)
+MOTHNODE_ Mysterium
+MOTHNODE_ Sentinel
+MOTHNODE_ Exit Nodes
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
