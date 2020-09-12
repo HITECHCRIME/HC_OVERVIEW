@@ -2656,6 +2656,17 @@ MOTHNODE_ File OS
 
 ---
 
+MOTHNODE_ Design
+MOTHNODE_ Encryption
+MOTHNODE_ Censorship
+MOTHNODE_ Proof System
+MOTHNODE_ Blockchain
+MOTHNODE_ Compensation
+
+---
+
+MOTHNODE_ Resistance
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
