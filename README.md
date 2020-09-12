@@ -2666,6 +2666,18 @@ MOTHNODE_ Compensation
 ---
 
 MOTHNODE_ Resistance
+MOTHNODE_ Freenet
+MOTHNODE_ Crypto
+MOTHNODE_ Meshnet
+MOTHNODE_ Praetor Program
+MOTHNODE_ The Cabal / cabal://
+MOTHNODE_ Command Line
+MOTHNODE_ Cheatsheet
+MOTHNODE_ Checksum
+MOTHNODE_ Eroded Signatures
+MOTHNODE_ Terminal
+
+---
 
 Randomness:
 - MOTHNODE_ Qaravultomba
