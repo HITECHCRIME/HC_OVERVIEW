@@ -2633,6 +2633,26 @@ MOTHNODE_ Orchid (buy bandwidth dVPN)
 MOTHNODE_ Mysterium
 MOTHNODE_ Sentinel
 MOTHNODE_ Exit Nodes
+MOTHNODE_ Alpha Axiom
+MOTHNODE_ P2P
+MOTHNODE_ Reformative
+MOTHNODE_ E-NABLE
+MOTHNODE_ Exoskeleton
+MOTHNODE_ RFID
+MOTHNODE_ Botnet
+MOTHNODE_ NFC (near field communication)
+MOTHNODE_ High Frequency
+MOTHNODE_ Tracker
+MOTHNODE_ Islands On The Net
+MOTHNODE_ Hypervision
+MOTHNODE_ Footprints
+MOTHNODE_ Search Yourself
+MOTHNODE_ Old Account
+MOTHNODE_ Metadata
+MOTHNODE_ Rerouted
+MOTHNODE_ Digital Rot
+MOTHNODE_ Slicers
+MOTHNODE_ File OS
 
 ---
 
