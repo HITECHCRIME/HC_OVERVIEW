@@ -2676,6 +2676,8 @@ MOTHNODE_ Cheatsheet
 MOTHNODE_ Checksum
 MOTHNODE_ Eroded Signatures
 MOTHNODE_ Terminal
+MOTHNODE_ Tethered
+MOTHNODE_ Manifested Reality
 
 ---
 
