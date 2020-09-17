@@ -2681,6 +2681,16 @@ MOTHNODE_ Manifested Reality
 
 ---
 
+MOTHNODE_ Calhoun Conundrum
+MOTHNODE_ Rat Paradise
+MOTHNODE_ Pattern Peaks
+MOTHNODE_ Growth (Civilization)
+MOTHNODE_ Death (Civilization)
+
+Could also be transferred to Overpopulus.
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
