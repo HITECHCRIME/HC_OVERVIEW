@@ -2701,6 +2701,12 @@ MOTHNODE_ Neo (Renew)
 MOTHNODE_ Eon (I Am)
 
 ---
+CIA Rituals To Reach Other Dimensions
+
+MOTHNODE_ Gateway Process
+MOTHNODE_ Classified Perspective
+
+---
 
 Randomness:
 - MOTHNODE_ Qaravultomba
