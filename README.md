@@ -2691,6 +2691,17 @@ Could also be transferred to Overpopulus.
 
 ---
 
+ONE / U-NIVERSE
+
+MOTHNODE_ One (Universe)
+MOTHNODE_ Oen (Spirit)
+MOTHNODE_ Noe (Thought)
+MOTHNODE_ Eno (Man)
+MOTHNODE_ Neo (Renew)
+MOTHNODE_ Eon (I Am)
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
