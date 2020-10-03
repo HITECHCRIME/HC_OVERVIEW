@@ -315,6 +315,8 @@ HITECH CRIME AGENT DASHBOARD APP "OVERSEER"
 - Access to Website and the timeline
 - Access to live creative ops updates
 
+/// note: research Glide apps for making the app
+
 OTHER
 - Video Games
 - Comics
