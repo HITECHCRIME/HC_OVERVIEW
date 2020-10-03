@@ -206,7 +206,8 @@ MAIN WEBSITE (DIGITAL)
 - Archive of Visual Communication from all other social media platforms (embeded gathering aligned with releases/categorized into releases)
 - In-Universe Short Stories
 - Lore Logs/Memoirs
-- Uplink Newsletter + In-Universe: In-Universe Character Photos + In-Universe Videos
+- "Agent Uplink" Newsletter + In-Universe: In-Universe Character Photos + In-Universe Videos
+- "Operative Uplink" Newsletter (Internal Communication)
 - Release Timeline
 - Gamified Mission System for Fans
 - Embeded Twitch Livestream
@@ -324,7 +325,7 @@ OTHER
 - Posters
 - Wallpaper
 - Leaflet
-- Indoctrination Booklet
+- Indoctrination Booklet / Orientation Programme
 - Hidden QR Codes - leading to hidden content
 
 ![](MICROLABEL_DISTRIBUTION.jpg)
