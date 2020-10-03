@@ -216,6 +216,7 @@ MAIN WEBSITE (DIGITAL)
 WIKIPEDIA WRITE-UPS
 - Hitech Crime / Metabrands / Microlabel / Lore / Releases / Setting
 - Helve AVR / Metabrands
+- MOTHNODE - artist/audiovisual researcher profile
 
 TWITTER (DIGITAL)
 - Photogrammetric Scenes
