@@ -211,7 +211,10 @@ MAIN WEBSITE (DIGITAL)
 - Gamified Mission System for Fans
 - Embeded Twitch Livestream
 - Embeded - Helve Logs - Behind The Scenes IRL
-- 
+
+WIKIPEDIA WRITE-UPS
+- Hitech Crime / Metabrands / Microlabel / Lore / Releases / Setting
+- Helve AVR / Metabrands
 
 TWITTER (DIGITAL)
 - Photogrammetric Scenes
