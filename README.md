@@ -203,29 +203,31 @@ Expenses:
 
 MAIN WEBSITE (DIGITAL)
 
-Hitech Crime Website https://www.hitechcri.me/
+https://www.hitechcri.me/ Hitech Crime Website 
 
-Hitech Crime Website Wiki https://wiki.hitechcri.me/
+https://wiki.hitechcri.me/ Hitech Crime Website Wiki 
 
-Hitech Crime Archiv (content cloud archive from all platforms) https://archiv.hitechcri.me/
+https://archiv.hitechcri.me/ Hitech Crime Archiv (content cloud archive from all platforms) 
 
-Hitech Crime Timeline (releases + lore snippets and content cloud around release) https://www.hitechcri.me/timeline
+https://www.hitechcri.me/timeline Hitech Crime Timeline (releases + lore snippets and content cloud around release) 
 
-Hitech Crime Latest Chapter (on top of the page, clicked scrolls to the top of the HC Timeline) https://www.hitechcri.me/timeline/latest
+https://www.hitechcri.me/timeline/latest Hitech Crime Latest Chapter (on top of the page, clicked scrolls to the top of the HC Timeline) 
 
-Hitech Crime Agent Uplink Web Version (at the top of the page) https://www.hitechcri.me/uplink
+https://www.hitechcri.me/uplink Hitech Crime Agent Uplink Web Version (at the top of the page) 
 
-Hitech Crime Operative Uplink Web Version (Logged In Access) https://www.hitechcri.me/uplink
+https://www.hitechcri.me/uplink Hitech Crime Operative Uplink Web Version (Logged In Access) 
 
-Hitech Crime Missions / Ops (gamified agent release system) https://www.hitechcri.me/missions
+https://www.hitechcri.me/missions Hitech Crime Missions / Ops (gamified agent release system) 
 
-Hitech Crime Live HQ https://www.hitechcri.me/live
+https://www.hitechcri.me/live Hitech Crime Live HQ 
 
-Hitech Crime Universe (lore introduction) https://www.hitechcri.me/universe
+https://www.hitechcri.me/universe Hitech Crime Universe (lore introduction) 
 
-Hitech Crime Operative Board (join now) https://www.hitechcri.me/board
+https://www.hitechcri.me/board Hitech Crime Operative Board (join now) 
 
-Hitech Crime Agent Access (Prime Membership - Become a Prime Agent leads to this with the selling points landing page) https://www.hitechcri.me/access
+https://www.hitechcri.me/access Hitech Crime Agent Access (Prime Membership - Become a Prime Agent leads to this with the selling points landing page) 
+
+https://www.hitechcri.me/logs Hitech Crime segment of Helve AVR Logs - behind the scenes
 
 - Hitech Crime Wiki
 - Archive of Visual Communication from all other social media platforms (embeded gathering aligned with releases/categorized into releases)
