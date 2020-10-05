@@ -280,7 +280,7 @@ https://www.instagram.com/mothnode/ MOTHNODE Instagram
 - IGTV Promo
 - Photogrammetric Scenes
 
-TIKTOK (DIGITAL)
+**TIKTOK (DIGITAL)**
 
 https://www.tiktok.com/@hitechcrime Hitech Crime TikTok 
 
@@ -291,7 +291,7 @@ https://www.tiktok.com/@mothnode MOTHNODE TikTok
 - Custom AR Filters (Spark AR)
 - Photogrammetric Scenes
 
-DISCORD (DIGITAL)
+**DISCORD (DIGITAL)**
 
 https://discord.gg/QH4gtDG Helve AVR Discord Server 
 
@@ -300,7 +300,7 @@ https://discord.gg/QH4gtDG Helve AVR Discord Server
 - Operative Coordination
 - Agent Briefings
 
-YOUTUBE (DIGITAL)
+**YOUTUBE (DIGITAL)**
 
 https://www.youtube.com/channel/UCoto7qDshpjgyAet2QO6FDA MOTHNODE YouTube 
 
@@ -317,7 +317,8 @@ Hitech Crime YouTube XXX
 - IRL Podcasts
 - In-Universe Audio Stories
 
-AUDIO STREAMING PLATFORMS (DIGITAL)
+**AUDIO STREAMING PLATFORMS (DIGITAL)**
+
 - YouTube Music
 - Soundcloud
 - Spotify
@@ -331,7 +332,8 @@ AUDIO STREAMING PLATFORMS (DIGITAL)
 - Bandcamp
 - Genius
 
-LIVE CREATIVE OPS (LIVE, PHYSICAL)
+**LIVE CREATIVE OPS (LIVE, PHYSICAL)**
+
 - Global Agent and Operative Network Map
 - Agent Reports 
 - In-Universe Experience - Audience In-Universe Cosplay
@@ -353,7 +355,7 @@ LIVE CREATIVE OPS (LIVE, PHYSICAL)
 - Geolocated Surprises
 - Secret Location Gatherings
 
-WEBSITE SHOP
+**WEBSITE SHOP**
 
 https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alternatively "gear" or "loadout/Agent loadout")
 
