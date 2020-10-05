@@ -388,6 +388,7 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 
 **OTHER**
 
+- Long-term Vision: Animated TV Series (animated rendition of the artists/characters withing the universe so that any sort of narrative and visual can be created)
 - Video Games
 - Comics
 - Books
