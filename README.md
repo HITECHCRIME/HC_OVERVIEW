@@ -202,6 +202,31 @@ Expenses:
 ## Hitech Crime Content and Platform Types
 
 MAIN WEBSITE (DIGITAL)
+
+Hitech Crime Website https://www.hitechcri.me/
+
+Hitech Crime Website Wiki
+
+Hitech Crime Archiv (content cloud archive from all platforms)
+
+Hitech Crime Timeline (releases + lore snippets and content cloud around release)
+
+Hitech Crime Latest Chapter (on top of the page, clicked scrolls to the top of the HC Timeline)
+
+Hitech Crime Agent Uplink Web Version (at the top of the page)
+
+Hitech Crime Operative Uplink Web Version (Logged In Access)
+
+Hitech Crime Missions (gamified agent release system)
+
+Hitech Crime Live HQ 
+
+Hitech Crime Universe (lore introduction)
+
+Hitech Crime Operative Board (join now)
+
+Hitech Crime Agent Access (Prime Membership - Become a Prime Agent leads to this with the selling points landing page)
+
 - Hitech Crime Wiki
 - Archive of Visual Communication from all other social media platforms (embeded gathering aligned with releases/categorized into releases)
 - In-Universe Short Stories
@@ -212,6 +237,7 @@ MAIN WEBSITE (DIGITAL)
 - Gamified Mission System for Fans
 - Embeded Twitch Livestream
 - Embeded - Helve Logs - Behind The Scenes IRL
+- Operative Roster / AUDIOVISUAL NARRATIVE MEMETIC CARRIERS: This list acts as a main directory of Operatives working within the means of Hitech Crime Cinematic Narrative Universe Microlabel. Sidenote: Transfer this into the hitechcri.me website as a part of the system. Restructure this into an Operative Board including an interactive biometric mug shot with gif glitch/ui attributes, fictional universe background in form of content cloud, miscellaneous in-universe futura visuals and vibe of an individual and in-universe release roster (either in-timeline or alternative timeline of events). Each Operative will have an opportunity to participate in the official main timeline releases as well. Each Operative of Hitech Crime acts as an semi-ficticious character within the frame of the transmedia cinematic narrative universe. Themes included are mentioned in the main repo of HC_OVERVIEW. Please refer to them when creating content be it videos, visuals or music releases. Please refer to the upcoming official timeline of the universe but don't fear giving feedback and suggesting edits to the Hitech Crime canon. Please mind this endeavour is a longterm effort, carefully designed along the way for maximum immersion of our Agents (the viewers/listeners). Nothing happens in a day if we are aiming for good quality and a great narrative.
 
 WIKIPEDIA WRITE-UPS
 - Hitech Crime / Metabrands / Microlabel / Lore / Releases / Setting
@@ -219,6 +245,11 @@ WIKIPEDIA WRITE-UPS
 - MOTHNODE - artist/audiovisual researcher profile
 
 TWITTER (DIGITAL)
+
+Hitech Crime Twitter XXX
+
+MOTHNODE Twitter https://twitter.com/mothnode
+
 - Photogrammetric Scenes
 - Updates
 
