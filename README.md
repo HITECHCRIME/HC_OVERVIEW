@@ -241,6 +241,9 @@ TIKTOK (DIGITAL)
 - Custom AR Filters (Spark AR)
 - Photogrammetric Scenes
 
+Hitech Crime TikTok https://www.tiktok.com/@hitechcrime
+MOTHNODE TikTok https://www.tiktok.com/@mothnode
+
 DISCORD (DIGITAL)
 - Engagement Interaction
 - Community Projects
