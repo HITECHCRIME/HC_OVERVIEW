@@ -201,6 +201,8 @@ Expenses:
 
 ## Hitech Crime Content and Platform Types
 
+![](MICROLABEL_DISTRIBUTION.jpg)
+
 **MAIN WEBSITE (DIGITAL)**
 
 https://www.hitechcri.me/ Hitech Crime Website 
@@ -394,8 +396,6 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 - Leaflet
 - Indoctrination Booklet / Orientation Programme
 - Hidden QR Codes - leading to hidden content
-
-![](MICROLABEL_DISTRIBUTION.jpg)
 
 ### WHAT IS A METABRAND_
 
