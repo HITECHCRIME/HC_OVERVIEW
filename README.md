@@ -201,7 +201,7 @@ Expenses:
 
 ## Hitech Crime Content and Platform Types
 
-MAIN WEBSITE (DIGITAL)
+**MAIN WEBSITE (DIGITAL)**
 
 https://www.hitechcri.me/ Hitech Crime Website 
 
@@ -241,12 +241,12 @@ https://www.hitechcri.me/logs Hitech Crime segment of Helve AVR Logs - behind th
 - Embeded - Helve Logs - Behind The Scenes IRL
 - Operative Roster / AUDIOVISUAL NARRATIVE MEMETIC CARRIERS: This list acts as a main directory of Operatives working within the means of Hitech Crime Cinematic Narrative Universe Microlabel. Sidenote: Transfer this into the hitechcri.me website as a part of the system. Restructure this into an Operative Board including an interactive biometric mug shot with gif glitch/ui attributes, fictional universe background in form of content cloud, miscellaneous in-universe futura visuals and vibe of an individual and in-universe release roster (either in-timeline or alternative timeline of events). Each Operative will have an opportunity to participate in the official main timeline releases as well. Each Operative of Hitech Crime acts as an semi-ficticious character within the frame of the transmedia cinematic narrative universe. Themes included are mentioned in the main repo of HC_OVERVIEW. Please refer to them when creating content be it videos, visuals or music releases. Please refer to the upcoming official timeline of the universe but don't fear giving feedback and suggesting edits to the Hitech Crime canon. Please mind this endeavour is a longterm effort, carefully designed along the way for maximum immersion of our Agents (the viewers/listeners). Nothing happens in a day if we are aiming for good quality and a great narrative.
 
-WIKIPEDIA WRITE-UPS
+**WIKIPEDIA WRITE-UPS**
 - Hitech Crime / Metabrands / Microlabel / Lore / Releases / Setting
 - Helve AVR / Metabrands
 - MOTHNODE - artist/audiovisual researcher profile
 
-TWITTER (DIGITAL)
+**TWITTER (DIGITAL)**
 
 Hitech Crime Twitter XXX
 
@@ -255,7 +255,7 @@ https://twitter.com/mothnode MOTHNODE Twitter
 - Photogrammetric Scenes
 - Updates
 
-FACEBOOK (DIGITAL)
+**FACEBOOK (DIGITAL)**
 
 https://www.facebook.com/helveavr Helve AVR Facebook 
 
@@ -267,7 +267,7 @@ https://www.facebook.com/directoroperative MOTHNODE Facebook
 - Updates
 - Photogrammetric Scenes
 
-INSTAGRAM (DIGITAL)
+**INSTAGRAM (DIGITAL)**
 
 https://www.instagram.com/hitechcrime/ Hitech Crime Instagram 
 
