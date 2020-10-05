@@ -223,11 +223,23 @@ TWITTER (DIGITAL)
 - Updates
 
 FACEBOOK (DIGITAL)
+
+Helve AVR Facebook https://www.facebook.com/helveavr
+
+Hitech Crime Facebook https://www.facebook.com/hitechcrime
+
+MOTHNODE Facebook https://www.facebook.com/directoroperative
+
 - Custom AR Filters (Spark AR)
 - Updates
 - Photogrammetric Scenes
 
 INSTAGRAM (DIGITAL)
+
+Hitech Crime Instagram https://www.instagram.com/hitechcrime/
+
+MOTHNODE Instagram https://www.instagram.com/mothnode/
+
 - Custom AR Filters (Spark AR)
 - Personal Updates
 - Stories Promo
@@ -258,6 +270,7 @@ Helve AVR Discord Server https://discord.gg/QH4gtDG
 YOUTUBE (DIGITAL)
 
 MOTHNODE YouTube https://www.youtube.com/channel/UCoto7qDshpjgyAet2QO6FDA
+
 Hitech Crime YouTube XXX
 
 - Web Series Stitched
@@ -308,6 +321,9 @@ LIVE CREATIVE OPS (LIVE, PHYSICAL)
 - Secret Location Gatherings
 
 WEBSITE SHOP
+
+Hitech Crime Merch (powered by Kannibal) https://www.hitechcri.me/ordnance (alternatively "gear" or "loadout/Agent loadout")
+
 - Accessory Merchandise
 - Clothing Merchandise
 - Prime Operative Season Pass
