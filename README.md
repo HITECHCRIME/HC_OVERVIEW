@@ -236,21 +236,30 @@ INSTAGRAM (DIGITAL)
 - Photogrammetric Scenes
 
 TIKTOK (DIGITAL)
+
+Hitech Crime TikTok https://www.tiktok.com/@hitechcrime
+
+MOTHNODE TikTok https://www.tiktok.com/@mothnode
+
 - Cypher/Puzzles
 - Promos
 - Custom AR Filters (Spark AR)
 - Photogrammetric Scenes
 
-Hitech Crime TikTok https://www.tiktok.com/@hitechcrime
-MOTHNODE TikTok https://www.tiktok.com/@mothnode
-
 DISCORD (DIGITAL)
+
+Helve AVR Discord Server https://discord.gg/QH4gtDG
+
 - Engagement Interaction
 - Community Projects
 - Operative Coordination
 - Agent Briefings
 
 YOUTUBE (DIGITAL)
+
+MOTHNODE YouTube https://www.youtube.com/channel/UCoto7qDshpjgyAet2QO6FDA
+Hitech Crime YouTube XXX
+
 - Web Series Stitched
 - Universe Cinematics
 - Short Films (Single 1 song)
