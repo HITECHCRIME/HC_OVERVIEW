@@ -370,19 +370,22 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 - Stickers
 - Kannibal Wear
 
-ALEXA AUDIO
+**ALEXA AUDIO**
+
 - Alexa Narrative Experience
 - Alexa Reminder For Live Events
 - Alexa Cyphers
 
-HITECH CRIME AGENT DASHBOARD APP "OVERSEER"
+**HITECH CRIME AGENT DASHBOARD APP "OVERSEER"**
+
 - Access to Shop
 - Access to Website and the timeline
 - Access to live creative ops updates
 
 /// note: research Glide apps for making the app
 
-OTHER
+**OTHER**
+
 - Video Games
 - Comics
 - Books
