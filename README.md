@@ -250,18 +250,18 @@ TWITTER (DIGITAL)
 
 Hitech Crime Twitter XXX
 
-MOTHNODE Twitter https://twitter.com/mothnode
+https://twitter.com/mothnode MOTHNODE Twitter 
 
 - Photogrammetric Scenes
 - Updates
 
 FACEBOOK (DIGITAL)
 
-Helve AVR Facebook https://www.facebook.com/helveavr
+https://www.facebook.com/helveavr Helve AVR Facebook 
 
-Hitech Crime Facebook https://www.facebook.com/hitechcrime
+https://www.facebook.com/hitechcrime Hitech Crime Facebook 
 
-MOTHNODE Facebook https://www.facebook.com/directoroperative
+https://www.facebook.com/directoroperative MOTHNODE Facebook 
 
 - Custom AR Filters (Spark AR)
 - Updates
@@ -269,9 +269,9 @@ MOTHNODE Facebook https://www.facebook.com/directoroperative
 
 INSTAGRAM (DIGITAL)
 
-Hitech Crime Instagram https://www.instagram.com/hitechcrime/
+https://www.instagram.com/hitechcrime/ Hitech Crime Instagram 
 
-MOTHNODE Instagram https://www.instagram.com/mothnode/
+https://www.instagram.com/mothnode/ MOTHNODE Instagram 
 
 - Custom AR Filters (Spark AR)
 - Personal Updates
@@ -282,9 +282,9 @@ MOTHNODE Instagram https://www.instagram.com/mothnode/
 
 TIKTOK (DIGITAL)
 
-Hitech Crime TikTok https://www.tiktok.com/@hitechcrime
+https://www.tiktok.com/@hitechcrime Hitech Crime TikTok 
 
-MOTHNODE TikTok https://www.tiktok.com/@mothnode
+https://www.tiktok.com/@mothnode MOTHNODE TikTok 
 
 - Cypher/Puzzles
 - Promos
@@ -293,7 +293,7 @@ MOTHNODE TikTok https://www.tiktok.com/@mothnode
 
 DISCORD (DIGITAL)
 
-Helve AVR Discord Server https://discord.gg/QH4gtDG
+https://discord.gg/QH4gtDG Helve AVR Discord Server 
 
 - Engagement Interaction
 - Community Projects
@@ -302,7 +302,7 @@ Helve AVR Discord Server https://discord.gg/QH4gtDG
 
 YOUTUBE (DIGITAL)
 
-MOTHNODE YouTube https://www.youtube.com/channel/UCoto7qDshpjgyAet2QO6FDA
+https://www.youtube.com/channel/UCoto7qDshpjgyAet2QO6FDA MOTHNODE YouTube 
 
 Hitech Crime YouTube XXX
 
@@ -355,7 +355,7 @@ LIVE CREATIVE OPS (LIVE, PHYSICAL)
 
 WEBSITE SHOP
 
-Hitech Crime Merch (powered by Kannibal) https://www.hitechcri.me/ordnance (alternatively "gear" or "loadout/Agent loadout")
+https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alternatively "gear" or "loadout/Agent loadout")
 
 - Accessory Merchandise
 - Clothing Merchandise
