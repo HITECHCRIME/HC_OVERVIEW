@@ -12,10 +12,13 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 1. [INTRODUCTION TO THE WORLD OF HITECH CRIME_](#intro)
 
       1.1 [CREATIVE AIM_](#creativeaim)
+      
        
       1.2 [TECHNICAL AIM_](#technicalaim)
+      
        
       1.3 [METAPHYSICAL AIM_](#metaphysicalaim)
+      
        
       1.4 [THEMES_](#themes)
        
