@@ -13,8 +13,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
 
       1.1 [CREATIVE AIM_](#creativeaim)
-      
-       
+
       1.2 [TECHNICAL AIM_](#technicalaim)
       
        
