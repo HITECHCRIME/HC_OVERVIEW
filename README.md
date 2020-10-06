@@ -11,6 +11,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 ```
 1. [INTRODUCTION TO THE WORLD OF HITECH CRIME_](#intro)
 
+
       1.1 [CREATIVE AIM_](#creativeaim)
       
        
@@ -28,15 +29,21 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
       2.1 THE OBJECTIVE MEANING
 
+
       2.2 THE UNDERLYING MEANING
+
 
       2.3 TIMELINES
       
+      
       - THE ORIGIN TIMELINE (past 2+ years of testing the concept, 1 year into the future of small release package tests)
+      
       
       - NEARSIGHT TIMELINE (initial official narrative arc launch)
           
+          
       - DISTANT TIMELINE (advanced launch, possibly parallel narrative arc)
+          
           
       - HYBRID TIMELINE (continuous ever-expanding side timeline with collaborations with other Operatives)
        
