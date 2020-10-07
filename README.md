@@ -173,6 +173,8 @@ Path goes from bottom to top:
 ## THE ORIGIN Timeline
 (past 2+ years of testing the concept, 1 year into the future of small release package tests)
 
+CREATE RELEASE PACKAGE LIST IN ANOTHER SEGMENT BELOW - ORGANIZING THE CURRENT 260 RELEASE PROTOTYPES.
+
 ## NEARSIGHT Timeline
 (initial official narrative arc launch) 
 
