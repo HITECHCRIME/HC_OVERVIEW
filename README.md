@@ -398,6 +398,7 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 - Access to Shop
 - Access to Website and the timeline
 - Access to live creative ops updates
+- QR Code Reader for the lore puzzle mysteries
 
 /// note: research Glide apps for making the app
 
