@@ -63,7 +63,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
       3.5 [WHAT IS A METABRAND_](#metabrand)
 
-4.
+4. [VISUAL COMMUNICATION OF THE BRAND NOTES_](#viscom)
 
 <a name="intro"></a>
 # INTRODUCTION TO THE WORLD OF HITECH CRIME_
@@ -486,6 +486,7 @@ DISCORD / TWITCH
 
 > For the educational and entertaining purposes to work in such a storyworld you have to make both the people and the product the most important thing. It has to rotate around their minds at all times. - DIRECTOR OPERATIVE MOTHNODE
 
+<a name="viscom"></a>
 # /// VISUAL COMMUNICATION OF THE BRAND NOTES_
 
 Album/song releases are like plot points in a bigger narrative (overarching themes) accompanied by rich media content. Various timelines are different subthemes: cyberpunk, dark trap, scifi, tribalism, control your future, human enhancement/transhumanism etc.
