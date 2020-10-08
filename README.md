@@ -225,7 +225,7 @@ Timeline which is semi-fictional. Focuses on the endless collaborative album (co
 # CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
 
 <a name="funnel"></a>
-## HITECH CRIME DISTRIBUTION FUNNEL
+## HITECH CRIME DISTRIBUTION FUNNEL_
 Digital Broadcast Platforms
 - Agent Access - high quality access points
 
@@ -233,13 +233,15 @@ Digital Broadcast Platforms
 
 Expenses:
 
-## THE ASSUMPTIONS
+<a name="assumptions"></a>
+## THE ASSUMPTIONS_
 
 - Humans look for **convenience**.
 - Humans look for **connection to escape**.
 - Humans look for **connection to figure out who they are**.
 
-### The Message
+<a name="themessage"></a>
+### THE MESSAGE_
 
 - Commentary on consumable ficticious violence.
 - Entertainment and escapism as hook for education.
@@ -249,7 +251,8 @@ Expenses:
 > ASCENSION (progress of all possible futures/timelines)
 > RELEASE (englightenment and the making of choice)
 
-## Hitech Crime Content and Platform Types
+<a name="contenttypes"></a>
+## HITECH CRIME CONTENT AND PLATFORM TYPES_
 
 ![](MICROLABEL_DISTRIBUTION.jpg)
 
