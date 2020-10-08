@@ -33,7 +33,6 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
           
       - DISTANT TIMELINE (advanced launch, possibly parallel narrative arc)
           
-          
       - HYBRID TIMELINE (continuous ever-expanding side timeline with collaborations with other Operatives)
        
        
