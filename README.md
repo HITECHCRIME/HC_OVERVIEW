@@ -21,19 +21,19 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
 2. [STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_](#storyworld)
 
-      2.1 THE OBJECTIVE MEANING
+      2.1 [THE OBJECTIVE MEANING](#objective)
 
-      2.2 THE UNDERLYING MEANING
+      2.2 [THE UNDERLYING MEANING](#message)
 
-      2.3 TIMELINES
+      2.3 [TIMELINES](#timelines)
     
-      - THE ORIGIN TIMELINE (past 2+ years of testing the concept, 1 year into the future of small release package tests)
+      - [THE ORIGIN TIMELINE](#origin) (past 2+ years of testing the concept, 1 year into the future of small release package tests)
       
-      - NEARSIGHT TIMELINE (initial official narrative arc launch)
+      - [NEARSIGHT TIMELINE](#nearsight) (initial official narrative arc launch)
           
-      - DISTANT TIMELINE (advanced launch, possibly parallel narrative arc)
+      - [DISTANT TIMELINE](#distant) (advanced launch, possibly parallel narrative arc)
           
-      - HYBRID TIMELINE (continuous ever-expanding side timeline with collaborations with other Operatives)
+      - [HYBRID TIMELINE](#hybrid) (continuous ever-expanding side timeline with collaborations with other Operatives)
 
       2.4
       
@@ -41,17 +41,17 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
        
       2.6
       
-3. CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
+3. [CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_](#contentcloud)
 
-      3.1 Hitech Crime Distribution Funnel
+      3.1 [Hitech Crime Distribution Funnel](#funnel)
       
-      3.2 The Assumptions
+      3.2 [The Assumptions](#assumptions)
       
-      3.3 The Message
+      3.3 [The Message](#themessage)
       
-      3.4 Hitech Crime Content and Platform Types
+      3.4 [Hitech Crime Content and Platform Types](#contenttypes)
       
-      3.5 WHAT IS A METABRAND_
+      3.5 [WHAT IS A METABRAND_](#metabrand)
 
 4.
 
