@@ -153,6 +153,7 @@ Hitech Crime and my core self has always been going into the symbolism of triang
 
 Here is a way the triangles tie into the universe of Hitech Crime with its main purpose as a metabrand to make people realize the existence of their own core self through transformation of negative aspects into something productive.
 
+<a name="upward"></a>
 ### UPWARD TRIANGLE_ [🔺]
 Imagine an Upward Triangle. (Future/Spirit) as the priority at the top, (Past/Mind) and (Present/Body) at the bottom corners - that symbol as a whole signifies the ascent into divine realm of rational (getting rid of unnecessary dopamine triggers in life). 
 
@@ -160,6 +161,7 @@ This attaches easily to the concept of Upright Hierophant from Tarot: he's a tra
 
 Upright Hierophants are our self-analyzed core drives guiding us to where we truly want to be - hardly influenced, promoting positive reinforcement of the main goals.
 
+<a name="downward"></a>
 ### DOWNWARD TRIANGLE_ [🔻]
 Now imagine a Downward Triangle - (Past/Mind) and (Present/Body) being the top two points of priorities for a person. (Future/Spirit) at the bottom. The descent into corporeal, degrading and torn human. 
 
@@ -169,16 +171,19 @@ Invereted Hierophants are our thoughts and emotions - easily influenced and soli
 
 ![](szymon-hendzel-fanart.jpg)
 
+<a name="guide"></a>
 ### CORE SELF GUIDED WITH THE UPWARD TRIANGLE_
 The way I see it - dopamine in Dopamine Trails can be either Upright Hierophant (guidance) or Inverted Hierophant (corruptor). An upward triangle or a downward triangle. Establishing the core self of our person existing within the Upright Triangle to act as a self-guiding force - that is the goal of life as well as the main core drive for Hitech Crime, which is establishing a world for transformation of self, transformation of negative thinking and emotions into productive patterns. 
 
 Think of Core Self as an Upward Triangle with a dot in it as the symbol. 
 
+<a name="states"></a>
 ### HITECH CRIME BEING THE LINK BETWEEN TWO STATES_
 Now how this ties into the Hitech Crime in terms of the universe we are creating as a microlabel. Remember that Hitech Crime is a semi-fictional organization/agency within that universe. It acts as a link/helping hand towards reaching the core self for others. It has a goal of guiding people from Downward Triangle to the Upward Triangle by traditional and subversive means. It aims at least to balance the triangles for people.
 
 Since we are going with the delicate sci-fi cyberpunk theme - the core self could be made to mean the unifying metaphysical space that we can all tap into. Inner consciousness in a bigger collective consciousness of the virtualized world.
 
+<a name="top"></a>
 ### THE PATH TO THE TOP_
 Path goes from bottom to top:
 🔺 
@@ -189,23 +194,28 @@ Path goes from bottom to top:
 
 > The point with Hitech Crime is to see the corruption of the perceived oneness, call it out and purge in order to reunite with self. In a more of a tarot vibe - HC is the upright hierophant in its intent and the aim is to draw light to the inverted hierophant, the corruptor so it gets recognized. This way HC connects with Dopamine Trails system which lies at the core of all I’m doing.
 
+<a name="timelines"></a>
 # TIMELINES_
 
+<a name="origin"></a>
 ## THE ORIGIN Timeline
 (past 2+ years of testing the concept, 1 year into the future of small release package tests)
 
 CREATE RELEASE PACKAGE LIST IN ANOTHER SEGMENT BELOW - ORGANIZING THE CURRENT 260 RELEASE PROTOTYPES.
 
+<a name="nearsight"></a>
 ## NEARSIGHT Timeline
 (initial official narrative arc launch) 
 
 Alt futura, near future society in the process of changing due to technological advancement. Minimal tech present, gentle hitech themes, similar to present society but a tiny bit more advanced.
 
+<a name="distant"></a>
 ## DISTANT Timeline
 (advanced launch, possibly parallel narrative arc) 
 
 Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
+<a name="hybrid"></a>
 ## HYBRID Timeline
 (continuous ever-expanding side timeline with collaborations with other Operatives) 
 
@@ -214,7 +224,8 @@ Timeline which is semi-fictional. Focuses on the endless collaborative album (co
 <a name="contentcloud"></a>
 # CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
 
-## HITECH CRIME DISTRIBUTION CHANNELS
+<a name="funnel"></a>
+## HITECH CRIME DISTRIBUTION FUNNEL
 Digital Broadcast Platforms
 - Agent Access - high quality access points
 
