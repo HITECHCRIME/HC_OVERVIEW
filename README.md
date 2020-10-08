@@ -45,7 +45,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
       3.1 Hitech Crime Distribution Funnel
       
-      3.2
+      3.2 The Assumptions
       
       3.3
 
