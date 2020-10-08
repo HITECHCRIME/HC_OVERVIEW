@@ -510,8 +510,6 @@ Creating engaging content (in my case semi-fictional universes with story arcs a
 
 Gather user content: „respond with a photo or video of yourself doing the Hitech Crime sign and I’ll repost you” ]|[
 
-
-
 ---
 
 ## Website Lore Tie-ins
