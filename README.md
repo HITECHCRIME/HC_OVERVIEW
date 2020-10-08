@@ -67,7 +67,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, bringing its audience closer than ever before.
 
 <a name="creativeaim"></a>
-## Creative Aim_
+## CREATIVE AIM_
 
 Its *creative aim* is to build an audiovisual narrative universe with unique lore and narratives. In its purest initial form it was intended as a creative prison for my negative emotions and thoughts. 
 
