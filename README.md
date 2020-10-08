@@ -17,7 +17,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
      
       1.3 [METAPHYSICAL AIM_](#metaphysicalaim)
 
-      1.4 [THEMES_](#themes)
+      1.4 [BRAND THEMES_](#themes)
 
 2. [STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_](#storyworld)
 
@@ -96,7 +96,7 @@ Its *technical aim* is to research, develop and execute ideas in form of new wav
 Be a helping hand for people to reach their own fulfillment by discovering their core self and core drives, to help them become a better version of themselves. Later described in The Storyworld section of the repository.
 
 <a name="themes"></a>
-## Themes_
+## BRAND THEMES_
 As an always evolving expressive entity it hybridizes, explores and dives into topics of:
 
 ![](hitech-crime-themes.png)
