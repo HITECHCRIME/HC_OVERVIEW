@@ -26,8 +26,7 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       2.2 THE UNDERLYING MEANING
 
       2.3 TIMELINES
-      
-      
+    
       - THE ORIGIN TIMELINE (past 2+ years of testing the concept, 1 year into the future of small release package tests)
       
       
