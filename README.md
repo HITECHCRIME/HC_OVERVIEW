@@ -31,7 +31,6 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
       - NEARSIGHT TIMELINE (initial official narrative arc launch)
           
-          
       - DISTANT TIMELINE (advanced launch, possibly parallel narrative arc)
           
           
