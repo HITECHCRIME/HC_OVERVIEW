@@ -36,10 +36,8 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       - HYBRID TIMELINE (continuous ever-expanding side timeline with collaborations with other Operatives)
 
       2.4
-       
-       
+      
       2.5
-       
        
       2.6
       
