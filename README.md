@@ -41,7 +41,13 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
        
       2.6
       
-3.
+3. CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
+
+      3.1 Hitech Crime Distribution Funnel
+      
+      3.2
+      
+      3.3
 
 4.
 
@@ -179,6 +185,7 @@ Proper Cyberpunk 2077 vibes. Distant future dystopia.
 
 Timeline which is semi-fictional. Focuses on the endless collaborative album (collabs, Hitech Crime hybrids). Might be a lot less fictionalized for the purposes of following a narrative. Might be entirely based in reality as a "side content".
 
+<a name="contentcloud"></a>
 # CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_
 
 ## Hitech Crime Distribution Funnel
