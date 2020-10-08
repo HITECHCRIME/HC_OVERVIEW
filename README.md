@@ -53,13 +53,13 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
 3. [CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_](#contentcloud)
 
-      3.1 [HITECH CRIME DISTRIBUTION FUNNEL](#funnel)
+      3.1 [HITECH CRIME DISTRIBUTION FUNNEL_](#funnel)
       
-      3.2 [THE ASSUMPTIONS](#assumptions)
+      3.2 [THE ASSUMPTIONS_](#assumptions)
       
-      3.3 [THE MESSAGE](#themessage)
+      3.3 [THE MESSAGE_](#themessage)
       
-      3.4 [HITECH CRIME CONTENT AND PLATFORM TYPES](#contenttypes)
+      3.4 [HITECH CRIME CONTENT AND PLATFORM TYPES_](#contenttypes)
       
       3.5 [WHAT IS A METABRAND_](#metabrand)
 
