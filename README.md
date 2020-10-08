@@ -64,6 +64,18 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
 
 Microlabel's projects are set in the Hitech Crime universe and exists both in the fictional form as well as in reality, bringing its audience closer than ever before.
 
+Spotify Description: 
+
+> Director Operative of Hitech Crime Cinematic Narrative Universe Microlabel developed as a part of dark moon metabrand experiments by Helve ΛVR rogue high technology creative agency.
+
+> Our microlabel merges near-future cyberpunk narrative storytelling via interactive IRL installations, gamified experiences, cinematic films and dark rap music. Its aim is to build a semi-ficticious universe, unique lore and narratives through experimenting with variety of transmedia content. 
+
+> In its purest initial form it was intended as a creative prison and expressive tool for my negative emotions and thoughts. We want to present a path of progress and the growth of understanding throughout Hitech Crime's story arcs to draw in the audience and teach them important elements of life while simulatenously entertaining.
+
+> Join Live Creative Ops, become our Agent!
+
+> „The Cyberpunk 2077 of Darkwave Trap Music”
+
 <a name="creativeaim"></a>
 ## CREATIVE AIM_
 
