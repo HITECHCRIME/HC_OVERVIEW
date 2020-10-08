@@ -29,11 +29,11 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
       - [DOWNWARD TRIANGLE_](#downward)
       
-      - [CORE SELF GUIDED WITH THE UPWARD TRIANGLE_]
+      - [CORE SELF GUIDED WITH THE UPWARD TRIANGLE_](#guide)
       
-      - [HITECH CRIME BEING THE LINK BETWEEN TWO STATES_]
+      - [HITECH CRIME BEING THE LINK BETWEEN TWO STATES_](#states)
       
-      - PATH TO THE TOP_
+      - [PATH TO THE TOP_](#top)
 
       2.3 [TIMELINES](#timelines)
     
@@ -53,13 +53,13 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
 3. [CONTENT CLOUD MASTERLIST OF THE HITECH CRIME METABRAND_](#contentcloud)
 
-      3.1 [Hitech Crime Distribution Funnel](#funnel)
+      3.1 [HITECH CRIME DISTRIBUTION FUNNEL](#funnel)
       
-      3.2 [The Assumptions](#assumptions)
+      3.2 [THE ASSUMPTIONS](#assumptions)
       
-      3.3 [The Message](#themessage)
+      3.3 [THE MESSAGE](#themessage)
       
-      3.4 [Hitech Crime Content and Platform Types](#contenttypes)
+      3.4 [HITECH CRIME CONTENT AND PLATFORM TYPES](#contenttypes)
       
       3.5 [WHAT IS A METABRAND_](#metabrand)
 
