@@ -24,6 +24,16 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       2.1 [THE OBJECTIVE MEANING](#objective)
 
       2.2 [THE UNDERLYING MEANING](#message)
+      
+      - UPWARD TRIANGLE_
+      
+      - DOWNWARD TRIANGLE_
+      
+      - CORE SELF GUIDED WITH THE UPWARD TRIANGLE_
+      
+      - HITECH CRIME BEING THE LINK BETWEEN TWO STATES_
+      
+      - PATH TO THE TOP_
 
       2.3 [TIMELINES](#timelines)
     
@@ -127,9 +137,11 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 <a name="storyworld"></a>
 # STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
+<a name="objective"></a>
 ## THE OBJECTIVE MEANING_
 Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
 
+<a name="message"></a>
 ## THE UNDERLYING MEANING_
 ![](meaning-of-hitech-crime.png)
 
