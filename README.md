@@ -47,7 +47,11 @@ MINIMAL FUTURA AGGRO TRAP / CHANTRAP / FUTURAP / HITECH CRIME MYTHOS / DARKWAVE 
       
       3.2 The Assumptions
       
-      3.3
+      3.3 The Message
+      
+      3.4 Hitech Crime Content and Platform Types
+      
+      3.5 WHAT IS A METABRAND_
 
 4.
 
