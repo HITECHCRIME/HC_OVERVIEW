@@ -969,7 +969,7 @@ Initial to secure standpoint.
 ![](prototyping-initial-to-secure.png)
 
 # Microlabel "Narrow example"
-This is a label for cinematic ambient music I've been following for years. At some point it refined its approach and created a microverse of content.
+This is an Atrium Carceri-run ambient microlabel for cinematic ambient music I've been following for years. At some point it refined its approach and created a microverse of content.
 
 ![](cryochamber-example.png)
 
