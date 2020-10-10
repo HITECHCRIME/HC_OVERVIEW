@@ -3347,6 +3347,25 @@ Alternative: RCompressor + RVox
 
 ---
 
+# STRATEGY_
+
+- 2000 fans / 60 days
+- 33/day
+- 231/week
+- 20% conversion out of 165 actions = 33 followers a day
+- 165 daily actions on account: 30 min / 30 min / 30 min (90 minutes a day)
+
+30 - hashtags: find 10 hashtags, comment and like on 5 posts per hashtag (producers of ig, bedroom producer, trap producer, hiphoproducer - search for popular post with hashtags and use these if you can't find any) - no more than 55 actions in one hour: like and comment is one action.
+
+30 - accounts / 55 actions: similar accounts to what you offer, 7 accounts day, 7 posts on each, like and a comment (one action) ON SOMEBODY'S COMMENT
+- 7x7=49 / commenters / start conversations
+
+30 - hashtags / 55 actions:
+
+That's 50+50 actions for hashtags and 49 for comments. Next Discovery choose 16 randoms, interact with content you actually enjoy don't send DMs just watch.
+
+Which brings us to 165 interactions.
+
 
 
 # BLACKLANE_
