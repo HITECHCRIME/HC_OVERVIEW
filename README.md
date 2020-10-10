@@ -3374,6 +3374,14 @@ Which brings us to 165 interactions.
 #metal
 #deathcore
 
+https://www.instagram.com/plaguedsoulofficial/
+https://www.instagram.com/undergroundsnotdead/
+https://www.instagram.com/ll.incorp/
+https://www.instagram.com/chesus_jrist_ur_lord/
+https://www.instagram.com/salemandseverus/
+https://www.instagram.com/_shrilladead_/
+https://www.instagram.com/selenab3.an/
+
 ---
 
 #trap
@@ -3383,6 +3391,14 @@ Which brings us to 165 interactions.
 #darkness
 #undergroundhiphop
 #underground
+
+https://www.instagram.com/wrvth1/
+https://www.instagram.com/altergore/
+https://www.instagram.com/meefsiu/
+https://www.instagram.com/data.ells/
+https://www.instagram.com/officialfakeig/
+https://www.instagram.com/slaughterthecrowdproductions/
+https://www.instagram.com/friedpotato_beats/
 
 ---
 
@@ -3394,6 +3410,14 @@ Which brings us to 165 interactions.
 #futurism
 #cyberwave
 
+https://www.instagram.com/panthergirl0626/
+https://www.instagram.com/sintraphouse02/
+https://www.instagram.com/4pf.homies/
+https://www.instagram.com/urgx_/
+https://www.instagram.com/digbysfxcked/
+https://www.instagram.com/shoshin.workshop/
+https://www.instagram.com/prodby_mag/
+
 ---
 
 #marvel
@@ -3403,6 +3427,12 @@ Which brings us to 165 interactions.
 #polskirap
 #undergroundmusic
 #undergroundrapper
+
+https://www.instagram.com/neko_catte/
+https://www.instagram.com/yxngteezyxo/
+https://www.instagram.com/xx.gamze44/
+https://www.instagram.com/husky.yeet/
+
 
 ---
 
