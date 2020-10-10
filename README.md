@@ -3366,7 +3366,65 @@ That's 50+50 actions for hashtags and 49 for comments. Next Discovery choose 16 
 
 Which brings us to 165 interactions.
 
+#trapmusic
+#trapcore
+#trapmetal
+#shadowrap
+#rapmetal
+#metal
+#deathcore
 
+---
+
+#trap
+#occult
+#darktrap
+#darkmusic
+#darkness
+#undergroundhiphop
+#underground
+
+---
+
+#neofutura
+#futura
+#darkfutura
+#dystopia
+#cyberpunk
+#futurism
+#cyberwave
+
+---
+
+#marvel
+#marveluniverse
+#future
+#polskitrap
+#polskirap
+#undergroundmusic
+#undergroundrapper
+
+---
+
+#trapper
+#upcmingrapper
+#rapperquotes
+#trappers
+#dystopian
+#dystopia
+#newmusic
+
+---
+
+#humanedge
+#polskihiphop
+#deathtrap
+#doomtrap
+#rap
+#dopaminecartel
+#musicproducer
+
+---
 
 # BLACKLANE_
 
