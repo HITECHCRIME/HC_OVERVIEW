@@ -968,10 +968,14 @@ Mapping the user Journey/XP: https://storiesonboard.com/
 Initial to secure standpoint.
 ![](prototyping-initial-to-secure.png)
 
-# Microlabel "Narrow example"
+# Metabrand Microlabel "Narrow example" Inspiration
 This is an Atrium Carceri-run ambient microlabel for cinematic ambient music I've been following for years. At some point it refined its approach and created a microverse of content.
 
 ![](cryochamber-example.png)
+
+Another is a EBM label called Prekursor.
+
+![](prekursor.png)
 
 # Value of Scenes
 Statistically film has 40 to 60 scenes. Each of the scenes has a change in value assigned either positive (desire of the protagonist) or negative (forces of antagonism).
