@@ -262,6 +262,8 @@ Expenses:
 
 [CURRENTLY IN DEVELOPMENT]
 
+![](hitechcrime_website_10_October_2020.png)
+
 https://www.hitechcri.me/ Hitech Crime Website 
 
 https://wiki.hitechcri.me/ Hitech Crime Website Wiki 
