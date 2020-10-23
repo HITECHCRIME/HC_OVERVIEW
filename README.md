@@ -276,6 +276,8 @@ https://www.hitechcri.me/timeline/latest Hitech Crime Latest Chapter (on top of 
 
 https://www.hitechcri.me/uplink Hitech Crime Agent Uplink Web Version (at the top of the page) 
 
+- use Mailchimp Customer Journey Builder for the newsletter 14.99 USD
+
 https://www.hitechcri.me/uplink Hitech Crime Operative Uplink Web Version (Logged In Access) 
 
 https://www.hitechcri.me/missions Hitech Crime Missions / Ops (gamified agent release system) 
