@@ -336,7 +336,7 @@ https://www.instagram.com/hitechcrime/ Hitech Crime Instagram
 
 https://www.instagram.com/mothnode/ MOTHNODE Instagram 
 
-- Custom AR Filters (Spark AR)
+- Custom AR Filters (Spark AR) - TUTORIAL PENDING: 1) HC logo summon, 2) Operative face
 - Personal Updates
 - Stories Promo
 - 9-post Vibe Release Promo
