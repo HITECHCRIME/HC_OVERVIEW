@@ -417,6 +417,7 @@ Hitech Crime YouTube XXX
 - Augmented Reality Games
 - Geolocated Surprises
 - Secret Location Gatherings
+- collectible digital Universe Lore Items to unlock and gather on your Hitech Crime Overseer account
 
 **WEBSITE SHOP**
 
@@ -445,6 +446,9 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 - Access to Website and the timeline
 - Access to live creative ops updates
 - QR Code Reader for the lore puzzle mysteries
+- access to exclusive storylines
+- keeps track of your collectible physical Universe Lore Items
+- keeps track of your collectible digital Universe Lore Items
 
 /// note: research Glide apps for making the app
 
@@ -494,9 +498,9 @@ It is yet to be concluded if this is morally appropriate in the current state of
 ## Core Offer (Pay Gate) - separate pieces of content - trigger point for upsell)
 - Physical Albums + AV (music + films + other pieces of content relating to album chapter)
 - Clothing (merch as a part of Kannibal universe).
-- Universe Items (higher cost merch).
+- Universe Lore Items (higher cost merch): Random Item, Specific Rarity Random Item. Collect them all (guaranteed new item).
 - Exclusive narrative chapters (later down the line)?
-- 1-Month/6-Moth/1 Year Subscription to Overseer app
+- 1-Month/6-Moth/1 Year Subscription to Overseer app.
 
 ## Upsell (Narrative Packages)
 - Examples in form pf Narrative Packs containing access to chapters full of additional content, albums, merch like clothing and items from the universe for the most expensive version of the Narrative Pack. 
@@ -509,18 +513,19 @@ It is yet to be concluded if this is morally appropriate in the current state of
 
 ### Narrative Pack Tiers / Versions
 
-Modular Narrative Packs. Take a pick at the content you want.
+Modular Narrative Packs. Take a pick at the content you want. Choose from album, clothing, subscription to Overseer (all tiers), universe lore items (all rarities). SIMPLIFY.
 
 ---
 
 **Narrative Pack: Agent 1 - STANDARD ISSUE OUTFIT 1**
 - Album
 - Piece of Clothing (choose your pick)
+- 
 - 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
  
 **Narrative Pack: Agent 2 - UNIVERSE**
 - Album
-- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- Common/Standard/Rare Physical Universe Lore Item (choice rises the price by a bit)
 - 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
 
 **Narrative Pack: Agent 3 - STANDARD ISSUE OUTFIT 2**
@@ -538,13 +543,13 @@ Modular Narrative Packs. Take a pick at the content you want.
 **Narrative Pack: Operative 1**
 - Album
 - Piece of Clothing (choose your pick)
-- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- Common/Standard/Rare Physical Universe Lore Item (choice rises the price by a bit)
 - 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
 
 **Narrative Pack: Operative 2**
 - Album
 - 2 Pieces of Clothing (choose your pick)
-- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- Common/Standard/Rare Physical Universe Lore Item (choice rises the price by a bit)
 - 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
 
 ---
@@ -552,7 +557,13 @@ Modular Narrative Packs. Take a pick at the content you want.
 **Narrative Pack: Director Operative**
 - Album
 - Piece of Clothing (choose your pick)
-- Common/Standard/Rare Universe Lore Item
+- Common/Standard/Rare Physical Universe Lore Item
+- 1-Month of Subscription to Overseer app
+
+**Narrative Pack: Director Operative 2**
+- Album
+- 2 Pieces of Clothing (choose your pick)
+- 2 Common/Standard/Rare Physical Universe Lore Item
 - 1-Month of Subscription to Overseer app
 
 (naming: Prime Operative, Prime Agent)
@@ -565,6 +576,7 @@ Subscription to Overseer app (access to chapter previews and audiovisual content
 6 month
 12 month
 
+- Digital Universe Lore Items Collectible Drop (monthly sub)
 
 ### /// BASIC ENTRY POINTS_ (make an icon grid)
 
