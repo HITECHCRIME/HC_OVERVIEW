@@ -426,7 +426,7 @@ https://www.hitechcri.me/ordnance Hitech Crime Merch (powered by Kannibal) (alte
 - Clothing Merchandise
 - Prime Operative Season Pass
 - Digital Tickets
-- In-Universe Merchandise (Lore Items)
+- In-Universe Merchandise (Universe Lore Items) - Rarity-based: Common, Standard, Rare
 - Physical Albums
 - Exclusive Digital Albums
 - Collector Edition Album Loadout
@@ -483,6 +483,88 @@ It is yet to be concluded if this is morally appropriate in the current state of
 > - People who are looking for personal answers in content (can relate to it).
 > - People who want to be immersed in content (want to escape reality).
 > - People who want to become the content (want to take part in the making).
+
+# OFFER
+
+## Free Offer
+- Base narrative content in form of chapters and open social media access hook points
+- Streamable Music
+- Goodies (refer to the Content Cloud)
+
+## Core Offer (Pay Gate) - separate pieces of content - trigger point for upsell)
+- Physical Albums + AV (music + films + other pieces of content relating to album chapter)
+- Clothing (merch as a part of Kannibal universe).
+- Universe Items (higher cost merch).
+- Exclusive narrative chapters (later down the line)?
+- 1-Month/6-Moth/1 Year Subscription to Overseer app
+
+## Upsell (Narrative Packages)
+- Examples in form pf Narrative Packs containing access to chapters full of additional content, albums, merch like clothing and items from the universe for the most expensive version of the Narrative Pack. 
+
+**Example 1:**
+
+- Album 
+- 1-Month of Subscription to Overseer app
++ Upsell another chapter
+
+### Narrative Pack Tiers / Versions
+
+Modular Narrative Packs. Take a pick at the content you want.
+
+---
+
+**Narrative Pack: Agent 1 - STANDARD ISSUE OUTFIT 1**
+- Album
+- Piece of Clothing (choose your pick)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+ 
+**Narrative Pack: Agent 2 - UNIVERSE**
+- Album
+- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+**Narrative Pack: Agent 3 - STANDARD ISSUE OUTFIT 2**
+- Album
+- 2 Pieces of Clothing (choose your pick)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+**Narrative Pack: Agent 4 - STANDARD ISSUE OUTFIT 3**
+- Album
+- 3 Pieces of Clothing (choose your pick)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+---
+
+**Narrative Pack: Operative 1**
+- Album
+- Piece of Clothing (choose your pick)
+- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+**Narrative Pack: Operative 2**
+- Album
+- 2 Pieces of Clothing (choose your pick)
+- Common/Standard/Rare Universe Lore Item (choice rises the price by a bit)
+- 1-Month of Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+---
+
+**Narrative Pack: Director Operative**
+- Album
+- Piece of Clothing (choose your pick)
+- Common/Standard/Rare Universe Lore Item
+- 1-Month of Subscription to Overseer app
+
+(naming: Prime Operative, Prime Agent)
+
+## Subscription
+- Subscription: Take part in the universe. Live notifications and immersing you into the narrative content. Exclusive access to more storylines.
+Subscription to Overseer app (access to chapter previews and audiovisual content)
+
+1 month
+6 month
+12 month
+
 
 ### /// BASIC ENTRY POINTS_ (make an icon grid)
 
@@ -542,12 +624,6 @@ Yeah, my aim now is to design a website (in progress) that is kind of like a hub
 Yes, from the very beginning. Helve at its core will be a creative agency providing services for branding and communication of this kind of breed of projects. HC is like a proof of concept. HC and Kannibal are the test field.
 
 > You might benefit from the idea of the 4 product empire: Free offer, Core offer, Up sell, Subscription.
-
-**Points to design:**
-- Free Offer: Base Narrative Content, Music, Goodies (refer to the Content Cloud)
-- Core Offer: Physical Albums (music), Clothing (merch as a part of Kannibal universe), Universe Items (merch).
-- Upsell: example - Get an album + month of free Subscription and later upsell another chapter. Narrative Packs containing a full chapter content: album, merch, clothing and an item from the universe for the most expensive version of the Narrative Pack. Narrative Pack (Agent: album + 1-month subscription), Narrative Pack (Operative: album + 1-month subscription + piece of clothing), Narrative Pack (Director Operative: album + 1-month subscription + piece of clothing + item from the universe).
-- Subscription: Take part in the universe. Live notifications and immersing you into the narrative content. Exclusive access to more storylines.
 
 
 Ah yes, I am familiar. All HC base content will be free. Free stuff “sells” the most. It establishes the connection.
