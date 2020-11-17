@@ -543,6 +543,13 @@ Yes, from the very beginning. Helve at its core will be a creative agency provid
 
 > You might benefit from the idea of the 4 product empire: Free offer, Core offer, Up sell, Subscription.
 
+**Points to design:**
+- Free Offer: Base Narrative Content, Music, Goodies (refer to the Content Cloud)
+- Core Offer: Physical Albums (music), Clothing (merch as a part of Kannibal universe), Universe Items (merch).
+- Upsell: example - Get an album + month of free Subscription and later upsell another chapter. Narrative Packs containing a full chapter content: album, merch, clothing and an item from the universe for the most expensive version of the Narrative Pack. Narrative Pack (Agent: album + 1-month subscription), Narrative Pack (Operative: album + 1-month subscription + piece of clothing), Narrative Pack (Director Operative: album + 1-month subscription + piece of clothing + item from the universe).
+- Subscription: Take part in the universe. Live notifications and immersing you into the narrative content. Exclusive access to more storylines.
+
+
 Ah yes, I am familiar. All HC base content will be free. Free stuff “sells” the most. It establishes the connection.
 
 > You are versed in the marketing world then. It’s rapport building.
