@@ -340,6 +340,8 @@ https://www.instagram.com/mothnode/ MOTHNODE Instagram
 
 ``` HC Logo Gesture ```
 
+``` HC Forehead Logo + Eyes ```
+
 1) HC logo summon, 2) Operative face
 - Personal Updates
 - Stories Promo
