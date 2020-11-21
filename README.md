@@ -338,7 +338,7 @@ https://www.instagram.com/mothnode/ MOTHNODE Instagram
 
 - Custom AR Filters (Spark AR) - TUTORIAL PENDING: 
 
-``` HC Logo Gesture ```
+``` HC Logo Gesture ``` SPARK AR / **LENS STUDIO** (initial template done)
 
 ``` HC Forehead Logo + Eyes ```
 
