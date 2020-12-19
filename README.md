@@ -262,7 +262,13 @@ Expenses:
 
 [CURRENTLY IN DEVELOPMENT]
 
+10th October 20202
+
 ![](hitechcrime_website_10_October_2020.png)
+
+23rd November 2020
+
+![](hitechcrime_website_23_11_20.png)
 
 https://www.hitechcri.me/ Hitech Crime Website 
 
