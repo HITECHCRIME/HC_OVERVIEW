@@ -349,7 +349,8 @@ https://www.instagram.com/mothnode/ MOTHNODE Instagram
 ``` HC Forehead Logo + Eyes ```
 
 1) HC logo summon, 2) Operative face
-- Carousel Content (each for one type of your viewer) 5 carousels for 5 types
+- Carousel Content (each for one type of your viewer) 5 carousels for 5 types:
+1) music 2) visuals 3) story 4) behind the scenes (personal) - description: which one did you like the most?
 - Personal Updates
 - Stories Promo
 - 9-post Vibe Release Promo
