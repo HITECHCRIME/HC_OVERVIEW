@@ -394,6 +394,7 @@ Hitech Crime YouTube XXX
 - IRL Podcasts
 - In-Universe Audio Stories
 - Nightdrive Longplay Videos Channel (Operative Imyrgod)
+- Hitech Crime Animated Series (anime, endless variation, no need for physical appearance)
 
 **AUDIO STREAMING PLATFORMS (DIGITAL)**
 
@@ -415,7 +416,7 @@ Hitech Crime YouTube XXX
 - Global Agent and Operative Network Map
 - Agent Reports 
 - In-Universe Experience - Audience In-Universe Cosplay
-- Live Action Roleplay
+- Live Action Roleplay (vtuber model of Director Operative to be used during live concerts - https://www.fiverr.com/omegapixel/create-a-custom-vtuber-model)
 - Silent Rogue Concert (Bluetooth Flashmob)
 - VR Experiences + Performance
 - IRL Interactive Installations
