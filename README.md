@@ -2732,6 +2732,10 @@ Based on Tarot. Translator between higher consciousness and mankind. Upright Hie
 
 ---
 
+MOTHNODE_ Tetrahedral
+
+---
+
 MOTHNODE_ Return of the Woman
 
 ---
