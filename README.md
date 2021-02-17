@@ -2962,6 +2962,47 @@ MOTHNODE_ Classified Perspective
 
 ---
 
+MOTHNODE_ Data Pack LP
+
+1. The Hunt - Intro 03:14
+2. Tracers - Act I 03:14
+3. Leash Release - Act II 03:14
+4. Wolven Paths - Act III 00:46
+5. Data Pack - Act IV 03:14
+6. All Caught Up - Act V 03:14
+7. Programmatic Hostility - Outro 03:14
+
+ORIGIN TIMELINE CHAPTER [DATA PACK]
+
+hitechcri.me
+
+Visit our website to immerse yourself in an interactive transmedia experience and discover the world of Hitech Crime_
+
+Hitech Crime Cinematic Narrative Universe "Data Pack" narrative chapter is a part of the Origin Timeline.
+
+(tag the album cover with Origin Timeline symbol)
+
+Written, produced, performed
+Tim Moth
+
+Video Production
+Tim Moth
+x
+x
+x
+x
+
+Narrative Writing
+Tim Moth
+
+Artwork
+Tim Moth
+
+Mastering
+Tim Moth
+
+---
+
 Randomness:
 - MOTHNODE_ Qaravultomba
 - MOTHNODE_ Bronze Man and Centaur
