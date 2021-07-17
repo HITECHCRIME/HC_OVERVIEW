@@ -3016,6 +3016,14 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 - MOTHNODE_ Sciolist
 - MOTHNODE_ Promise Is A Prison
 
+---
+
+ MOTHNODE_  Dendrocnide Moroides EP
+ 
+ - MOTHNODE_ Suicide Plant
+ - MOTHNODE_ Venomous
+ - MOTHNODE_ Long-term Trauma
+
 # Content Types & Promo Methods
 
 - Distributors (The Orchard, Distrokid)
