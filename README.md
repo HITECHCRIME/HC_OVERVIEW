@@ -2962,7 +2962,7 @@ MOTHNODE_ Classified Perspective
 
 ---
 
-MOTHNODE_ Freemason
+MOTHNODE_ Arcanum Arcanorum / Freemason
 
 Secret signs.
 
