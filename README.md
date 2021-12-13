@@ -2962,6 +2962,17 @@ MOTHNODE_ Classified Perspective
 
 ---
 
+MOTHNODE_ Freemason
+
+Secret signs.
+
+MOTHNODE_ The Throat / Voiceless
+MOTHNODE_ The Eye / Blindness
+MOTHNODE_ The Mouth / Silence
+MOTHNODE_ The Pocket / Hidden
+
+---
+
 MOTHNODE_ Data Pack LP
 
 1. The Hunt - Intro 03:14
