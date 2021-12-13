@@ -2966,10 +2966,11 @@ MOTHNODE_ Arcanum Arcanorum / Freemason
 
 Secret signs.
 
-MOTHNODE_ The Throat / Voiceless
-MOTHNODE_ The Eye / Blindness
-MOTHNODE_ The Mouth / Silence
-MOTHNODE_ The Pocket / Hidden
+MOTHNODE_ The Throat / Voiceless / The Sign Of An Entered Apprentice
+MOTHNODE_ The Eye / Blindness / All-seeing Eye
+MOTHNODE_ The Mouth / Sign of Silence
+MOTHNODE_ The Hand / The Pass Grip of a Fellow Craft
+MOTHNODE_ The Pocket / The Hidden Hand / The Sign of the Master of the Second Veil
 
 ---
 
