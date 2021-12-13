@@ -2964,7 +2964,7 @@ MOTHNODE_ Classified Perspective
 
 MOTHNODE_ Arcanum Arcanorum / Freemason
 
-Secret signs.
+Secret signs. Solve et coagula.
 
 MOTHNODE_ The Throat / Voiceless / The Sign Of An Entered Apprentice
 MOTHNODE_ The Eye / Blindness / All-seeing Eye
