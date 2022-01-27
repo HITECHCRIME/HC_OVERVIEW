@@ -2962,7 +2962,7 @@ MOTHNODE_ Classified Perspective
 
 ---
 
-MOTHNODE_ Arcanum Arcanorum / Freemason
+MOTHNODE_ Arcanum Arcanorum / Freemason EP
 
 Secret signs. Solve et coagula.
 
@@ -2973,6 +2973,22 @@ MOTHNODE_ The Hand / The Pass Grip of a Fellow Craft
 MOTHNODE_ The Pocket / The Hidden Hand / The Sign of the Master of the Second Veil
 
 ---
+
+MOTHNODE_ Monstrous Moonshine EP
+
+MOTHNODE_ Conjecture
+MOTHNODE_ The Module
+MOTHNODE_ NoGhostTheorem
+MOTHNODE_ Symmetries
+MOTHNODE_ Two Dimensions
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------
 
 MOTHNODE_ Data Pack LP
 
