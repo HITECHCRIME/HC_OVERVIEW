@@ -1294,6 +1294,46 @@ Full frame 35mm cinema Sigma FP + VOIGTLANDER 35MM F1.4 SC "This lens has a lot 
 
 # Transfer these into album plot progression cloud
 
+## /// /// 'ORIGIN POINT' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[CNSF_00]
+
+Remote location. Rocky valley in the background drowning in mist. We see a solitary figure standing at the top of a hill. Hooded figure drops a transmitter recording device, places covert suppression devices around it in a circle and stands before the TRD. Figure takes off the hood and touches the side of its temple to activate neural voice. A diode burns bright through the mist.
+
+“I am Director Operative Mothnode of a covert group known as Hitech Crime”
+
+“I stand before you today in hopes of relaying an important message directly from the future timeline split I have been planted in as a precaution”
+
+“The world you know, the world you live in is not what it seems anymore. Along with the rapid advancement of technology in the 21st century came both crucial blessings and terrifying curses alike. As much as we tried over the years to maintain the imperative of a delicate balance, at some point in our initial timeline came an anomalous splinter known as the Breakpoint, the terrifying latter took over and we were forced to be pushed into retracement and go deeper into hiding.
+
+“What I can share with you now is that in your current timeline there were agendas behind the screen of the world you experience, forces at play that imposed their best efforts to remain hidden and maliciously insert mass viral exploits into your thoughts and emotions over long periods of time rendering your core drives and will mute. Their ultimate agenda has been achieved and I am no longer in a position to push back alone”
+
+“We need upright hierophants, people willing to join our ranks and conduct the most important duty one can have, the fight for themselves and their consciousness. Agents of Hitech Crime.”
+
+“If you allow me I would like to tell you of how all of this came to be, of what brought me to this point in time and reality, a story of a universe…”
+
+/// PUZZLE_
+
+Code to break. Split second flash of stylized instructions “codebook” white design, minimal like aoku or krotalox
+
+lights.2 - message.string
+(light.1 - from a search drone flashing morse in the sky behind the director during the message spelling “traitorswillburninneonlight”)
+(light.2 - the glitching diode on director’s temple, morse code or color code alphabet spelling “enemydarkopsinbound”)
+
+qr.trd.node - display.serial
+(qr code on the equipment of TRD that leads to a website giving you specs and details of the device - serial code “TRD_
+
+qr.csd.node - display.deployment.connection.xy
+(qr code on the equipment leading to a CASIOPEIA AIR OPTICS server access, need login and password to access the coordinates for the covert suppression device serial code CSD_CAO_46673a-f hexagon - leads to coordinates where the director was recording the broadcast)
+
+step.count - number.string.start-end
+(number of steps the hooded figure makes from start to finish of the whole video)
+
+main.rgb.render - display.true.values
+(average color tone of the video requires screenshot and a software to take measurements
+
+——- ALL OF THESE CODES CAN BE USED ON A SPECIAL WEBSITE THAT HAS ITS ADDRESS PRESENTED IN EACH CODE DISCOVERY SEGMENT
+INPUT ALL OF THE CODES, IF WRONG LOCKED OUT OF THE SYSTEM FOR 24H FOR SECURITY REASONS, IF SUCCESS AGENT GAINS ACCESS TO ADDITIONAL CONTENT AND A CRYPTO WALLET
+
 ## /// 'MONUMENT TO THE FUTURE' CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
 [CNSF_01]
 - Hitech Crime /// 'Monument to the Future' Narrative Short Film - setting/location setup b-roll, autumny, text appears "/// 2019", birds, city landscape surface shots, then we slowly descend downward in motion, silent sequence (only echo'y sounds) with camera following me into some concrete corridors and down the stairs, rundown, showing just sillouette, we arrive in a dark big space (under a bridge?), i  slowly move on gravel and concrete to the middle of the space, barely anything is visible, i stand in the darkness and behind me a giant neon of Hitech Crime lights up the darkness as a big bass droning horn comes in (drama!). big shadows. drone/tele lens shot of the whole scene and glow from the distance. There are people around me standing by the pillars. As the tele lens shot moves a couple of masked individuals start coming  slowly towards me. Then we see teams setting up neons in various places around the globe. Back of the head shot frame: "It's time." "Monument to the Future" text appears. Neons light up in many other abandoned places. "HITECH CRIME presents" "MOTHNODE" logos flash.
