@@ -137,9 +137,9 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 - dark web society
 
 <a name="storyworld"></a>
-# STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
-
 ![](helve-making-of.png)
+
+# STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
