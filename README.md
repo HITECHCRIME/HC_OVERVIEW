@@ -139,6 +139,8 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 <a name="storyworld"></a>
 # STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
+![](helve-making-of.png)
+
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
 Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
