@@ -3091,6 +3091,15 @@ Ulvella is a genus of fungi in the Ascomycota phylum. The relationship of this t
 
 ---
 
+MOTHNODE_ Severance EP
+
+- MOTHNODE_ Woe
+- MOTHNODE_ Frolic
+- MOTHNODE_ Dread
+- MOTHNODE_ Malice
+
+---
+
  MOTHNODE_  Dendrocnide Moroides EP
  
  - MOTHNODE_ Suicide Plant
