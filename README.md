@@ -3098,6 +3098,15 @@ MOTHNODE_ Severance EP
 - MOTHNODE_ Dread
 - MOTHNODE_ Malice
 
+--- 
+
+MOTHNODE_ Induced EP
+
+- MOTHNODE_ Dopamine (happiness, focus and concentration, sleep, goal)
+- MOTHNODE_ Oxytocin (love, empathy, trust, feelings, sex)
+- MOTHNODE_ Serotonin (bright daylight, gut)
+- MOTHNODE_ Endorphin (natural painkiller, fight or flight, exercise, doing something that you find scary)
+
 ---
 
  MOTHNODE_  Dendrocnide Moroides EP
