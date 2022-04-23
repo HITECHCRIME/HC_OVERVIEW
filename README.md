@@ -3109,6 +3109,15 @@ MOTHNODE_ Induced EP
 
 ---
 
+MOTHNODE_ Maytra EP
+
+- MOTHNODE_ This Is The End
+- MOTHNODE_ Beginning
+- MOTHNODE_ Trail
+- MOTHNODE_ The Calling
+
+---
+
  MOTHNODE_  Dendrocnide Moroides EP
  
  - MOTHNODE_ Suicide Plant
