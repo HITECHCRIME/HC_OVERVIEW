@@ -3029,9 +3029,20 @@ MOTHNODE_ Two Dimensions
 MOTHNODE_ UCHUU EP
 (an entire universe simulation by scientists)
 
+---
 
+![foreseer.jpg]
 
+MOTHNODE_ Foreseer Developer EP
 
+MOTHNODE_ Ni (Primary Process)
+MOTHNODE_ Fe (Primary Process)
+MOTHNODE_ Ti (Primary Process)
+MOTHNODE_ Se (Primary Process)
+MOTHNODE_ Ne (The Shadow Processes)
+MOTHNODE_ Fi (The Shadow Processes)
+MOTHNODE_ Te (The Shadow Processes)
+MOTHNODE_ Si (The Shadow Processes)
 
 ------------------------------------------------------------------------------------------------------
 
