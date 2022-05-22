@@ -3033,16 +3033,42 @@ MOTHNODE_ UCHUU EP
 
 ![](foreseer.png)
 
+http://www.cognitiveprocesses.com/16Types/16Types.cfm
+
 MOTHNODE_ Foreseer Developer EP
 
-MOTHNODE_ Ni (Primary Process)
-MOTHNODE_ Fe (Primary Process)
-MOTHNODE_ Ti (Primary Process)
-MOTHNODE_ Se (Primary Process)
-MOTHNODE_ Ne (The Shadow Processes)
-MOTHNODE_ Fi (The Shadow Processes)
-MOTHNODE_ Te (The Shadow Processes)
-MOTHNODE_ Si (The Shadow Processes)
+MOTHNODE_ Ni (Primary Process) / The Leading Role / Dominant / 1st Function - Internal Intuition
+
+'''Ni is the way that an NiFe perceives their inner world, it dictates the way they store information and how they perceive that information. It also heavily dictates the path that their train of thought will take. Ni tends to store information in a spread out way with all the pieces of data having connections of various strengths to multiple additional pieces of data. This creates a dense web-like mass of information that is too large to be viewed in detail as a whole, but can be zoomed in on to show intricate clusters and threads of thoughts. This network of data rests slightly outside of the conscious mind, giving Ni a dreamlike quality that is equally likely to be experienced in images and impressions as it is to produce concrete facts. Because the focus of the Ni perception is constantly scanning the whole but also frequently zooming in on various thoughts and feelings and changing angles on a subject, Ni dominant people tend to experience their inner world as constantly fluctuating.'''
+
+MOTHNODE_ Fe (Primary Process) / The Supporting Role / Auxiliary / 2nd Function - External Feeling
+
+'''Fe is the NiFe’s first extroverted function, so this is the function that the NiFe is most likely to use when interacting with the outer world and it is the filter through which they receive communication from the rest of the world. Fe is also the way that the NiFe processes their emotions. This function serves Ni and is primarily focused on other people. '''
+
+MOTHNODE_ Ti (Primary Process) / The Relief Role / Tertiary / 3rd Function - Internal Thinking
+
+'''Ti makes decisions based on logic and operates internally. Ti helps to stabilize the shifty nature of Ni and helps the NiFe to interpret their Ni connections in a sensible way. This function can help them to fully understand the connections that Ni makes outside of the conscious realm.'''
+
+MOTHNODE_ Se (Primary Process) / The Aspirational Role / Inferior / 4th Function - External Sensing
+
+'''Se is the NiFe’s last and least developed function. This function is what perceives the outer world as stable, concrete, and structured. It’s also the function that helps an NiFe to be aware of their surroundings, appreciate beauty, be fully present in the moment, and feel connected to the physical world. This function is operating at a low level on the NiFe’s awareness radar and gives them only the minimum input required for the tasks they are doing unless the NiFe actively engages this function. Unfortunately for the NiFe, they can experience the outer world as overwhelming and stressful if they spend too much time actively taking in outside stimulus, or if real world facts and data escalate to an intensity that demands the NiFe’s full focus.'''
+
+MOTHNODE_ Ne (The Shadow Processes) / The Opposing Role / 5th Function - External Intuition
+
+'''Ne is the NeFi’s core function. They use it to find patterns and underlying principles, to see future possibilities, to construct theories and frameworks, and to form connections as they talk, write, or create. To others, Ne is what can make the NeFi seem like they have their head in the clouds, constantly having ideas, thoughts, and theories that might not seem like they’re totally in sync with reality. The rest of the functions below are said to "serve" the Ne. This means that the Ne way of doing things gets priority most of the time.'''
+
+MOTHNODE_ Fi (The Shadow Processes) / The Critical Parent Role / 6th Function - Internal Feeling
+
+'''Although it’s referred to as “Feeling”, Fi is not internal emotions, but rather values that come from within. NeFi’s might experience a deep well of emotions, but this is not the root of Fi. It is a decision making-process that makes them very interested in determining their own moral code and what their gut instinct tells them is right, which is often based on how they would like to be treated themselves. They tend to be very considerate of others, and are likely to be highly aware of how they feel other people see them. It may take a long time to mull over their own beliefs to make sure they seem right. This values-refining process can take quite a bit of time and requires mental solitude, which can make the NeFi seem very introverted in these times. Fi generally puts authenticity in high esteem and is repulsed by anything that seems fabricated or shallow to them.'''
+
+MOTHNODE_ Te (The Shadow Processes) / The Deceiving Role / 7th Function - External Thinking
+
+"Te is the NeFi’s third function. Te is a very logic-oriented way of problem solving. It is the side of them that naturally looks to find a better solution to a problem, improve the efficiency of a process, or critique and refine what is already in place. NeFi’s tend to be balanced between this quick, decisive efficient way of making decisions and the pondering, value-driven decision making process of their Fi. While they prefer to take their time to make decisions, as long as it doesn’t go against their values they can use their Te to make sure they make a decision when necessary."
+
+MOTHNODE_ Si (The Shadow Processes) / The Devilish Role / 8th Function - Internal Sensing
+
+'''Si is the NeFi’s last function. Because of this, it is inherently not as strong as the other functions. It operates subconsciously for the most part, and allows them to store all the interesting knowledge and insights into people they gather in an organized way in their mind for future reference. People with Si first or second are really good at implementation, following detailed instructions, and keeping a system running smoothly over long periods of time. Because Si is not the main focus of an NeFi, they may struggle with being consistent, reliable, and actually implementing their ideas. However, as they grow and develop, they often learn to overcome these weaknesses.'''
+
 
 ------------------------------------------------------------------------------------------------------
 
