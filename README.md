@@ -3035,6 +3035,8 @@ MOTHNODE_ UCHUU EP
 
 http://www.cognitiveprocesses.com/16Types/16Types.cfm
 
+https://www.psychologyjunkie.com/2016/08/19/infj-darkness-understanding-infjs-shadow-functions/
+
 MOTHNODE_ Foreseer Developer EP
 
 MOTHNODE_ Ni (Primary Process) / The Leading Role / Dominant / 1st Function - Internal Intuition
