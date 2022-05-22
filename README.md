@@ -3031,7 +3031,7 @@ MOTHNODE_ UCHUU EP
 
 ---
 
-![foreseer.jpg]
+![](foreseer.png)
 
 MOTHNODE_ Foreseer Developer EP
 
