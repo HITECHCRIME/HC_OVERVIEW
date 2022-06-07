@@ -2795,6 +2795,17 @@ MOTHNODE_ Annunaki EP
 
 ---
 
+MOTHNODE_ v5r.ttk
+
+--- 
+
+MOTHNODE_ (Unfavourable) Semicircle
+
+- MOTHNODE_ Distortion
+- MOTHNODE_ Half The Way
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
