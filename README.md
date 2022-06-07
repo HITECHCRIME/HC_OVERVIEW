@@ -2761,6 +2761,16 @@ Upper Sepphirah - Higher Consciousness
 
 ---
 
+MOTHNODE_ Hypersigil EP
+
+Sigils are used to visualize your future. Hypersigils are extended pieces of art that become your life and what you want to be.
+
+- MOTHNODE_ Artwork
+- MOTHNODE_ Dazzled With Illusions
+- MOTHNODE_ The Becoming
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
