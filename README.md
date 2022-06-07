@@ -2872,6 +2872,12 @@ MOTHNODE_ Follow Him Into EP
 
 ---
 
+MOTHNODE_ Deep Path Matter EP
+
+- MOTHNODE_ Decode The Matter / 77x99x11
+- MOTHNODE_ Lost On The Paths / 14x72x93
+- MOTHNODE_ Illness Runs Deep / 38x92y29
+
 
 
 ---
@@ -2889,7 +2895,7 @@ Based on Tarot. Translator between higher consciousness and mankind. Upright Hie
 
 ---
 
-MOTHNODE_ Tetrahedral
+MOTHNODE_ Tetrahedral EP
 
 ---
 
