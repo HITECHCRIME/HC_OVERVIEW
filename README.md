@@ -2825,6 +2825,18 @@ MOTHNODE_ Devourment EP
 
 ---
 
+MOTHNODE_ Global Consciousness EP
+
+Global Consciousness Project.
+
+- MOTHNODE_ Thought & Existence
+- MOTHNODE_ Interconnected
+- MOTHNODE_ Permeation 
+- MOTHNODE_ Cause Into Effect
+- MOTHNODE_ Numbers Align
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
