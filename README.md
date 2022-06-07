@@ -2837,6 +2837,16 @@ Global Consciousness Project.
 
 ---
 
+MOTHNODE_ Terminal Access
+
+- MOTHNODE_ sudo shutdown -n now (close)
+- MOTHNODE_ rm -rf (delete all)
+- MOTHNODE_ :(){ :|: & };: (replicate)
+- MOTHNODE_ mv ~ /dev/null (moves home into black hole)
+- MOTHNODE_ 
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
