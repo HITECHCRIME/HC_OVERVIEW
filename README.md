@@ -2823,6 +2823,10 @@ Based on Red Smile Group and Are We Cool Yet SCP vibe.
 
 ---
 
+MOTHNODE_ Otherkin EP
+
+---
+
 MOTHNODE_ Devourment EP
 
 - MOTHNODE_ From Within
