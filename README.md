@@ -2771,6 +2771,30 @@ Sigils are used to visualize your future. Hypersigils are extended pieces of art
 
 ---
 
+MOTHNODE_ HYBRID V0.30 (Unplayable Game)
+
+- MOTHNODE_ Digital Roleplay
+- MOTHNODE_ 551 Rules
+- MOTHNODE_ Unplayable
+- MOTHNODE_ Off The Tangent
+
+---
+
+MOTHNODE_ Monarch EP
+
+- MOTHNODE_ Mind Inside Out
+- MOTHNODE_ Resistance Site
+- MOTHNODE_ Controller
+
+---
+
+MOTHNODE_ Annunaki EP
+
+- MOTHNODE_ Origin Of You
+- MOTHNODE_ Neburu
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
