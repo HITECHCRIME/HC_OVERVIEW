@@ -2872,13 +2872,19 @@ MOTHNODE_ Follow Him Into EP
 
 ---
 
-MOTHNODE_ Deep Path Matter EP
+MOTHNODE_ DeepPathMatter EP
 
 - MOTHNODE_ Decode The Matter / 77x99x11
-- MOTHNODE_ Lost On The Paths / 14x72x93
+- MOTHNODE_ Lost On Paths / 14x72x93
 - MOTHNODE_ Illness Runs Deep / 38x92y29
+- MOTHNODE_ Truth In Fiction
 
+---
 
+MOTHNODE_ Woke EP
+
+- MOTHNODE_ Comprehension
+- MOTHNODE_ Protean Digital Era
 
 ---
 
