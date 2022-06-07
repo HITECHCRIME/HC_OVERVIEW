@@ -2859,6 +2859,23 @@ MOTHNODE_ Sound Of The Soul EP
 
 ---
 
+MOTHNODE_ Dream Program EP
+
+---
+
+MOTHNODE_ Follow Him Into EP
+
+- MOTHNODE_ The Cliff
+- MOTHNODE_ The Draught
+- MOTHNODE_ The Hollow
+- MOTHNODE_ The Madness
+
+---
+
+
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
