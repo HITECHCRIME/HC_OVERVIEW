@@ -3044,7 +3044,30 @@ n. the unsettling awareness of your own heartbeat, whose tenuous muscular throbb
 
 ---
 
+MOTHNODE_ Sonder EP
 
+n. the realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness—an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra sipping coffee in the background, as a blur of traffic passing on the highway, as a lighted window at dusk.
+
+---
+
+MOTHNODE_ Kenopsia EP
+
+kenopsia
+n. the eerie, forlorn atmosphere of a place that’s usually bustling with people but is now abandoned and quiet—a school hallway in the evening, an unlit office on a weekend, vacant fairgrounds—an emotional afterimage that makes it seem not just empty but hyper-empty, with a total population in the negative, who are so conspicuously absent they glow like neon signs.
+
+---
+
+MOTHNODE_ Anchorage EP
+
+anchorage
+n. the desire to hold on to time as it passes, like trying to keep your grip on a rock in the middle of a river, feeling the weight of the current against your chest while your elders float on downstream, calling over the roar of the rapids, “Just let go—it’s okay—let go.”
+
+---
+
+MOTHNODE_ Antematter EP
+
+antematter
+n. the dream versions of things in your life, which appear totally foreign but are still somehow yours—your anteschool, your antefriends, your antehome—all part of a parallel world whose gravitational pull raises your life’s emotional stakes, increasing the chances you’ll end up betting everything you have.
 
 ---
 
