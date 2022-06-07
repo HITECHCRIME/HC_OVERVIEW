@@ -2905,6 +2905,10 @@ MOTHNODE_ The Rosenhand Experiment EP
 
 ---
 
+MOTHNODE_ Meta Tape 278 EP
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
