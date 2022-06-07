@@ -2820,7 +2820,7 @@ Based on Red Smile Group and Are We Cool Yet SCP vibe.
 MOTHNODE_ Devourment EP
 
 - MOTHNODE_ From Within
-- MOTHNODE_ Nutrial Srpawl
+- MOTHNODE_ Nutrial Sprawl
 - MOTHNODE_ Tendency
 
 ---
@@ -2894,6 +2894,14 @@ MOTHNODE_ Nephilim EP
 - MOTHNODE_ Elements
 - MOTHNODE_ Giants
 - MOTHNODE_ Angel Human Hybrid
+
+---
+
+MOTHNODE_ The Rosenhand Experiment EP
+
+- MOTHNODE_ Sanity Without Questions
+- MOTHNODE_ Fake Hallucinations
+- MOTHNODE_ True Hallucinations
 
 ---
 
