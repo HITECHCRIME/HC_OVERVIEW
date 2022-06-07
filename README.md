@@ -2888,6 +2888,15 @@ MOTHNODE_ Woke EP
 
 ---
 
+MOTHNODE_ Nephilim EP
+
+- MOTHNODE_ Great Flood
+- MOTHNODE_ Elements
+- MOTHNODE_ Giants
+- MOTHNODE_ Angel Human Hybrid
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
