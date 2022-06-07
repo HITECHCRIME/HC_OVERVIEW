@@ -2806,6 +2806,25 @@ MOTHNODE_ (Unfavourable) Semicircle
 
 ---
 
+MOTHNODE_ Purple Eye EP
+
+- MOTHNODE_ Coded Internal
+- MOTHNODE_ All We See
+- MOTHNODE_ The Society Of Greater Trust
+- MOTHNODE_ Monomyth
+
+Based on Red Smile Group and Are We Cool Yet SCP vibe.
+
+---
+
+MOTHNODE_ Devourment EP
+
+- MOTHNODE_ From Within
+- MOTHNODE_ Nutrial Srpawl
+- MOTHNODE_ Tendency
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
