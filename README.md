@@ -2837,13 +2837,25 @@ Global Consciousness Project.
 
 ---
 
-MOTHNODE_ Terminal Access
+MOTHNODE_ Terminal Access EP
 
 - MOTHNODE_ sudo shutdown -n now (close)
 - MOTHNODE_ rm -rf (delete all)
 - MOTHNODE_ :(){ :|: & };: (replicate)
 - MOTHNODE_ mv ~ /dev/null (moves home into black hole)
 - MOTHNODE_ 
+
+---
+
+MOTHNODE_ Hidden Answers EP
+
+---
+
+MOTHNODE_ Sound Of The Soul EP
+
+- MOTHNODE_ Hu
+- MOTHNODE_ Congregation
+- MOTHNODE_ Ancient Mantra
 
 ---
 
