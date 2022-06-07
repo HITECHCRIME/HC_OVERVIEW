@@ -2482,7 +2482,7 @@ it was the problem we clashed for at the core out being
 
 ---
 
-EP
+## /// HC74_ | '0000' EP
 - MOTHNODE_ Telepresence
 - MOTHNODE_ Omni
 - MOTHNODE_ Ruthfull
@@ -2494,7 +2494,7 @@ EP
 
 ---
 
-EP
+## /// HC75_ | 'Pleasure Principle' EP
 Dual Album based on Freud’s notions. Based on Beyond The Pleasure Principle (1920) by Sigmund Freud.
 
 - MOTHNODE_ Liebenstrieb (Life Instinct) / EROS
@@ -2502,8 +2502,8 @@ Dual Album based on Freud’s notions. Based on Beyond The Pleasure Principle (1
 
 ---
 
-Agents of Absurdism EP
-MOTHNODE_ Agents of Absurdism EP: 
+## /// HC76_ | 'Agents of Absurdism' EP
+
 Acceptance of the Absurd: a solution in which ones accepts the ABsurd and continues to live in spite of it. Camus endorsed this solution, believing that b accepting the ABsurd, one can achieve the greatest extent of one's freedom. By recognizing no religious or other moral constraints, and by rebelling against the Absurd (through meaning-making) while simultaneously accepting it as unstoppable, one could find contentment through the transient personal meaning contructed in the process. Kierkegaard, on the other hand, regarded this solution as "demoniac madness": He rages most of all at the thought that eternity might get it into its head to take his misery from him!
 
 - MOTHNODE_ Plagued by Thoughts
@@ -2515,7 +2515,8 @@ Acceptance of the Absurd: a solution in which ones accepts the ABsurd and contin
 
 ---
 
-MOTHNODE_ Shadow of Self EP
+## /// HC77_ | 'Shadow of Self' EP
+
 ![](shadowofselfep.jpg)
 
 ---
@@ -2524,17 +2525,18 @@ MOTHNODE_ Karmić Gniew - add female vocals a’la Zui  “znowu karmic gniew zn
 
 ---
 
-Mindsetting EP / Mindsetter EP
+## /// HC77_ | 'Mindsetting/Mindsetter' EP
 “Our life is what our thoughts make it” Marcus Aurelius (Mindsetting EP)
 
 ---
-
-Ksiega Mgly EP (sequel to Ksiega Szeptow EP)
+## /// HC78_ | 'Ksiega Mgly' EP
+(sequel to Ksiega Szeptow EP)
 Paganic futurism.
 
 ---
 
-MOTHNODE - 2020 EP
+## /// HC79_ | '2020' EP
+
 - MOTHNODE_ Indigo Warrior
 - MOTHNODE_ Hopi Tribe
 - MOTHNODE_ Alive Again
@@ -2562,6 +2564,8 @@ MOTHNODE_ Shallow Starlight
 
 ---
 
+## /// HC80_ | 'The Genius of the Crowd' EP
+
 MOTHNODE_ The Genius of the Crowd EP based on Charles Bukowski’s poem. 
 - MOTHNODE_ Their Hatred Will Be Perfect
 - MOTHNODE_ Beware The Knowers
@@ -2572,6 +2576,8 @@ MOTHNODE_ The Genius of the Crowd EP based on Charles Bukowski’s poem.
 - MOTHNODE_ Constant Crowd
 
 ---
+
+## /// HC81_ | 'X' EP
 
 Dark Sci-fi Trap EP: 
 MOTHNODE_ Summoner of Worlds, 
@@ -2657,7 +2663,7 @@ MOTHNODE_ Death of Despair, Tomorrow Is In Your Hands, Homo Ludens, Schwartzchil
 
 ---
 
-LATERAL THALAMUS EP
+## /// HC82_ | 'Lateral Thalamus' EP
 
 Based on the idea that consciousness comes from lateral thalamus.
 https://www.inverse.com/mind-body/tiny-area-of-the-brain-could-enable-consciousness/amp
@@ -2666,7 +2672,7 @@ MOTHNODE_ Consciousless
 
 ---
 
-MOTHNODE_ Before All Else EP
+## /// HC83_ | 'Before All Else' EP
 
 Before All Else, Be Armed - Machiavelli
 
@@ -2676,14 +2682,14 @@ Before All Else, Be Armed - Machiavelli
 
 --- 
 
-MOTHNODE_ Spiritual Helper EP
+## /// HC84_ | 'Spiritual Helper' EP
 
 MOTHNODE_ Tsentsak (Spiritual Helper)
 MOTHNODE_ Shaman's Chant
 
 ---
 
-MOTHNODE_ Gematria EP
+## /// HC85_ | 'Gematria' EP
 https://en.wikipedia.org/wiki/Gematria
 
 MOTHNODE_ Knowledge of Writing
