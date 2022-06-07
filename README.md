@@ -3071,6 +3071,13 @@ n. the dream versions of things in your life, which appear totally foreign but a
 
 ---
 
+MOTHNODE_ Aimonomia EP
+
+aimonomia
+n. fear that learning the name of something—a bird, a constellation, an attractive stranger—will somehow ruin it, transforming a lucky discovery into a conceptual husk pinned in a glass case, which leaves one less mystery to flutter around your head, trying to get in.
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
