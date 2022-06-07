@@ -2909,6 +2909,145 @@ MOTHNODE_ Meta Tape 278 EP
 
 ---
 
+MOTHNODE_ Ringlorn EP
+
+the wish that the modern world felt as epic as the one depicted in old stories and folktales—a place of tragedy and transcendence, of oaths and omens and fates, where everyday life felt like a quest for glory, a mythic bond with an ancient past, or a battle for survival against a clear enemy, rather than an open-ended parlor game where all the rules are made up and the points don’t matter.
+
+---
+
+MOTHNODE_ Watashiato EP
+
+curiosity about the impact you’ve had on the lives of the people you know, wondering which of your harmless actions or long-forgotten words might have altered the plot of their stories in ways you’ll never get to see.
+
+---
+
+MOTHNODE_ Etterath EP
+
+n. the feeling of emptiness after a long and arduous process is finally complete—having finished school, recovered from surgery, or gone home at the end of your wedding—which leaves you relieved that it’s over but missing the stress that organized your life into a mission.
+
+---
+
+MOTHNODE_ Agnosthesia EP
+
+n. the state of not knowing how you really feel about something, which forces you to sift through clues hidden in your behavior, as if you were some other person—noticing a twist of acid in your voice, an obscene amount of effort put into something trifling, or an inexplicable weight on your shoulders that makes it difficult to get out of bed.
+
+---
+
+MOTHNODE_ Onism EP
+
+n. the frustration of being stuck in just one body, that inhabits only one place at a time, which is like standing in front of the departures screen at an airport, flickering over with strange place names like other people’s passwords, each representing one more thing you’ll never get to see before you die—and all because, as the arrow on the map helpfully points out, you are here.
+
+---
+
+MOTHNODE_ Altschmerz EP
+
+n. weariness with the same old issues that you’ve always had—the same boring flaws and anxieties you’ve been gnawing on for years, which leaves them soggy and tasteless and inert, with nothing interesting left to think about, nothing left to do but spit them out and wander off to the backyard, ready to dig up some fresher pain you might have buried long ago.
+
+---
+
+MOTHNODE_ Wytai EP
+
+n. a feature of modern society that suddenly strikes you as absurd and grotesque—from zoos and milk-drinking to organ transplants, life insurance, and fiction—part of the faint background noise of absurdity that reverberates from the moment our ancestors first crawled out of the slime but could not for the life of them remember what they got up to do.
+
+---
+
+MOTHNODE_ Lachesism EP
+
+n. the desire to be struck by disaster—to survive a plane crash, to lose everything in a fire, to plunge over a waterfall—which would put a kink in the smooth arc of your life, and forge it into something hardened and flexible and sharp, not just a stiff prefabricated beam that barely covers the gap between one end of your life and the other.
+
+---
+
+MOTHNODE_ Exulansis EP
+
+n. the tendency to give up trying to talk about an experience because people are unable to relate to it—whether through envy or pity or simple foreignness—which allows it to drift away from the rest of your life story, until the memory itself feels out of place, almost mythical, wandering restlessly in the fog, no longer even looking for a place to land.
+
+---
+
+MOTHNODE_ Occhiolism EP
+
+n. the awareness of the smallness of your perspective, by which you couldn’t possibly draw any meaningful conclusions at all, about the world or the past or the complexities of culture, because although your life is an epic and unrepeatable anecdote, it still only has a sample size of one, and may end up being the control for a much wilder experiment happening in the next room.
+
+---
+
+MOTHNODE_ Ambedo EP
+
+n. a kind of melancholic trance in which you become completely absorbed in vivid sensory details—raindrops skittering down a window, tall trees leaning in the wind, clouds of cream swirling in your coffee—briefly soaking in the experience of being alive, an act that is done purely for its own sake.
+
+---
+
+MOTHNODE_ Nodus Tollens EP
+
+n. the realization that the plot of your life doesn’t make sense to you anymore—that although you thought you were following the arc of the story, you keep finding yourself immersed in passages you don’t understand, that don’t even seem to belong in the same genre—which requires you to go back and reread the chapters you had originally skimmed to get to the good parts, only to learn that all along you were supposed to choose your own adventure.
+
+---
+
+MOTHNODE_ Liberosis EP
+
+n. the desire to care less about things—to loosen your grip on your life, to stop glancing behind you every few steps, afraid that someone will snatch it from you before you reach the end zone—rather to hold your life loosely and playfully, like a volleyball, keeping it in the air, with only quick fleeting interventions, bouncing freely in the hands of trusted friends, always in play.
+
+---
+
+MOTHNODE_ Rigor Samsa EP
+
+n. a kind of psychological exoskeleton that can protect you from pain and contain your anxieties, but always ends up cracking under pressure or hollowed out by time—and will keep growing back again and again, until you develop a more sophisticated emotional structure, held up by a strong and flexible spine, built less like a fortress than a cluster of treehouses.
+
+---
+
+MOTHNODE_ Silience EP
+
+silience
+n. the kind of unnoticed excellence that carries on around you every day, unremarkably—the hidden talents of friends and coworkers, the fleeting solos of subway buskers, the slapdash eloquence of anonymous users, the unseen portfolios of aspiring artists—which would be renowned as masterpieces if only they’d been appraised by the cartel of popular taste, who assume that brilliance is a rare and precious quality, accidentally overlooking buried jewels that may not be flawless but are still somehow perfect.
+
+---
+
+MOTHNODE_ Keyframe EP
+
+keyframe
+n. a moment that seemed innocuous at the time but ended up marking a diversion into a strange new era of your life—set in motion not by a series of jolting epiphanies but by tiny imperceptible differences between one ordinary day and the next, until entire years of your memory can be compressed into a handful of indelible images—which prevents you from rewinding the past, but allows you to move forward without endless buffering.
+
+---
+
+MOTHNODE_ Catoptric Tristesse EP
+
+n. the sadness that you’ll never really know what other people think of you, whether good, bad or if at all—that although we reflect on each other with the sharpness of a mirror, the true picture of how we’re coming off somehow reaches us softened and distorted, as if each mirror was preoccupied with twisting around, desperately trying to look itself in the eye.
+
+---
+
+MOTHNODE_ Adomania EP
+
+n. the sense that the future is arriving ahead of schedule, that all those years with fantastical names like ‘2013’ are bursting from their hypothetical cages into the arena of the present, furiously bucking the grip of your expectations while you lean and slip in your saddle, one hand reaching for reins, the other waving up high like a schoolkid who finally knows the answer to the question.
+
+--- 
+
+MOTHNODE_ Mimeomia EP
+
+n. the frustration of knowing how easily you fit into a stereotype, even if you never intended to, even if it’s unfair, even if everyone else feels the same way—each of us trick-or-treating for money and respect and attention, wearing a safe and predictable costume because we’re tired of answering the question, “What are you supposed to be?”
+
+---
+
+MOTHNODE_ Opia EP
+
+n. the ambiguous intensity of looking someone in the eye, which can feel simultaneously invasive and vulnerable—their pupils glittering, bottomless and opaque—as if you were peering through a hole in the door of a house, able to tell that there’s someone standing there, but unable to tell if you’re looking in or looking out.
+
+---
+
+MOTHNODE_ Monachopsis
+
+n. the subtle but persistent feeling of being out of place, as maladapted to your surroundings as a seal on a beach—lumbering, clumsy, easily distracted, huddled in the company of other misfits, unable to recognize the ambient roar of your intended habitat, in which you’d be fluidly, brilliantly, effortlessly at home.
+
+---
+
+MOTHNODE_ Rubatosis EP
+
+rubatosis
+n. the unsettling awareness of your own heartbeat, whose tenuous muscular throbbing feels less like a metronome than a nervous ditty your heart is tapping to itself, the kind that people compulsively hum or sing while walking in complete darkness, as if to casually remind the outside world, I’m here, I’m here, I’m here.
+
+---
+
+
+
+---
+
 MOTHNODE_ Hierophant EP
 
 Based on Tarot. Translator between higher consciousness and mankind. Upright Hierophant = spiritual guidance, knowledge. Inverted Hierophant = corrupted, dogmatic teachings, indoctrination, inflexible thinking.
