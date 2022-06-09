@@ -2861,6 +2861,15 @@ MOTHNODE_ Hidden Answers EP
 
 ---
 
+MOTHNODE_ Miasma EP
+
+- MOTHNODE_ Pheromone
+- MOTHNODE_ Scent
+- MOTHNODE_ Noseblock
+- MOTHNODE_ Black Death
+
+---
+
 MOTHNODE_ Sound Of The Soul EP
 
 - MOTHNODE_ Hu
