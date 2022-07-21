@@ -1476,6 +1476,14 @@ AI: "I stopped his pacemaker by infecting his home monitoring device with a malw
 REPOSITORY FOR THE FULL TRANSMEDIA RELEASE: https://github.com/HITECHCRIME/HC_SG_R01_TRIBE
 - MOTHNODE_ Tribe
 
+## /// 'DRONE LOGS' SINGLE CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
+[NFS_26] Operative Drone Recon Work
+Inhospitable location, two operatives providing recon task to scout the area. Everything shot from the perspective of drone cameras with radio contact messages between the operatives. They are scouting a jungle/forest area and looking for presence of the Downward Cult. They close in on various suspicious elements of the environment and record the material for the HQ. As they go into a complex they found - they discover an experiment that has been held in possession of the Donward Cult. As they arrive at the underground chamber of the project they realize that they tripped some sort of warning system an EMP knocks the drones out as they see it awakening in the last moment.
+
+Accompanied with a song that talks about a guided world, filled with mind control.
+
+Inspired by https://www.youtube.com/watch?v=NcBjx_eyvxc Madeira FPV Drone Shots.
+
 # Audiovisual IRL Experiences (Audio Universe Experience - livestream/live)
 Ideas for the visuals and setups for concerts. Could also be applied to live online concerts.
 - wall of death with a vertical "laser gate" pulsing and expanding to separate two groups of people. It lifts in the middle before the clash as the drop comes.
@@ -1500,13 +1508,7 @@ At the door the bouncer asks your name. You mention Eva Black is here, he nods y
 Welcome, to the crypto-rave.
 ```
 
-## /// 'DRONE LOGS' SINGLE CINEMATIC NARRATIVE SHORT FILM SET IN HITECH CRIME UNIVERSE
-[NFS_26] Operative Drone Recon Work
-Inhospitable location, two operatives providing recon task to scout the area. Everything shot from the perspective of drone cameras with radio contact messages between the operatives. They are scouting a jungle/forest area and looking for presence of the Downward Cult. They close in on various suspicious elements of the environment and record the material for the HQ. As they go into a complex they found - they discover an experiment that has been held in possession of the Donward Cult. As they arrive at the underground chamber of the project they realize that they tripped some sort of warning system an EMP knocks the drones out as they see it awakening in the last moment.
 
-Accompanied with a song that talks about a guided world, filled with mind control.
-
-Inspired by https://www.youtube.com/watch?v=NcBjx_eyvxc Madeira FPV Drone Shots.
 
 # /// STRAINS [CREATORS]
 
