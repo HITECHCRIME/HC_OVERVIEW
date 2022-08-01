@@ -1488,6 +1488,7 @@ Inspired by https://www.youtube.com/watch?v=NcBjx_eyvxc Madeira FPV Drone Shots.
 
 ![](the-beacon.jpg)
 ![](zack-cy-remnant1-zackcy.jpg)
+![](112199.jpg)
 
 [CNFS_27] Cinematic Series diving deeper into the lore of the Downward Cult. 3 Operatives on a recon mission encounter something they wish they didn't by following a trail of faint signals leading into a hidden rocky monastery/dormant underground structure. As they descend into the dark labirynth of crude stone corridors they arrive at a much wider clearing with columns on both sides and a giant dark hole in the wall at the very backside of the clearing/room.
 **Cut 1:** 3 operatives dressed in light tactical with logos of Hitech Crime arrive at the room and start slowly and carefully sweeping it with flashlights revealing columns and ornate carvings on each side of the hall. 'What the fuck is this?' one of the operatives murmurs to himself surprised to see such structures deep underground. 'They don't look old' whispers another via comms. 'Could have been made over the last months'. The rest of the room is covered in darkness apart from some light spilling through the cracks in the ceiling.
