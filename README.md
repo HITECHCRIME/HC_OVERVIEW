@@ -143,7 +143,11 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 
 ![](hitechcrime-hq.jpg)
 
-Hitech Crime is a worldwide clandestine organization operating beyond any jurisdiction. Our covert operatives are tasked with **analysing the everchanging and chaotic landscape of technological advancements** and **maintaining balance to protect the global population from malicious intent** enabled by rapid onset of accelerationism and human invention. AI, mind control and other emergent new technologies pose a security threat to the stability of the world as we know it and require supervision to limit potential physical and psychological harm.
+Hitech Crime is a worldwide clandestine organization operating beyond any jurisdiction. Our covert operatives are tasked with **analysing the everchanging and chaotic landscape of technological advancements** and **maintaining balance to protect the global population from malicious intent** enabled by rapid onset of accelerationism and human invention. 
+
+In an interconnected world with high technology crime on the rise, hidden emergent new technologies pose a security threat to the stability of the world as we know it and require relentless supervision to limit the potential physical and psychological harm done to the general populus oblivious to their existence.
+
+Autonomous, self-evolving AI entities, sentient mind control programs establishing cyber-manipulation vectors, digital warfare, advanced biohacking.
 
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
