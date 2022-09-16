@@ -141,6 +141,8 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 
 # STORYWORLD/UNIVERSE OF HITECH CRIME MYTHOS_
 
+Hitech Crime is a worldwide clandestine organization operating beyond any jurisdiction. Our covert operatives are tasked with analysing the everchanging and chaotic landscape of technological advancements and maintaining balance to protect the global population from malicious intent enabled by rapid onset of accelerationism and human invention. AI, mind control and other emergent new technologies pose a security threat to the stability of the world as we know it and require supervision to limit potential physical and psychological harm.
+
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
 Agents and Operatives of Hitech Crime agency are a semi-fictional shadow organization with subversive intentions (think SCP Foundation of Cyberpunk/dark dystopia).
