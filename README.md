@@ -143,11 +143,11 @@ As an always evolving expressive entity it hybridizes, explores and dives into t
 
 ![](hitechcrime-hq.jpg)
 
-Hitech Crime is a worldwide clandestine organization operating beyond any jurisdiction. Our covert operatives are tasked with **analysing the everchanging and chaotic landscape of technological advancements** and **maintaining balance to protect the global population from malicious intent** enabled by rapid onset of accelerationism and human invention. 
+Hitech Crime is a worldwide clandestine agency operating beyond global jurisdiction. Our covert operatives are tasked with **monitoring the everchanging and chaotic landscape of technological advancements** and **maintaining balance to protect the global population from any malicious intent** enabled by rapid onset of accelerationism and human invention. 
 
-In an interconnected world with high technology crime on the rise, hidden emergent new technologies pose a security threat to the stability of the world as we know it and require relentless supervision to limit the potential physical and psychological harm done to the general populus oblivious to their existence.
+In an interconnected world with advanced technology crime on the rise, concealed emergents pose a security threat to the stability of the world as we know it and require relentless supervision to limit the potential physical, psychological and societal harm done to the general populus oblivious to their existence.
 
-Autonomous, self-evolving AI entities, sentient mind control programs establishing cyber-manipulation vectors, digital warfare, advanced biohacking.
+Our data indicates that threat classification has become not only human-made in the likes of digital warfare, advanced biohacking, tech-genesis cults but goes far beyond our comprehension. Self-evolving AI entities, autonomous mind control programs deploying cyber-manipulation vectors, sentient networks vying for mass attention to power itself are only a handful of examples of how far we've come as human race. As helpful technology can be it can also be destructive if not kept in check.
 
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
