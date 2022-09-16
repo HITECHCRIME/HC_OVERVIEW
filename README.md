@@ -147,7 +147,7 @@ Hitech Crime is a worldwide clandestine agency operating beyond global jurisdict
 
 In an interconnected world with advanced technology crime on the rise, concealed emergents pose a security threat to the stability of the world as we know it and require relentless supervision to limit the potential physical, psychological and societal harm done to the general populus oblivious to their existence.
 
-Our data indicates that threat classification has become not only human-made in the likes of digital warfare, advanced biohacking, tech-genesis cults but goes far beyond our comprehension. Self-evolving AI entities, autonomous mind control programs deploying cyber-manipulation vectors, sentient networks vying for mass attention to power itself are only a handful of examples of how far we've come as human race. As helpful technology can be it can also be destructive if not kept in check.
+Our data indicates that threat classification has become not only human-made in the likes of digital warfare, advanced biohacking, tech-genesis cults but goes far beyond our comprehension. Self-evolving AI entities, autonomous mind control programs deploying cyber-manipulation vectors, sentient networks vying for mass attention to power themselves are only a handful of examples of how far we've come as human race. As helpful technology can be it can also be destructive if not kept in check.
 
 <a name="objective"></a>
 ## THE OBJECTIVE MEANING_
